@@ -32,57 +32,46 @@
 ### Dimensionality Reduction
 [prince](https://github.com/MaxHalford/prince) | Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 [mdr](https://github.com/EpistasisLab/scikit-mdr) | Dimensionality reduction, multifactor dimensionality reduction (MDR).  
-[t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) | t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE)  
+[t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) | t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
 
 ### Visualization
-[physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).
-[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.
-[altair](https://altair-viz.github.io/) | Declarative statistical visualization library.
+[physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
+[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.  
+[altair](https://altair-viz.github.io/) | Declarative statistical visualization library.  
 
 ### Geopraphical Tools
-[folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.
+[folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.  
 
 ### Recommender Systems
-
-[surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).
-[turicreate](https://github.com/apple/turicreate) | Recommender.
-
+[surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
+[turicreate](https://github.com/apple/turicreate) | Recommender.  
 
 ### Decision Trees
-
-catboost										Gradient Boosting implementation with a focus on categorical features
-lightgbm										DecisionTrees
-xgboost										DecisionTrees
-forestci										Confidence intervals for RandomForests
-h2o
-scikit-garden										QuantileRegressionForests
-# https://sites.google.com/view/lauraepp/parameters
+[lightgbm](https://github.com/Microsoft/LightGBM) | Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
+[xgboost](https://github.com/dmlc/xgboost) | Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters).  
+[catboost](https://github.com/catboost/catboost) | Gradient boosting.  
+[h2o](https://github.com/h2oai/h2o-3) | Gradient boosting.   
+[forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) | Confidence intervals for random forests.
+[scikit-garden](https://github.com/scikit-garden/scikit-garden) | MondrianForestRegressor, ExtraTreesRegressor, ExtraTreesQuantileRegressor, RandomForestRegressor (with return_std support), RandomForestQuantileRegressor, MondrianForestClassifier
 
 ### Text Processing
-
-gensim										Topic Modelling
-pyldavis										Visualization for Topic Modelling
-spaCy										NLP
-fasttext										NLP (word embeddings)
-
+[gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA).  
+[pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
+[spaCy](https://spacy.io/) | NLP.  
+[fasttext](https://fasttext.cc/) | Efficient text classification and representation learning.  
 
 ### Automated Machine Learning
-
-auto_ml										Automated ML
+[tpot](https://github.com/EpistasisLab/tpot) | Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.  
+[auto_ml](https://github.com/ClimbsRocks/auto_ml) | Automated machine learning for analytics & production.  
 
 ### Evolutionary Algorithms
-
-deap										Evolutionary Algorithms
-evol										Evolutionary Algorithms
-
+[deap](https://github.com/DEAP/deap) | Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
+[evol](https://github.com/godatadriven/evol) | DSL for composable evolutionary algorithms.  
 
 ### Neural Networks
-
-tensorflow
-keras										Neural Networks
+[keras](https://keras.io/) | Neural Networks based on [tensorflow](https://www.tensorflow.org/).
 
 ### Time Series
-
 prophet										Facebook's time series prediction library
 tsfresh										Time Series feature engineering
 astroml										Lomb Scargle Periodogram
