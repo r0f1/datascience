@@ -43,14 +43,16 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [prince](https://github.com/MaxHalford/prince) | Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) | Multidimensional scaling.  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) | t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
-[sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html) |Truncated SVD (aka LSA).   
+[sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html) | Truncated SVD (aka LSA).   
 [mdr](https://github.com/EpistasisLab/scikit-mdr) | Dimensionality reduction, multifactor dimensionality reduction (MDR).  
 [umap](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection.  
 
 #### Visualization
+[All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.  
 [altair](https://altair-viz.github.io/) | Declarative statistical visualization library.  
+[holoviews](http://holoviews.org/) | Visualization library.  
 [plotly](https://plot.ly/) | Visualization library.  
 [dtreeviz](https://github.com/parrt/dtreeviz) | Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) | Generate charts.  
@@ -117,6 +119,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 
 #### Regression
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) | Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
+[pygam](https://github.com/dswah/pyGAM) | Generalized Additive Models.  
 
 #### Clustering
 [pyclustering](https://github.com/annoviko/pyclustering) | All sorts of clustering algorithms.  
@@ -132,10 +135,18 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 
 #### Time Series
 [List](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
-[statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html).  
+[statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
+[pyramid](https://github.com/tgsmith61591/pyramid) | Wrapper for statsmodels ARIMA to make it more user-friendly.  
 [pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
 [prophet](https://github.com/facebook/prophet) | Time series prediction library.  
-[thunder](https://github.com/thunder-project/thunder) | Data structures and algorithms for loading, processing, and analyzing time series data.  
+[tensorflow](https://github.com/tensorflow/tensorflow/) | LSTM and others, examples: [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples).  
+[tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocessing: Denoising, Compression, Resampling.  
+[tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
+[thunder](https://github.com/thunder-project/thunder) | Data structures and algorithms for loading, processing, and analyzing time series data.   
+[gatspy](https://www.astroml.org/gatspy/) | General tools for Astronomical Time Series, [talk](https://www.youtube.com/watch?v=E4NMZyfao2c).   
+[gendis](https://github.com/IBCNServices/GENDIS) | shapelets, [example](https://github.com/IBCNServices/GENDIS/blob/master/gendis/example.ipynb).  
+[tslearn](https://github.com/rtavenar/tslearn) | Time series clustering and classification, `TimeSeriesKMeans`, `TimeSeriesKMeans`.  
+[pastas](https://pastas.readthedocs.io/en/latest/examples.html) | Simulation of time series.  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
@@ -143,16 +154,22 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [alphalens](https://github.com/quantopian/alphalens) | Performance analysis of predictive stock factors.  
 
 #### Survival Analysis
-[lifelines](https://lifelines.readthedocs.io/en/latest/) | Survival analysis, Cox PH Regression, [talk](https://www.youtube.com/watch?v=aKZQUaNHYb0).  
+[Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
+[lifelines](https://lifelines.readthedocs.io/en/latest/) | Survival analysis, Cox PH Regression, [talk](https://www.youtube.com/watch?v=aKZQUaNHYb0), [talk2](https://www.youtube.com/watch?v=fli-yE5grtY).  
 [scikit-survival](https://github.com/sebp/scikit-survival) | Survival analysis.   
-[convoys](https://github.com/better/convoys) | Analyze time lagged conversions.  
+[survivalstan](https://github.com/hammerlab/survivalstan) | Survival analysis, [intro](http://www.hammerlab.org/2017/06/26/introducing-survivalstan/).  
+[convoys](https://github.com/better/convoys) | Analyze time lagged conversions.   
+RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).   
 
 #### Outlier Detection & Anomaly Detection
+[List](https://github.com/rob-med/awesome-TS-anomaly-detection).  
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) | Isolation Forest and others.  
 [pyod](https://pyod.readthedocs.io/en/latest/pyod.html) | Outlier Detection / Anomaly Detection.  
 [eif](https://github.com/sahandha/eif) | Extended Isolation Forest.  
+[AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly detection (R package).  
 
 #### Bayes
+[Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html).  
 [PyMC3](https://docs.pymc.io/) | Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started), [guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).  
 [pomegranate](https://github.com/jmschrei/pomegranate) | Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) | Probabilistic machine learning.  
@@ -205,83 +222,20 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 #### Other
 [daft](https://github.com/dfm/daft) | Render probabilistic graphical models using matplotlib.  
 [unyt](https://github.com/yt-project/unyt) | Working with units.  
+[scrapy](https://github.com/scrapy/scrapy) | Web scraping library.  
 
 #### General Python Programming
 [funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.  
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
-
-
-# R https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates
-# https://lifelines.readthedocs.io/en/latest/Quickstart.html#survival-regression
-# http://www.hammerlab.org/2017/06/26/introducing-survivalstan/
-# https://www.youtube.com/watch?v=fli-yE5grtY
-# https://statmd.wordpress.com/2015/05/02/survival-analysis-with-generalized-additive-models-part-iii-the-baseline-hazard/
-# https://github.com/dswah/pyGAM
-# RandomSurvivalForests? 
-## R packages: randomForestSRC and ggRandomForests
-
-
-# https://www.youtube.com/watch?v=E4NMZyfao2c&t=20m
-
-# https://www.astroml.org/gatspy/
-# http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html
-
-# Has been generalized to Baysian Lomb Scargle
-# (result of quick google search): https://github.com/mfouesneau/bgls
-
-
-
-# Add predictions of models
-# statsmodels decompose - https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee
-# facebook prophet - https://github.com/facebook/prophet
-# SARIMAX - https://github.com/tgsmith61591/pyramid
-# GARCH - https://pyflux.readthedocs.io/en/latest/garch.html
-# shapelets - https://github.com/IBCNServices/GENDIS/blob/master/gendis/example.ipynb
-# pastas - https://pastas.readthedocs.io/en/latest/examples.html
-# tensorflow and lstms - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries
-#                        https://github.com/hzy46/TensorFlow-Time-Series-Examples
-
-
-# Misc
-# Preprocessing: Denoising, Compression, Resampling - https://github.com/MaxBenChrist/tspreprocess
-# Extract features, tsfresh - https://github.com/blue-yonder/tsfresh
-# Learning features, clustering of different time series - https://tslearn.readthedocs.io/en/latest/auto_examples/index.html
-
-# Working with dates and time
-# https://github.com/sdispater/pendulum
-# https://github.com/crsmithdev/arrow
-
-# Time Series Prediction
-# https://github.com/RJT1990/pyflux
-
-# Anomaly detection
-# https://github.com/rob-med/awesome-TS-anomaly-detection
-# https://github.com/twitter/AnomalyDetection
-
-
-
-
-
-
-# Visualization library
-# http://holoviews.org/
-
-# Austrian Monuments
-# https://github.com/njanakiev/austrian-monuments-visualization
-
+[pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
+[arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
 
 # https://machinelearningmastery.com/feature-selection-machine-learning-python/
-# https://github.com/EpistasisLab/scikit-rebate
 # https://github.com/mutantturkey/PyFeast
 # http://featureselection.asu.edu/ # https://github.com/jundongl/scikit-feature
 # https://github.com/scikit-learn-contrib/boruta_py # Feature Importance
 # https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467)
 # https://www.kaggle.com/tilii7/boruta-feature-elimination
-
-
-
-# Web Scraping Library
-# https://github.com/scrapy/scrapy
 
 
 # https://github.com/BurntSushi/xsv         # Big data
@@ -292,9 +246,3 @@ https://github.com/scikit-learn-contrib/stability-selection
 https://github.com/scikit-learn-contrib/skope-rules
 https://github.com/scikit-learn-contrib/boruta_py
 https://github.com/scikit-learn-contrib/polylearn
-
-# Articles
-
-## Bayes
-
-https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html
