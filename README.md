@@ -23,21 +23,30 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [h2o](https://github.com/h2oai/h2o-3) | Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) | Flexible, high-performance distributed execution framework.  
 [ni](https://github.com/spencertipping/ni) | Command line tool for big data.  
+[xsv](https://github.com/BurntSushi/xsv) | Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
+[csvkit](https://csvkit.readthedocs.io/en/1.0.3/) | Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) | Sort large csv files.  
 
 #### Exploration and Cleaning
 [missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
 [fancyimpute](https://github.com/iskandr/fancyimpute) | Matrix completion and imputation algorithms.  
-[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | Resampling for imbalanced datasets.
+[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | Resampling for imbalanced datasets.  
+[tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Time series preprocessing: Denoising, Compression, Resampling.  
 
-#### Feature Engineering and Selection
+#### Feature Engineering
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) | Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) | LDA.  
-[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.  
+[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.   
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
+
+#### Feature Selection
+[Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/)  
+[scikit-feature](https://github.com/jundongl/scikit-feature) | Feature selection algorithms.  
+[stability-selection](https://github.com/scikit-learn-contrib/stability-selection) | Stability selection.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
+[boruta_py](https://github.com/scikit-learn-contrib/boruta_py) | Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
 
 #### Dimensionality Reduction
 [prince](https://github.com/MaxHalford/prince) | Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
@@ -74,7 +83,8 @@ Plotting (Descartes, Catropy)
 Predict economic indicators from Open Street Map [ipynb](https://github.com/njanakiev/osm-predict-economic-measurements/blob/master/osm-predict-economic-indicators.ipynb).  
 
 #### Recommender Systems
-Links: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender), [wiki](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), [list with resources](https://github.com/grahamjenson/list_of_recommender_systems).  
+[List](https://github.com/grahamjenson/list_of_recommender_systems)  
+Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender).  
 [surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
 [turicreate](https://github.com/apple/turicreate) | Recommender.  
 [implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets.  
@@ -129,6 +139,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 #### Interpretable Classifiers and Regressors
 [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) | Interpretable classifiers, producing easily understood decision rules instead of black box models.  
 [sklearn-interpretable-tree](https://github.com/tmadl/sklearn-interpretable-tree) | Simplified tree-based classifier and regressor for interpretable machine learning.  
+[skope-rules](https://github.com/scikit-learn-contrib/skope-rules) | Interpretable classifier, IF-THEN rules.  
 
 #### Multi-label classification
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) | Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
@@ -162,11 +173,14 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).   
 
 #### Outlier Detection & Anomaly Detection
-[List](https://github.com/rob-med/awesome-TS-anomaly-detection).  
+[List](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) | Isolation Forest and others.  
 [pyod](https://pyod.readthedocs.io/en/latest/pyod.html) | Outlier Detection / Anomaly Detection.  
 [eif](https://github.com/sahandha/eif) | Extended Isolation Forest.  
 [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly detection (R package).  
+
+#### Ranking
+[lightning](https://github.com/scikit-learn-contrib/lightning) | Large-scale linear classification, regression and ranking.  
 
 #### Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html).  
@@ -186,7 +200,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) | Learning curve.  
 
 #### Model Explanation
-[List](https://github.com/jphall663/awesome-machine-learning-interpretability), [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)   
+[List](https://github.com/jphall663/awesome-machine-learning-interpretability)  
+[Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)   
 [shap](https://github.com/slundberg/shap) | Explain predictions of machine learning models.  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
 [lime](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier.  
@@ -218,6 +233,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 
 #### Lifecycle Management 
 [mlflow](https://mlflow.org/) | Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.   
+[skll](https://github.com/EducationalTestingService/skll) | Command-line utilities to make it easier to run machine learning experiments.   
 
 #### Other
 [daft](https://github.com/dfm/daft) | Render probabilistic graphical models using matplotlib.  
@@ -229,20 +245,3 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
 [pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
 [arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
-
-# https://machinelearningmastery.com/feature-selection-machine-learning-python/
-# https://github.com/mutantturkey/PyFeast
-# http://featureselection.asu.edu/ # https://github.com/jundongl/scikit-feature
-# https://github.com/scikit-learn-contrib/boruta_py # Feature Importance
-# https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467)
-# https://www.kaggle.com/tilii7/boruta-feature-elimination
-
-
-# https://github.com/BurntSushi/xsv         # Big data
-# https://csvkit.readthedocs.io/en/1.0.3/   # Big data
-
-https://github.com/scikit-learn-contrib/lightning
-https://github.com/scikit-learn-contrib/stability-selection
-https://github.com/scikit-learn-contrib/skope-rules
-https://github.com/scikit-learn-contrib/boruta_py
-https://github.com/scikit-learn-contrib/polylearn
