@@ -6,25 +6,21 @@
 [numpy](https://www.numpy.org/) | Fundamental package for scientific computing with Python.  
 [pandas](https://pandas.pydata.org/) | Data structures and data analysis tools for Python.  
 [scikit-learn](https://scikit-learn.org/stable/) | Core ML library  
-[matplotlib](https://matplotlib.org/)| Plotting library.  
-[seaborn](https://seaborn.pydata.org/)| Python data visualization library based on matplotlib  
-[pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.
+[matplotlib](https://matplotlib.org/) | Plotting library.  
+[seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib  
+[pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.  
 
 ### Exploration and Cleaning
-missingno										Missing Values
-fancyimpute										Impuation of missing values
-imbalanced-learn										Resampling for imbalanced datasets.
-
+[missingno](https://github.com/ResidentMario/missingno) | Missing data visualization. 
+[fancyimpute](https://github.com/iskandr/fancyimpute) | Matrix completion and imputation algorithms.  
+[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | Resampling for imbalanced datasets.
 
 ### Feature Engineering and Selection
-patsy										R-like syntax for statistical models
-categorical-encoding										Categorical encoding of variables
-featuretools										Feature Engineering
-
-Feature Selection
-ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning
-https://github.com/EpistasisLab/scikit-rebate
+[categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
+[patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
+[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.   
+[scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
 
 ### Dimensionality Reduction
 prince										Dimensionality Reduction, PCA, MCA, CA, FAMD
