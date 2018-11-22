@@ -11,8 +11,15 @@
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.  
 
+### Big Data
+[dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
+[turicreate](https://github.com/apple/turicreate) | Helpful `SFrame` class for out-of-memory dataframes.  
+[h2o](https://github.com/h2oai/h2o-3) | Helpful `H2OFrame` class for out-of-memory dataframes.  
+[ray](https://github.com/ray-project/ray/) | Flexible, high-performance distributed execution framework.  
+[ni](https://github.com/spencertipping/ni) | Command line tool for big data.  
+
 ### Exploration and Cleaning
-[missingno](https://github.com/ResidentMario/missingno) | Missing data visualization. 
+[missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
 [fancyimpute](https://github.com/iskandr/fancyimpute) | Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | Resampling for imbalanced datasets.
 
@@ -23,31 +30,23 @@
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
 
 ### Dimensionality Reduction
-prince										Dimensionality Reduction, PCA, MCA, CA, FAMD
-tsne https://lvdmaaten.github.io/tsne/
-tsne https://github.com/DmitryUlyanov/Multicore-TSNE
-Dimensionality Reduction, Multifactor Dimensionality Reduction (MDR) https://github.com/EpistasisLab/scikit-mdr
+[prince](https://github.com/MaxHalford/prince) | Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
+[mdr](https://github.com/EpistasisLab/scikit-mdr) | Dimensionality reduction, multifactor dimensionality reduction (MDR).  
+[t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) | t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE)  
 
+### Visualization
+[physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).
+[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.
+[altair](https://altair-viz.github.io/) | Declarative statistical visualization library.
 
-### Big Data
-dask										Pandas for big data.
-turicreate										Helpful SFrame class for out-of-memory dataframes.
-[ray](https://github.com/ray-project/ray/) | Flexible, high-performance distributed execution framework.  
-[ni](https://github.com/spencertipping/ni) | Command line tool for big data
-
-
-### Frameworks
-h2o										General purpose ML
-turicreate									
-dask-ml										ML with Dask
+### Geopraphical Tools
+[folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.
 
 ### Recommender Systems
 
-### Visualization
-physt										Better Histograms
-yellowbrick										Wrapper for matplotlib for diagnosic ML plots
-altair
-folium										Plot geographical maps
+[surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).
+[turicreate](https://github.com/apple/turicreate) | Recommender.
+
 
 ### Decision Trees
 
@@ -139,6 +138,12 @@ https://github.com/annoviko/pyclustering
 [RLLib](https://ray.readthedocs.io/en/latest/rllib.html) | Library for reinforcement learning  
 
 
+### Frameworks
+[dask-ml](http://ml.dask.org/) | Scalable machine learning.  
+[h2o](https://github.com/h2oai/h2o-3) | Scalable Machine Learning Platform (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML)
+[turicreate](https://github.com/apple/turicreate) | Apple Machine Learning Toolkit (Recommender, Image Classification	Label images, Object Detection, Style Transfer, Activity Classification, Image Similarity, Classifiers, Regression, Clustering, Text Classifier)
+
+
 ### Other
 
 xarray
@@ -189,7 +194,7 @@ geocoder # https://github.com/DenisCarriere/geocoder
 # https://github.com/bokeh/datashader
 # https://github.com/DenisCarriere/geocoder
 
-# Surprise - https://github.com/NicolasHug/Surprise # https://www.youtube.com/watch?v=d7iIb_XVkZs
+# 
 
 # Besserer Artikel: https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/
 # https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
