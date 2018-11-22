@@ -12,7 +12,7 @@
 #### Pandas and Jupyter
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 [modin](https://github.com/modin-project/modin) | Parallelization library for faster pandas `DataFrame`.   
-[xarray](https://github.com/pydata/xarray/) | Extends pandas to n-dimensional arrays.
+[xarray](https://github.com/pydata/xarray/) | Extends pandas to n-dimensional arrays.  
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) | Code formatting for jupyter notebooks.
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) | Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.   
@@ -64,8 +64,8 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) | BallTree.  
 [pynndescent](https://github.com/lmcinnes/pynndescent) | Nearest neighbor descent for approximate nearest neighbors.  
 [geocoder](https://github.com/DenisCarriere/geocoder) | Geocoding of addresses, IP addresses.  
-Conversion of different geo formats: [talk](https://www.youtube.com/watch?v=eHRggqAvczE), [repo](https://github.com/dillongardner/PyDataSpatialAnalysis)
-[geopandas](https://github.com/geopandas/geopandas) | Tools for geographic data   
+Conversion of different geo formats: [talk](https://www.youtube.com/watch?v=eHRggqAvczE), [repo](https://github.com/dillongardner/PyDataSpatialAnalysis)   
+[geopandas](https://github.com/geopandas/geopandas) | Tools for geographic data    
 Low Level Geospatial Tools (GEOS, GDAL/OGR, PROJ.4)   
 Vector Data (Shapely, Fiona, Pyproj)  
 Raster Data (Rasterio)   
@@ -73,12 +73,12 @@ Plotting (Descartes, Catropy)
 Predict economic indicators from Open Street Map [ipynb](https://github.com/njanakiev/osm-predict-economic-measurements/blob/master/osm-predict-economic-indicators.ipynb).  
 
 #### Recommender Systems
-Links: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender), [wiki](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), [list](https://github.com/grahamjenson/list_of_recommender_systems) with resources.
+Links: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender), [wiki](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), [list with resources](https://github.com/grahamjenson/list_of_recommender_systems).  
 [surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
 [turicreate](https://github.com/apple/turicreate) | Recommender.  
-[implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets. 
-[spotlight](https://github.com/maciejkula/spotlight) | Deep recommender models using PyTorch.
-[lightfm](https://github.com/lyst/lightfm) | Recommendation algorithms for both implicit and explicit feedback.
+[implicit](https://github.com/benfred/implicit) | Fast Python Collaborative Filtering for Implicit Feedback Datasets.  
+[spotlight](https://github.com/maciejkula/spotlight) | Deep recommender models using PyTorch.  
+[lightfm](https://github.com/lyst/lightfm) | Recommendation algorithms for both implicit and explicit feedback.  
 
 
 #### Decision Trees
@@ -198,18 +198,18 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [dask-ml](http://ml.dask.org/) | Scalable machine learning.  
 [h2o](https://github.com/h2oai/h2o-3) | Scalable machine learning.  
 [turicreate](https://github.com/apple/turicreate) | Apple Machine Learning Toolkit.  
-[astroml](https://github.com/astroML/astroML) | ML for astronomical data.  
+[astroml](https://github.com/astroML/astroML) | ML for astronomical data.   
 
 #### Lifecycle Management 
-[mlflow](https://mlflow.org/) | Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.  
+[mlflow](https://mlflow.org/) | Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.   
 
 #### Other
 [daft](https://github.com/dfm/daft) | Render probabilistic graphical models using matplotlib.  
 [unyt](https://github.com/yt-project/unyt) | Working with units.  
 
 #### General Python Programming
-[funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.
-[dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.  
+[funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.  
+[dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
 
 
 # R https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates
