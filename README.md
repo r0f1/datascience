@@ -11,9 +11,11 @@
 
 ### Pandas and Jupyter
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
+[modin](https://github.com/modin-project/modin) | Parallelization library for faster pandas `DataFrame`.   
+[xarray](https://github.com/pydata/xarray/) | Extends pandas to n-dimensional arrays.
+[blackcellmagic](https://github.com/csurfer/blackcellmagic) | Code formatting for jupyter notebooks.
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) | Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.   
-[modin](https://github.com/modin-project/modin) | Parallelization library for faster pandas `DataFrame`.   
 
 ### Big Data
 [dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
@@ -31,6 +33,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 ### Feature Engineering and Selection
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
+[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) | LDA
 [featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.  
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
@@ -52,6 +55,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [pynndescent](https://github.com/lmcinnes/pynndescent) | Nearest neighbor descent for approximate nearest neighbors.  
 
 ### Recommender Systems
+[List](https://github.com/grahamjenson/list_of_recommender_systems) with resources.
 [surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
 [turicreate](https://github.com/apple/turicreate) | Recommender.  
 
@@ -62,16 +66,19 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [h2o](https://github.com/h2oai/h2o-3) | Gradient boosting.   
 [forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) | Confidence intervals for random forests.  
 [scikit-garden](https://github.com/scikit-garden/scikit-garden) | Quantile Regression.  
+[grf](https://github.com/grf-labs/grf) | Generalized random forest.  
 
 ### Text Processing
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA).  
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
-[spaCy](https://spacy.io/) | NLP.  
-[NTLK](https://www.nltk.org/) | NLP.
+[spaCy](https://spacy.io/) | NLP.   
+[NTLK](https://www.nltk.org/) | NLP.  
 [fasttext](https://fasttext.cc/) | Efficient text classification and representation learning.  
+[wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/) | Word embeddings trained on Wikipedia acticles.  
 
 ### Automated Machine Learning
-[tpot](https://github.com/EpistasisLab/tpot) | Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.  
+[AdaNet](https://github.com/tensorflow/adanet) | Automated machine learning based on tensorflow.  
+[tpot](https://github.com/EpistasisLab/tpot) | Automated machine learning tool, optimizes machine learning pipelines.  
 [auto_ml](https://github.com/ClimbsRocks/auto_ml) | Automated machine learning for analytics & production.  
 
 ### Evolutionary Algorithms
@@ -92,6 +99,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html).  
 [pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
 [prophet](https://github.com/facebook/prophet) | Time series prediction library.  
+[thunder](https://github.com/thunder-project/thunder) | Data structures and algorithms for loading, processing, and analyzing time series data.  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
@@ -104,51 +112,46 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 ### Outlier Detection & Anomaly Detection
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) | Isolation Forest and others.  
-[pyod](https://pyod.readthedocs.io/en/latest/pyod.html) | Outlier Detection / Anomaly Detection. 
+[pyod](https://pyod.readthedocs.io/en/latest/pyod.html) | Outlier Detection / Anomaly Detection.  
+[eif](https://github.com/sahandha/eif) | Extended Isolation Forest.  
 
 ### Bayes
 [PyMC3](https://docs.pymc.io/) | Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started), [guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).  
 [pomegranate](https://github.com/jmschrei/pomegranate) | Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
-
+[pmlearn](https://github.com/pymc-learn/pymc-learn) | Probabilistic machine learning.  
 
 ### Stacking Models
+[mlxtend](https://github.com/rasbt/mlxtend) | `EnsembleVoteClassifier`, `StackingRegressor`, `StackingCVRegressor` for model stacking.  
+[vecstack](https://github.com/vecxoz/vecstack) | Stacking ML models.  
+[StackNet](https://github.com/kaz-Anova/StackNet) | Stacking ML models.   
 
-mlxtend										EnsembleVoteClassifier
-StackNet										Stacking ML models
-vecstack										Stacking ML models
+### Model Evaluation
+[pycm](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix.  
+[pandas_ml](https://github.com/pandas-ml/pandas-ml) | Confusion matrix.  
 
-### Model Evaluation & Explaining Models
-
-pandas_ml										ConfusionMatrix
-eli5										Explain predictions of ML models
-shap										Explain predictions of ML models
+## Model Explanation
+[shap](https://github.com/slundberg/shap) | Explain predictions of machine learning models.  
+[lime](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier.  
+[eli5](https://github.com/TeamHG-Memex/eli5) | Inspecting machine learning classifiers and explaining their predictions.  
 
 ### Hyperparameter Tuning
-
-skopt										BayesSearchCV for Hyperparameter Search
-[tune](https://ray.readthedocs.io/en/latest/tune.html) | Scalable framework for hyperparameter search with a focus on deep learning and deep reinforcement learning.  
-
-
-
+[sklearn](https://scikit-learn.org/stable/index.html) | [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
+[hyperopt](https://github.com/hyperopt/hyperopt) | Hyperparameter optimization.  
+[skopt](https://scikit-optimize.github.io/) | `BayesSearchCV` for Hyperparameter search.  
+[tune](https://ray.readthedocs.io/en/latest/tune.html) | Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
 
 ### Reinforcement Learning
-
 [RLLib](https://ray.readthedocs.io/en/latest/rllib.html) | Library for reinforcement learning  
-
 
 ### Frameworks
 [dask-ml](http://ml.dask.org/) | Scalable machine learning.  
-[h2o](https://github.com/h2oai/h2o-3) | Scalable Machine Learning Platform (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML)
-[turicreate](https://github.com/apple/turicreate) | Apple Machine Learning Toolkit (Recommender, Image Classification	Label images, Object Detection, Style Transfer, Activity Classification, Image Similarity, Classifiers, Regression, Clustering, Text Classifier)
-[astroml](https://github.com/astroML/astroML) | Statistical and machine learning routines for analyzing astronomical data.
-
+[h2o](https://github.com/h2oai/h2o-3) | Scalable machine learning.  
+[turicreate](https://github.com/apple/turicreate) | Apple Machine Learning Toolkit.  
+[astroml](https://github.com/astroML/astroML) | ML for astronomical data.  
 
 ### Other
-
-xarray
-daft - Render some probabilistic graphical models using matplotlib
+[daft](https://github.com/dfm/daft) | Render probabilistic graphical models using matplotlib. 
 https://stadiamaps.com/ - Maps, Geo
-https://github.com/csurfer/blackcellmagic
 
 
 ### General Python Programming
