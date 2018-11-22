@@ -1,6 +1,4 @@
-# Data Science
-
-## Machine Learning
+# Machine Learning
 
 ### Core
 [numpy](https://www.numpy.org/) | Fundamental package for scientific computing with Python.  
@@ -11,12 +9,19 @@
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.  
 
+### Pandas and Jupyter
+General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
+[pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) | Drag n drop Pivot Tables and Charts for jupyter notebooks.  
+[qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.   
+[modin](https://github.com/modin-project/modin) | Parallelization library for faster pandas `DataFrame`.   
+
 ### Big Data
 [dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
 [turicreate](https://github.com/apple/turicreate) | Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) | Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) | Flexible, high-performance distributed execution framework.  
 [ni](https://github.com/spencertipping/ni) | Command line tool for big data.  
+[csvsort](https://pypi.org/project/csvsort/) | Sort large csv files.  
 
 ### Exploration and Cleaning
 [missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
@@ -26,7 +31,8 @@
 ### Feature Engineering and Selection
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
-[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.   
+[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.  
+[tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
 
 ### Dimensionality Reduction
@@ -38,9 +44,12 @@
 [physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.  
 [altair](https://altair-viz.github.io/) | Declarative statistical visualization library.  
+[plotly](https://plot.ly/) | Visualization library.  
 
 ### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.  
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) | BallTree.  
+[pynndescent](https://github.com/lmcinnes/pynndescent) | Nearest neighbor descent for approximate nearest neighbors.  
 
 ### Recommender Systems
 [surprise](https://github.com/NicolasHug/Surprise) | Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
@@ -51,13 +60,14 @@
 [xgboost](https://github.com/dmlc/xgboost) | Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters).  
 [catboost](https://github.com/catboost/catboost) | Gradient boosting.  
 [h2o](https://github.com/h2oai/h2o-3) | Gradient boosting.   
-[forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) | Confidence intervals for random forests.
-[scikit-garden](https://github.com/scikit-garden/scikit-garden) | MondrianForestRegressor, ExtraTreesRegressor, ExtraTreesQuantileRegressor, RandomForestRegressor (with return_std support), RandomForestQuantileRegressor, MondrianForestClassifier
+[forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) | Confidence intervals for random forests.  
+[scikit-garden](https://github.com/scikit-garden/scikit-garden) | Quantile Regression.  
 
 ### Text Processing
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA).  
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.  
+[NTLK](https://www.nltk.org/) | NLP.
 [fasttext](https://fasttext.cc/) | Efficient text classification and representation learning.  
 
 ### Automated Machine Learning
@@ -69,26 +79,36 @@
 [evol](https://github.com/godatadriven/evol) | DSL for composable evolutionary algorithms.  
 
 ### Neural Networks
-[keras](https://keras.io/) | Neural Networks based on [tensorflow](https://www.tensorflow.org/).
+[keras](https://keras.io/) | Neural Networks based on [tensorflow](https://www.tensorflow.org/).  
+
+### Regression
+[pyearth](https://github.com/scikit-learn-contrib/py-earth) | Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
+
+### Clustering
+[pyclustering](https://github.com/annoviko/pyclustering) | All sorts of clustering algorithms.  
+[somoclu](https://github.com/peterwittek/somoclu) | Self-organizing maps
 
 ### Time Series
-prophet										Facebook's time series prediction library
-tsfresh										Time Series feature engineering
-astroml										Lomb Scargle Periodogram
-https://github.com/RJT1990/pyflux
+[statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html).  
+[pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
+[prophet](https://github.com/facebook/prophet) | Time series prediction library.  
+
+#### Financial Data
+[pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
+[zipline](https://github.com/quantopian/zipline) | Algorithmic trading.  
+[alphalens](https://github.com/quantopian/alphalens) | Performance analysis of predictive stock factors.  
 
 #### Survival Analysis
-
-lifelines										Cox PH Regression
-# Predicting conversion rates, Survival analysis
-# https://better.engineering/convoys/
-
-### Bayes
-PyMC3 https://docs.pymc.io/notebooks/getting_started
+[lifelines](https://lifelines.readthedocs.io/en/latest/) | Cox PH Regression, [talk](https://www.youtube.com/watch?v=aKZQUaNHYb0).  
+[convoys](https://github.com/better/convoys) | Analyze time lagged conversions.  
 
 ### Outlier Detection & Anomaly Detection
+[sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) | Isolation Forest and others.  
+[pyod](https://pyod.readthedocs.io/en/latest/pyod.html) | Outlier Detection / Anomaly Detection. 
 
-pyod										Outlier Detection / Anomaly Detection
+### Bayes
+[PyMC3](https://docs.pymc.io/) | Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started), [guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).  
+[pomegranate](https://github.com/jmschrei/pomegranate) | Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 
 
 ### Stacking Models
@@ -109,17 +129,6 @@ skopt										BayesSearchCV for Hyperparameter Search
 [tune](https://ray.readthedocs.io/en/latest/tune.html) | Scalable framework for hyperparameter search with a focus on deep learning and deep reinforcement learning.  
 
 
-### Regression
-
-# Multivariate Adaptive Regression Splines (MARS)
-# https://uc-r.github.io/mars
-# https://github.com/scikit-learn-contrib/py-earth
-
-### Clustering
-
-somoclu										Self-organizing Maps
-kmodes										Variant of kmeans for categorical data
-https://github.com/annoviko/pyclustering
 
 
 ### Reinforcement Learning
@@ -131,6 +140,7 @@ https://github.com/annoviko/pyclustering
 [dask-ml](http://ml.dask.org/) | Scalable machine learning.  
 [h2o](https://github.com/h2oai/h2o-3) | Scalable Machine Learning Platform (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML)
 [turicreate](https://github.com/apple/turicreate) | Apple Machine Learning Toolkit (Recommender, Image Classification	Label images, Object Detection, Style Transfer, Activity Classification, Image Similarity, Classifiers, Regression, Clustering, Text Classifier)
+[astroml](https://github.com/astroML/astroML) | Statistical and machine learning routines for analyzing astronomical data.
 
 
 ### Other
@@ -139,6 +149,13 @@ xarray
 daft - Render some probabilistic graphical models using matplotlib
 https://stadiamaps.com/ - Maps, Geo
 https://github.com/csurfer/blackcellmagic
+
+
+### General Python Programming
+
+[funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.
+
+
 
 
 https://github.com/spotify/chartify/
