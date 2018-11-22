@@ -13,7 +13,7 @@
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 [modin](https://github.com/modin-project/modin) | Parallelization library for faster pandas `DataFrame`.   
 [xarray](https://github.com/pydata/xarray/) | Extends pandas to n-dimensional arrays.  
-[blackcellmagic](https://github.com/csurfer/blackcellmagic) | Code formatting for jupyter notebooks.
+[blackcellmagic](https://github.com/csurfer/blackcellmagic) | Code formatting for jupyter notebooks.  
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) | Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.   
 
@@ -34,17 +34,17 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) | Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
-[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) | LDA
+[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) | LDA.  
 [featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.  
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
 
 #### Dimensionality Reduction
 [prince](https://github.com/MaxHalford/prince) | Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
-[truncatedSVD](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html) | Dimensionality reduction using truncated SVD (aka LSA).    
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) | Multidimensional scaling.  
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) | t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
+[sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html) |Truncated SVD (aka LSA).   
 [mdr](https://github.com/EpistasisLab/scikit-mdr) | Dimensionality reduction, multifactor dimensionality reduction (MDR).  
-[t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) | t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
-[MDS](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) | Multidimensional scaling.  
 [umap](https://github.com/lmcinnes/umap) | Uniform Manifold Approximation and Projection.  
 
 #### Visualization
@@ -55,7 +55,6 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [dtreeviz](https://github.com/parrt/dtreeviz) | Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) | Generate charts.  
 [panel](https://panel.pyviz.org/index.html) | Dashboarding solution.  
-
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.  
