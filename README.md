@@ -106,6 +106,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
 
 #### Text Processing
+[talk](https://www.youtube.com/watch?v=6zm9NC9uRkk), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I)  
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA).  
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
