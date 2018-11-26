@@ -21,3 +21,6 @@ https://github.com/goodrahstar/my-awesome-AI-bookmarks
 
 Time Series:
 https://github.com/tcassou/causal_impact
+
+
+Link for Topic Modelling Notebook: https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb
