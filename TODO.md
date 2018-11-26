@@ -18,3 +18,6 @@ https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.h
 
 Yet another Awesome List:
 https://github.com/goodrahstar/my-awesome-AI-bookmarks
+
+Time Series:
+https://github.com/tcassou/causal_impact
