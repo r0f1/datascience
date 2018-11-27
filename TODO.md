@@ -28,3 +28,5 @@ Link for Topic Modelling Notebook: https://nbviewer.jupyter.org/github/skipgram/
 Collaborative filtering
 https://github.com/benfred/implicit
 
+Dynamic Time Warp Distance
+https://github.com/slaypni/fastdtw
