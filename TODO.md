@@ -30,3 +30,7 @@ https://github.com/benfred/implicit
 
 Dynamic Time Warp Distance
 https://github.com/slaypni/fastdtw
+
+
+Time Series Forecasting R
+https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000
