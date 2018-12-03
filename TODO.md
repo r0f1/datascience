@@ -3,6 +3,7 @@
 #### Not yet sorted
 
 Youtube Playlist about DL and RL
+https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 
 https://github.com/VowpalWabbit/vowpal_wabbit   
