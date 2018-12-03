@@ -6,6 +6,7 @@
 [scikit-learn](https://scikit-learn.org/stable/) | Core ML library  
 [matplotlib](https://matplotlib.org/) | Plotting library.  
 [seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib  
+[pandas_summary](https://github.com/mouradmourafiq/pandas-summary) | Basic statistics using `DataFrameSummary(df).summary()`.   
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.  
 
@@ -262,6 +263,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
 [pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
 [arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
+[pyre](https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/) | Static type checking library from facebook.  
 
 #### Other Lists
 [AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
