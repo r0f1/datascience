@@ -74,7 +74,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.  
 [stadiamaps](https://stadiamaps.com/) | Plot geographical maps.  
 [datashader](https://github.com/bokeh/datashader) | Draw millions of points on a map.  
-[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) | BallTree.  
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) | BallTree, [Example](https://tech.minodes.com/experiments-with-in-memory-spatial-radius-queries-in-python-e40c9e66cf63).  
 [pynndescent](https://github.com/lmcinnes/pynndescent) | Nearest neighbor descent for approximate nearest neighbors.  
 [geocoder](https://github.com/DenisCarriere/geocoder) | Geocoding of addresses, IP addresses.  
 Conversion of different geo formats: [talk](https://www.youtube.com/watch?v=eHRggqAvczE), [repo](https://github.com/dillongardner/PyDataSpatialAnalysis)   
