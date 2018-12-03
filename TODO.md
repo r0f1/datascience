@@ -46,4 +46,12 @@ Causal Impact Analysis (R package) https://google.github.io/CausalImpact/CausalI
 The inspection paradox https://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
 
 
+Facebook RL Framwork Horizon https://github.com/facebookresearch/Horizon/
+Visualization: https://github.com/facebookresearch/visdom
+Word Embeddings: https://github.com/facebookresearch/StarSpace
+Text Classification: https://github.com/facebookresearch/fastText
+Approximate Nearest Neighbor Search (alternative to Spotify annoy): https://github.com/facebookresearch/pysparnn
+
+
+
 FairML https://github.com/adebayoj/fairml
