@@ -53,5 +53,9 @@ Text Classification: https://github.com/facebookresearch/fastText
 Approximate Nearest Neighbor Search (alternative to Spotify annoy): https://github.com/facebookresearch/pysparnn
 
 
+Time Series Anomaly Detection List: https://github.com/rob-med/awesome-TS-anomaly-detection
+
+
+
 
 FairML https://github.com/adebayoj/fairml
