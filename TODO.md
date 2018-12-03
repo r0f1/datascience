@@ -55,7 +55,7 @@ Approximate Nearest Neighbor Search (alternative to Spotify annoy): https://gith
 
 Time Series Anomaly Detection List: https://github.com/rob-med/awesome-TS-anomaly-detection
 
-
+Hyperparameter optimization: https://github.com/pfnet/optuna
 
 
 FairML https://github.com/adebayoj/fairml
