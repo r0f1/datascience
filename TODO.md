@@ -37,7 +37,7 @@ https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000
 
 Experiment Tracking Model Chimp https://github.com/ModelChimp/modelchimp
 
-
+Generalized Additive Models (GAMs) https://multithreaded.stitchfix.com/blog/2015/07/30/gam/, https://github.com/dswah/pyGAM
 
 
 
