@@ -64,8 +64,11 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [holoviews](http://holoviews.org/) | Visualization library.  
 [plotly](https://plot.ly/) | Visualization library.  
 [dtreeviz](https://github.com/parrt/dtreeviz) | Decision tree visualization and model interpretation.  
-[chartify](https://github.com/spotify/chartify/) | Generate charts.  
+[chartify](https://github.com/spotify/chartify/) | Generate charts.   
 [panel](https://panel.pyviz.org/index.html) | Dashboarding solution.  
+[VivaGraphJS](https://github.com/anvaka/VivaGraphJS) | Graph visualization (JS package).   
+[pm](https://github.com/anvaka/pm) | Navigatable 3D graph visualization (JS package), [example](https://w2v-vis-dot-hcg-team-di.appspot.com/#/galaxy/word2vec?cx=5698&cy=-5135&cz=5923&lx=0.1127&ly=0.3238&lz=-0.1680&lw=0.9242&ml=150&s=1.75&l=1&v=hc).   
+[visdom](https://github.com/facebookresearch/visdom) | Dashboarding library.   
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.  
@@ -106,13 +109,17 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
 
 #### Text Processing
-[talk](https://www.youtube.com/watch?v=6zm9NC9uRkk), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I)  
-[gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA).  
+[talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
+[gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html).  
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
 [NTLK](https://www.nltk.org/) | NLP.  
 [fasttext](https://fasttext.cc/) | Efficient text classification and representation learning.  
 [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/) | Word embeddings trained on Wikipedia acticles.  
+[annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
+[pysparnn](https://github.com/facebookresearch/pysparnn) | Approximate nearest neighbor search.  
+[StarSpace](https://github.com/facebookresearch/StarSpace) | Word Embeddings.  
+
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) | Automated machine learning based on tensorflow.  
@@ -130,7 +137,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 
 #### Regression
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) | Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
-[pygam](https://github.com/dswah/pyGAM) | Generalized Additive Models.  
+[pygam](https://github.com/dswah/pyGAM) | Generalized Additive Models (GAMs), [Explanation](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/).  
 
 #### Clustering
 [pyclustering](https://github.com/annoviko/pyclustering) | All sorts of clustering algorithms.  
@@ -146,7 +153,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) | Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
 
 #### Time Series
-[List](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
+[List](https://github.com/MaxBenChrist/awesome_time_series_in_python), [List](https://github.com/rob-med/awesome-TS-anomaly-detection)    
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [pyramid](https://github.com/tgsmith61591/pyramid) | Wrapper for statsmodels ARIMA to make it more user-friendly.  
 [pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
@@ -159,6 +166,9 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [gendis](https://github.com/IBCNServices/GENDIS) | shapelets, [example](https://github.com/IBCNServices/GENDIS/blob/master/gendis/example.ipynb).  
 [tslearn](https://github.com/rtavenar/tslearn) | Time series clustering and classification, `TimeSeriesKMeans`, `TimeSeriesKMeans`.  
 [pastas](https://pastas.readthedocs.io/en/latest/examples.html) | Simulation of time series.  
+[fastdtw](https://github.com/slaypni/fastdtw) | Dynamic Time Warp Distance.  
+[fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) | Time Series Forecasting (R package).  
+[CausalImpact](https://github.com/tcassou/causal_impact) | Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
@@ -207,6 +217,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
 [lime](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier.  
 [lime_xgboost](https://github.com/jphall663/lime_xgboost) | Create LIMEs for XGBoost.  
+[FairML](https://github.com/adebayoj/fairml) | Model explanation, feature importance.  
 [pybreakdown](https://github.com/MI2DataLab/pyBreakDown) | Generate feature contribution plots.  
 [eli5](https://github.com/TeamHG-Memex/eli5) | Inspecting machine learning classifiers and explaining their predictions.  
 [pycebox](https://github.com/AustinRochford/PyCEbox) | Individual Conditional Expectation Plot Toolbox.  
@@ -222,9 +233,12 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [hyperopt](https://github.com/hyperopt/hyperopt) | Hyperparameter optimization.  
 [skopt](https://scikit-optimize.github.io/) | `BayesSearchCV` for Hyperparameter search.  
 [tune](https://ray.readthedocs.io/en/latest/tune.html) | Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
+[optuna](https://github.com/pfnet/optuna) | Hyperparamter optimization.  
 
 #### Reinforcement Learning
-[RLLib](https://ray.readthedocs.io/en/latest/rllib.html) | Library for reinforcement learning  
+[Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)  
+[RLLib](https://ray.readthedocs.io/en/latest/rllib.html) | Library for reinforcement learning.  
+[Horizon](https://github.com/facebookresearch/Horizon/) | Facebook RL framework.  
 
 #### Frameworks
 [dask-ml](http://ml.dask.org/) | Scalable machine learning.  
@@ -234,15 +248,26 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 
 #### Lifecycle Management 
 [mlflow](https://mlflow.org/) | Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.   
+[modelchimp](https://github.com/ModelChimp/modelchimp) | Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) | Command-line utilities to make it easier to run machine learning experiments.   
 
 #### Other
 [daft](https://github.com/dfm/daft) | Render probabilistic graphical models using matplotlib.  
 [unyt](https://github.com/yt-project/unyt) | Working with units.  
 [scrapy](https://github.com/scrapy/scrapy) | Web scraping library.  
+[VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) | ML Toolkit from Microsoft.  
 
 #### General Python Programming
 [funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.  
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
 [pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
 [arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
+
+#### Other Lists
+[AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
+
+# Fun
+
+## Paradoxes 
+
+Inspection paradox | [link](https://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html), [link](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)   
