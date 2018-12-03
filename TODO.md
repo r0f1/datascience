@@ -39,6 +39,7 @@ Experiment Tracking Model Chimp https://github.com/ModelChimp/modelchimp
 
 Generalized Additive Models (GAMs) https://multithreaded.stitchfix.com/blog/2015/07/30/gam/, https://github.com/dswah/pyGAM
 
+Causal Impact Analysis (R package) https://google.github.io/CausalImpact/CausalImpact.html
 
 
 
