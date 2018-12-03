@@ -42,5 +42,5 @@ Generalized Additive Models (GAMs) https://multithreaded.stitchfix.com/blog/2015
 Causal Impact Analysis (R package) https://google.github.io/CausalImpact/CausalImpact.html
 
 
-
+The inspection paradox https://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
 
