@@ -118,6 +118,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [fasttext](https://fasttext.cc/) | Efficient text classification and representation learning.  
 [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/) | Word embeddings trained on Wikipedia acticles.  
 [annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
+[faiss](https://github.com/facebookresearch/faiss) | Approximate nearest neighbor search.  
 [pysparnn](https://github.com/facebookresearch/pysparnn) | Approximate nearest neighbor search.  
 [StarSpace](https://github.com/facebookresearch/StarSpace) | Word Embeddings.  
 
