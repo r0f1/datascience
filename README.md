@@ -39,7 +39,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) | LDA.  
-[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering.   
+[featuretools](https://github.com/Featuretools/featuretools) | Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).   
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 
 #### Feature Selection
