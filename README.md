@@ -266,7 +266,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
 [pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
 [arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
-[pyre](https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/) | Static type checking library from facebook.  
+[pyre](https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/) | Static type checking library from facebook.    
+[attrs](https://github.com/python-attrs/attrs) | Python classes without boilerplate.  
 
 #### Other Lists
 [AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
