@@ -262,6 +262,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 
 #### General Python Programming
 [funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.  
+[more_itertools](https://more-itertools.readthedocs.io/en/latest/) | Extension of itertools.  
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
 [pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
 [arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
