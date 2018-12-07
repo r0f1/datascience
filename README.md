@@ -3,9 +3,9 @@
 #### Core
 [numpy](https://www.numpy.org/) | Fundamental package for scientific computing with Python.  
 [pandas](https://pandas.pydata.org/) | Data structures and data analysis tools for Python.  
-[scikit-learn](https://scikit-learn.org/stable/) | Core ML library  
+[scikit-learn](https://scikit-learn.org/stable/) | Core ML library.  
 [matplotlib](https://matplotlib.org/) | Plotting library.  
-[seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib  
+[seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib.  
 [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) | Basic statistics using `DataFrameSummary(df).summary()`.   
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.  
