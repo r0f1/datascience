@@ -1,4 +1,4 @@
-# Data Science
+# Data Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 #### Core
 [numpy](https://www.numpy.org/) | Fundamental package for scientific computing with Python.  
