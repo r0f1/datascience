@@ -110,8 +110,9 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 Why the default feature importance for random forests is wrong: [link](http://explained.ai/rf-importance/index.html)  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
 
-#### Text Processing
+#### Natural Language Processing (NL) / Text Processing
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
+[List](https://github.com/sebastianruder/NLP-progress)  
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html).  
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
