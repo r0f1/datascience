@@ -67,6 +67,21 @@ Sophisticated example: https://github.com/WillKoehrsen/Bokeh-Python-Visualizatio
 
 More Bokeh plots: https://demo.bokehplots.com/
 
+https://github.com/maxpumperla/hyperas
+https://github.com/maxpumperla/elephas
+https://github.com/hyperopt/hyperopt
+https://github.com/tflearn/tflearn
+
+https://github.com/reinforceio/tensorforce
+
+
+https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+
+
+
+
+
+
 
 
 
