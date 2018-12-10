@@ -79,7 +79,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 
 
 
-
+R autoarima in python: https://github.com/tgsmith61591/pmdarima
 
 
 
