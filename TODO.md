@@ -61,6 +61,11 @@ https://github.com/marcharper/python-ternary
 
 
 
+Simple example: https://bokeh.pydata.org/en/latest/docs/user_guide/server.html
+
+Sophisticated example: https://github.com/WillKoehrsen/Bokeh-Python-Visualization
+
+More Bokeh plots: https://demo.bokehplots.com/
 
 
 
