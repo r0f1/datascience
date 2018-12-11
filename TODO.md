@@ -2,6 +2,7 @@
 
 #### Not yet sorted
 
+time series: https://github.com/antoinecarme/pyaf
 
 https://github.com/deanmalmgren/textract
 
