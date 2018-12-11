@@ -3,6 +3,7 @@
 #### Not yet sorted
 
 time series: https://github.com/antoinecarme/pyaf
+hierarchical fb prophet: https://github.com/CollinRooney12/htsprophet
 
 https://github.com/deanmalmgren/textract
 
