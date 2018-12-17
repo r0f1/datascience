@@ -118,6 +118,8 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [rfpimp](https://github.com/parrt/random-forest-importances) | Feature Importance for RandomForests using Permuation Importance.  
 Why the default feature importance for random forests is wrong: [link](http://explained.ai/rf-importance/index.html)  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
+[bartpy](https://github.com/JakeColtman/bartpy) | Bayesian Additive Regression Trees.  
+
 
 #### Natural Language Processing (NL) / Text Processing
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
@@ -301,3 +303,5 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 ## Paradoxes 
 
 Inspection paradox | [link](https://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html), [link](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)   
+Berksons paradox | [link](https://en.wikipedia.org/wiki/Berkson%27s_paradox)    
+Base rate fallacy | [link](https://en.wikipedia.org/wiki/Base_rate_fallacy)   
