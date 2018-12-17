@@ -122,13 +122,15 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 
 
 #### Natural Language Processing (NL) / Text Processing
+[List: NLP Progress](https://github.com/sebastianruder/NLP-progress), [List: Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding).   
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
-[List](https://github.com/sebastianruder/NLP-progress)  
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html), [Coherence Model](https://radimrehurek.com/gensim/models/coherencemodel.html) for evaluation.  
+Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([1](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout), [2](https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge)) 
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
 [NTLK](https://www.nltk.org/) | NLP.  
-[fasttext](https://fasttext.cc/) | Efficient text classification and representation learning.  
+[pytext](https://github.com/facebookresearch/PyText) | NLP from Facebook.  
+[fastText](https://github.com/facebookresearch/fastText) | Efficient text classification and representation learning.  
 [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/) | Word embeddings trained on Wikipedia acticles.  
 [annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) | Approximate nearest neighbor search.  
@@ -240,8 +242,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) | Learning curve.  
 
 #### Model Explanation
-[List](https://github.com/jphall663/awesome-machine-learning-interpretability)  
-[Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)   
+[List: Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability), [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)   
 [shap](https://github.com/slundberg/shap) | Explain predictions of machine learning models.  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) | Interpreting scikit-learn's decision tree and random forest predictions.  
 [lime](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier.  
@@ -265,7 +266,9 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [optuna](https://github.com/pfnet/optuna) | Hyperparamter optimization.  
 
 #### Reinforcement Learning
-[Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)  
+[Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+Intro to Monte Carlo Tree Search (MCTS) | [1](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/), [2](http://mcts.ai/about/index.html), [3](https://medium.com/@quasimik/monte-carlo-tree-search-applied-to-letterpress-34f41c86e238)           
+AlphaZero methodology | [1](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning)), [2](https://web.stanford.edu/~surag/posts/alphazero.html), [3](https://github.com/suragnair/alpha-zero-general), [Cheat Sheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)       
 [RLLib](https://ray.readthedocs.io/en/latest/rllib.html) | Library for reinforcement learning.  
 [Horizon](https://github.com/facebookresearch/Horizon/) | Facebook RL framework.  
 
