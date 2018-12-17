@@ -20,13 +20,18 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 #### Big Data
 [dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
+[dask-ml](http://ml.dask.org/) | Scalable machine learning.  
 [turicreate](https://github.com/apple/turicreate) | Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) | Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) | Flexible, high-performance distributed execution framework.  
+[sparkit-learn](https://github.com/lensacom/sparkit-learn) | PySpark + Scikit-learn
+
+##### Command line tools
 [ni](https://github.com/spencertipping/ni) | Command line tool for big data.  
 [xsv](https://github.com/BurntSushi/xsv) | Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) | Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) | Sort large csv files.  
+
 
 #### Exploration and Cleaning
 [missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
@@ -43,7 +48,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 
 #### Feature Selection
-[Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/)  
+[Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
 [scikit-feature](https://github.com/jundongl/scikit-feature) | Feature selection algorithms.  
 [stability-selection](https://github.com/scikit-learn-contrib/stability-selection) | Stability selection.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
@@ -122,8 +127,8 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) | Approximate nearest neighbor search.  
 [pysparnn](https://github.com/facebookresearch/pysparnn) | Approximate nearest neighbor search.  
-[StarSpace](https://github.com/facebookresearch/StarSpace) | Word Embeddings.  
-
+[StarSpace](https://github.com/facebookresearch/StarSpace) | Word Embeddings.   
+[textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) | Automated machine learning based on tensorflow.  
@@ -162,6 +167,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [pyramid](https://github.com/tgsmith61591/pyramid) | Wrapper for statsmodels ARIMA to make it more user-friendly.  
 [pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
 [prophet](https://github.com/facebook/prophet) | Time series prediction library.  
+[htsprophet](https://github.com/CollinRooney12/htsprophet) | Hierarchical Time Series Forecasting using Prophet.
 [tensorflow](https://github.com/tensorflow/tensorflow/) | LSTM and others, examples: [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples).  
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocessing: Denoising, Compression, Resampling.  
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
@@ -173,6 +179,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [fastdtw](https://github.com/slaypni/fastdtw) | Dynamic Time Warp Distance.  
 [fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) | Time Series Forecasting (R package).  
 [CausalImpact](https://github.com/tcassou/causal_impact) | Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
+[PyAF](https://github.com/antoinecarme/pyaf) | Automatic Time Series Forecasting.   
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
@@ -245,7 +252,6 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [Horizon](https://github.com/facebookresearch/Horizon/) | Facebook RL framework.  
 
 #### Frameworks
-[dask-ml](http://ml.dask.org/) | Scalable machine learning.  
 [h2o](https://github.com/h2oai/h2o-3) | Scalable machine learning.  
 [turicreate](https://github.com/apple/turicreate) | Apple Machine Learning Toolkit.  
 [astroml](https://github.com/astroML/astroML) | ML for astronomical data.   
