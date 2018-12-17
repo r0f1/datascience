@@ -18,6 +18,9 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) | Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.   
 
+#### Extraction
+[textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
+
 #### Big Data
 [dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
 [dask-ml](http://ml.dask.org/) | Scalable machine learning.  
@@ -125,7 +128,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [List: NLP Progress](https://github.com/sebastianruder/NLP-progress), [List: Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding).   
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html), [Coherence Model](https://radimrehurek.com/gensim/models/coherencemodel.html) for evaluation.  
-Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)], [[2](https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge)]).   
+Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)], [[2](https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge)]), [StarSpace](https://github.com/facebookresearch/StarSpace).   
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
 [NTLK](https://www.nltk.org/) | NLP.  
@@ -135,7 +138,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) | Approximate nearest neighbor search.  
 [pysparnn](https://github.com/facebookresearch/pysparnn) | Approximate nearest neighbor search.  
-[StarSpace](https://github.com/facebookresearch/StarSpace) | Word Embeddings.   
+[infomap](https://github.com/mapequation/infomap) | Cluster Vectors to find topics.  
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 
 #### Automated Machine Learning
