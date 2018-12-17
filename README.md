@@ -32,7 +32,6 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) | Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) | Sort large csv files.  
 
-
 #### Exploration and Cleaning
 [missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
 [fancyimpute](https://github.com/iskandr/fancyimpute) | Matrix completion and imputation algorithms.  
@@ -41,6 +40,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 #### Feature Engineering
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) | Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
+[skoot](https://github.com/tgsmith61591/skoot) | Pipeline helper functions.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) | Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) | R-like syntax for statistical models.   
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) | LDA.  
@@ -53,6 +53,8 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [stability-selection](https://github.com/scikit-learn-contrib/stability-selection) | Stability selection.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) | Relief-based feature selection algorithms.  
 [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) | Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
+[linselect](https://github.com/efavdb/linselect) | Feature selection package.   
+
 
 #### Dimensionality Reduction
 [prince](https://github.com/MaxHalford/prince) | Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
@@ -66,6 +68,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.  
+[bokeh](https://bokeh.pydata.org/en/latest/) | Interactive visualization library, [All plots](https://demo.bokehplots.com/), [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).   
 [altair](https://altair-viz.github.io/) | Declarative statistical visualization library.  
 [holoviews](http://holoviews.org/) | Visualization library.  
 [plotly](https://plot.ly/) | Visualization library.  
@@ -76,6 +79,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) | Graph visualization (JS package).   
 [pm](https://github.com/anvaka/pm) | Navigatable 3D graph visualization (JS package), [example](https://w2v-vis-dot-hcg-team-di.appspot.com/#/galaxy/word2vec?cx=5698&cy=-5135&cz=5923&lx=0.1127&ly=0.3238&lz=-0.1680&lw=0.9242&ml=150&s=1.75&l=1&v=hc).   
 [visdom](https://github.com/facebookresearch/visdom) | Dashboarding library.   
+[python-ternary](https://github.com/marcharper/python-ternary) | Triangle plots.  
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) | Plot geographical maps using the Leaflet.js library.  
@@ -118,7 +122,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 #### Natural Language Processing (NL) / Text Processing
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
 [List](https://github.com/sebastianruder/NLP-progress)  
-[gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html).  
+[gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html), [Coherence Model](https://radimrehurek.com/gensim/models/coherencemodel.html) for evaluation.  
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
 [NTLK](https://www.nltk.org/) | NLP.  
@@ -142,7 +146,12 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 
 #### Neural Networks
 [List](https://github.com/ChristosChristofidis/awesome-deep-learning)  
-[keras](https://keras.io/) | Neural Networks based on [tensorflow](https://www.tensorflow.org/).  
+[keras](https://keras.io/) | Neural Networks on top of [tensorflow](https://www.tensorflow.org/).  
+[hyperas](https://github.com/maxpumperla/hyperas) | Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
+[elephas](https://github.com/maxpumperla/elephas) | Distributed Deep learning with Keras & Spark.   
+[tflearn](https://github.com/tflearn/tflearn) | Neural Networks on top of tensorflow.  
+[tensorlayer](https://github.com/tensorlayer/tensorlayer) |  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).   
+[tensorforce](https://github.com/reinforceio/tensorforce) | Tensorflow for applied reinforcement learning.   
 
 #### Regression
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) | Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
@@ -164,11 +173,13 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 #### Time Series
 [List](https://github.com/MaxBenChrist/awesome_time_series_in_python), [List](https://github.com/rob-med/awesome-TS-anomaly-detection)    
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
-[pyramid](https://github.com/tgsmith61591/pyramid) | Wrapper for statsmodels ARIMA to make it more user-friendly.  
-[pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
+[pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) | Wrapper for (Auto-) ARIMA.   
+[pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).   
 [prophet](https://github.com/facebook/prophet) | Time series prediction library.  
 [htsprophet](https://github.com/CollinRooney12/htsprophet) | Hierarchical Time Series Forecasting using Prophet.
-[tensorflow](https://github.com/tensorflow/tensorflow/) | LSTM and others, examples: [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples).  
+[tensorflow](https://github.com/tensorflow/tensorflow/) | LSTM and others, examples: [link](
+https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+), [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples).   
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocessing: Denoising, Compression, Resampling.  
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 [thunder](https://github.com/thunder-project/thunder) | Data structures and algorithms for loading, processing, and analyzing time series data.   
@@ -180,6 +191,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) | Time Series Forecasting (R package).  
 [CausalImpact](https://github.com/tcassou/causal_impact) | Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [PyAF](https://github.com/antoinecarme/pyaf) | Automatic Time Series Forecasting.   
+[luminol](https://github.com/linkedin/luminol) | Anomaly Detection and Correlation library from Linkedin.  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
@@ -199,7 +211,9 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) | Isolation Forest and others.  
 [pyod](https://pyod.readthedocs.io/en/latest/pyod.html) | Outlier Detection / Anomaly Detection.  
 [eif](https://github.com/sahandha/eif) | Extended Isolation Forest.  
-[AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly detection (R package).  
+[AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly detection (R package).   
+[luminol](https://github.com/linkedin/luminol) | Anomaly Detection and Correlation library from Linkedin.  
+
 
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) | Large-scale linear classification, regression and ranking.  
@@ -209,6 +223,8 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [PyMC3](https://docs.pymc.io/) | Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started), [guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).  
 [pomegranate](https://github.com/jmschrei/pomegranate) | Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) | Probabilistic machine learning.  
+[arviz](https://github.com/arviz-devs/arviz) | Exploratory analysis of Bayesian models.   
+
 
 #### Stacking Models
 [mlxtend](https://github.com/rasbt/mlxtend) | `EnsembleVoteClassifier`, `StackingRegressor`, `StackingCVRegressor` for model stacking.  
@@ -277,7 +293,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [attrs](https://github.com/python-attrs/attrs) | Python classes without boilerplate.  
 
 #### Other Lists
-[AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
+[Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
+[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 
 # Fun
 
