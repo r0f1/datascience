@@ -223,8 +223,8 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [lightning](https://github.com/scikit-learn-contrib/lightning) | Large-scale linear classification, regression and ranking.  
 
 #### Bayes
-[Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html).  
-[PyMC3](https://docs.pymc.io/) | Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started), [guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).  
+[Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)   
+[PyMC3](https://docs.pymc.io/) | Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
 [pomegranate](https://github.com/jmschrei/pomegranate) | Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) | Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) | Exploratory analysis of Bayesian models.   
@@ -266,9 +266,9 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [optuna](https://github.com/pfnet/optuna) | Hyperparamter optimization.  
 
 #### Reinforcement Learning
-[Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-Intro to Monte Carlo Tree Search (MCTS) | [1](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/), [2](http://mcts.ai/about/index.html), [3](https://medium.com/@quasimik/monte-carlo-tree-search-applied-to-letterpress-34f41c86e238)           
-AlphaZero methodology | [1](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning)), [2](https://web.stanford.edu/~surag/posts/alphazero.html), [3](https://github.com/suragnair/alpha-zero-general), [Cheat Sheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)       
+[Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)   
+Intro to Monte Carlo Tree Search (MCTS) | [1](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/), [2](http://mcts.ai/about/index.html), [3](https://medium.com/@quasimik/monte-carlo-tree-search-applied-to-letterpress-34f41c86e238)         
+AlphaZero methodology | [1](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning), [2](https://web.stanford.edu/~surag/posts/alphazero.html), [3](https://github.com/suragnair/alpha-zero-general), [Cheat Sheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)       
 [RLLib](https://ray.readthedocs.io/en/latest/rllib.html) | Library for reinforcement learning.  
 [Horizon](https://github.com/facebookresearch/Horizon/) | Facebook RL framework.  
 
