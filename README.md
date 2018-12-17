@@ -138,7 +138,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) | Approximate nearest neighbor search.  
 [pysparnn](https://github.com/facebookresearch/pysparnn) | Approximate nearest neighbor search.  
-[infomap](https://github.com/mapequation/infomap) | Cluster Vectors to find topics.  
+[infomap](https://github.com/mapequation/infomap) | Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).   
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 
 #### Automated Machine Learning
