@@ -8,7 +8,7 @@
 [seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib.  
 [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) | Basic statistics using `DataFrameSummary(df).summary()`.   
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
-[sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.  
+[sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.   
 
 #### Pandas and Jupyter
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
@@ -16,7 +16,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [xarray](https://github.com/pydata/xarray/) | Extends pandas to n-dimensional arrays.  
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) | Code formatting for jupyter notebooks.  
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) | Drag n drop Pivot Tables and Charts for jupyter notebooks.  
-[qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.   
+[qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.     
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
@@ -36,10 +36,11 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [csvsort](https://pypi.org/project/csvsort/) | Sort large csv files.  
 
 #### Exploration and Cleaning
+[janitor](https://pyjanitor.readthedocs.io/) | Clean messy column names.   
 [missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
 [fancyimpute](https://github.com/iskandr/fancyimpute) | Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | Resampling for imbalanced datasets.  
-[tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Time series preprocessing: Denoising, Compression, Resampling.  
+[tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Time series preprocessing: Denoising, Compression, Resampling.   
 
 #### Feature Engineering
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) | Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
