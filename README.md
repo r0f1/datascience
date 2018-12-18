@@ -131,8 +131,8 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)], [[2](https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge)]), [StarSpace](https://github.com/facebookresearch/StarSpace), [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/).   
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
 [spaCy](https://spacy.io/) | NLP.   
-[NTLK](https://www.nltk.org/) | NLP, helpful `KMeansClusterer` with `cosine_distance`. 
-[pytext](https://github.com/facebookresearch/PyText) | NLP from Facebook.  
+[NTLK](https://www.nltk.org/) | NLP, helpful `KMeansClusterer` with `cosine_distance`.    
+[pytext](https://github.com/facebookresearch/PyText) | NLP from Facebook.   
 [fastText](https://github.com/facebookresearch/fastText) | Efficient text classification and representation learning.  
 [annoy](https://github.com/spotify/annoy) | Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) | Approximate nearest neighbor search.  
