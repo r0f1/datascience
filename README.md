@@ -140,6 +140,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [pysparnn](https://github.com/facebookresearch/pysparnn) | Approximate nearest neighbor search.  
 [infomap](https://github.com/mapequation/infomap) | Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).   
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
+[datasketch](https://github.com/ekzhu/datasketch) | Probabilistic data structures for large data (MinHash, HyperLogLog).   
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) | Automated machine learning based on tensorflow.  
@@ -168,7 +169,8 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 #### Clustering
 [pyclustering](https://github.com/annoviko/pyclustering) | All sorts of clustering algorithms.  
 [somoclu](https://github.com/peterwittek/somoclu) | Self-organizing map.  
-[hdbscan](https://github.com/scikit-learn-contrib/hdbscan) | Clustering algothrithm.  
+[hdbscan](https://github.com/scikit-learn-contrib/hdbscan) | Clustering algorithm.  
+[nmslib](https://github.com/nmslib/nmslib) | Dimilarity search library and toolkit for evaluation of k-NN methods.   
 
 #### Interpretable Classifiers and Regressors
 [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) | Interpretable classifiers, producing easily understood decision rules instead of black box models.  
