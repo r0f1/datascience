@@ -150,13 +150,14 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [deap](https://github.com/DEAP/deap) | Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
 [evol](https://github.com/godatadriven/evol) | DSL for composable evolutionary algorithms, [talk](https://www.youtube.com/watch?v=68ABAU_V8qI&t=11m49s).  
 [platypus](https://github.com/Project-Platypus/Platypus) | Multiobjective optimization.  
+[nevergrad](https://github.com/facebookresearch/nevergrad) | Derivation-free optimization.   
 
 #### Neural Networks
-[List](https://github.com/ChristosChristofidis/awesome-deep-learning)  
-[keras](https://keras.io/) | Neural Networks on top of [tensorflow](https://www.tensorflow.org/).  
-[hyperas](https://github.com/maxpumperla/hyperas) | Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
+[List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+[keras](https://keras.io/) | Neural Networks on top of [tensorflow](https://www.tensorflow.org/).   
+[hyperas](https://github.com/maxpumperla/hyperas) | Keras + Hyperopt: Convenient hyperparameter optimization wrapper.   
 [elephas](https://github.com/maxpumperla/elephas) | Distributed Deep learning with Keras & Spark.   
-[tflearn](https://github.com/tflearn/tflearn) | Neural Networks on top of tensorflow.  
+[tflearn](https://github.com/tflearn/tflearn) | Neural Networks on top of tensorflow.   
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) |  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).   
 [tensorforce](https://github.com/reinforceio/tensorforce) | Tensorflow for applied reinforcement learning.   
 
@@ -182,8 +183,8 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) | Wrapper for (Auto-) ARIMA.   
 [pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).   
-[prophet](https://github.com/facebook/prophet) | Time series prediction library.  
-[htsprophet](https://github.com/CollinRooney12/htsprophet) | Hierarchical Time Series Forecasting using Prophet.
+[prophet](https://github.com/facebook/prophet) | Time series prediction library.   
+[htsprophet](https://github.com/CollinRooney12/htsprophet) | Hierarchical Time Series Forecasting using Prophet.   
 [tensorflow](https://github.com/tensorflow/tensorflow/) | LSTM and others, examples: [link](
 https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 ), [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples).   
