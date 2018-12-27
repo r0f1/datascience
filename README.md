@@ -145,6 +145,9 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 [datasketch](https://github.com/ekzhu/datasketch) | Probabilistic data structures for large data (MinHash, HyperLogLog).   
 
+##### Papers
+[Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)
+
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) | Automated machine learning based on tensorflow.  
 [tpot](https://github.com/EpistasisLab/tpot) | Automated machine learning tool, optimizes machine learning pipelines.  
