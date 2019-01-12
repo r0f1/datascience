@@ -1,6 +1,3 @@
-
-Not awesome, but interesing.   
-
 [animatplot](https://github.com/t-makaro/animatplot) | Animate plots build on matplotlib.  
 [bolz](https://github.com/Blosc/bcolz) | A columnar data container that can be compressed.      
 [bottleneck](https://github.com/kwgoodman/bottleneck) | Fast NumPy array functions written in C.   
