@@ -1,14 +1,18 @@
 # Data Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+#### Things I google a lot
+[Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)
+
 #### Core
-[numpy](https://www.numpy.org/) | Fundamental package for scientific computing with Python.  
-[pandas](https://pandas.pydata.org/) | Data structures and data analysis tools for Python.  
+[pandas](https://pandas.pydata.org/) | Data structures and data analysis tools for Python built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) | Core ML library.  
 [matplotlib](https://matplotlib.org/) | Plotting library.  
 [seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib.  
 [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) | Basic statistics using `DataFrameSummary(df).summary()`.   
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) | Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) | Helpful `DataFrameMapper` class.   
+[janitor](https://pyjanitor.readthedocs.io/) | Clean messy column names.   
+[missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
 
 #### Pandas and Jupyter
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
@@ -19,12 +23,12 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [qgrid](https://github.com/quantopian/qgrid) | Pandas `DataFrame` sorting.     
 [nbdime](https://github.com/jupyter/nbdime) | Diff two notebook files, Alternative Github App: [ReviewNB](https://www.reviewnb.com/).   
 
-
-
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 
 #### Big Data
+[spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) | `DataFrame` for big data.
+[spark cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)
 [dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
 [dask-ml](http://ml.dask.org/) | Scalable machine learning.  
 [turicreate](https://github.com/apple/turicreate) | Helpful `SFrame` class for out-of-memory dataframes.  
@@ -39,8 +43,6 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [csvsort](https://pypi.org/project/csvsort/) | Sort large csv files.  
 
 #### Exploration and Cleaning
-[janitor](https://pyjanitor.readthedocs.io/) | Clean messy column names.   
-[missingno](https://github.com/ResidentMario/missingno) | Missing data visualization.   
 [fancyimpute](https://github.com/iskandr/fancyimpute) | Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | Resampling for imbalanced datasets.  
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Time series preprocessing: Denoising, Compression, Resampling.   
@@ -128,9 +130,10 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [bartpy](https://github.com/JakeColtman/bartpy) | Bayesian Additive Regression Trees.  
 
 
-#### Natural Language Processing (NL) / Text Processing
+#### Natural Language Processing (NLP) / Text Processing
 [List: NLP Progress](https://github.com/sebastianruder/NLP-progress), [List: Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding).   
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
+[Text classification Intro](https://mlwhiz.com/blog/2018/12/17/text_classification/).    
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html), [Coherence Model](https://radimrehurek.com/gensim/models/coherencemodel.html) for evaluation.  
 Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)], [[2](https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge)]), [StarSpace](https://github.com/facebookresearch/StarSpace), [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/).   
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
@@ -144,6 +147,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [infomap](https://github.com/mapequation/infomap) | Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).   
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 [datasketch](https://github.com/ekzhu/datasketch) | Probabilistic data structures for large data (MinHash, HyperLogLog).   
+[flair](https://github.com/zalandoresearch/flair) | NLP Framework by Zalando.   
 
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)
@@ -160,7 +164,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [nevergrad](https://github.com/facebookresearch/nevergrad) | Derivation-free optimization.   
 
 #### Neural Networks
-[List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+[Intro](https://karpathy.github.io/neuralnets/), [Another Intro](http://d2l.ai/chapter_crashcourse/autograd.html), [List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
 [keras](https://keras.io/) | Neural Networks on top of [tensorflow](https://www.tensorflow.org/).   
 [hyperas](https://github.com/maxpumperla/hyperas) | Keras + Hyperopt: Convenient hyperparameter optimization wrapper.   
 [elephas](https://github.com/maxpumperla/elephas) | Distributed Deep learning with Keras & Spark.   
@@ -208,6 +212,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [CausalImpact](https://github.com/tcassou/causal_impact) | Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [PyAF](https://github.com/antoinecarme/pyaf) | Automatic Time Series Forecasting.   
 [luminol](https://github.com/linkedin/luminol) | Anomaly Detection and Correlation library from Linkedin.  
+[matrixprofile-ts](https://github.com/target/matrixprofile-ts) | Detecting patterns and anomalies.   
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics.  
