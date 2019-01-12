@@ -1,8 +1,5 @@
 # Data Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-#### Things I google a lot
-[Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)
-
 #### Core
 [pandas](https://pandas.pydata.org/) | Data structures and data analysis tools for Python built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) | Core ML library.  
@@ -318,12 +315,13 @@ AlphaZero methodology | [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 
-# Fun
-
-## Paradoxes 
-
+#### Paradoxes 
 Inspection paradox | [link](https://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html), [link](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)   
 Simpsons paradox | [link](https://en.wikipedia.org/wiki/Simpson%27s_paradox)   
 Berksons paradox | [link](https://en.wikipedia.org/wiki/Berkson%27s_paradox)    
 Base rate fallacy | [link](https://en.wikipedia.org/wiki/Base_rate_fallacy)   
 Sampling bias | [link](https://en.wikipedia.org/wiki/Sampling_bias)  
+
+#### Things I google a lot
+[Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)     
+
