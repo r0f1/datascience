@@ -312,7 +312,8 @@ AlphaZero methodology | [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [attrs](https://github.com/python-attrs/attrs) | Python classes without boilerplate.  
 
 #### Other Lists
-[Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
+[PocketCluster](https://blog.pocketcluster.io/) | Blog.  
+[Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 
 #### Paradoxes 
