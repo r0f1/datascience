@@ -1,7 +1,7 @@
 # Data Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 #### Core
-[pandas](https://pandas.pydata.org/) | Data structures and data analysis tools for Python built on top of [numpy](https://www.numpy.org/).  
+[pandas](https://pandas.pydata.org/) | Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) | Core ML library.  
 [matplotlib](https://matplotlib.org/) | Plotting library.  
 [seaborn](https://seaborn.pydata.org/) | Python data visualization library based on matplotlib.  
@@ -24,10 +24,10 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [textract](https://github.com/deanmalmgren/textract) | Extract text from any document.   
 
 #### Big Data
-[spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) | `DataFrame` for big data.
-[spark cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)
-[dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.  
-[dask-ml](http://ml.dask.org/) | Scalable machine learning.  
+[spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) | `DataFrame` for big data.   
+[spark cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)    
+[dask](https://github.com/dask/dask) | Pandas `DataFrame` for big data.   
+[dask-ml](http://ml.dask.org/) | Scalable machine learning.   
 [turicreate](https://github.com/apple/turicreate) | Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) | Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) | Flexible, high-performance distributed execution framework.  
