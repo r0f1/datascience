@@ -9,3 +9,4 @@
 [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) | Deep Learning Course.   
 [modAL](https://github.com/modAL-python/modAL) | Active learning framework.   
 [pystruct](https://github.com/pystruct/pystruct) | Structured learning framework.   
+[tensorly](https://github.com/tensorly/tensorly) | Tensor learning.    
