@@ -13,6 +13,7 @@
 
 #### Pandas and Jupyter
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
+[nteract](https://nteract.io/) | Open Jupyter Notebooks with doubleclick.   
 [modin](https://github.com/modin-project/modin) | Parallelization library for faster pandas `DataFrame`.   
 [xarray](https://github.com/pydata/xarray/) | Extends pandas to n-dimensional arrays.  
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) | Code formatting for jupyter notebooks.  
