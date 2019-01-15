@@ -307,23 +307,14 @@ AlphaZero methodology | [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [funcy](https://github.com/Suor/funcy) | Fancy and practical functional tools.  
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) | Extension of itertools.  
 [dill](https://pypi.org/project/dill/) | Serialization, alternative to pickle.   
-[pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
-[arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
-[pyre](https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/) | Static type checking library from facebook.    
 [attrs](https://github.com/python-attrs/attrs) | Python classes without boilerplate.  
+[dateparser](https://dateparser.readthedocs.io/en/latest/) | A better date parser.   
 
 #### Other Lists
 [PocketCluster](https://blog.pocketcluster.io/) | Blog.  
 [Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 
-#### Paradoxes 
-Inspection paradox | [link](https://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html), [link](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)   
-Simpsons paradox | [link](https://en.wikipedia.org/wiki/Simpson%27s_paradox)   
-Berksons paradox | [link](https://en.wikipedia.org/wiki/Berkson%27s_paradox)    
-Base rate fallacy | [link](https://en.wikipedia.org/wiki/Base_rate_fallacy)   
-Sampling bias | [link](https://en.wikipedia.org/wiki/Sampling_bias)  
-
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)     
-
+[Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)    
