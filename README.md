@@ -73,12 +73,12 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
+[cufflinks](https://github.com/santosjorge/cufflinks) | Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb), [data](https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/2019-01-13_stats).   
 [physt](https://github.com/janpipek/physt) | Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) | Wrapper for matplotlib for diagnosic ML plots.  
 [bokeh](https://bokeh.pydata.org/en/latest/) | Interactive visualization library, [All plots](https://demo.bokehplots.com/), [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).   
 [altair](https://altair-viz.github.io/) | Declarative statistical visualization library.  
 [holoviews](http://holoviews.org/) | Visualization library.  
-[plotly](https://plot.ly/) | Visualization library.  
 [dtreeviz](https://github.com/parrt/dtreeviz) | Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) | Generate charts.   
 [panel](https://panel.pyviz.org/index.html) | Dashboarding solution.  
@@ -131,7 +131,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 #### Natural Language Processing (NLP) / Text Processing
 [List: NLP Progress](https://github.com/sebastianruder/NLP-progress), [List: Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding).   
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).   
-[Text classification Intro](https://mlwhiz.com/blog/2018/12/17/text_classification/).    
+[Text classification Intro](https://mlwhiz.com/blog/2018/12/17/text_classification/), [Preprocessing blog post](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/).    
 [gensim](https://radimrehurek.com/gensim/) | NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html), [Coherence Model](https://radimrehurek.com/gensim/models/coherencemodel.html) for evaluation.  
 Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)], [[2](https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge)]), [StarSpace](https://github.com/facebookresearch/StarSpace), [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/).   
 [pyldavis](https://github.com/bmabey/pyLDAvis) | Visualization for topic modelling.  
@@ -189,7 +189,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) | Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
 
 #### Time Series
-[List](https://github.com/MaxBenChrist/awesome_time_series_in_python), [List](https://github.com/rob-med/awesome-TS-anomaly-detection)    
+[List](https://github.com/MaxBenChrist/awesome_time_series_in_python), [List](https://github.com/rob-med/awesome-TS-anomaly-detection), [Signal Processing Book](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)        
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) | Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) | Wrapper for (Auto-) ARIMA.   
 [pyflux](https://github.com/RJT1990/pyflux) | Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).   
@@ -197,7 +197,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [htsprophet](https://github.com/CollinRooney12/htsprophet) | Hierarchical Time Series Forecasting using Prophet.   
 [tensorflow](https://github.com/tensorflow/tensorflow/) | LSTM and others, examples: [link](
 https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
-), [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples).   
+), [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples), [Explain LSTM](https://github.com/slundberg/shap/blob/master/notebooks/deep_explainer/Keras%20LSTM%20for%20IMDB%20Sentiment%20Classification.ipynb)      
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocessing: Denoising, Compression, Resampling.  
 [tsfresh](https://github.com/blue-yonder/tsfresh) | Time series feature engineering.  
 [thunder](https://github.com/thunder-project/thunder) | Data structures and algorithms for loading, processing, and analyzing time series data.   
