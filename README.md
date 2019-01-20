@@ -162,13 +162,21 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [nevergrad](https://github.com/facebookresearch/nevergrad) | Derivation-free optimization.   
 
 #### Neural Networks
+
+##### Reading
 [Intro](https://karpathy.github.io/neuralnets/), [Another Intro](http://d2l.ai/chapter_crashcourse/autograd.html), [List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+
+##### Libs
 [keras](https://keras.io/) | Neural Networks on top of [tensorflow](https://www.tensorflow.org/).   
 [hyperas](https://github.com/maxpumperla/hyperas) | Keras + Hyperopt: Convenient hyperparameter optimization wrapper.   
 [elephas](https://github.com/maxpumperla/elephas) | Distributed Deep learning with Keras & Spark.   
 [tflearn](https://github.com/tflearn/tflearn) | Neural Networks on top of tensorflow.   
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) |  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).   
 [tensorforce](https://github.com/reinforceio/tensorforce) | Tensorflow for applied reinforcement learning.   
+
+##### Snippets
+[Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)   
+
 
 #### Regression
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) | Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
