@@ -164,7 +164,13 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 #### Neural Networks
 
 ##### Reading
-[Intro](https://karpathy.github.io/neuralnets/), [Another Intro](http://d2l.ai/chapter_crashcourse/autograd.html), [List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+[Intro](https://karpathy.github.io/neuralnets/)   
+[Another Intro](http://d2l.ai/chapter_crashcourse/autograd.html)   
+[Awesome List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+
+##### Image Processing Tools
+[keras](https://keras.io/preprocessing/image/) | Preprocess images.    
+[imgaug](https://github.com/aleju/imgaug) | More suffisticated image preprocessing.   
 
 ##### Libs
 [keras](https://keras.io/) | Neural Networks on top of [tensorflow](https://www.tensorflow.org/).   
@@ -173,6 +179,7 @@ Embeddings | [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [tflearn](https://github.com/tflearn/tflearn) | Neural Networks on top of tensorflow.   
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) |  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).   
 [tensorforce](https://github.com/reinforceio/tensorforce) | Tensorflow for applied reinforcement learning.   
+[fastai](https://github.com/fastai/fastai) | Neural Networks in pytorch.    
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)   
