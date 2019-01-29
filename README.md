@@ -1,5 +1,48 @@
 # Data Science with Python [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<!-- TOC depthFrom:1 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Data Science with Python [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)](#data-science-with-python-awesomehttpsawesomerebadge-flatsvghttpsawesomere)
+			- [Core](#core)
+			- [Pandas and Jupyter](#pandas-and-jupyter)
+			- [Extraction](#extraction)
+			- [Big Data](#big-data)
+			- [Exploration and Cleaning](#exploration-and-cleaning)
+			- [Feature Engineering](#feature-engineering)
+			- [Feature Selection](#feature-selection)
+			- [Dimensionality Reduction](#dimensionality-reduction)
+			- [Visualization](#visualization)
+			- [Geopraphical Tools](#geopraphical-tools)
+			- [Recommender Systems](#recommender-systems)
+			- [Decision Trees](#decision-trees)
+			- [Natural Language Processing (NLP) / Text Processing](#natural-language-processing-nlp-text-processing)
+			- [Automated Machine Learning](#automated-machine-learning)
+			- [Evolutionary Algorithms & Optimization](#evolutionary-algorithms-optimization)
+			- [Neural Networks](#neural-networks)
+			- [Regression](#regression)
+			- [Clustering](#clustering)
+			- [Interpretable Classifiers and Regressors](#interpretable-classifiers-and-regressors)
+			- [Multi-label classification](#multi-label-classification)
+			- [Time Series](#time-series)
+			- [Financial Data](#financial-data)
+			- [Survival Analysis](#survival-analysis)
+			- [Outlier Detection & Anomaly Detection](#outlier-detection-anomaly-detection)
+			- [Ranking](#ranking)
+			- [Bayes](#bayes)
+			- [Stacking Models](#stacking-models)
+			- [Model Evaluation](#model-evaluation)
+			- [Model Explanation](#model-explanation)
+			- [Hyperparameter Tuning](#hyperparameter-tuning)
+			- [Reinforcement Learning](#reinforcement-learning)
+			- [Frameworks](#frameworks)
+			- [Lifecycle Management](#lifecycle-management)
+			- [Other](#other)
+			- [General Python Programming](#general-python-programming)
+			- [Other Lists](#other-lists)
+			- [Things I google a lot](#things-i-google-a-lot)
+
+<!-- /TOC -->
+
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
@@ -310,7 +353,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [turicreate](https://github.com/apple/turicreate) - Apple Machine Learning Toolkit.  
 [astroml](https://github.com/astroML/astroML) - ML for astronomical data.   
 
-#### Lifecycle Management 
+#### Lifecycle Management
 [mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.   
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.   
