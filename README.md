@@ -1,6 +1,8 @@
-# Data Science with Python [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+A curated list of awesome resources for practicing data science using Python. This list includes not only packages, but links to other resources such as tutorials, code snippets and talks. 
 
-#### TOC
+# Awesome Data Science with Python [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+#### Contents
 * [Core](#core)  
 * [Pandas and Jupyter](#pandas-and-jupyter)  
 * [Extraction](#extraction)  
@@ -375,3 +377,10 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)     
 [Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)    
+
+## Contributing
+
+Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to submit your pull request or create a new issue.
+
+## Licence
+
