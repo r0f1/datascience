@@ -380,7 +380,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 ## Contributing
 
-Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to submit your pull request or create a new issue.
+Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to read the [contribution guidelines](CONTRIBUTING.md) and submit your pull request or create a new issue.
 
-## Licence
+## License
 
+MIT
