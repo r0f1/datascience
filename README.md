@@ -145,14 +145,14 @@ Plotting (Descartes, Catropy)
 Predict economic indicators from Open Street Map [ipynb](https://github.com/njanakiev/osm-predict-economic-measurements/blob/master/osm-predict-economic-indicators.ipynb).  
 
 #### Recommender Systems
-[List](https://github.com/grahamjenson/list_of_recommender_systems)  
+[List](https://github.com/grahamjenson/list_of_recommender_systems)   
+[Microsoft Repo](https://github.com/Microsoft/Recommenders)  
 Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender).  
 [surprise](https://github.com/NicolasHug/Surprise) - Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
 [turicreate](https://github.com/apple/turicreate) - Recommender.  
 [implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets.  
 [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.  
 [lightfm](https://github.com/lyst/lightfm) - Recommendation algorithms for both implicit and explicit feedback.  
-[Microsoft Repo](https://github.com/Microsoft/Recommenders)    
 
 #### Decision Trees
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
@@ -205,12 +205,11 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 #### Neural Networks
 
 ##### Reading
-[Intro](https://karpathy.github.io/neuralnets/)   
-[Another Intro](http://d2l.ai/chapter_crashcourse/autograd.html)   
+[Great Intro](https://cs231n.github.io/)   
 [Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
 
 ##### Image Related
-[keras](https://keras.io/preprocessing/image/) - Preprocess images.    
+[keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.    
 [imgaug](https://github.com/aleju/imgaug) - More suffisticated image preprocessing.   
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.   
 
