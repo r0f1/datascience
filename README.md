@@ -201,6 +201,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [evol](https://github.com/godatadriven/evol) - DSL for composable evolutionary algorithms, [talk](https://www.youtube.com/watch?v=68ABAU_V8qI&t=11m49s).  
 [platypus](https://github.com/Project-Platypus/Platypus) - Multiobjective optimization.  
 [nevergrad](https://github.com/facebookresearch/nevergrad) - Derivation-free optimization.   
+[gplearn](https://gplearn.readthedocs.io/en/stable/) - Sklearn-like interface for genetic programming, [ex](https://www.kaggle.com/ashishpatel26/genetic-algorithm-for-beginner).  
 
 #### Neural Networks
 
