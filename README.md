@@ -116,6 +116,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb), [data](https://github.com/WillKoehrsen/Data-Analysis/blob/master/medium/2019-01-13_stats).   
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
+[joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Wrapper for matplotlib for diagnosic ML plots.  
 [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [All plots](https://demo.bokehplots.com/), [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).   
 [altair](https://altair-viz.github.io/) - Declarative statistical visualization library.  
@@ -222,6 +223,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) -  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).   
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.   
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.    
+[Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.   
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)   
