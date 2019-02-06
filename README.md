@@ -73,7 +73,8 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
-[sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn
+[sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn.   
+[mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.   
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
@@ -203,11 +204,12 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [platypus](https://github.com/Project-Platypus/Platypus) - Multiobjective optimization.  
 [nevergrad](https://github.com/facebookresearch/nevergrad) - Derivation-free optimization.   
 [gplearn](https://gplearn.readthedocs.io/en/stable/) - Sklearn-like interface for genetic programming, [ex](https://www.kaggle.com/ashishpatel26/genetic-algorithm-for-beginner).  
+[blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.    
 
 #### Neural Networks
 
 ##### Reading
-[Great Intro](https://cs231n.github.io/)   
+[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)   
 [Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
 
 ##### Image Related
@@ -251,6 +253,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Awesome Time Series List](https://github.com/MaxBenChrist/awesome_time_series_in_python)    
 [Awesome Time Series Anomaly Detection List](https://github.com/rob-med/awesome-TS-anomaly-detection)    
 [Signal Processing Book](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)    
+Filter Design: [Article](https://tomroelandts.com/articles/how-to-create-a-simple-high-pass-filter), [Interactive Tool](https://fiiir.com/), [Filter examples](https://plot.ly/python/fft-filters/)  
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.   
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).   
@@ -271,7 +274,8 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [PyAF](https://github.com/antoinecarme/pyaf) - Automatic Time Series Forecasting.   
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
-[matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies.   
+[matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf).   
+[obspy](https://github.com/obspy/obspy) - Seismology package. Useful `classic_sta_lta` function.   
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
@@ -379,6 +383,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)     
 [Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)    
+[Feature Calculators tsfresh](https://github.com/blue-yonder/tsfresh/blob/master/tsfresh/feature_extraction/feature_calculators.py)    
 
 ## Contributing
 
