@@ -66,9 +66,11 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.   
 
 #### Big Data
+[Awesome List: AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)    
+
 [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data.   
 [spark cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)    
-[dask](https://github.com/dask/dask) - Pandas `DataFrame` for big data.   
+[dask](https://github.com/dask/dask) - Pandas `DataFrame` for big data, [talk](https://www.youtube.com/watch?v=RA_2qdipVng).   
 [dask-ml](http://ml.dask.org/) - Scalable machine learning.   
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
@@ -196,7 +198,8 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
 [tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool, optimizes machine learning pipelines.  
-[auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
+[auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.   
+[autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.   
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
@@ -226,6 +229,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.   
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.    
 [Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.   
+[autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.   
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)   
