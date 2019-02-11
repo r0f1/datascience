@@ -191,6 +191,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.   
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).   
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.   
+[standfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.   
 
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)
@@ -230,6 +231,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.    
 [Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.   
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.   
+[simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.   
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)   
@@ -347,7 +349,9 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
 [skopt](https://scikit-optimize.github.io/) - `BayesSearchCV` for Hyperparameter search.  
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
-[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.  
+[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.   
+[hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.   
+
 
 #### Reinforcement Learning
 [Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)   
@@ -367,7 +371,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.   
 
 #### Other
-[daft](https://github.com/dfm/daft) - Render probabilistic graphical models using matplotlib.  
+[dvc](https://github.com/iterative/dvc) - Versioning for ML projects.    
+[daft](https://github.com/dfm/daft) - Render probabilistic graphical models using matplotlib.   
 [unyt](https://github.com/yt-project/unyt) - Working with units.  
 [scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
 [VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
