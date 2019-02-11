@@ -14,10 +14,8 @@
 [tensorly](https://github.com/tensorly/tensorly) | Tensor learning.    
 [pendulum](https://github.com/sdispater/pendulum) | Alternative to python datetimes.   
 [arrow](https://github.com/crsmithdev/arrow) | Another alternative to python datetimes.   
-
-#### Python Programming
-
 [pyre](https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/) | Static type checking library from facebook.    
+[cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) | Flexible project structure template.   
 
 
 #### Paradoxes 
