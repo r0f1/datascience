@@ -214,7 +214,8 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 ##### Reading
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)   
-[Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+[Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)    
+[Awesome Semantic Segmentation List](https://github.com/mrgloom/awesome-semantic-segmentation)     
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.    
@@ -387,7 +388,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 #### Other Lists
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
 [Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)   
-[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
+[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)    
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)   
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)     
