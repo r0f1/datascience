@@ -212,6 +212,11 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.    
 Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645-7).    
 
+#### Image Processing
+[cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).   
+[scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.   
+[mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
+
 #### Neural Networks
 
 ##### Reading
