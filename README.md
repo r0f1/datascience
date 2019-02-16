@@ -18,6 +18,7 @@ A curated list of awesome resources for practicing data science using Python. Th
 * [Natural Language Processing (NLP) / Text Processing](#natural-language-processing-nlp-text-processing)  
 * [Automated Machine Learning](#automated-machine-learning)  
 * [Evolutionary Algorithms & Optimization](#evolutionary-algorithms-optimization)  
+* [Image processing](#image-processing)   
 * [Neural Networks](#neural-networks)  
 * [Regression](#regression)  
 * [Classification](#classification)   
