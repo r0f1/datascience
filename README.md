@@ -359,4 +359,59 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
-[hyperopt](https://github.com/hyperopt/hyperopt
+[hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
+[skopt](https://scikit-optimize.github.io/) - `BayesSearchCV` for Hyperparameter search.  
+[tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
+[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.   
+[hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.   
+
+
+#### Reinforcement Learning
+[Youtube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)   
+Intro to Monte Carlo Tree Search (MCTS) - [1](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/), [2](http://mcts.ai/about/index.html), [3](https://medium.com/@quasimik/monte-carlo-tree-search-applied-to-letterpress-34f41c86e238)         
+AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning), [2](https://web.stanford.edu/~surag/posts/alphazero.html), [3](https://github.com/suragnair/alpha-zero-general), [Cheat Sheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)       
+[RLLib](https://ray.readthedocs.io/en/latest/rllib.html) - Library for reinforcement learning.  
+[Horizon](https://github.com/facebookresearch/Horizon/) - Facebook RL framework.  
+
+#### Frameworks
+[h2o](https://github.com/h2oai/h2o-3) - Scalable machine learning.  
+[turicreate](https://github.com/apple/turicreate) - Apple Machine Learning Toolkit.  
+[astroml](https://github.com/astroML/astroML) - ML for astronomical data.   
+
+#### Lifecycle Management
+[mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.   
+[modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
+[skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.   
+
+#### Other
+[dvc](https://github.com/iterative/dvc) - Versioning for ML projects.    
+[daft](https://github.com/dfm/daft) - Render probabilistic graphical models using matplotlib.   
+[unyt](https://github.com/yt-project/unyt) - Working with units.  
+[scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
+[VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
+
+#### General Python Programming
+[funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.  
+[more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
+[dill](https://pypi.org/project/dill/) - Serialization, alternative to pickle.   
+[attrs](https://github.com/python-attrs/attrs) - Python classes without boilerplate.  
+[dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.   
+
+#### Other Lists
+[PocketCluster](https://blog.pocketcluster.io/) - Blog.  
+[Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)   
+[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)    
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)   
+
+#### Things I google a lot
+[Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)     
+[Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)    
+[Feature Calculators tsfresh](https://github.com/blue-yonder/tsfresh/blob/master/tsfresh/feature_extraction/feature_calculators.py)    
+
+## Contributing
+
+Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to read the [contribution guidelines](CONTRIBUTING.md) and submit your pull request or create a new issue.
+
+## License
+
+MIT
