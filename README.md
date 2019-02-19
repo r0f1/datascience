@@ -33,7 +33,7 @@ A curated list of awesome resources for practicing data science using Python. Th
 * [Bayes](#bayes)   
 * [Stacking Models](#stacking-models)  
 * [Model Evaluation](#model-evaluation)  
-* [Model Explanation](#model-explanation)  
+* [Model Explanation and Feature Importance](#model-explanation-and-feature-importance)  
 * [Hyperparameter Tuning](#hyperparameter-tuning)  
 * [Reinforcement Learning](#reinforcement-learning)  
 * [Frameworks](#frameworks)  
@@ -328,7 +328,6 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models.   
 
-
 #### Stacking Models
 [mlxtend](https://github.com/rasbt/mlxtend) - `EnsembleVoteClassifier`, `StackingRegressor`, `StackingCVRegressor` for model stacking.  
 [vecstack](https://github.com/vecxoz/vecstack) - Stacking ML models.  
@@ -340,15 +339,16 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learning-curve/).  
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) - Learning curve.  
 
-#### Model Explanation
+#### Model Explanation and Feature Importance
 [List: Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability), [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)   
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models.  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
 [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.  
 [lime_xgboost](https://github.com/jphall663/lime_xgboost) - Create LIMEs for XGBoost.  
-[FairML](https://github.com/adebayoj/fairml) - Model explanation, feature importance.  
-[pybreakdown](https://github.com/MI2DataLab/pyBreakDown) - Generate feature contribution plots.  
 [eli5](https://github.com/TeamHG-Memex/eli5) - Inspecting machine learning classifiers and explaining their predictions.  
+[lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance, [talk](https://www.youtube.com/watch?v=zqsQ2ojj7sE).  
+[pybreakdown](https://github.com/MI2DataLab/pyBreakDown) - Generate feature contribution plots.  
+[FairML](https://github.com/adebayoj/fairml) - Model explanation, feature importance.  
 [pycebox](https://github.com/AustinRochford/PyCEbox) - Individual Conditional Expectation Plot Toolbox.  
 [pdpbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox, [example](https://www.kaggle.com/dansbecker/partial-plots).  
 [partial_dependence](https://github.com/nyuvis/partial_dependence) - Visualize and cluster partial dependence.  
