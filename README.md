@@ -360,6 +360,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
 [hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
+[hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt + sklearn.   
 [skopt](https://scikit-optimize.github.io/) - `BayesSearchCV` for Hyperparameter search.  
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.   
