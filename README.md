@@ -241,6 +241,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.   
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.   
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.   
+[PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.   
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)   
