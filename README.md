@@ -56,6 +56,7 @@ A curated list of awesome resources for practicing data science using Python. Th
 
 #### Pandas and Jupyter
 General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
+[cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.   
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.   
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.   
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
