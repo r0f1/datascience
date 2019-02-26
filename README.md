@@ -73,7 +73,6 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
 
 #### Big Data
-[Awesome List: AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
 [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data.  
 [spark cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)  
 [dask](https://github.com/dask/dask) - Pandas `DataFrame` for big data, [talk](https://www.youtube.com/watch?v=RA_2qdipVng).  
@@ -177,7 +176,6 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [bartpy](https://github.com/JakeColtman/bartpy) - Bayesian Additive Regression Trees.  
 
 #### Natural Language Processing (NLP) / Text Processing
-[Awesome Sentence Embedding List](https://github.com/Separius/awesome-sentence-embedding).  
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).  
 [Text classification Intro](https://mlwhiz.com/blog/2018/12/17/text_classification/), [Preprocessing blog post](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/).  
 [gensim](https://radimrehurek.com/gensim/) - NLP, doc2vec, word2vec, text processing, topic modelling (LSA, LDA), [Example](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html), [Coherence Model](https://radimrehurek.com/gensim/models/coherencemodel.html) for evaluation.  
@@ -223,8 +221,6 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 
 ##### Reading
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
-[Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)  
-[Awesome Semantic Segmentation List](https://github.com/mrgloom/awesome-semantic-segmentation)  
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
@@ -269,8 +265,6 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
 
 #### Time Series
-[Awesome Time Series List](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
-[Awesome Time Series Anomaly Detection List](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 [Signal Processing Book](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)  
 Filter Design: [Article](https://tomroelandts.com/articles/how-to-create-a-simple-high-pass-filter), [Interactive Tool](https://fiiir.com/), [Filter examples](https://plot.ly/python/fft-filters/)  
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
@@ -310,7 +304,6 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).  
 
 #### Outlier Detection & Anomaly Detection
-[List](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) - Isolation Forest and others.  
 [pyod](https://pyod.readthedocs.io/en/latest/pyod.html) - Outlier Detection / Anomaly Detection.  
 [eif](https://github.com/sahandha/eif) - Extended Isolation Forest.  
@@ -339,7 +332,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) - Learning curve.  
 
 #### Model Explanation and Feature Importance
-[List: Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability), [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
+[Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models, [talk](https://www.youtube.com/watch?v=C80SQe16Rao).  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
 [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Warning (Myth 7)](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/).  
@@ -398,10 +391,17 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 #### Other Lists
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
-[Awesome AI booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
+[Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
+[Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)  
-[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
+[Awesome Time Series List](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
+[Awesome Time Series Anomaly Detection List](https://github.com/rob-med/awesome-TS-anomaly-detection)  
+[Awesome Sentence Embedding List](https://github.com/Separius/awesome-sentence-embedding)
+[Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)  
+[Awesome Semantic Segmentation List](https://github.com/mrgloom/awesome-semantic-segmentation)  
+[Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 [Awesome Python](https://github.com/vinta/awesome-python)  
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
@@ -413,4 +413,4 @@ Do you know a package that should be on this list? Did you spot a package that i
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
