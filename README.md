@@ -408,6 +408,6 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 ## Contributing  
 Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to read the [contribution guidelines](CONTRIBUTING.md) and submit your pull request or create a new issue.  
 
-## License  
-MIT  
+## License
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
