@@ -346,17 +346,17 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 #### Other Lists
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
-[Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
-[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)  
-[Awesome Time Series List](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
-[Awesome Time Series Anomaly Detection List](https://github.com/rob-med/awesome-TS-anomaly-detection)  
-[Awesome Sentence Embedding List](https://github.com/Separius/awesome-sentence-embedding)
-[Awesome Deep Learning List](https://github.com/ChristosChristofidis/awesome-deep-learning)  
-[Awesome Semantic Segmentation List](https://github.com/mrgloom/awesome-semantic-segmentation)  
-[Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
-[Awesome Python](https://github.com/vinta/awesome-python)  
+[Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
+[Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
+[Awesome Python](https://github.com/vinta/awesome-python)   
+[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
+[Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
+[Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
+[Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
+[Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
