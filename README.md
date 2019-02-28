@@ -244,6 +244,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
 [matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf).  
 [obspy](https://github.com/obspy/obspy) - Seismology package. Useful `classic_sta_lta` function.  
+[RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Robust Seasonal-Trend Decomposition.  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
