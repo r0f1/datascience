@@ -28,14 +28,14 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
 
 #### Big Data
-[spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data.  
-[spark cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)  
+[spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).  
+[sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn.  
 [dask](https://github.com/dask/dask) - Pandas `DataFrame` for big data, [talk](https://www.youtube.com/watch?v=RA_2qdipVng).  
 [dask-ml](http://ml.dask.org/) - Scalable machine learning.  
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
-[sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn.  
+
 [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
@@ -157,6 +157,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool, optimizes machine learning pipelines.  
 [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
+[nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
@@ -304,6 +305,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [anchor](https://github.com/marcotcr/anchor) - High-Precision Model-Agnostic Explanations for classifiers.  
 [l2x](https://github.com/Jianbo-Lab/L2X) - Instancewise feature selection as methodology for model interpretation.  
 [contrastive_explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive explanations.  
+[DrWhy](https://github.com/ModelOriented/DrWhy) - Collection of tools for explainable AI.  
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
