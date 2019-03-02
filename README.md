@@ -180,7 +180,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
-[imgaug](https://github.com/aleju/imgaug) - More suffisticated image preprocessing.  
+[imgaug](https://github.com/aleju/imgaug) - More sophisticated image preprocessing.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 
 ##### Libs
