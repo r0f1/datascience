@@ -72,6 +72,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html) - Truncated SVD (aka LSA).  
 [mdr](https://github.com/EpistasisLab/scikit-mdr) - Dimensionality reduction, multifactor dimensionality reduction (MDR).  
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection.  
+[FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based t-SNE.  
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
@@ -246,6 +247,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf).  
 [obspy](https://github.com/obspy/obspy) - Seismology package. Useful `classic_sta_lta` function.  
 [RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Robust Seasonal-Trend Decomposition.  
+[seglearn](https://github.com/dmbee/seglearn) - Time Series library.  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
