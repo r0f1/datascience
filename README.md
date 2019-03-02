@@ -354,6 +354,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
+[Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
