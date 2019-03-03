@@ -18,6 +18,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
+[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) - Code formatting for jupyter notebooks.  
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
@@ -35,8 +36,8 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
-
 [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
+
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
 [xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
@@ -121,6 +122,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
 [xgboost](https://github.com/dmlc/xgboost) - Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters), Methods for CIs: [link1](https://stats.stackexchange.com/questions/255783/confidence-interval-for-xgb-forecast), [link2](https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b).  
 [catboost](https://github.com/catboost/catboost) - Gradient boosting.  
+[thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [h2o](https://github.com/h2oai/h2o-3) - Gradient boosting.  
 [forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) - Confidence intervals for random forests.  
 [scikit-garden](https://github.com/scikit-garden/scikit-garden) - Quantile Regression.  
@@ -130,6 +132,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 Why the default feature importance for random forests is wrong: [link](http://explained.ai/rf-importance/index.html)  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
 [bartpy](https://github.com/JakeColtman/bartpy) - Bayesian Additive Regression Trees.  
+[infiniteboost](https://github.com/arogozhnikov/infiniteboost) - Combination of RFs and GBDTs.  
 
 #### Natural Language Processing (NLP) / Text Processing
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).  
@@ -182,6 +185,8 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
 [imgaug](https://github.com/aleju/imgaug) - More sophisticated image preprocessing.  
+[imgaug_extension](https://github.com/cadenai/imgaug_extension) - Extension for imgaug.  
+[albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 
 ##### Libs
@@ -199,6 +204,11 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
+
+#### GPU
+[cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
+[thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
+[thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
 
 #### Regression
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) - Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
