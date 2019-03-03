@@ -210,6 +210,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
+[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD.  
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
@@ -231,6 +232,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm.  
 [nmslib](https://github.com/nmslib/nmslib) - Dimilarity search library and toolkit for evaluation of k-NN methods.  
+[buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and ccalable clustering algorithm.  
 
 #### Interpretable Classifiers and Regressors
 [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Interpretable classifiers, producing easily understood decision rules instead of black box models.  
