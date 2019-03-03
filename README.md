@@ -44,6 +44,9 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
 
+#### Statistics
+[scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
+
 #### Exploration and Cleaning
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
@@ -51,6 +54,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 #### Feature Engineering
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
+[few](https://github.com/lacava/few) - Feature engineering wrapper for sklearn.  
 [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables.  
 [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.  
@@ -63,6 +67,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection algorithms.  
 [stability-selection](https://github.com/scikit-learn-contrib/stability-selection) - Stability selection.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Relief-based feature selection algorithms.  
+[scikit-genetic](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection.  
 [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
 
@@ -187,20 +192,24 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [imgaug](https://github.com/aleju/imgaug) - More sophisticated image preprocessing.  
 [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Extension for imgaug.  
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
+[Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 
 ##### Libs
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/).  
+[keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
 [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.  
 [tflearn](https://github.com/tflearn/tflearn) - Neural Networks on top of tensorflow.  
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) -  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
+[ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
 [Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
+[lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
@@ -318,6 +327,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [l2x](https://github.com/Jianbo-Lab/L2X) - Instancewise feature selection as methodology for model interpretation.  
 [contrastive_explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive explanations.  
 [DrWhy](https://github.com/ModelOriented/DrWhy) - Collection of tools for explainable AI.  
+[lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
