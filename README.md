@@ -6,6 +6,7 @@
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
 [matplotlib](https://matplotlib.org/) - Plotting library.  
+[animatplot](https://github.com/t-makaro/animatplot) - Animate plots build on matplotlib.  
 [seaborn](https://seaborn.pydata.org/) - Python data visualization library based on matplotlib.  
 [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Basic statistics using `DataFrameSummary(df).summary()`.  
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.  
@@ -37,6 +38,8 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
 [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
+[bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
+[bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.      
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
@@ -186,8 +189,9 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 #### Neural Networks  
 
 ##### Reading
-[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
-[Deep Learning](http://www.deeplearningbook.org/)  
+[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)   
+[Deep Learning Book](http://www.deeplearningbook.org/)   
+[Tutorial](https://github.com/lexfridman/mit-deep-learning)  
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
@@ -228,6 +232,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 
 #### Classification
 [All classification metrics](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf)  
+[DESlib](https://github.com/scikit-learn-contrib/DESlib) - Dynamic classifier and ensemble selection  
 
 #### Clustering
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
@@ -342,6 +347,10 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.  
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 
+#### Active Learning
+[Talk](https://www.youtube.com/watch?v=0efyjq5rWS4)  
+[modAL](https://github.com/modAL-python/modAL) - Active learning framework.  
+
 #### Reinforcement Learning
 [YouTube](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)  
 Intro to Monte Carlo Tree Search (MCTS) - [1](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/), [2](http://mcts.ai/about/index.html), [3](https://medium.com/@quasimik/monte-carlo-tree-search-applied-to-letterpress-34f41c86e238)  
@@ -365,6 +374,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [unyt](https://github.com/yt-project/unyt) - Working with units.  
 [scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
 [VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
+[metric-learn](https://github.com/metric-learn/metric-learn) - Metric learning.   
 
 #### General Python Programming
 [funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.  
@@ -372,6 +382,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dill](https://pypi.org/project/dill/) - Serialization, alternative to pickle.  
 [attrs](https://github.com/python-attrs/attrs) - Python classes without boilerplate.  
 [dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
+[jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
+
 
 #### Other Lists
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
