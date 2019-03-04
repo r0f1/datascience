@@ -186,6 +186,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 
 ##### Reading
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
+[Deep Learning](http://www.deeplearningbook.org/)  
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
