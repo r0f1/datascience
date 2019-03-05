@@ -363,7 +363,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [turicreate](https://github.com/apple/turicreate) - Apple Machine Learning Toolkit.  
 [astroml](https://github.com/astroML/astroML) - ML for astronomical data.  
 
-#### Lifecycle Management
+#### Deployment and Lifecycle Management
+[m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform/Transpile ML models into native code with zero dependencies.  
 [mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.  
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
