@@ -258,6 +258,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 #### Time Series
 [Signal Processing Book](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)  
 Filter Design: [Article](https://tomroelandts.com/articles/how-to-create-a-simple-high-pass-filter), [Interactive Tool](https://fiiir.com/), [Filter examples](https://plot.ly/python/fft-filters/)  
+[Talk](https://www.youtube.com/watch?v=0zpg9ODE6Ww)  
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
