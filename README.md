@@ -231,6 +231,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
 
 #### Regression
+Linear, LASSO, Ridge, SVM Regression [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf)  
+
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) - Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
 [pygam](https://github.com/dswah/pyGAM) - Generalized Additive Models (GAMs), [Explanation](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/).  
 
