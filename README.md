@@ -194,6 +194,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [Cell Segmentation Talk](https://www.youtube.com/watch?v=dVFZpodqJiI)  
 [Deep Learning Book](http://www.deeplearningbook.org/)   
 [Tutorial](https://github.com/lexfridman/mit-deep-learning)  
+Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
@@ -219,6 +220,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
 [AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD.  
+[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
@@ -320,7 +322,7 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learning-curve/).  
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) - Learning curve.  
 
-#### Model Explanation and Feature Importance
+#### Model Explanation, Interpretability, Feature Importance
 [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models, [talk](https://www.youtube.com/watch?v=C80SQe16Rao).  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
@@ -389,8 +391,11 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
 
 
-#### Other Lists
+#### Blogs
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
+[Distill.pub](https://distill.pub/) - Blog.
+
+#### Awesome Lists
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
