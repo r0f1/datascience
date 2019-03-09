@@ -195,7 +195,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [Deep Learning Book](http://www.deeplearningbook.org/)   
 [Tutorial](https://github.com/lexfridman/mit-deep-learning)  
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
-[Talk](https://www.youtube.com/watch?v=EK61htlw8hY): 95% of what a NN learns is not what you want it to learn  
+[Talk](https://www.youtube.com/watch?v=EK61htlw8hY): Extracting knowledge of big NNs to smaller NNs    
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
