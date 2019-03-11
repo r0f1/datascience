@@ -28,6 +28,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
+[camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.  
 
 #### Big Data
 [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).  
@@ -53,19 +54,26 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
 
 #### Exploration and Cleaning
+[impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) - Time series preprocessing: Denoising, Compression, Resampling.  
+[Kaggler](https://github.com/jeongyoonlee/Kaggler) - Utility functions (`OneHotEncoder(min_obs=100)`)  
+[pyupset](https://github.com/ImSoErgodic/py-upset) - Visualizing intersecting sets.  
+[pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms.  
 
 #### Feature Engineering
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
+[pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
 [few](https://github.com/lacava/few) - Feature engineering wrapper for sklearn.  
 [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables.  
+[dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding dirty categorical variables.  
 [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) - LDA.  
 [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).  
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
+[pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 
 #### Feature Selection
 [Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
@@ -93,6 +101,7 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Wrapper for matplotlib for diagnosic ML plots.  
 [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
 [altair](https://altair-viz.github.io/) - Declarative statistical visualization library.  
+[bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.  
 [holoviews](http://holoviews.org/) - Visualization library.  
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) - Generate charts.  
@@ -159,7 +168,6 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [faiss](https://github.com/facebookresearch/faiss) - Approximate nearest neighbor search.  
 [pysparnn](https://github.com/facebookresearch/pysparnn) - Approximate nearest neighbor search.  
 [infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).  
-[textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
 [standfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.  
@@ -206,6 +214,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 
+#### Text Related
+[ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.  
+
 ##### Libs
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/).  
 [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
@@ -216,13 +227,16 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
 [ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
+[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch.  
 [Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
 [AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD.  
-[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
+[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).    
+[foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
+[hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
@@ -316,11 +330,16 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models.  
+[zhusuan](https://github.com/thu-ml/zhusuan) - Bayesian Deep Learning, Generative Models.  
 
-#### Stacking Models
+#### Causal Inference
+[dowhy](https://github.com/Microsoft/dowhy) - Estimate causal effects.  
+
+#### Stacking Models and Ensembles
 [mlxtend](https://github.com/rasbt/mlxtend) - `EnsembleVoteClassifier`, `StackingRegressor`, `StackingCVRegressor` for model stacking.  
 [vecstack](https://github.com/vecxoz/vecstack) - Stacking ML models.  
 [StackNet](https://github.com/kaz-Anova/StackNet) - Stacking ML models.  
+[mlens](https://github.com/flennerhag/mlens) - Ensemble learning.  
 
 #### Model Evaluation
 [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix.  
@@ -356,6 +375,9 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.  
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
+
+#### Online Learning
+[Kaggler](https://github.com/jeongyoonlee/Kaggler) - Online Learning algorithms.  
 
 #### Active Learning
 [Talk](https://www.youtube.com/watch?v=0efyjq5rWS4)  
@@ -411,6 +433,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
+[Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)   
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
 [Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
