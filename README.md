@@ -279,6 +279,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [fastdtw](https://github.com/slaypni/fastdtw) - Dynamic Time Warp Distance.  
 [fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) - Time Series Forecasting (R package).  
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
+[pydlm](https://github.com/wwrechard/pydlm) - Bayesian time series modeling ([R package](https://cran.r-project.org/web/packages/bsts/index.html), [Blog post](http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html))  
 [PyAF](https://github.com/antoinecarme/pyaf) - Automatic Time Series Forecasting.  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
 [matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf).  
