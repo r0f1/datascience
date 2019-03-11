@@ -48,6 +48,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
 
 #### Statistics
+[Null Hypothesis Significance Testing](https://rpsychologist.com/d3/NHST/), [Correlation](https://rpsychologist.com/d3/correlation/), [Cohen's d](https://rpsychologist.com/d3/cohend/), [Confidence Interval](https://rpsychologist.com/d3/CI/)
 [Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
 
