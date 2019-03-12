@@ -325,16 +325,15 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
 
-#### Bayes
+#### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 [PyMC3](https://docs.pymc.io/) - Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
 [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models.  
-[zhusuan](https://github.com/thu-ml/zhusuan) - Bayesian Deep Learning, Generative Models.  
-
-#### Causal Inference
+[zhusuan](https://github.com/thu-ml/zhusuan) - Bayesian deep learning, generative models.  
 [dowhy](https://github.com/Microsoft/dowhy) - Estimate causal effects.  
+[edward](https://github.com/blei-lab/edward) - Probabilistic modeling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
 
 #### Stacking Models and Ensembles
 [mlxtend](https://github.com/rasbt/mlxtend) - `EnsembleVoteClassifier`, `StackingRegressor`, `StackingCVRegressor` for model stacking.  
