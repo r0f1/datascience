@@ -201,6 +201,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 ##### Reading
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)   
 [Cell Segmentation Talk](https://www.youtube.com/watch?v=dVFZpodqJiI)  
+[Cell Segmentation Blog Post](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/) [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
 [Deep Learning Book](http://www.deeplearningbook.org/)   
 [Tutorial](https://github.com/lexfridman/mit-deep-learning)  
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
