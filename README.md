@@ -377,7 +377,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 
 #### Incremental Learning, Online Learning
-[creme-ml](https://github.com/creme-ml/creme) - Incremental learning framework.
+sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
+[creme-ml](https://github.com/creme-ml/creme) - Incremental learning framework.  
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Online Learning algorithms.  
 
 #### Active Learning
