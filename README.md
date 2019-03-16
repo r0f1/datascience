@@ -376,7 +376,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.  
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 
-#### Online Learning
+#### Incremental Learning, Online Learning
+[creme-ml](https://github.com/creme-ml/creme) - Incremental learning framework.
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Online Learning algorithms.  
 
 #### Active Learning
