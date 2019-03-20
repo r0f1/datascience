@@ -170,7 +170,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).  
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
-[standfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.  
+[stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.  
 
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
