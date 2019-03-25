@@ -175,22 +175,6 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
 
-#### Automated Machine Learning
-[AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
-[tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool, optimizes machine learning pipelines.  
-[auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
-[autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
-[nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
-
-#### Evolutionary Algorithms & Optimization
-[deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
-[evol](https://github.com/godatadriven/evol) - DSL for composable evolutionary algorithms, [talk](https://www.youtube.com/watch?v=68ABAU_V8qI&t=11m49s).  
-[platypus](https://github.com/Project-Platypus/Platypus) - Multiobjective optimization.  
-[nevergrad](https://github.com/facebookresearch/nevergrad) - Derivation-free optimization.  
-[gplearn](https://gplearn.readthedocs.io/en/stable/) - Sklearn-like interface for genetic programming.  
-[blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.  
-Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645-7).  
-
 #### Image Processing
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
@@ -367,6 +351,23 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [contrastive_explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive explanations.  
 [DrWhy](https://github.com/ModelOriented/DrWhy) - Collection of tools for explainable AI.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
+[xai](https://github.com/EthicalML/XAI) - An eXplainability toolbox for machine learning.  
+
+#### Automated Machine Learning
+[AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
+[tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool, optimizes machine learning pipelines.  
+[auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
+[autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
+[nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
+
+#### Evolutionary Algorithms & Optimization
+[deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
+[evol](https://github.com/godatadriven/evol) - DSL for composable evolutionary algorithms, [talk](https://www.youtube.com/watch?v=68ABAU_V8qI&t=11m49s).  
+[platypus](https://github.com/Project-Platypus/Platypus) - Multiobjective optimization.  
+[nevergrad](https://github.com/facebookresearch/nevergrad) - Derivation-free optimization.  
+[gplearn](https://gplearn.readthedocs.io/en/stable/) - Sklearn-like interface for genetic programming.  
+[blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.  
+Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645-7).  
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
@@ -376,6 +377,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.  
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
+[bbopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization.  
+[dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
 
 #### Incremental Learning, Online Learning
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
@@ -435,6 +438,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
+[Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)  
 [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
