@@ -105,13 +105,17 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [holoviews](http://holoviews.org/) - Visualization library.  
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) - Generate charts.  
-[panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
-[dash](https://dash.plot.ly/gallery) - Dashboarding solution.  
 [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph visualization (JS package).  
 [pm](https://github.com/anvaka/pm) - Navigatable 3D graph visualization (JS package), [example](https://w2v-vis-dot-hcg-team-di.appspot.com/#/galaxy/word2vec?cx=5698&cy=-5135&cz=5923&lx=0.1127&ly=0.3238&lz=-0.1680&lw=0.9242&ml=150&s=1.75&l=1&v=hc).  
-[visdom](https://github.com/facebookresearch/visdom) - Dashboarding library.  
 [python-ternary](https://github.com/marcharper/python-ternary) - Triangle plots.  
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
+
+#### Dashboards
+[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly.  
+[bokeh](https://github.com/bokeh/bokeh) - Dashboarding solution.  
+[visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
+[bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
+[panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library.  
