@@ -116,6 +116,7 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
 [bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
+[altair](https://github.com/xhochy/altair-vue-vega-example) - Example [video](https://www.youtube.com/watch?v=4L568emKOvs)
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library.  
