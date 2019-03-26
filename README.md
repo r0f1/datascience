@@ -228,6 +228,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).    
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
+[imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
