@@ -256,8 +256,6 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and ccalable clustering algorithm.  
 
 #### Interpretable Classifiers and Regressors
-[sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Interpretable classifiers, producing easily understood decision rules instead of black box models.  
-[sklearn-interpretable-tree](https://github.com/tmadl/sklearn-interpretable-tree) - Simplified tree-based classifier and regressor for interpretable machine learning.  
 [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
 
 #### Multi-label classification
