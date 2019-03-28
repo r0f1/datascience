@@ -315,6 +315,9 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
 
+#### Scoring
+[SLIM](https://github.com/ustunb/slim-python) - Scoring systems for classification, Supersparse linear integer models.  
+
 #### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 [PyMC3](https://docs.pymc.io/) - Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
