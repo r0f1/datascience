@@ -298,6 +298,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
 [lifelines](https://lifelines.readthedocs.io/en/latest/) - Survival analysis, Cox PH Regression, [talk](https://www.youtube.com/watch?v=aKZQUaNHYb0), [talk2](https://www.youtube.com/watch?v=fli-yE5grtY).  
 [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis.  
+[xgboost](https://github.com/dmlc/xgboost) - `"objective": "survival:cox"` [NHANES example](https://slundberg.github.io/shap/notebooks/NHANES%20I%20Survival%20Model.html)
 [survivalstan](https://github.com/hammerlab/survivalstan) - Survival analysis, [intro](http://www.hammerlab.org/2017/06/26/introducing-survivalstan/).  
 [convoys](https://github.com/better/convoys) - Analyze time lagged conversions.  
 RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).  
