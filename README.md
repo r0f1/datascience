@@ -250,7 +250,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm.  
-[nmslib](https://github.com/nmslib/nmslib) - Dimilarity search library and toolkit for evaluation of k-NN methods.  
+[nmslib](https://github.com/nmslib/nmslib) - Similarity search library and toolkit for evaluation of k-NN methods.  
 [buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and ccalable clustering algorithm.  
 
 #### Interpretable Classifiers and Regressors
