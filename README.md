@@ -116,7 +116,7 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
 [bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
-[altair](https://github.com/xhochy/altair-vue-vega-example) - Example [video](https://www.youtube.com/watch?v=4L568emKOvs)
+[altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs)
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library.  
@@ -134,8 +134,6 @@ Plotting (Descartes, Catropy)
 Predict economic indicators from Open Street Map [ipynb](https://github.com/njanakiev/osm-predict-economic-measurements/blob/master/osm-predict-economic-indicators.ipynb).  
 
 #### Recommender Systems
-[List](https://github.com/grahamjenson/list_of_recommender_systems)  
-[Microsoft Repo](https://github.com/Microsoft/Recommenders)  
 Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender).  
 [surprise](https://github.com/NicolasHug/Surprise) - Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
 [turicreate](https://github.com/apple/turicreate) - Recommender.  
@@ -433,6 +431,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
 [Distill.pub](https://distill.pub/) - Blog.
 
+
+
 #### Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
@@ -446,11 +446,13 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
-[Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)   
+[Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
+[Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
 [Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
 [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
+[Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
