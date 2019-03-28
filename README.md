@@ -251,7 +251,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm.  
 [nmslib](https://github.com/nmslib/nmslib) - Similarity search library and toolkit for evaluation of k-NN methods.  
-[buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and ccalable clustering algorithm.  
+[buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and scalable clustering algorithm.  
 
 #### Interpretable Classifiers and Regressors
 [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
