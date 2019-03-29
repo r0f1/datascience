@@ -51,6 +51,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 
 #### Statistics
 Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsychologist.com/d3/NHST/), [Correlation](https://rpsychologist.com/d3/correlation/), [Cohen's d](https://rpsychologist.com/d3/cohend/), [Confidence Interval](https://rpsychologist.com/d3/CI/), [Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/), [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/), [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/), [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)   
+[Common statistical tests explained](https://lindeloev.github.io/tests-as-linear/)
 [Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
 
@@ -203,6 +204,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
+[cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
 #### Text Related
 [ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.  
@@ -368,6 +370,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
+[automl-gs](https://github.com/minimaxir/automl-gs) - Automated machine learning.  
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
