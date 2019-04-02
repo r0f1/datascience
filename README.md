@@ -38,6 +38,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
+[cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.  
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
 [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
 [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
