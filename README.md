@@ -143,6 +143,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets.  
 [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.  
 [lightfm](https://github.com/lyst/lightfm) - Recommendation algorithms for both implicit and explicit feedback.  
+[funk-svd](https://github.com/gbolmier/funk-svd) - Fast SVD.  
 
 #### Decision Tree Models
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
