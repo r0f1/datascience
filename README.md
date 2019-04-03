@@ -99,6 +99,7 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
+[matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams.  
 [joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Wrapper for matplotlib for diagnosic ML plots.  
 [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
