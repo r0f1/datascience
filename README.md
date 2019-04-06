@@ -69,7 +69,7 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
 [few](https://github.com/lacava/few) - Feature engineering wrapper for sklearn.  
 [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.  
-[categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables.  
+[categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables, [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).  
 [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding dirty categorical variables.  
 [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) - LDA.  
@@ -88,8 +88,8 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 
 #### Dimensionality Reduction
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
-[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) - Multidimensional scaling.  
-[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) - t-distributed Stochastic Neighbor Embedding. Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) - Multidimensional scaling (MDS).  
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) - t-distributed Stochastic Neighbor Embedding (t-SNE), [intro](https://distill.pub/2016/misread-tsne/). Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
 [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html) - Truncated SVD (aka LSA).  
 [mdr](https://github.com/EpistasisLab/scikit-mdr) - Dimensionality reduction, multifactor dimensionality reduction (MDR).  
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection.  
@@ -101,8 +101,10 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
 [matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams.  
 [joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
+[mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Wrapper for matplotlib for diagnosic ML plots.  
 [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
+[plotnine](https://github.com/has2k1/plotnine) - ggplot for Python.  
 [altair](https://altair-viz.github.io/) - Declarative statistical visualization library.  
 [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.  
 [holoviews](http://holoviews.org/) - Visualization library.  
@@ -144,6 +146,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.  
 [lightfm](https://github.com/lyst/lightfm) - Recommendation algorithms for both implicit and explicit feedback.  
 [funk-svd](https://github.com/gbolmier/funk-svd) - Fast SVD.  
+[pywFM](https://github.com/jfloff/pywFM) - Factorization.  
 
 #### Decision Tree Models
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
@@ -236,6 +239,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 
 ##### Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
+[Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)
 
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
@@ -336,6 +340,7 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [edward](https://github.com/blei-lab/edward) - Probabilistic modeling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
 
 #### Stacking Models and Ensembles
+[Model Stacking Blog Post](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)  
 [mlxtend](https://github.com/rasbt/mlxtend) - `EnsembleVoteClassifier`, `StackingRegressor`, `StackingCVRegressor` for model stacking.  
 [vecstack](https://github.com/vecxoz/vecstack) - Stacking ML models.  
 [StackNet](https://github.com/kaz-Anova/StackNet) - Stacking ML models.  
@@ -440,12 +445,9 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
 
-
 #### Blogs
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
 [Distill.pub](https://distill.pub/) - Blog.
-
-
 
 #### Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
