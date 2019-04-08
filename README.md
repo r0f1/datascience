@@ -339,6 +339,7 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [zhusuan](https://github.com/thu-ml/zhusuan) - Bayesian deep learning, generative models.  
 [dowhy](https://github.com/Microsoft/dowhy) - Estimate causal effects.  
 [edward](https://github.com/blei-lab/edward) - Probabilistic modeling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
+[Pyro](http://pyro.ai/) - Deep Universal Probabilistic Programming
 
 #### Stacking Models and Ensembles
 [Model Stacking Blog Post](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)  
