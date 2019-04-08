@@ -41,7 +41,8 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
 [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
 [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
-[bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.      
+[bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
+[cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
