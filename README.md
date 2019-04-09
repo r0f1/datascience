@@ -232,7 +232,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
-[lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
+[lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
 [AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD.  
 [caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).    
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
