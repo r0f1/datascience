@@ -459,6 +459,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
+[Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)  
