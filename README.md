@@ -303,6 +303,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [obspy](https://github.com/obspy/obspy) - Seismology package. Useful `classic_sta_lta` function.  
 [RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Robust Seasonal-Trend Decomposition.  
 [seglearn](https://github.com/dmbee/seglearn) - Time Series library.  
+[pyts](https://github.com/johannfaouzi/pyts) - Time series transformation and classification.  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
