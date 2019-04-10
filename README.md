@@ -24,7 +24,9 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) - Code formatting for jupyter notebooks.  
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
-[nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
+[nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/). 
+[deepnote](https://www.deepnote.com) - Jupyter with better UI and collaboration features
+
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
