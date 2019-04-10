@@ -108,7 +108,7 @@ Visualizations - [Null Hypothesis Significance Testing (NHST)](https://rpsycholo
 [plotnine](https://github.com/has2k1/plotnine) - ggplot for Python.  
 [altair](https://altair-viz.github.io/) - Declarative statistical visualization library.  
 [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.  
-[holoviews](http://holoviews.org/) - Visualization library.  
+[hvplot](https://github.com/pyviz/hvplot) - High-level plotting library built on top of [holoviews](http://holoviews.org/).  
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) - Generate charts.  
 [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph visualization (JS package).  
