@@ -43,6 +43,7 @@ General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks
 [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
 [bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
+[vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
