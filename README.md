@@ -203,6 +203,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
 [Talk](https://www.youtube.com/watch?v=EK61htlw8hY): Extracting knowledge of big NNs to smaller NNs    
 [Visualization of optimization algorithms](https://vis.ensmallen.org/)  
+[Tensorflow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - Neural Network course by Google.  
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
@@ -239,9 +240,10 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
 
-##### Snippets
+##### Applications and Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
-[Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)
+[Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)  
+[Image Super-Resolution](https://github.com/idealo/image-super-resolution) -  Super-scaling using a Residual Dense Network.  
 
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
@@ -303,7 +305,8 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [obspy](https://github.com/obspy/obspy) - Seismology package. Useful `classic_sta_lta` function.  
 [RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Robust Seasonal-Trend Decomposition.  
 [seglearn](https://github.com/dmbee/seglearn) - Time Series library.  
-[pyts](https://github.com/johannfaouzi/pyts) - Time series transformation and classification.  
+[pyts](https://github.com/johannfaouzi/pyts) - Time series transformation and classification, [Imaging time series](https://pyts.readthedocs.io/en/latest/auto_examples/index.html#imaging-time-series).  
+Turn time series into images and use Neural Nets: [example](https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47), [example](https://github.com/kiss90/time-series-classification).  
 
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
