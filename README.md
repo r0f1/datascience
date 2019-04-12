@@ -153,6 +153,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [pywFM](https://github.com/jfloff/pywFM) - Factorization.  
 
 #### Decision Tree Models
+[Intro to Decision Trees and Random Forests](https://victorzhou.com/blog/intro-to-random-forests/), [Intro to Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)    
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
 [xgboost](https://github.com/dmlc/xgboost) - Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters), Methods for CIs: [link1](https://stats.stackexchange.com/questions/255783/confidence-interval-for-xgb-forecast), [link2](https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b).  
 [catboost](https://github.com/catboost/catboost) - Gradient boosting.  
