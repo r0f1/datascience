@@ -169,6 +169,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [bartpy](https://github.com/JakeColtman/bartpy) - Bayesian Additive Regression Trees.  
 [infiniteboost](https://github.com/arogozhnikov/infiniteboost) - Combination of RFs and GBDTs.  
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
+[rrcf](https://github.com/kLabUM/rrcf) - Robust Random Cut Forest algorithm for anomaly detection on streams.  
 
 #### Natural Language Processing (NLP) / Text Processing
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).  
@@ -243,6 +244,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
+[netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
+[torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
 ##### Applications and Snippets
 [Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
