@@ -440,6 +440,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.  
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
+[BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production
 
 #### Other
 [dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
