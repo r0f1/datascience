@@ -14,7 +14,7 @@
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
 
 #### Pandas and Jupyter
-General ticks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
+General tricks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
