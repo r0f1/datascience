@@ -200,16 +200,13 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 #### Neural Networks  
 
-##### Reading
-[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)   
-[Cell Segmentation Talk](https://www.youtube.com/watch?v=dVFZpodqJiI)  
-[Cell Segmentation Blog Post](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/) [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
-[Deep Learning Book](http://www.deeplearningbook.org/)   
-[Tutorial](https://github.com/lexfridman/mit-deep-learning)  
-Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
-[Talk](https://www.youtube.com/watch?v=EK61htlw8hY): Extracting knowledge of big NNs to smaller NNs    
-[Visualization of optimization algorithms](https://vis.ensmallen.org/)  
+##### Tutorials
+[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
+fast.ai course - [Lessons 1-7](https://course.fast.ai/videos/?lesson=1), [Lessons 8-14](http://course18.fast.ai/lessons/lessons2.html)  
 [Tensorflow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - Neural Network course by Google.  
+Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
+[Tensorflow Playground](https://playground.tensorflow.org/)  
+[Visualization of optimization algorithms](https://vis.ensmallen.org/)  
 
 ##### Image Related
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
@@ -225,7 +222,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
 
 ##### Libs
-[keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/).  
+[keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/), [examples](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24).  
 [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
 [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.  
@@ -249,9 +246,12 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
 ##### Applications and Snippets
-[Simple Keras models](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24)  
+[CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
+[SPADE](https://github.com/nvlabs/spade) - Semantic Image Synthesis.  
 [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)  
-[Image Super-Resolution](https://github.com/idealo/image-super-resolution) -  Super-scaling using a Residual Dense Network.  
+[Image Super-Resolution](https://github.com/idealo/image-super-resolution) - Super-scaling using a Residual Dense Network.  
+Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Posts: [1](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/), [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
+[CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
 
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
