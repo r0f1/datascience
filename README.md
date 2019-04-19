@@ -475,6 +475,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
 [Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)  
+[Awesome CSV](https://github.com/secretGeek/AwesomeCSV)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 [Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)  
