@@ -83,6 +83,8 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Feature Selection
 [Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
+[sklearn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection) - Feature selection.  
+[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Features selection helper methods around sklearn.  
 [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection algorithms.  
 [stability-selection](https://github.com/scikit-learn-contrib/stability-selection) - Stability selection.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Relief-based feature selection algorithms.  
