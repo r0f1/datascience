@@ -24,6 +24,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) - Code formatting for jupyter notebooks.  
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
+[ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter spreadsheet widget.  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 
 #### Extraction
@@ -131,7 +132,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs)
 
 #### Geopraphical Tools
-[folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library.  
+[folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library, [jupyter plugin](https://github.com/jupyter-widgets/ipyleaflet).  
 [stadiamaps](https://stadiamaps.com/) - Plot geographical maps.  
 [datashader](https://github.com/bokeh/datashader) - Draw millions of points on a map.  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) - BallTree, [Example](https://tech.minodes.com/experiments-with-in-memory-spatial-radius-queries-in-python-e40c9e66cf63).  
