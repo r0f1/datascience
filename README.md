@@ -473,7 +473,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
 [Distill.pub](https://distill.pub/) - Blog.
 
-#### Awesome Lists
+#### Awesome Lists and Resources
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
@@ -482,6 +482,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
 [Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)  
+[Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)  
@@ -495,6 +496,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
 [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
+[The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347) - List of Generative Adversarial Networks  
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
