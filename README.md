@@ -33,7 +33,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Big Data
 [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).  
-[sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn.  
+[sparkit-learn](https://github.com/lensacom/sparkit-learn), [spark-deep-learning](https://github.com/databricks/spark-deep-learning) - ML frameworks for spark.  
 [dask](https://github.com/dask/dask), [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library, [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
@@ -45,6 +45,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
+[petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
@@ -481,6 +482,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
+[Awesome ETL](https://github.com/pawl/awesome-etl)  
 [Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)  
 [Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
