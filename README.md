@@ -478,6 +478,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Distill.pub](https://distill.pub/) - Blog.
 
 #### Awesome Lists and Resources
+[Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
