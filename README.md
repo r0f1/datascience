@@ -126,7 +126,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 
 #### Dashboards
-[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo)    
+[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo), [example](https://github.com/ned2/slapdash)    
 [bokeh](https://github.com/bokeh/bokeh) - Dashboarding solution.  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
 [bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
@@ -481,6 +481,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
+[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)  
 [Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)  
 [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
