@@ -412,6 +412,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
 [evol](https://github.com/godatadriven/evol) - DSL for composable evolutionary algorithms, [talk](https://www.youtube.com/watch?v=68ABAU_V8qI&t=11m49s).  
 [platypus](https://github.com/Project-Platypus/Platypus) - Multiobjective optimization.  
+[autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.  
 [nevergrad](https://github.com/facebookresearch/nevergrad) - Derivation-free optimization.  
 [gplearn](https://gplearn.readthedocs.io/en/stable/) - Sklearn-like interface for genetic programming.  
 [blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.  
