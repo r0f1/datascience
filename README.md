@@ -103,6 +103,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [mdr](https://github.com/EpistasisLab/scikit-mdr) - Dimensionality reduction, multifactor dimensionality reduction (MDR).  
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection.  
 [FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based t-SNE.  
+[scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=L1o7a5Glv4A).    
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
@@ -417,6 +418,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [gplearn](https://gplearn.readthedocs.io/en/stable/) - Sklearn-like interface for genetic programming.  
 [blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.  
 Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645-7).  
+[DeepSwarm](https://github.com/Pattio/DeepSwarm) - Neural architecture search.  
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
@@ -498,6 +500,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
+[Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)  
 [Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
