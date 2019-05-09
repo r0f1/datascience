@@ -85,16 +85,17 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 
 #### Feature Selection
+Blog post series - [1 Univariate Selection](http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/), [2 Linear Models and Regularization](http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/), [3 Random Forests](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/), [4 Stability selection and RFE](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 [Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
 [sklearn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection) - Feature selection.  
-[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Features selection helper methods around sklearn.  
+[eli5](https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html#feature-selection) - Feature selection using permutation importance.  
 [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection algorithms.  
 [stability-selection](https://github.com/scikit-learn-contrib/stability-selection) - Stability selection.  
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Relief-based feature selection algorithms.  
 [scikit-genetic](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection.  
 [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
-
+[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.    
 #### Dimensionality Reduction
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) - Multidimensional scaling (MDS).  
