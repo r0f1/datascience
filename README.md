@@ -113,7 +113,8 @@ Blog post series - [1 Univariate Selection](http://blog.datadive.net/selecting-g
 [matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams.  
 [joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
 [mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
-[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Wrapper for matplotlib for diagnosic ML plots.  
+[scikit-plot](https://github.com/reiinakano/scikit-plot) - ROC curves and other visualizations for ML models.  
+[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visualizations for ML models (similar to scikit-plot).  
 [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
 [animatplot](https://github.com/t-makaro/animatplot) - Animate plots build on matplotlib.  
 [plotnine](https://github.com/has2k1/plotnine) - ggplot for Python.  
