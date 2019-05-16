@@ -332,6 +332,11 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [pyts](https://github.com/johannfaouzi/pyts) - Time series transformation and classification, [Imaging time series](https://pyts.readthedocs.io/en/latest/auto_examples/index.html#imaging-time-series).  
 Turn time series into images and use Neural Nets: [example](https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47), [example](https://github.com/kiss90/time-series-classification).  
 
+##### Time Series Evaluation
+
+[TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html) - Sklearn time series split.  
+[tscv](https://github.com/WenjieZ/TSCV) - Evaluation with gap.  
+
 #### Financial Data
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
