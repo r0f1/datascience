@@ -397,7 +397,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Warning (Myth 7)](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/).  
 [lime_xgboost](https://github.com/jphall663/lime_xgboost) - Create LIMEs for XGBoost.  
 [eli5](https://github.com/TeamHG-Memex/eli5) - Inspecting machine learning classifiers and explaining their predictions.  
-[lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance, [talk](https://www.youtube.com/watch?v=zqsQ2ojj7sE).  
+[lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance, [talk](https://www.youtube.com/watch?v=zqsQ2ojj7sE), examples: [1](https://www.kaggle.com/divrikwicky/pf-f-lofo-importance-on-adversarial-validation), [2](https://www.kaggle.com/divrikwicky/lofo-importance), [3](https://www.kaggle.com/divrikwicky/santanderctp-lofo-feature-importance).  
 [pybreakdown](https://github.com/MI2DataLab/pyBreakDown) - Generate feature contribution plots.  
 [FairML](https://github.com/adebayoj/fairml) - Model explanation, feature importance.  
 [pycebox](https://github.com/AustinRochford/PyCEbox) - Individual Conditional Expectation Plot Toolbox.  
