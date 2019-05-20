@@ -410,6 +410,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [DrWhy](https://github.com/ModelOriented/DrWhy) - Collection of tools for explainable AI.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
 [xai](https://github.com/EthicalML/XAI) - An eXplainability toolbox for machine learning.  
+[innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
