@@ -205,10 +205,12 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
 
 #### Image Processing
+[Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
 [mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).  
 [imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
+[CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.  
 
 #### Neural Networks  
 
