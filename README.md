@@ -278,6 +278,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [GLRM](https://github.com/madeleineudell/LowRankModels.jl) - Generalized Low Rank Models.  
 
 #### Classification
+[Talk](https://www.youtube.com/watch?v=DkLPYccEJ8Y)  
 [All classification metrics](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf)  
 [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Dynamic classifier and ensemble selection  
 
