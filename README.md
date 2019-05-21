@@ -363,6 +363,7 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [eif](https://github.com/sahandha/eif) - Extended Isolation Forest.  
 [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly detection (R package).  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
+Distances for comparing histograms and detecting outliers - [Talk](https://www.youtube.com/watch?v=U7xdiGc7IRU): [Kolmogorov-Smirnov](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html), [Wasserstein](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html), [Energy Distance (Cramer)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.energy_distance.html), [Kullback-Leibler divergence](https://scipy.github.io/devdocs/generated/scipy.stats.entropy.html)  
 
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
