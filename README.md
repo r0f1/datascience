@@ -313,6 +313,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [prophet](https://github.com/facebook/prophet) - Time series prediction library.  
 [pm-prophet](https://github.com/luke14free/pm-prophet) - Time series prediction and decomposition library.  
 [htsprophet](https://github.com/CollinRooney12/htsprophet) - Hierarchical Time Series Forecasting using Prophet.  
+[nupic](https://github.com/numenta/nupic) - Hierarchical Temporal Memory (HTM) for Time Series Prediction and Anomaly Detection.  
 [tensorflow](https://github.com/tensorflow/tensorflow/) - LSTM and others, examples: [link](
 https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 ), [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples), [Explain LSTM](https://github.com/slundberg/shap/blob/master/notebooks/deep_explainer/Keras%20LSTM%20for%20IMDB%20Sentiment%20Classification.ipynb), seq2seq: [1](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/), [2](https://github.com/guillaume-chevalier/seq2seq-signal-prediction), [3](https://github.com/JEddy92/TimeSeries_Seq2Seq/blob/master/notebooks/TS_Seq2Seq_Intro.ipynb), [4](https://github.com/LukeTonin/keras-seq-2-seq-signal-prediction)  
