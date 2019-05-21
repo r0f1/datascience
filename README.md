@@ -72,6 +72,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms.  
 
 #### Feature Engineering
+[Talk](https://www.youtube.com/watch?v=68ABAU_V8qI)  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
 [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
 [few](https://github.com/lacava/few) - Feature engineering wrapper for sklearn.  
@@ -109,7 +110,7 @@ Blog post series - [1 Univariate Selection](http://blog.datadive.net/selecting-g
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
-[physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y).  
+[physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
 [matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams.  
 [joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
 [mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
