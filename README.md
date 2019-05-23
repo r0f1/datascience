@@ -443,9 +443,9 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
 [hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
 [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt + sklearn.  
+[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization, [Talk](https://www.youtube.com/watch?v=tcrcLRopTX0).  
 [skopt](https://scikit-optimize.github.io/) - `BayesSearchCV` for Hyperparameter search.  
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
-[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization.  
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 [bbopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization.  
 [dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
