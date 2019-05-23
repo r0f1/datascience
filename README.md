@@ -279,6 +279,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) - Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
 [pygam](https://github.com/dswah/pyGAM) - Generalized Additive Models (GAMs), [Explanation](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/).  
 [GLRM](https://github.com/madeleineudell/LowRankModels.jl) - Generalized Low Rank Models.  
+[tweedie](https://xgboost.readthedocs.io/en/latest/parameter.html#parameters-for-tweedie-regression-objective-reg-tweedie) - Specialized distribution for zero inflated targets, [Talk](https://www.youtube.com/watch?v=-o0lpHBq85I).  
 
 #### Classification
 [Talk](https://www.youtube.com/watch?v=DkLPYccEJ8Y), [Notebook](https://github.com/ianozsvald/data_science_delivered/blob/master/ml_creating_correct_capable_classifiers.ipynb)  
