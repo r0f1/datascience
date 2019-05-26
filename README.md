@@ -428,6 +428,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
 [automl-gs](https://github.com/minimaxir/automl-gs) - Automated machine learning.  
+[mljar](https://github.com/mljar/mljar-supervised) - Automated machine learning.  
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
