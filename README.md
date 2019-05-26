@@ -26,6 +26,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
 [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter spreadsheet widget.  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
+[RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
