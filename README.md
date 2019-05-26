@@ -443,6 +443,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
+[sklearn-deap](https://github.com/rsteca/sklearn-deap) - Hyperparameter search using genetic algorithms.  
 [hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
 [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt + sklearn.  
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization, [Talk](https://www.youtube.com/watch?v=tcrcLRopTX0).  
@@ -451,6 +452,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 [bbopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization.  
 [dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
+
 
 #### Incremental Learning, Online Learning
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
