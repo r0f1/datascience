@@ -420,6 +420,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
 [xai](https://github.com/EthicalML/XAI) - An eXplainability toolbox for machine learning.  
 [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
+[dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
