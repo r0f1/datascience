@@ -498,6 +498,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [attrs](https://github.com/python-attrs/attrs) - Python classes without boilerplate.  
 [dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
+[pyup](https://github.com/pyupio/pyup) - Python dependency management.  
 
 #### Blogs
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  
