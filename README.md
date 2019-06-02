@@ -421,6 +421,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [xai](https://github.com/EthicalML/XAI) - An eXplainability toolbox for machine learning.  
 [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
 [dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
+[interpret](https://github.com/microsoft/interpret) - Fit interpretable models, explain models (Microsoft).  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
@@ -533,6 +534,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
 [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347) - List of Generative Adversarial Networks  
+[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)  
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
