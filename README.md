@@ -87,8 +87,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 
 #### Feature Selection
-Blog post series - [1 Univariate Selection](http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/), [2 Linear Models and Regularization](http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/), [3 Random Forests](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/), [4 Stability selection and RFE](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
-[Tutorial](https://machinelearningmastery.com/feature-selection-machine-learning-python/), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
+[Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
+Blog post series - [1](http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/), [2](http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/), [3](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/), [4](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)  
+Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection-with-sklearn), [2](https://machinelearningmastery.com/feature-selection-machine-learning-python/)  
 [sklearn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection) - Feature selection.  
 [eli5](https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html#feature-selection) - Feature selection using permutation importance.  
 [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection algorithms.  
