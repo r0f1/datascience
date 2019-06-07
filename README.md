@@ -99,7 +99,9 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.    
+
 #### Dimensionality Reduction
+[Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU)  
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) - Multidimensional scaling (MDS).  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) - t-distributed Stochastic Neighbor Embedding (t-SNE), [intro](https://distill.pub/2016/misread-tsne/). Faster implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE).  
