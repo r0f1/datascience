@@ -76,6 +76,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Talk](https://www.youtube.com/watch?v=68ABAU_V8qI)  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
 [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
+[scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.  
 [few](https://github.com/lacava/few) - Feature engineering wrapper for sklearn.  
 [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables, [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).  
@@ -271,6 +272,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [Image Super-Resolution](https://github.com/idealo/image-super-resolution) - Super-scaling using a Residual Dense Network.  
 Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Posts: [1](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/), [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
 [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
+[deeplearning-models](https://github.com/rasbt/deeplearning-models) - Deep learning models.  
 
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
