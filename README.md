@@ -57,13 +57,16 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Statistics
 [Common statistical tests explained](https://lindeloev.github.io/tests-as-linear/)  
-[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
+[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.    
+[researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
+[ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
 
 ##### Visualizations
 [Null Hypothesis Significance Testing (NHST)](https://rpsychologist.com/d3/NHST/), [Correlation](https://rpsychologist.com/d3/correlation/), [Cohen's d](https://rpsychologist.com/d3/cohend/), [Confidence Interval](https://rpsychologist.com/d3/CI/), [Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/), [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/), [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/), [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)    
 
 #### Exploration and Cleaning
+[Checklist](https://github.com/r0f1/ml_checklist).  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
@@ -140,7 +143,8 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
 [bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
-[altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs)
+[altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
+[voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library, [jupyter plugin](https://github.com/jupyter-widgets/ipyleaflet).  
@@ -309,9 +313,10 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
 
 #### Signal Processing and Filtering
+[Stanford Lecture Series on Fourier Transformation](https://see.stanford.edu/Course/EE261), [Youtube](https://www.youtube.com/watch?v=gZNm7L96pfY), [Lecture Notes](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf).  
+[The Scientist & Engineer's Guide to Digital Signal Processing (1999)](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html).  
 [Kalman Filter book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Focuses on intuition using Jupyter Notebooks. Includes Baysian and various Kalman filters.  
 [Interactive Tool](https://fiiir.com/) for FIR and IIR filters, [Examples](https://plot.ly/python/fft-filters/).  
-[The Scientist & Engineer's Guide to Digital Signal Processing (1999)](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html).  
 [filterpy](https://github.com/rlabbe/filterpy) - Kalman filtering and optimal estimation library.  
 
 #### Time Series
@@ -489,6 +494,11 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
 [BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production
+
+#### Math and Background
+Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
+Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
+](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
 
 #### Other
 [dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
