@@ -518,7 +518,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [pyup](https://github.com/pyupio/pyup) - Python dependency management.  
 
 #### Blogs
-[PocketCluster](https://blog.pocketcluster.io/) - Blog.  
 [Distill.pub](https://distill.pub/) - Blog.
 
 #### Awesome Lists and Resources
