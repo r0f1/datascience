@@ -48,6 +48,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
+[zappy](https://github.com/lasersonlab/zappy) - Distributed numpy arrays.  
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
