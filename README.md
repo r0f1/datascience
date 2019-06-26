@@ -56,15 +56,28 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
 
-#### Statistics
-[Common statistical tests explained](https://lindeloev.github.io/tests-as-linear/)  
-[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.    
+#### Classical Statistics
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
-[ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
+[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.    
+
+#### Tests
+[Blog post](https://lindeloev.github.io/tests-as-linear/)  
+[scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.
+[ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
 
 ##### Visualizations
-[Null Hypothesis Significance Testing (NHST)](https://rpsychologist.com/d3/NHST/), [Correlation](https://rpsychologist.com/d3/correlation/), [Cohen's d](https://rpsychologist.com/d3/cohend/), [Confidence Interval](https://rpsychologist.com/d3/CI/), [Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/), [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/), [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/), [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)    
+[Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)  
+[Correlation](https://rpsychologist.com/d3/correlation/)  
+[Cohen's d](https://rpsychologist.com/d3/cohend/)  
+[Confidence Interval](https://rpsychologist.com/d3/CI/)  
+[Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/)  
+[Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/)  
+[Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
+[Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)     
+
+#### Talks
+[Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
