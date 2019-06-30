@@ -162,6 +162,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 
 #### Geopraphical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library, [jupyter plugin](https://github.com/jupyter-widgets/ipyleaflet).  
+[gmaps](https://github.com/pbugnion/gmaps) - Google Maps for Jupyter notebooks.  
 [stadiamaps](https://stadiamaps.com/) - Plot geographical maps.  
 [datashader](https://github.com/bokeh/datashader) - Draw millions of points on a map.  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) - BallTree, [Example](https://tech.minodes.com/experiments-with-in-memory-spatial-radius-queries-in-python-e40c9e66cf63).  
@@ -262,6 +263,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 ##### Libs
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/), [examples](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24).  
 [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
+[keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for Keras.  
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
 [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.  
 [tflearn](https://github.com/tflearn/tflearn) - Neural Networks on top of tensorflow.  
