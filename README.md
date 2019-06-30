@@ -78,6 +78,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
+[Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)  
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
