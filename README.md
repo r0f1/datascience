@@ -278,7 +278,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
-[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD.  
+[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD, [alt](https://github.com/titu1994/keras-adabound).  
 [caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).    
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
@@ -287,6 +287,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
 ##### Applications and Snippets
+[efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
 [SPADE](https://github.com/nvlabs/spade) - Semantic Image Synthesis.  
 [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)  
