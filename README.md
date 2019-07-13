@@ -28,6 +28,10 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
 
+#### Helpful
+[pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
+[intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s). 
+
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
 [camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.  
@@ -37,6 +41,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [sparkit-learn](https://github.com/lensacom/sparkit-learn), [spark-deep-learning](https://github.com/databricks/spark-deep-learning) - ML frameworks for spark.  
 [koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark.  
 [dask](https://github.com/dask/dask), [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library, [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
+[dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.  
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
@@ -230,13 +235,21 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
 
+#### Biology
+
+##### Sequencing
+[scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
+
+##### Image-related
+[mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
+[imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
+[CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
+[imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
+
 #### Image Processing
 [Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
-[mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).  
-[imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
-[CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.  
 
 #### Neural Networks  
 
