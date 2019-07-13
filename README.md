@@ -496,7 +496,6 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [bbopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization.  
 [dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
 
-
 #### Incremental Learning, Online Learning
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
 [creme-ml](https://github.com/creme-ml/creme) - Incremental learning framework, [talk](https://www.youtube.com/watch?v=P3M6dt7bY9U).  
@@ -519,12 +518,19 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [astroml](https://github.com/astroML/astroML) - ML for astronomical data.  
 
 #### Deployment and Lifecycle Management
+
+##### General
+[pyup](https://github.com/pyupio/pyup) - Python dependency management.  
+[pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
+
+##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
 [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.  
 [mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.  
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
 [BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production
+[dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
 
 #### Math and Background
 Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
@@ -532,7 +538,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 ](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
 
 #### Other
-[dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
 [daft](https://github.com/dfm/daft) - Render probabilistic graphical models using matplotlib.  
 [unyt](https://github.com/yt-project/unyt) - Working with units.  
 [scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
@@ -546,7 +551,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [attrs](https://github.com/python-attrs/attrs) - Python classes without boilerplate.  
 [dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
-[pyup](https://github.com/pyupio/pyup) - Python dependency management.  
 
 #### Blogs
 [Distill.pub](https://distill.pub/) - Blog.
