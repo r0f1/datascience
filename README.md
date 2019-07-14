@@ -245,6 +245,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
 [CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
 [imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
+[microscopium](https://github.com/microscopium/microscopium) - Unsupervised clustering of images + viewer, [talk](https://www.youtube.com/watch?v=ytEQl9xs8FQ).  
 
 #### Image Processing
 [Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
@@ -285,7 +286,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
 [ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
-[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch.  
+[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
 [Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
