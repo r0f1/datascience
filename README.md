@@ -523,6 +523,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 ##### General
 [pyup](https://github.com/pyupio/pyup) - Python dependency management.  
 [pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
+[pypi2nix] - Fix package versions and create reproducible environments, [Talk](https://www.youtube.com/watch?v=USDbjmxEZ_I).
 
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
