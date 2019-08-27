@@ -18,7 +18,6 @@ General tricks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-trick
 Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
 [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
-[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) - Code formatting for jupyter notebooks.  
@@ -27,6 +26,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter spreadsheet widget.  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
+[papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).
 
 #### Helpful
 [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
@@ -43,6 +43,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [dask](https://github.com/dask/dask), [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library, [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
 [dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.  
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
+[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
 [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.  
