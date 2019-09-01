@@ -56,11 +56,12 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 [zappy](https://github.com/lasersonlab/zappy) - Distributed numpy arrays.  
 
-##### Command line tools
+##### Command line tools, CSV
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
 [xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
+[tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by ebay.  
 
 #### Classical Statistics
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
@@ -394,6 +395,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
 [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
+[stockstats](https://github.com/jealous/stockstats) - Pandas DataFrame wrapper for working with stock data.  
 
 #### Survival Analysis
 [Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
@@ -533,8 +535,9 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.  
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
-[BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production
+[BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production.  
 [dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
+[dagster](https://github.com/dagster-io/dagster) - Tool with focus on dependency graphs.  
 
 #### Math and Background
 Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
