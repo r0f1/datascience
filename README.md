@@ -207,6 +207,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [scikit-garden](https://github.com/scikit-garden/scikit-garden) - Quantile Regression.  
 [grf](https://github.com/grf-labs/grf) - Generalized random forest.  
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
+[Nuance](https://github.com/SauceCat/Nuance) - Decision tree visualization.  
 [rfpimp](https://github.com/parrt/random-forest-importances) - Feature Importance for RandomForests using Permuation Importance.  
 Why the default feature importance for random forests is wrong: [link](http://explained.ai/rf-importance/index.html)  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
