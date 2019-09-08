@@ -29,6 +29,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).
 
 #### Helpful
+[icecream](https://github.com/gruns/icecream) - Simple debugging output.  
 [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
 [intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s). 
 
