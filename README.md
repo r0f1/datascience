@@ -273,6 +273,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Extension for imgaug.  
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
+[Random-Erasing](https://github.com/zhunzhong07/Random-Erasing) - Image augmentation technique.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 [cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
