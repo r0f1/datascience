@@ -268,12 +268,11 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [Visualization of optimization algorithms](https://vis.ensmallen.org/)  
 
 ##### Image Related
-[keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
 [imgaug](https://github.com/aleju/imgaug) - More sophisticated image preprocessing.  
 [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Extension for imgaug.  
-[albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
-[Random-Erasing](https://github.com/zhunzhong07/Random-Erasing) - Image augmentation technique.  
+[keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
+[albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 [cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
