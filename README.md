@@ -10,7 +10,6 @@
 [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Basic statistics using `DataFrameSummary(df).summary()`.  
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.  
-[janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
 
 #### Pandas and Jupyter
@@ -26,9 +25,11 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter spreadsheet widget.  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
-[papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).
+[papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
+[pixiedust](https://github.com/pixiedust/pixiedust) - Helper library for Jupyter.  
 
 #### Helpful
+[tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops.  
 [icecream](https://github.com/gruns/icecream) - Simple debugging output.  
 [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
 [intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s). 
@@ -90,6 +91,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
+[janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
@@ -380,7 +382,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [pydlm](https://github.com/wwrechard/pydlm) - Bayesian time series modeling ([R package](https://cran.r-project.org/web/packages/bsts/index.html), [Blog post](http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html))  
 [PyAF](https://github.com/antoinecarme/pyaf) - Automatic Time Series Forecasting.  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
-[matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf).  
+[matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf), [alternative](https://github.com/matrix-profile-foundation/mass-ts).  
 [stumpy](https://github.com/TDAmeritrade/stumpy) - Another matrix profile library.  
 [obspy](https://github.com/obspy/obspy) - Seismology package. Useful `classic_sta_lta` function.  
 [RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Robust Seasonal-Trend Decomposition.  
@@ -414,7 +416,9 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [eif](https://github.com/sahandha/eif) - Extended Isolation Forest.  
 [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly detection (R package).  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
-Distances for comparing histograms and detecting outliers - [Talk](https://www.youtube.com/watch?v=U7xdiGc7IRU): [Kolmogorov-Smirnov](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html), [Wasserstein](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html), [Energy Distance (Cramer)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.energy_distance.html), [Kullback-Leibler divergence](https://scipy.github.io/devdocs/generated/scipy.stats.entropy.html)  
+Distances for comparing histograms and detecting outliers - [Talk](https://www.youtube.com/watch?v=U7xdiGc7IRU): [Kolmogorov-Smirnov](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html), [Wasserstein](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html), [Energy Distance (Cramer)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.energy_distance.html), [Kullback-Leibler divergence](https://scipy.github.io/devdocs/generated/scipy.stats.entropy.html).  
+[banpei](https://github.com/tsurubee/banpei) - Anomaly detection library based on singular spectrum transformation.  
+[telemanom](https://github.com/khundman/telemanom) - Detect anomalies in multivariate time series data using LSTMs.  
 
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
@@ -540,6 +544,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production.  
 [dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
 [dagster](https://github.com/dagster-io/dagster) - Tool with focus on dependency graphs.  
+[knockknock](https://github.com/huggingface/knockknock) - Be notified when your training ends.  
 
 #### Math and Background
 Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
