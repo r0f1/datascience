@@ -127,7 +127,8 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [scikit-genetic](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection.  
 [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
-[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.    
+[mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.     
+[BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
 
 #### Dimensionality Reduction
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU)  
@@ -585,7 +586,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)  
-[Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
