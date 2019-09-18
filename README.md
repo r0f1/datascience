@@ -114,6 +114,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).  
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
+[feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
 
 #### Feature Selection
 [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
@@ -276,7 +277,6 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
-[tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 [cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
 #### Text Related
@@ -295,11 +295,10 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
 [ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
 [skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
-[Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
-[simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
+[tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
 [AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD, [alt](https://github.com/titu1994/keras-adabound).  
 [caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).    
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
@@ -308,6 +307,12 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
+#### Object detection
+[Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.  
+[simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
+[CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
+[FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.    
+
 ##### Applications and Snippets
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
@@ -315,7 +320,6 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)  
 [Image Super-Resolution](https://github.com/idealo/image-super-resolution) - Super-scaling using a Residual Dense Network.  
 Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Posts: [1](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/), [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
-[CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
 [deeplearning-models](https://github.com/rasbt/deeplearning-models) - Deep learning models.  
 
 #### GPU
@@ -438,6 +442,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [edward](https://github.com/blei-lab/edward) - Probabilistic modeling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
 [Pyro](https://github.com/pyro-ppl/pyro) - Deep Universal Probabilistic Programming.  
 [tensorflow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
+[bambi](https://github.com/bambinos/bambi) - High-level Bayesian model-building interface on top of PyMC3.  
 
 #### Stacking Models and Ensembles
 [Model Stacking Blog Post](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)  
