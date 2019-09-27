@@ -537,7 +537,8 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 #### Deployment and Lifecycle Management
 
-##### General
+##### Dependency Management
+[pipreqs](https://github.com/bndr/pipreqs) - Generate a requirements.txt from import statements.  
 [pyup](https://github.com/pyupio/pyup) - Python dependency management.  
 [pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
 [pypi2nix] - Fix package versions and create reproducible environments, [Talk](https://www.youtube.com/watch?v=USDbjmxEZ_I).
