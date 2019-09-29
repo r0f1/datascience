@@ -166,10 +166,9 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 
 #### Dashboards
 [dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo)   
+[panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 [bokeh](https://github.com/bokeh/bokeh) - Dashboarding solution.  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
-[bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
-[panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
 
