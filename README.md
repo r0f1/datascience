@@ -165,7 +165,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 
 #### Dashboards
-[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo), [example](https://github.com/ned2/slapdash)    
+[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo)   
 [bokeh](https://github.com/bokeh/bokeh) - Dashboarding solution.  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
 [bowtie](https://github.com/jwkvam/bowtie/) - Dashboarding solution.  
