@@ -581,6 +581,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 #### Datasets and Repositories
 
 [academictorrents](http://academictorrents.com/)  
+[datasetlist](https://www.datasetlist.com/)  
 
 #### Awesome Lists and Resources
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
