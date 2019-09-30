@@ -578,6 +578,10 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 #### Blogs
 [Distill.pub](https://distill.pub/) - Blog.
 
+#### Datasets and Repositories
+
+[academictorrents](http://academictorrents.com/)  
+
 #### Awesome Lists and Resources
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
