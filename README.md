@@ -64,6 +64,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
 [tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by ebay.  
+[cheat](https://github.com/cheat/cheat) - Make cheatsheets for command line commands.  
 
 #### Classical Statistics
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
@@ -566,12 +567,11 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [metric-learn](https://github.com/metric-learn/metric-learn) - Metric learning.   
 
 #### General Python Programming
-[funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.  
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
-[dill](https://pypi.org/project/dill/) - Serialization, alternative to pickle.  
-[attrs](https://github.com/python-attrs/attrs) - Python classes without boilerplate.  
+[funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.  
 [dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
+[coloredlogs](https://github.com/xolox/python-coloredlogs) - Colored logging output.    
 
 #### Blogs
 [Distill.pub](https://distill.pub/) - Blog.
