@@ -280,8 +280,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
 #### Text Related
-[ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.  
-[textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
+[ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.   
+[textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.    
+[ctrl](https://github.com/salesforce/ctrl) - Text generation.  
 
 ##### Libs
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/), [examples](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24).  
