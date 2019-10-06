@@ -410,6 +410,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
 [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
 [stockstats](https://github.com/jealous/stockstats) - Pandas DataFrame wrapper for working with stock data.  
+[pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 
 #### Survival Analysis
 [Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
