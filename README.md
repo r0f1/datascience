@@ -102,6 +102,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pyupset](https://github.com/ImSoErgodic/py-upset) - Visualizing intersecting sets.  
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms.  
 
+#### Train / Test Split
+[iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.  
+
 #### Feature Engineering
 [Talk](https://www.youtube.com/watch?v=68ABAU_V8qI)  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
