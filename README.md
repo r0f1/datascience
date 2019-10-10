@@ -147,6 +147,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - Fast Fourier Transform-accelerated Interpolation-based t-SNE.  
 [scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=AWoeBzJd7uQ).  
 [ivis](https://github.com/beringresearch/ivis) - Dimensionality reduction using Siamese Networks.  
+[trimap](https://github.com/eamid/trimap) - Dimensionality reduction using triplets.  
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
