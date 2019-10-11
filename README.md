@@ -316,7 +316,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
 #### Object detection
-[Detectron](https://github.com/facebookresearch/Detectron) - Object Detection by Facebook.  
+[detectron2](https://github.com/facebookresearch/detectron2) - Object Detection (Mask R-CNN) by Facebook.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
 [FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.    
