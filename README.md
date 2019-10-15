@@ -350,6 +350,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Dynamic classifier and ensemble selection  
 
 #### Clustering
+[Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering)  
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm, [talk](https://www.youtube.com/watch?v=dGsxd67IFiU).  
