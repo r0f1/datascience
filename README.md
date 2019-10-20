@@ -583,16 +583,15 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
 [coloredlogs](https://github.com/xolox/python-coloredlogs) - Colored logging output.    
 
-#### Blogs
+#### Resources
 [Distill.pub](https://distill.pub/) - Blog.
-
-#### Datasets and Repositories
-
-[academictorrents](http://academictorrents.com/)  
-[datasetlist](https://www.datasetlist.com/)  
-
-#### Awesome Lists and Resources
+[Machine Learning Videos](https://github.com/dustinvtran/ml-videos)  
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
+[Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
+[The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347) - List of Generative Adversarial Networks  
+[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
+
+##### Other Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
 [Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
@@ -618,9 +617,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
 [Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
 [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
-[Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
-[The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347) - List of Generative Adversarial Networks  
-[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)  
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
