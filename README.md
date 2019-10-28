@@ -28,6 +28,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
 [pixiedust](https://github.com/pixiedust/pixiedust) - Helper library for Jupyter.  
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.  
+[pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
 
 #### Helpful
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops.  
