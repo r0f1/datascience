@@ -589,7 +589,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)  
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
-[The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347) - List of Generative Adversarial Networks  
+[The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks  
 [Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
 
 ##### Other Awesome Lists
