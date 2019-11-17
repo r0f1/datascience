@@ -598,6 +598,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
 [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)  
 [Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)  
+[Awsome Causality](https://github.com/rguo12/awesome-causality-algorithms)  
 [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
 [Awesome Dash](https://github.com/ucg8j/awesome-dash)  
