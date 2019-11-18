@@ -347,7 +347,8 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 #### Classification
 [Talk](https://www.youtube.com/watch?v=DkLPYccEJ8Y), [Notebook](https://github.com/ianozsvald/data_science_delivered/blob/master/ml_creating_correct_capable_classifiers.ipynb)  
 [Blog post: Probability Scoring](https://machinelearningmastery.com/how-to-score-probability-predictions-in-python/)  
-[All classification metrics](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf)  
+[All classification metrics](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf)
+[Blog post:24 Evaluation Metrics for Binary Classification (And When to Use Them)](https://neptune.ml/blog/evaluation-metrics-binary-classification)
 [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Dynamic classifier and ensemble selection  
 
 #### Clustering
