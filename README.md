@@ -518,7 +518,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [sklearn-deap](https://github.com/rsteca/sklearn-deap) - Hyperparameter search using genetic algorithms.  
 [hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
 [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt + sklearn.  
-[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization, [Talk](https://www.youtube.com/watch?v=tcrcLRopTX0).  
+[optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization, [Talk](https://www.youtube.com/watch?v=tcrcLRopTX0), [Blog post](https://neptune.ml/blog/optuna-vs-hyperopt).  
 [skopt](https://scikit-optimize.github.io/) - `BayesSearchCV` for Hyperparameter search.  
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
