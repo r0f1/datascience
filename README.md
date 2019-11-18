@@ -24,6 +24,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
 [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter spreadsheet widget.  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
+[neptune-notebooks](https://docs.neptune.ml/notebooks/introduction.html#) - Version, compare, share jupyter notebooks
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
 [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
 [pixiedust](https://github.com/pixiedust/pixiedust) - Helper library for Jupyter.  
