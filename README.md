@@ -564,6 +564,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
 [dagster](https://github.com/dagster-io/dagster) - Tool with focus on dependency graphs.  
 [knockknock](https://github.com/huggingface/knockknock) - Be notified when your training ends.  
+[metaflow](https://github.com/Netflix/metaflow) - Lifecycle Management Tool by Netflix.  
 
 #### Math and Background
 Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
