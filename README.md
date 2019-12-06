@@ -271,21 +271,21 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 #### Neural Networks  
 
-##### Tutorials
+##### Tutorials & Viewer
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
 fast.ai course - [Lessons 1-7](https://course.fast.ai/videos/?lesson=1), [Lessons 8-14](http://course18.fast.ai/lessons/lessons2.html)  
 [Tensorflow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - Neural Network course by Google.  
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
 [Tensorflow Playground](https://playground.tensorflow.org/)  
 [Visualization of optimization algorithms](https://vis.ensmallen.org/)  
+[cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
 ##### Image Related
 [imgaug](https://github.com/aleju/imgaug) - More sophisticated image preprocessing.  
-[imgaug_extension](https://github.com/cadenai/imgaug_extension) - Extension for imgaug.  
 [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.  
 [keras preprocessing](https://keras.io/preprocessing/image/) - Preprocess images.  
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
-[cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
+[augmix](https://github.com/google-research/augmix) - Image augmentation from Google.  
 
 #### Text Related
 [ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.   
