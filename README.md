@@ -550,9 +550,10 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 ##### Dependency Management
 [pipreqs](https://github.com/bndr/pipreqs) - Generate a requirements.txt from import statements.  
-[pyup](https://github.com/pyupio/pyup) - Python dependency management.  
+[dephell](https://github.com/dephell/dephell) - Dependency management.  
+[poetry](https://github.com/python-poetry/poetry) - Dependency management.  
+[pyup](https://github.com/pyupio/pyup) - Dependency management.  
 [pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
-[pypi2nix] - Fix package versions and create reproducible environments, [Talk](https://www.youtube.com/watch?v=USDbjmxEZ_I).
 
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
