@@ -556,6 +556,10 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [pyup](https://github.com/pyupio/pyup) - Dependency management.  
 [pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
 
+##### Data Versioning
+[dvc](https://github.com/iterative/dvc) - Version control for large files.  
+[hangar](https://github.com/tensorwerk/hangar-py) - Version control for tensor data.  
+
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
 [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.  
@@ -563,7 +567,6 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
 [BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production.  
-[dvc](https://github.com/iterative/dvc) - Versioning for ML projects.  
 [dagster](https://github.com/dagster-io/dagster) - Tool with focus on dependency graphs.  
 [knockknock](https://github.com/huggingface/knockknock) - Be notified when your training ends.  
 [metaflow](https://github.com/Netflix/metaflow) - Lifecycle Management Tool by Netflix.  
