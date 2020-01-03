@@ -101,6 +101,12 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
 [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)  
 
+#### Frameworks
+[scikit-learn](https://github.com/scikit-learn/scikit-learn) - General machine learning framework.  
+[h2o](https://github.com/h2oai/h2o-3) - Machine learning framework.  
+[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo). 
+[mxnet](https://github.com/apache/incubator-mxnet) - Deep learning framework, [book](https://d2l.ai/index.html).  
+
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
@@ -318,8 +324,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
-[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD, [alt](https://github.com/titu1994/keras-adabound).  
-[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).    
+[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD, [alt](https://github.com/titu1994/keras-adabound).     
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
@@ -551,11 +556,6 @@ Intro to Monte Carlo Tree Search (MCTS) - [1](https://jeffbradberry.com/posts/20
 AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning), [2](https://web.stanford.edu/~surag/posts/alphazero.html), [3](https://github.com/suragnair/alpha-zero-general), [Cheat Sheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)  
 [RLLib](https://ray.readthedocs.io/en/latest/rllib.html) - Library for reinforcement learning.  
 [Horizon](https://github.com/facebookresearch/Horizon/) - Facebook RL framework.  
-
-#### Frameworks
-[h2o](https://github.com/h2oai/h2o-3) - Scalable machine learning.  
-[turicreate](https://github.com/apple/turicreate) - Apple Machine Learning Toolkit.  
-[astroml](https://github.com/astroML/astroML) - ML for astronomical data.  
 
 #### Deployment and Lifecycle Management
 
