@@ -12,28 +12,29 @@
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
 
-#### Pandas and Jupyter
+#### Environment and Jupyter
 [General tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/), [Clean Coding (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
 Fixing environment: [link](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)  
 Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
 [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
-[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.  
-[xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
-[blackcellmagic](https://github.com/csurfer/blackcellmagic) - Code formatting for jupyter notebooks.  
-[pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
-[qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
-[ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter spreadsheet widget.  
+[papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
-[papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
-[pixiedust](https://github.com/pixiedust/pixiedust) - Helper library for Jupyter.  
-[pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.  
-[pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.
+[qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
+[pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
+[itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
+
+#### Pandas Additions
+[xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
+[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.   
+[pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
+[pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
 
 #### Helpful
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops.  
 [icecream](https://github.com/gruns/icecream) - Simple debugging output.  
+[loguru](https://github.com/Delgan/loguru) - Python logging.  
 [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
 [intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s). 
 
