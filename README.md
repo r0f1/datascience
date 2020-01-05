@@ -11,6 +11,7 @@
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
+[rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.  
 
 #### Environment and Jupyter
 [General tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/), [Clean Coding (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
@@ -25,7 +26,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
 
-#### Pandas Additions
+#### Pandas Alternatives and Additions
+[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
+[vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.   
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
@@ -49,7 +52,6 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [dask](https://github.com/dask/dask), [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library, [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
 [dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.  
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
-[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
 [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.  
@@ -58,7 +60,6 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
 [bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
-[vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 [zappy](https://github.com/lasersonlab/zappy) - Distributed numpy arrays.  
 
