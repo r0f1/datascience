@@ -333,14 +333,18 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
-#### Object detection
+#### Object detection / Instance Segmentation
+[yolact](https://github.com/dbolya/yolact) - Fully convolutional model for real-time instance segmentation.  
+[EfficientDet Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch), [EfficientDet Keras](https://github.com/xuannianz/EfficientDet) - Scalable and Efficient Object Detection.  
 [detectron2](https://github.com/facebookresearch/detectron2) - Object Detection (Mask R-CNN) by Facebook.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
 [FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.    
 
-##### Applications and Snippets
+#### Image Classification
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
+
+##### Applications and Snippets
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
 [SPADE](https://github.com/nvlabs/spade) - Semantic Image Synthesis.  
 [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)  
