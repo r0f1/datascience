@@ -265,6 +265,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
 [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.  
+[Chatistics](https://github.com/MasterScrat/Chatistics) - Turn Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.  
 
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
