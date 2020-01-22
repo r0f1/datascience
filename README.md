@@ -106,7 +106,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 #### Frameworks
 [scikit-learn](https://github.com/scikit-learn/scikit-learn) - General machine learning framework.  
 [h2o](https://github.com/h2oai/h2o-3) - Machine learning framework.  
-[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo). 
+[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
 [mxnet](https://github.com/apache/incubator-mxnet) - Deep learning framework, [book](https://d2l.ai/index.html).  
 
 #### Exploration and Cleaning
