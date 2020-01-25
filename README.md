@@ -526,9 +526,9 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [mljar](https://github.com/mljar/mljar-supervised) - Automated machine learning.
 
 #### Graph Representation Learning
-[Karate Club](https://github.com/rusty1s/pytorch_geometric) - Unsupervised learning on graphs.
-[Pytorch Geometric](https://github.com/benedekrozemberczki/karateclub) - Graph representation learning with PyTorch.
-[DLG](https://github.com/dmlc/dgl) - Graph representation learning with TensorFlow.
+[Karate Club](https://github.com/rusty1s/pytorch_geometric) - Unsupervised learning on graphs.   
+[Pytorch Geometric](https://github.com/benedekrozemberczki/karateclub) - Graph representation learning with PyTorch.   
+[DLG](https://github.com/dmlc/dgl) - Graph representation learning with TensorFlow.   
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
@@ -614,7 +614,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [coloredlogs](https://github.com/xolox/python-coloredlogs) - Colored logging output.    
 
 #### Resources
-[Distill.pub](https://distill.pub/) - Blog.
+[Distill.pub](https://distill.pub/) - Blog.   
 [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)  
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
@@ -622,28 +622,28 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
 
 ##### Other Awesome Lists
-[Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)  
-[Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)  
-[Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)  
-[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)  
-[Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)  
-[Awesome Causality](https://github.com/rguo12/awesome-causality-algorithms)
-[Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
-[Awesome CSV](https://github.com/secretGeek/AwesomeCSV)
-[Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)  
-[Awesome Dash](https://github.com/ucg8j/awesome-dash)  
-[Awesome Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
-[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-[Awesome ETL](https://github.com/pawl/awesome-etl)  
-[Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)
-[Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-[Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)
-[Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
-[Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)  
-[Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)   
-[Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)
-[Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+[Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)    
+[Awesome AI Booksmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)    
+[Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes)    
+[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)    
+[Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)    
+[Awesome Causality](https://github.com/rguo12/awesome-causality-algorithms)    
+[Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)    
+[Awesome CSV](https://github.com/secretGeek/AwesomeCSV)    
+[Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)   
+[Awesome Dash](https://github.com/ucg8j/awesome-dash)   
+[Awesome Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)    
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)   
+[Awesome ETL](https://github.com/pawl/awesome-etl)   
+[Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)   
+[Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)   
+[Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)   
+[Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)   
+[Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)   
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)    
+[Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
+[Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
+[Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)   
 [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
@@ -654,7 +654,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
 [Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
-[Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
+[Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)    
 
 #### Things I google a lot
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
