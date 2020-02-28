@@ -216,6 +216,7 @@ Plotting (Descartes, Catropy)
 Predict economic indicators from Open Street Map [ipynb](https://github.com/njanakiev/osm-predict-economic-measurements/blob/master/osm-predict-economic-indicators.ipynb).  
 [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.  
 [geography](https://github.com/ushahidi/geograpy) - Extract countries, regions and cities from a URL or text.  
+[cartogram](https://go-cart.io/cartogram) - Distorted maps based on population.  
 
 #### Recommender Systems
 Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender).  
