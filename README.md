@@ -518,6 +518,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
 [dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
 [interpret](https://github.com/microsoft/interpret) - Fit interpretable models, explain models (Microsoft).  
+[causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
