@@ -298,7 +298,7 @@ fast.ai course - [Lessons 1-7](https://course.fast.ai/videos/?lesson=1), [Lesson
 [Tensorflow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - Neural Network course by Google.  
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
 [Tensorflow Playground](https://playground.tensorflow.org/)  
-[Visualization of optimization algorithms](https://vis.ensmallen.org/)  
+[Visualization of optimization algorithms](https://vis.ensmallen.org/), [Another visualization](https://github.com/jettify/pytorch-optimizer)    
 [cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
 ##### Image Related
@@ -323,6 +323,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) -  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
+[pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for pytorch.  
 [ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
 [skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
