@@ -30,6 +30,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 #### Pandas Alternatives and Additions
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
+[pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.   
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
