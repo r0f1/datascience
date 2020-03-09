@@ -309,6 +309,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [augmix](https://github.com/google-research/augmix) - Image augmentation from Google.  
 
+##### Lossfunction Related
+[SegLoss](https://github.com/JunMa11/SegLoss) - List of loss functions for medical image segmentation.  
+
 #### Text Related
 [ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.   
 [textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.    
