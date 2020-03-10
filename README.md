@@ -533,7 +533,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
 [automl-gs](https://github.com/minimaxir/automl-gs) - Automated machine learning.  
-[mljar](https://github.com/mljar/mljar-supervised) - Automated machine learning.
+[mljar](https://github.com/mljar/mljar-supervised) - Automated machine learning.  
+[automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero) - Automatically discover computer programs that can solve machine learning tasks from Google.  
 
 #### Graph Representation Learning
 [Karate Club](https://github.com/rusty1s/pytorch_geometric) - Unsupervised learning on graphs.   
