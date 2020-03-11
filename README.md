@@ -439,7 +439,8 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [seglearn](https://github.com/dmbee/seglearn) - Time Series library.  
 [pyts](https://github.com/johannfaouzi/pyts) - Time series transformation and classification, [Imaging time series](https://pyts.readthedocs.io/en/latest/auto_examples/index.html#imaging-time-series).  
 Turn time series into images and use Neural Nets: [example](https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47), [example](https://github.com/kiss90/time-series-classification).    
-[sktime](https://github.com/alan-turing-institute/sktime), [sktime-dl](https://github.com/uea-machine-learning/sktime-dl) - Toolbox for (deep) learning with time series.  
+[sktime](https://github.com/alan-turing-institute/sktime), [sktime-dl](https://github.com/uea-machine-learning/sktime-dl) - Toolbox for (deep) learning with time series.   
+[adtk](https://github.com/arundo/adtk) - Time Series Anomaly Detection.  
 
 ##### Time Series Evaluation
 
