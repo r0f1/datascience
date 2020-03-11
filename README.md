@@ -14,7 +14,7 @@
 [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.  
 
 #### Environment and Jupyter
-[General tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/), [Clean Coding (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
+[General Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 Fixing environment: [link](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)  
 Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
 [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
@@ -27,7 +27,10 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
 [jupyter-datatables](https://github.com/CermakM/jupyter-datatables) - Interactive tables in Jupyter.  
 
-#### Pandas Alternatives and Additions
+#### Pandas Tricks, Alternatives and Additions
+[Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
+[Using df.pipe() (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
+
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
