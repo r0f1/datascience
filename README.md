@@ -345,6 +345,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 
+#### Training-related
+[livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.  
+
 #### Object detection / Instance Segmentation
 [yolact](https://github.com/dbolya/yolact) - Fully convolutional model for real-time instance segmentation.  
 [EfficientDet Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch), [EfficientDet Keras](https://github.com/xuannianz/EfficientDet) - Scalable and Efficient Object Detection.  
