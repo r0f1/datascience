@@ -545,8 +545,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero) - Automatically discover computer programs that can solve machine learning tasks from Google.  
 
 #### Graph Representation Learning
-[Karate Club](https://github.com/rusty1s/pytorch_geometric) - Unsupervised learning on graphs.   
-[Pytorch Geometric](https://github.com/benedekrozemberczki/karateclub) - Graph representation learning with PyTorch.   
+[Karate Club](https://github.com/benedekrozemberczki/karateclub) - Unsupervised learning on graphs.   
+[Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Graph representation learning with PyTorch.   
 [DLG](https://github.com/dmlc/dgl) - Graph representation learning with TensorFlow.   
 
 #### Evolutionary Algorithms & Optimization
