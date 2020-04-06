@@ -452,11 +452,14 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [tscv](https://github.com/WenjieZ/TSCV) - Evaluation with gap.  
 
 #### Financial Data
+[pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
+[ffn](https://github.com/pmorissette/ffn) - Financial functions.  
+[bt](https://github.com/pmorissette/bt) - Backtesting algorithms.  
+The Quantopian Stack (some features may require signup on their platform):  
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
 [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
-[stockstats](https://github.com/jealous/stockstats) - Pandas DataFrame wrapper for working with stock data.  
-[pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
+[empyrical](https://github.com/quantopian/empyrical) - Financial risk metrics.  
 
 #### Survival Analysis
 [Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
