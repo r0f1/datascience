@@ -498,6 +498,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [Pyro](https://github.com/pyro-ppl/pyro) - Deep Universal Probabilistic Programming.  
 [tensorflow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
 [bambi](https://github.com/bambinos/bambi) - High-level Bayesian model-building interface on top of PyMC3.  
+[neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
 
 #### Stacking Models and Ensembles
 [Model Stacking Blog Post](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)  
