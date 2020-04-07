@@ -455,6 +455,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 [ffn](https://github.com/pmorissette/ffn) - Financial functions.  
 [bt](https://github.com/pmorissette/bt) - Backtesting algorithms.  
+[alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Commission-free trading through API.  
 The Quantopian Stack (some features may require signup on their platform):  
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
