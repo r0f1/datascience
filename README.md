@@ -31,6 +31,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 #### Pandas Tricks, Alternatives and Additions
 [Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
 [Using df.pipe() (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
+[pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
 
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
@@ -39,6 +40,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.   
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
+[pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 
 #### Helpful
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops.  
@@ -417,6 +419,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
 [prophet](https://github.com/facebook/prophet) - Time series prediction library.  
+[atspy](https://github.com/firmai/atspy) - Automated Time Series Models.  
 [pm-prophet](https://github.com/luke14free/pm-prophet) - Time series prediction and decomposition library.  
 [htsprophet](https://github.com/CollinRooney12/htsprophet) - Hierarchical Time Series Forecasting using Prophet.  
 [nupic](https://github.com/numenta/nupic) - Hierarchical Temporal Memory (HTM) for Time Series Prediction and Anomaly Detection.  
