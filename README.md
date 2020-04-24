@@ -586,6 +586,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
 [creme-ml](https://github.com/creme-ml/creme) - Incremental learning framework, [talk](https://www.youtube.com/watch?v=P3M6dt7bY9U).  
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Online Learning algorithms.  
+[onelearn](https://github.com/onelearn/onelearn) - Online Random Forests.  
 
 #### Active Learning
 [Talk](https://www.youtube.com/watch?v=0efyjq5rWS4)  
