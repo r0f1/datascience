@@ -455,11 +455,11 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [tscv](https://github.com/WenjieZ/TSCV) - Evaluation with gap.  
 
 #### Financial Data
-[Courses](https://quantecon.org/)  
 [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 [yfinance](https://github.com/ranaroussi/yfinance) - Read stock data from Yahoo Finance.  
 [ffn](https://github.com/pmorissette/ffn) - Financial functions.  
 [bt](https://github.com/pmorissette/bt) - Backtesting algorithms.  
+[backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
 [alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Commission-free trading through API.  
 The Quantopian Stack (some features may require signup on their platform):  
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
