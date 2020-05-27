@@ -40,8 +40,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.   
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
-[pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.
-[MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.
+[pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 
 #### Helpful
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops.  
@@ -401,7 +400,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and scalable clustering algorithm.  
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
 [tree-SNE](https://github.com/isaacrob/treesne) - Hierarchical clustering algorithm based on t-SNE.
-[MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.
+[MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
 
 #### Interpretable Classifiers and Regressors
 [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
