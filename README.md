@@ -371,6 +371,10 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Posts: [1](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/), [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
 [deeplearning-models](https://github.com/rasbt/deeplearning-models) - Deep learning models.  
 
+#### Variational Autoencoders (VAE)
+[disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
+
+
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
