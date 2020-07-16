@@ -477,6 +477,7 @@ The Quantopian Stack (some features may require signup on their platform):
 [survivalstan](https://github.com/hammerlab/survivalstan) - Survival analysis, [intro](http://www.hammerlab.org/2017/06/26/introducing-survivalstan/).  
 [convoys](https://github.com/better/convoys) - Analyze time lagged conversions.  
 RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).  
+[pysurvival](https://github.com/square/pysurvival) - Survival analysis . 
 
 #### Outlier Detection & Anomaly Detection
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) - Isolation Forest and others.  
