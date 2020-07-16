@@ -162,6 +162,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.     
 [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
+[INVASE](https://github.com/jsyoon0823/INVASE) -  Instance-wise Variable Selection using Neural Networks.  
 
 #### Dimensionality Reduction
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU)  
@@ -512,6 +513,11 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [tensorflow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
 [bambi](https://github.com/bambinos/bambi) - High-level Bayesian model-building interface on top of PyMC3.  
 [neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
+
+#### Gaussian Processes
+[GPyOpt](https://github.com/SheffieldML/GPyOpt) - Gaussian process optimization.  
+[GPflow](https://github.com/GPflow/GPflow) - Gaussian processes (Tensorflow).  
+[gpytorch](https://gpytorch.ai/) - Gaussian processes (Pytorch).  
 
 #### Stacking Models and Ensembles
 [Model Stacking Blog Post](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)  
