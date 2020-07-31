@@ -81,21 +81,12 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Classical Statistics
 
-##### Texts
-[Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
-[Lindeløv - Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)    
-[Chatruc - The Central Limit Theorem and its misuse](https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)  
-[Al-Saleh - Properties of the Standard Deviation that are Rarely Mentioned in Classrooms](http://www.stat.tugraz.at/AJS/ausg093/093Al-Saleh.pdf)   
-[Wainer - The Most Dangerous Equation](http://www-stat.wharton.upenn.edu/~hwainer/Readings/Most%20Dangerous%20eqn.pdf)   
-[Gigerenzer - The Bias Bias in Behavioral Economics](https://www.nowpublishers.com/article/Details/RBE-0092)  
-[Cook - Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)  
-
 #### Statistical Tests and Packages
 [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests.  
-[researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
-[scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.  
-[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.
-[scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.
+[scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
+[researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).   
+[scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
+[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
 
 ##### Visualizations
@@ -111,6 +102,15 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 #### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
 [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)  
+
+##### Texts
+[Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
+[Lindeløv - Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)    
+[Chatruc - The Central Limit Theorem and its misuse](https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)  
+[Al-Saleh - Properties of the Standard Deviation that are Rarely Mentioned in Classrooms](http://www.stat.tugraz.at/AJS/ausg093/093Al-Saleh.pdf)   
+[Wainer - The Most Dangerous Equation](http://www-stat.wharton.upenn.edu/~hwainer/Readings/Most%20Dangerous%20eqn.pdf)   
+[Gigerenzer - The Bias Bias in Behavioral Economics](https://www.nowpublishers.com/article/Details/RBE-0092)  
+[Cook - Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)  
 
 #### Frameworks
 [scikit-learn](https://github.com/scikit-learn/scikit-learn) - General machine learning framework.  
