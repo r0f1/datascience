@@ -81,7 +81,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Classical Statistics
 
-#### Statistical Tests and Packages
+##### Statistical Tests and Packages
 [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests.  
 [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).   
@@ -99,7 +99,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
 [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)     
 
-#### Talks
+##### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
 [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)  
 
