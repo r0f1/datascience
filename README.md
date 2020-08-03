@@ -526,6 +526,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [vecstack](https://github.com/vecxoz/vecstack) - Stacking ML models.  
 [StackNet](https://github.com/kaz-Anova/StackNet) - Stacking ML models.  
 [mlens](https://github.com/flennerhag/mlens) - Ensemble learning.  
+[combo](https://github.com/yzhao062/combo) - Combining ML models (stacking, ensembling).  
 
 #### Model Evaluation
 [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix.  
