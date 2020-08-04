@@ -278,6 +278,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
 [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.  
 [Chatistics](https://github.com/MasterScrat/Chatistics) - Turn Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.  
+[textvec](https://github.com/textvec/textvec) - Supervised text vectorization tool.  
 
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
