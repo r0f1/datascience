@@ -210,7 +210,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
 [streamlit](https://github.com/streamlit/streamlit) - Dashboards.  
 
-#### Geopraphical Tools
+#### Geographical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library, [jupyter plugin](https://github.com/jupyter-widgets/ipyleaflet).  
 [gmaps](https://github.com/pbugnion/gmaps) - Google Maps for Jupyter notebooks.  
 [stadiamaps](https://stadiamaps.com/) - Plot geographical maps.  
@@ -382,6 +382,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
+[hummingbird](https://github.com/microsoft/hummingbird) - Convert ML models to models that run on the GPU (by Microsoft).  
 
 #### Regression
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
