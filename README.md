@@ -695,6 +695,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
 [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)   
 [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
+[Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
