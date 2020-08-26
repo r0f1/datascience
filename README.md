@@ -27,6 +27,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
 [jupyter-datatables](https://github.com/CermakM/jupyter-datatables) - Interactive tables in Jupyter.  
 [debugger](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559) - Visual debugger for Jupyter.  
+[nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.  
 
 #### Pandas Tricks, Alternatives and Additions
 [Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
