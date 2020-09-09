@@ -191,6 +191,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [scikit-plot](https://github.com/reiinakano/scikit-plot) - ROC curves and other visualizations for ML models.  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visualizations for ML models (similar to scikit-plot).  
 [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
+[lets-plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md) - Plotting library.  
 [animatplot](https://github.com/t-makaro/animatplot) - Animate plots build on matplotlib.  
 [plotnine](https://github.com/has2k1/plotnine) - ggplot for Python.  
 [altair](https://altair-viz.github.io/) - Declarative statistical visualization library.  
