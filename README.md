@@ -479,6 +479,7 @@ The Quantopian Stack (some features may require signup on their platform):
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
 [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
 [empyrical](https://github.com/quantopian/empyrical) - Financial risk metrics.  
+[eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
 
 #### Survival Analysis
 [Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
