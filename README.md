@@ -380,6 +380,14 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 #### Variational Autoencoders (VAE)
 [disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
 
+#### Graph-Based Neural Networks
+[How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
+[Introduction To Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)  
+[ogb](https://ogb.stanford.edu/) - Open Graph Benchmark, Benchmark datasets.  
+[networkx](https://github.com/networkx/networkx) - Graph library.  
+[pytorch-geometric](https://github.com/rusty1s/pytorch_geometric) - Various methods for deep learning on graphs.  
+[dgl](https://github.com/dmlc/dgl) - Deep Graph Library.  
+[graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in Tensorflow, by deepmind.  
 
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
