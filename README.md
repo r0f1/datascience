@@ -469,6 +469,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 Turn time series into images and use Neural Nets: [example](https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47), [example](https://github.com/kiss90/time-series-classification).    
 [sktime](https://github.com/alan-turing-institute/sktime), [sktime-dl](https://github.com/uea-machine-learning/sktime-dl) - Toolbox for (deep) learning with time series.   
 [adtk](https://github.com/arundo/adtk) - Time Series Anomaly Detection.  
+[rocket](https://github.com/angus924/rocket) - Time Series classification using random convolutional kernels.  
 
 ##### Time Series Evaluation
 
@@ -488,6 +489,7 @@ The Quantopian Stack (some features may require signup on their platform):
 [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
 [empyrical](https://github.com/quantopian/empyrical) - Financial risk metrics.  
 [eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
+[tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
 
 #### Survival Analysis
 [Time-dependent Cox Model in R](https://stats.stackexchange.com/questions/101353/cox-regression-with-time-varying-covariates).  
