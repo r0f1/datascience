@@ -140,7 +140,6 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
 [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
 [scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.  
-[few](https://github.com/lacava/few) - Feature engineering wrapper for sklearn.  
 [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables, [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).  
 [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding dirty categorical variables.  
