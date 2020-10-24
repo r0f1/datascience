@@ -408,6 +408,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [Blog post: Probability Scoring](https://machinelearningmastery.com/how-to-score-probability-predictions-in-python/)  
 [All classification metrics](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf)  
 [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Dynamic classifier and ensemble selection.  
+[human-learn](https://github.com/koaning/human-learn) - Create and tune classifier based on your rule set.  
 
 #### Clustering
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering)  
