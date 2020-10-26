@@ -414,6 +414,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [Assessing the quality of a clustering (video)](https://www.youtube.com/watch?v=Mf6MqIS2ql4)  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm, [talk](https://www.youtube.com/watch?v=dGsxd67IFiU), [blog](https://towardsdatascience.com/understanding-hdbscan-and-density-based-clustering-121dbee1320e).  
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
+[fpc](https://cran.r-project.org/web/packages/fpc/index.html) - Various methods for clustering and cluster validation (R package).  
 [GaussianMixture](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html) - Generalized k-means clustering using a mixture of Gaussian distributions, [video](https://www.youtube.com/watch?v=aICqoAG5BXQ).  
 [nmslib](https://github.com/nmslib/nmslib) - Similarity search library and toolkit for evaluation of k-NN methods.  
 [buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and scalable clustering algorithm.  
