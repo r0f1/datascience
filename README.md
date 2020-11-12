@@ -49,7 +49,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [icecream](https://github.com/gruns/icecream) - Simple debugging output.  
 [loguru](https://github.com/Delgan/loguru) - Python logging.  
 [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
-[intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s). 
+[intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).   
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
@@ -122,7 +122,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
-[littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.
+[littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
@@ -164,7 +164,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.     
 [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
-[INVASE](https://github.com/jsyoon0823/INVASE) -  Instance-wise Variable Selection using Neural Networks.  
+[INVASE](https://github.com/jsyoon0823/INVASE) - Instance-wise Variable Selection using Neural Networks.  
 
 #### Dimensionality Reduction
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU)  
@@ -204,7 +204,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 
 #### Dashboards
-[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo), [resources](https://github.com/ucg8j/awesome-dash)       
+[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo), [resources](https://github.com/ucg8j/awesome-dash)  
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 [bokeh](https://github.com/bokeh/bokeh) - Dashboarding solution.  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
@@ -303,7 +303,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
 
-#### Neural Networks  
+#### Neural Networks
 
 ##### Tutorials & Viewer
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
@@ -327,7 +327,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 
 #### Text Related
 [ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.   
-[textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.    
+[textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
 [ctrl](https://github.com/salesforce/ctrl) - Text generation.  
 
 ##### Libs
@@ -337,7 +337,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
 [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.  
 [tflearn](https://github.com/tflearn/tflearn) - Neural Networks on top of tensorflow.  
-[tensorlayer](https://github.com/tensorlayer/tensorlayer) -  Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
+[tensorlayer](https://github.com/tensorlayer/tensorlayer) - Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
 [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for pytorch.  
@@ -347,7 +347,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
 [tcav](https://github.com/tensorflow/tcav) - Interpretability method.  
-[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD, [alt](https://github.com/titu1994/keras-adabound).     
+[AdaBound](https://github.com/Luolc/AdaBound) - Optimizer that trains as fast as Adam and as good as SGD, [alt](https://github.com/titu1994/keras-adabound).  
 [foolbox](https://github.com/bethgelab/foolbox) - Adversarial examples that fool neural networks.  
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
@@ -363,7 +363,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [detectron2](https://github.com/facebookresearch/detectron2) - Object Detection (Mask R-CNN) by Facebook.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
-[FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.    
+[FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.  
 
 #### Image Classification
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
@@ -468,7 +468,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [RobustSTL](https://github.com/LeeDoYup/RobustSTL) - Robust Seasonal-Trend Decomposition.  
 [seglearn](https://github.com/dmbee/seglearn) - Time Series library.  
 [pyts](https://github.com/johannfaouzi/pyts) - Time series transformation and classification, [Imaging time series](https://pyts.readthedocs.io/en/latest/auto_examples/index.html#imaging-time-series).  
-Turn time series into images and use Neural Nets: [example](https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47), [example](https://github.com/kiss90/time-series-classification).    
+Turn time series into images and use Neural Nets: [example](https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47), [example](https://github.com/kiss90/time-series-classification).  
 [sktime](https://github.com/alan-turing-institute/sktime), [sktime-dl](https://github.com/uea-machine-learning/sktime-dl) - Toolbox for (deep) learning with time series.   
 [adtk](https://github.com/arundo/adtk) - Time Series Anomaly Detection.  
 [rocket](https://github.com/angus924/rocket) - Time Series classification using random convolutional kernels.  
@@ -685,6 +685,9 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
 [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks  
 [Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
+
+##### List of Books
+[Mat Kelceys list of cool machine learning books](http://matpalm.com/blog/cool_machine_learning_books/)  
 
 ##### Other Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)    
