@@ -486,10 +486,11 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
 [alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Commission-free trading through API.  
 The Quantopian Stack (some features may require signup on their platform):  
-[pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
-[zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
-[alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
-[empyrical](https://github.com/quantopian/empyrical) - Financial risk metrics.  
+* [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
+* [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
+* [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
+* [empyrical](https://github.com/quantopian/empyrical) - Financial risk metrics.  
+* [trading_calendars](https://github.com/quantopian/trading_calendars) - Calendars for various securities exchanges.  
 [eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
 [tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
 
