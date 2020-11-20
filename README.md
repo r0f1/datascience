@@ -210,13 +210,12 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 
 #### Dashboards
-[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. Tutorial: [1](https://www.youtube.com/watch?v=J_Cy_QjG6NE), [2](https://www.youtube.com/watch?v=hRH01ZzT2NI), [3](https://www.youtube.com/watch?v=wv2MXJIdKRY), [4](https://www.youtube.com/watch?v=37Zj955LFT0), [5](https://www.youtube.com/watch?v=luixWRpp6Jo), [resources](https://github.com/ucg8j/awesome-dash)  
-[panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
-[bokeh](https://github.com/bokeh/bokeh) - Dashboarding solution.  
+[streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
+[dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. [Resources](https://github.com/ucg8j/awesome-dash).  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
+[panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
-[streamlit](https://github.com/streamlit/streamlit) - Dashboards.  
 
 #### Geographical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library, [jupyter plugin](https://github.com/jupyter-widgets/ipyleaflet).  
@@ -494,7 +493,9 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Commission-free trading through API.  
 [eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
 [tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
-The Quantopian Stack (some features may require signup on their platform):  
+[surpriver](https://github.com/tradytics/surpriver) - Find high moving stocks before they move using anomaly detection and machine learning.  
+
+##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
 [zipline](https://github.com/quantopian/zipline) - Algorithmic trading.  
 [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive stock factors.  
@@ -737,6 +738,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)    
 
 #### Things I google a lot
+[Color codes](https://github.com/d3/d3-3.x-api-reference/blob/master/Ordinal-Scales.md#categorical-colors)  
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
 [Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)  
 [Feature Calculators tsfresh](https://github.com/blue-yonder/tsfresh/blob/master/tsfresh/feature_extraction/feature_calculators.py)  
