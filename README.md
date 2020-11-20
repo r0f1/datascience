@@ -487,13 +487,14 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
 [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 [yfinance](https://github.com/ranaroussi/yfinance) - Read stock data from Yahoo Finance.  
+[ta](https://github.com/bukosabino/ta) - Technical analysis library.  
+[backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
+[surpriver](https://github.com/tradytics/surpriver) - Find high moving stocks before they move using anomaly detection and machine learning.  
 [ffn](https://github.com/pmorissette/ffn) - Financial functions.  
 [bt](https://github.com/pmorissette/bt) - Backtesting algorithms.  
-[backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
 [alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Commission-free trading through API.  
 [eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
 [tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
-[surpriver](https://github.com/tradytics/surpriver) - Find high moving stocks before they move using anomaly detection and machine learning.  
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
