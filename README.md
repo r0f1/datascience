@@ -485,6 +485,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [tscv](https://github.com/WenjieZ/TSCV) - Evaluation with gap.  
 
 #### Financial Data
+Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
 [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 [yfinance](https://github.com/ranaroussi/yfinance) - Read stock data from Yahoo Finance.  
 [ffn](https://github.com/pmorissette/ffn) - Financial functions.  
@@ -598,6 +599,9 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [Karate Club](https://github.com/benedekrozemberczki/karateclub) - Unsupervised learning on graphs.   
 [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Graph representation learning with PyTorch.   
 [DLG](https://github.com/dmlc/dgl) - Graph representation learning with TensorFlow.   
+
+#### Convex optimization
+[cvxpy](https://github.com/cvxgrp/cvxpy) - Modeling language for convex optimization problems. Tutorial: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
