@@ -648,7 +648,6 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 #### Deployment and Lifecycle Management
 
 ##### Dependency Management
-[pipreqs](https://github.com/bndr/pipreqs) - Generate a requirements.txt from import statements.  
 [dephell](https://github.com/dephell/dephell) - Dependency management.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
 [pyup](https://github.com/pyupio/pyup) - Dependency management.  
