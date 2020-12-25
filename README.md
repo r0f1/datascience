@@ -562,6 +562,9 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learning-curve/).  
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) - Learning curve.  
 
+#### Model Uncertainty
+[uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Predictive uncertainty quantification, calibration, metrics, and visualization.  
+
 #### Model Explanation, Interpretability, Feature Importance
 [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models, [talk](https://www.youtube.com/watch?v=C80SQe16Rao).  
