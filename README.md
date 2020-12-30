@@ -208,6 +208,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [pm](https://github.com/anvaka/pm) - Navigatable 3D graph visualization (JS package), [example](https://w2v-vis-dot-hcg-team-di.appspot.com/#/galaxy/word2vec?cx=5698&cy=-5135&cz=5923&lx=0.1127&ly=0.3238&lz=-0.1680&lw=0.9242&ml=150&s=1.75&l=1&v=hc).  
 [python-ternary](https://github.com/marcharper/python-ternary) - Triangle plots.  
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
+[hiplot](https://github.com/facebookresearch/hiplot) - High dimensional Interactive Plotting.  
 
 #### Dashboards
 [streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
@@ -251,6 +252,7 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
 [xgboost](https://github.com/dmlc/xgboost) - Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters), Methods for CIs: [link1](https://stats.stackexchange.com/questions/255783/confidence-interval-for-xgb-forecast), [link2](https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b).  
 [catboost](https://github.com/catboost/catboost) - Gradient boosting.  
+[pycaret](https://github.com/pycaret/pycaret) - Wrapper for xgboost, lightgbm, catboost etc.  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [h2o](https://github.com/h2oai/h2o-3) - Gradient boosting.  
 [forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) - Confidence intervals for random forests.  
@@ -330,7 +332,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 ##### Lossfunction Related
 [SegLoss](https://github.com/JunMa11/SegLoss) - List of loss functions for medical image segmentation.  
 
-#### Text Related
+##### Text Related
 [ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.   
 [textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
 [ctrl](https://github.com/salesforce/ctrl) - Text generation.  
@@ -358,19 +360,24 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
+[pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
 
-#### Training-related
+##### Training-related
 [livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.  
 
-#### Object detection / Instance Segmentation
+##### Architecture Visualization
+[netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
+
+##### Object detection / Instance Segmentation
 [yolact](https://github.com/dbolya/yolact) - Fully convolutional model for real-time instance segmentation.  
 [EfficientDet Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch), [EfficientDet Keras](https://github.com/xuannianz/EfficientDet) - Scalable and Efficient Object Detection.  
 [detectron2](https://github.com/facebookresearch/detectron2) - Object Detection (Mask R-CNN) by Facebook.  
 [simpledet](https://github.com/TuSimple/simpledet) - Object Detection and Instance Recognition.  
 [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
 [FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.  
+[norfair](https://github.com/tryolabs/norfair) - Real-time 2D object tracking.  
 
-#### Image Classification
+##### Image Classification
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
 
 ##### Applications and Snippets
@@ -381,10 +388,10 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Posts: [1](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/), [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
 [deeplearning-models](https://github.com/rasbt/deeplearning-models) - Deep learning models.  
 
-#### Variational Autoencoders (VAE)
+##### Variational Autoencoders (VAE)
 [disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
 
-#### Graph-Based Neural Networks
+##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
 [Introduction To Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)  
 [ogb](https://ogb.stanford.edu/) - Open Graph Benchmark, Benchmark datasets.  
@@ -393,11 +400,13 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [dgl](https://github.com/dmlc/dgl) - Deep Graph Library.  
 [graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in Tensorflow, by deepmind.  
 
+#### Model conversion
+[hummingbird](https://github.com/microsoft/hummingbird) - Compile trained ML models into tensor computations (by Microsoft).  
+
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
-[hummingbird](https://github.com/microsoft/hummingbird) - Convert ML models to models that run on the GPU (by Microsoft).  
 
 #### Regression
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
