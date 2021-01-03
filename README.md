@@ -34,7 +34,6 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
 [Using df.pipe() (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
-
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
