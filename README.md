@@ -122,11 +122,6 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
 [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package, [Tutorial](https://github.com/pzivich/Python-for-Epidemiologists).  
 
-#### Frameworks
-[h2o](https://github.com/h2oai/h2o-3) - Machine learning framework.  
-[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
-[mxnet](https://github.com/apache/incubator-mxnet) - Deep learning framework, [book](https://d2l.ai/index.html).  
-
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
 [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
@@ -253,6 +248,8 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [lightgbm](https://github.com/Microsoft/LightGBM) - Gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, [doc](https://sites.google.com/view/lauraepp/parameters).  
 [xgboost](https://github.com/dmlc/xgboost) - Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters), Methods for CIs: [link1](https://stats.stackexchange.com/questions/255783/confidence-interval-for-xgb-forecast), [link2](https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b).  
 [catboost](https://github.com/catboost/catboost) - Gradient boosting.  
+[h2o](https://github.com/h2oai/h2o-3) -  Gradient boosting and general machine learning framework.  
+[snapml](https://www.zurich.ibm.com/snapml/) - Gradient boosting and general machine learning framework by IBM, for CPU and GPU. [PyPI](https://pypi.org/project/snapml/)    
 [pycaret](https://github.com/pycaret/pycaret) - Wrapper for xgboost, lightgbm, catboost etc.  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [h2o](https://github.com/h2oai/h2o-3) - Gradient boosting.  
@@ -400,6 +397,10 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [pytorch-geometric](https://github.com/rusty1s/pytorch_geometric) - Various methods for deep learning on graphs.  
 [dgl](https://github.com/dmlc/dgl) - Deep Graph Library.  
 [graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in Tensorflow, by deepmind.  
+
+##### Other neural network and deep learning frameworks
+[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
+[mxnet](https://github.com/apache/incubator-mxnet) - Deep learning framework, [book](https://d2l.ai/index.html).  
 
 #### Model conversion
 [hummingbird](https://github.com/microsoft/hummingbird) - Compile trained ML models into tensor computations (by Microsoft).  
