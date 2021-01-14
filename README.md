@@ -498,6 +498,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
 [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 [yfinance](https://github.com/ranaroussi/yfinance) - Read stock data from Yahoo Finance.  
+[findatapy](https://github.com/cuemacro/findatapy) - Read stock data from various sources.  
 [ta](https://github.com/bukosabino/ta) - Technical analysis library.  
 [backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
 [surpriver](https://github.com/tradytics/surpriver) - Find high moving stocks before they move using anomaly detection and machine learning.  
