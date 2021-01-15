@@ -397,6 +397,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [Introduction To Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)  
 [ogb](https://ogb.stanford.edu/) - Open Graph Benchmark, Benchmark datasets.  
 [networkx](https://github.com/networkx/networkx) - Graph library.  
+[cugraph](https://github.com/rapidsai/cugraph) - RAPIDS, Graph library on the GPU.  
 [pytorch-geometric](https://github.com/rusty1s/pytorch_geometric) - Various methods for deep learning on graphs.  
 [dgl](https://github.com/dmlc/dgl) - Deep Graph Library.  
 [graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in Tensorflow, by deepmind.  
