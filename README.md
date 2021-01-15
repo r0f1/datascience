@@ -63,7 +63,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
-[cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.  
+[cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library, [Intro](https://www.youtube.com/watch?v=6XzS5XcpicM&t=2m50s).  
 [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
 [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
 [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
@@ -409,7 +409,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [hummingbird](https://github.com/microsoft/hummingbird) - Compile trained ML models into tensor computations (by Microsoft).  
 
 #### GPU
-[cuML](https://github.com/rapidsai/cuml) - Run traditional tabular ML tasks on GPUs.  
+[cuML](https://github.com/rapidsai/cuml) - RAPIDS, Run traditional tabular ML tasks on GPUs, [Intro](https://www.youtube.com/watch?v=6XzS5XcpicM&t=2m50s).  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
 
