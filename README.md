@@ -83,6 +83,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 #### Classical Statistics
 
 ##### Statistical Tests and Packages
+[Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
+[Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
+[statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
 [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests.  
 [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
