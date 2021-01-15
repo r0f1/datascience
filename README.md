@@ -665,6 +665,9 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 #### Deployment and Lifecycle Management
 
+##### Docker
+[Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
+
 ##### Dependency Management
 [dephell](https://github.com/dephell/dephell) - Dependency management.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
