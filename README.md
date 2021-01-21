@@ -379,6 +379,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.  
 [norfair](https://github.com/tryolabs/norfair) - Real-time 2D object tracking.  
 
+##### Image Annotation
+[pigeon](https://github.com/agermanidis/pigeon) - Create annotations from within a Jupyter notebook.  
+
 ##### Image Classification
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
 
