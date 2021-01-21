@@ -210,6 +210,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [hiplot](https://github.com/facebookresearch/hiplot) - High dimensional Interactive Plotting.  
 
 #### Dashboards
+[superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
 [streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
 [dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. [Resources](https://github.com/ucg8j/awesome-dash).  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
