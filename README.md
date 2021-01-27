@@ -208,6 +208,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [python-ternary](https://github.com/marcharper/python-ternary) - Triangle plots.  
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 [hiplot](https://github.com/facebookresearch/hiplot) - High dimensional Interactive Plotting.  
+[visdom](https://github.com/fossasia/visdom) - Live Visualizations.  
 
 #### Dashboards
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
