@@ -373,6 +373,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 
 ##### Object detection / Instance Segmentation
+[segmentation_models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones: Unet, FPN, Linknet, PSPNet.  
 [yolact](https://github.com/dbolya/yolact) - Fully convolutional model for real-time instance segmentation.  
 [EfficientDet Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch), [EfficientDet Keras](https://github.com/xuannianz/EfficientDet) - Scalable and Efficient Object Detection.  
 [detectron2](https://github.com/facebookresearch/detectron2) - Object Detection (Mask R-CNN) by Facebook.  
