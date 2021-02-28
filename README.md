@@ -185,6 +185,10 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [ivis](https://github.com/beringresearch/ivis) - Dimensionality reduction using Siamese Networks.  
 [trimap](https://github.com/eamid/trimap) - Dimensionality reduction using triplets.  
 
+#### Training-related
+[iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.  
+[livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.  
+
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
@@ -365,9 +369,6 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 [pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
 
-##### Training-related
-[livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.  
-
 ##### Architecture Visualization
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 
@@ -384,7 +385,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [pigeon](https://github.com/agermanidis/pigeon) - Create annotations from within a Jupyter notebook.  
 
 ##### Image Classification
-[efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Promising neural network architecture.  
+[nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.
+[efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Neural network.
 
 ##### Applications and Snippets
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
@@ -499,7 +501,6 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [rocket](https://github.com/angus924/rocket) - Time Series classification using random convolutional kernels.  
 
 ##### Time Series Evaluation
-
 [TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html) - Sklearn time series split.  
 [tscv](https://github.com/WenjieZ/TSCV) - Evaluation with gap.  
 
