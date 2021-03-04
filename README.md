@@ -186,8 +186,8 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [trimap](https://github.com/eamid/trimap) - Dimensionality reduction using triplets.  
 
 #### Training-related
-[iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.  
-[livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.  
+[iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
+[livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.   
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
@@ -369,6 +369,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 [pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
 
+##### Distributed Libs
+[flexflow](https://github.com/flexflow/FlexFlow) - Distributed TensorFlow Keras and PyTorch.  
+
 ##### Architecture Visualization
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 
@@ -386,8 +389,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [pigeon](https://github.com/agermanidis/pigeon) - Create annotations from within a Jupyter notebook.  
 
 ##### Image Classification
-[nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.
-[efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Neural network.
+[nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.   
+[efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Neural network.   
 
 ##### Applications and Snippets
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
@@ -421,6 +424,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [cuML](https://github.com/rapidsai/cuml) - RAPIDS, Run traditional tabular ML tasks on GPUs, [Intro](https://www.youtube.com/watch?v=6XzS5XcpicM&t=2m50s).  
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
+Legate Numpy - Distributed Numpy array multiple using GPUs by Nvidia (not released yet) [video](https://www.youtube.com/watch?v=Jxxs_moibog).  
 
 #### Regression
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
