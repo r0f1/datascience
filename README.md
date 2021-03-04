@@ -70,7 +70,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
-[zappy](https://github.com/lasersonlab/zappy) - Distributed numpy arrays.  
+[zarr](https://github.com/zarr-developers/zarr-python) - Distributed numpy arrays.  
 
 #### Command line tools, CSV
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
