@@ -48,7 +48,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [icecream](https://github.com/gruns/icecream) - Simple debugging output.  
 [loguru](https://github.com/Delgan/loguru) - Python logging.  
 [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
-[intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).   
+[intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).
+[dbt](https://getdbt.com) - A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
+[Census](https://getcensus.com/) - a "reverse-ETL" tool to sync your data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
