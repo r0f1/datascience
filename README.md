@@ -504,6 +504,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [sktime](https://github.com/alan-turing-institute/sktime), [sktime-dl](https://github.com/uea-machine-learning/sktime-dl) - Toolbox for (deep) learning with time series.   
 [adtk](https://github.com/arundo/adtk) - Time Series Anomaly Detection.  
 [rocket](https://github.com/angus924/rocket) - Time Series classification using random convolutional kernels.  
+[luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
 
 ##### Time Series Evaluation
 [TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html) - Sklearn time series split.  
@@ -549,6 +550,7 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 Distances for comparing histograms and detecting outliers - [Talk](https://www.youtube.com/watch?v=U7xdiGc7IRU): [Kolmogorov-Smirnov](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html), [Wasserstein](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html), [Energy Distance (Cramer)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.energy_distance.html), [Kullback-Leibler divergence](https://scipy.github.io/devdocs/generated/scipy.stats.entropy.html).  
 [banpei](https://github.com/tsurubee/banpei) - Anomaly detection library based on singular spectrum transformation.  
 [telemanom](https://github.com/khundman/telemanom) - Detect anomalies in multivariate time series data using LSTMs.  
+[luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
 
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
