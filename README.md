@@ -706,7 +706,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models.  
 
 #### Math and Background
-[All kinds of math and statistics resources](https://realnotcomplex.com/)
+[All kinds of math and statistics resources](https://realnotcomplex.com/)  
 Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
 Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
 ](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
