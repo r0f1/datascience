@@ -193,6 +193,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
+[fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast histograms.  
 [matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams, [alternative](https://github.com/penrose/penrose).  
 [joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
 [mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
@@ -213,6 +214,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 [hiplot](https://github.com/facebookresearch/hiplot) - High dimensional Interactive Plotting.  
 [visdom](https://github.com/fossasia/visdom) - Live Visualizations.  
+[mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - Scatter density plots. Alternative to 2d-histograms.  
 
 #### Dashboards
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
