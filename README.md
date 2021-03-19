@@ -216,6 +216,10 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [visdom](https://github.com/fossasia/visdom) - Live Visualizations.  
 [mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - Scatter density plots. Alternative to 2d-histograms.  
 
+#### Colors
+[palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
+[colorcet](https://github.com/holoviz/colorcet) - Collection of perceptually uniform colormaps.  
+
 #### Dashboards
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
 [streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
