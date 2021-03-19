@@ -460,12 +460,14 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 
 ##### Clustering Evalutation
+* [Consensus Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.consensus_score.html#sklearn.metrics.consensus_score) - The similarity of two sets of biclusters.
 * [Adjusted Rand Index](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html)
-* [Variation of Information](https://gist.github.com/jwcarr/626cbc80e0006b526688), [Julia](https://clusteringjl.readthedocs.io/en/latest/varinfo.html)
 * [Normalized Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html)
 * [Adjusted Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html)
 * [Fowlkes-Mallows Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fowlkes_mallows_score.html)
 * [Silhouette Coefficient](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)
+* [Variation of Information](https://gist.github.com/jwcarr/626cbc80e0006b526688), [Julia](https://clusteringjl.readthedocs.io/en/latest/varinfo.html)
+* [Pair Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cluster.pair_confusion_matrix.html)
 
 [Assessing the quality of a clustering (video)](https://www.youtube.com/watch?v=Mf6MqIS2ql4)   
 [fpc](https://cran.r-project.org/web/packages/fpc/index.html) - Various methods for clustering and cluster validation (R package).  
