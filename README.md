@@ -459,8 +459,9 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 
-##### Cluster Evalutation
+##### Clustering Evalutation
 * [Adjusted Rand Index](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html)
+* [Variation of Information](https://gist.github.com/jwcarr/626cbc80e0006b526688), [Julia](https://clusteringjl.readthedocs.io/en/latest/varinfo.html)
 * [Normalized Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html)
 * [Adjusted Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html)
 * [Fowlkes-Mallows Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fowlkes_mallows_score.html)
