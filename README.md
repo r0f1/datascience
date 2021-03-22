@@ -127,7 +127,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
-[littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
+[pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
@@ -136,6 +136,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Utility functions (`OneHotEncoder(min_obs=100)`)  
 [pyupset](https://github.com/ImSoErgodic/py-upset) - Visualizing intersecting sets.  
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms.  
+[littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
 
 #### Train / Test Split
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.  
