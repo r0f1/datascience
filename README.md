@@ -196,7 +196,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
 [fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast histograms.  
 [matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams, [alternative](https://github.com/penrose/penrose).  
-[joypy](https://github.com/sbebo/joypy) - Draw stacked density plots.  
+[joypy](https://github.com/sbebo/joypy) - Draw stacked density plots (=ridge plots), [Ridge plots in seaborn](https://seaborn.pydata.org/examples/kde_ridgeplot.html).  
 [mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
 [scikit-plot](https://github.com/reiinakano/scikit-plot) - ROC curves and other visualizations for ML models.  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visualizations for ML models (similar to scikit-plot).  
