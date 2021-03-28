@@ -122,8 +122,12 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Cook - Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)  
 
 #### Epidemiology
+[R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/) - Large tool suite for working with epidemiological data (R packages). [Github](https://github.com/reconhub)   
+[incidence2](https://github.com/reconhub/incidence2) - Computation, handling, visualisation and simple modelling of incidence (R package).  
+[EpiEstim](https://github.com/mrc-ide/EpiEstim) - Estimate time varying instantaneous reproduction number R during epidemics (R package) [paper](https://academic.oup.com/aje/article/178/9/1505/89262).  
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
 [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package, [Tutorial](https://github.com/pzivich/Python-for-Epidemiologists).  
+
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
