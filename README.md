@@ -397,6 +397,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [norfair](https://github.com/tryolabs/norfair) - Real-time 2D object tracking.  
 
 ##### Image Annotation
+[cvat](https://github.com/openvinotoolkit/cvat) - Image annotation tool.  
 [pigeon](https://github.com/agermanidis/pigeon) - Create annotations from within a Jupyter notebook.  
 
 ##### Image Classification
