@@ -44,6 +44,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 
 #### Helpful
+[drawdata](https://github.com/koaning/drawdata) - Quickly draw some points and export them as csv, [website](https://drawdata.xyz/).  
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
 [icecream](https://github.com/gruns/icecream) - Simple debugging output.  
 [loguru](https://github.com/Delgan/loguru) - Python logging.  
