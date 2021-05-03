@@ -234,6 +234,9 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
 
+#### Survey Tools
+[samplics](https://github.com/samplics-org/samplics) - Sampling techniques for complex survey designs.  
+
 #### Geographical Tools
 [folium](https://github.com/python-visualization/folium) - Plot geographical maps using the Leaflet.js library, [jupyter plugin](https://github.com/jupyter-widgets/ipyleaflet).  
 [gmaps](https://github.com/pbugnion/gmaps) - Google Maps for Jupyter notebooks.  
@@ -490,8 +493,6 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 * Entropy of cluster sizes
 * Average largest within-cluster gap
 * Variation of clusterings on bootstrapped data
-
-
 
 #### Interpretable Classifiers and Regressors
 [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
