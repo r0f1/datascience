@@ -140,7 +140,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) - Time series preprocessing: Denoising, Compression, Resampling.  
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Utility functions (`OneHotEncoder(min_obs=100)`)  
 [pyupset](https://github.com/ImSoErgodic/py-upset) - Visualizing intersecting sets.  
-[pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms.  
+[pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html)  
 [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
 
 #### Train / Test Split
@@ -160,6 +160,12 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
+
+##### Feature Engineering Images
+[skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
+[mahotas](https://github.com/luispedro/mahotas) - Zernike, Haralick, LBP, and TAS features.  
+[pyradiomics](https://github.com/AIM-Harvard/pyradiomics) - Radiomics features from medical imaging.  
+[pyefd](https://github.com/hbldh/pyefd) - Elliptical feature descriptor, approximating a contour with a Fourier series.  
 
 #### Feature Selection
 [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)  
