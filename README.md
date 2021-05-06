@@ -191,6 +191,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
 [scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=AWoeBzJd7uQ), [paper](https://www.uncg.edu/mat/faculty/cdsmyth/topological-approaches-skin.pdf).  
+[giotto-tda](https://github.com/giotto-ai/giotto-tda) - Topological Data Analysis.  
 [mdr](https://github.com/EpistasisLab/scikit-mdr) - Dimensionality reduction, multifactor dimensionality reduction (MDR).  
 [ivis](https://github.com/beringresearch/ivis) - Dimensionality reduction using Siamese Networks.  
 [trimap](https://github.com/eamid/trimap) - Dimensionality reduction using triplets.  
