@@ -1,6 +1,7 @@
 # Awesome Data Science with Python
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
+![image](https://user-images.githubusercontent.com/7324891/118276826-5fe16d00-b4c8-11eb-90bf-2722e7160d20.png)
 
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
@@ -184,6 +185,24 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [INVASE](https://github.com/jsyoon0823/INVASE) - Instance-wise Variable Selection using Neural Networks.  
 
 #### Dimensionality Reduction
+
+##### Selection
+
+* PCA - [link](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)  
+* Autoencoder - [link](https://blog.keras.io/building-autoencoders-in-keras.html)
+* Isomaps - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html#sklearn.manifold.Isomap)  
+* LLE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html)
+* Force-directed graph drawing - [link](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.draw_graph.html#scanpy.tl.draw_graph)  
+* MDS - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
+* Diffusion Maps - [link](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.diffmap.html)
+* t-SNE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE)  
+* NeRV - [link](https://github.com/ziyuang/pynerv), [paper](https://www.jmlr.org/papers/volume11/venna10a/venna10a.pdf)
+* MDR - [link](https://github.com/EpistasisLab/scikit-mdr)
+* UMAP - [link](https://github.com/lmcinnes/umap)
+* Ivis - [link](https://github.com/beringresearch/ivis)
+
+##### Packages
+
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU), [tsne intro](https://distill.pub/2016/misread-tsne/). 
 [sklearn.manifold](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold) and [sklearn.decomposition](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition) - PCA, t-SNE, MDS, Isomaps and others.  
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
@@ -192,10 +211,11 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
 [scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=AWoeBzJd7uQ), [paper](https://www.uncg.edu/mat/faculty/cdsmyth/topological-approaches-skin.pdf).  
 [giotto-tda](https://github.com/giotto-ai/giotto-tda) - Topological Data Analysis.  
-[mdr](https://github.com/EpistasisLab/scikit-mdr) - Dimensionality reduction, multifactor dimensionality reduction (MDR).  
 [ivis](https://github.com/beringresearch/ivis) - Dimensionality reduction using Siamese Networks.  
 [trimap](https://github.com/eamid/trimap) - Dimensionality reduction using triplets.  
 [scanpy](https://github.com/theislab/scanpy) - [Force-directed graph drawing](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.draw_graph.html#scanpy.tl.draw_graph), [Diffusion Maps](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.diffmap.html).  
+[direpack](https://github.com/SvenSerneels/direpack) - Projection pursuit, Sufficient dimension reduction, Robust M-estimators.  
+[DBS](https://cran.r-project.org/web/packages/DatabionicSwarm/vignettes/DatabionicSwarm.html) - DatabionicSwarm (R package).  
 
 #### Training-related
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
@@ -467,6 +487,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm, [talk](https://www.youtube.com/watch?v=dGsxd67IFiU), [blog](https://towardsdatascience.com/understanding-hdbscan-and-density-based-clustering-121dbee1320e).  
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
+[FCPS](https://github.com/Mthrun/FCPS) -  Fundamental Clustering Problems Suite (R package).  
 [GaussianMixture](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html) - Generalized k-means clustering using a mixture of Gaussian distributions, [video](https://www.youtube.com/watch?v=aICqoAG5BXQ).  
 [nmslib](https://github.com/nmslib/nmslib) - Similarity search library and toolkit for evaluation of k-NN methods.  
 [buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and scalable clustering algorithm.  
