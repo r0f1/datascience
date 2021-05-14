@@ -1,7 +1,6 @@
 # Awesome Data Science with Python
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
-![image](https://user-images.githubusercontent.com/7324891/118276826-5fe16d00-b4c8-11eb-90bf-2722e7160d20.png)
 
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
