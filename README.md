@@ -187,18 +187,18 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 
 ##### Selection
 
-* PCA - [link](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)  
-* Autoencoder - [link](https://blog.keras.io/building-autoencoders-in-keras.html)
-* Isomaps - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html#sklearn.manifold.Isomap)  
-* LLE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html)
-* Force-directed graph drawing - [link](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.draw_graph.html#scanpy.tl.draw_graph)  
-* MDS - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
-* Diffusion Maps - [link](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.diffmap.html)
-* t-SNE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE)  
-* NeRV - [link](https://github.com/ziyuang/pynerv), [paper](https://www.jmlr.org/papers/volume11/venna10a/venna10a.pdf)
-* MDR - [link](https://github.com/EpistasisLab/scikit-mdr)
-* UMAP - [link](https://github.com/lmcinnes/umap)
-* Ivis - [link](https://github.com/beringresearch/ivis)
+PCA - [link](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)    
+Autoencoder - [link](https://blog.keras.io/building-autoencoders-in-keras.html)  
+Isomaps - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html#sklearn.manifold.Isomap)    
+LLE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html)  
+Force-directed graph drawing - [link](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.draw_graph.html#scanpy.tl.draw_graph)    
+MDS - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)  
+Diffusion Maps - [link](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.diffmap.html)  
+t-SNE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#sklearn.manifold.TSNE)    
+NeRV - [link](https://github.com/ziyuang/pynerv), [paper](https://www.jmlr.org/papers/volume11/venna10a/venna10a.pdf)  
+MDR - [link](https://github.com/EpistasisLab/scikit-mdr)  
+UMAP - [link](https://github.com/lmcinnes/umap)  
+Ivis - [link](https://github.com/beringresearch/ivis)  
 
 ##### Packages
 
