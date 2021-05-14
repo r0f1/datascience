@@ -186,7 +186,8 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 #### Dimensionality Reduction
 
 ##### Selection
-
+[Review](https://members.loria.fr/moberger/Enseignement/AVR/Exposes/TR_Dimensiereductie.pdf)  
+  
 PCA - [link](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)    
 Autoencoder - [link](https://blog.keras.io/building-autoencoders-in-keras.html)  
 Isomaps - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html#sklearn.manifold.Isomap)    
@@ -484,6 +485,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 
 #### Clustering
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
+[Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf).  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm, [talk](https://www.youtube.com/watch?v=dGsxd67IFiU), [blog](https://towardsdatascience.com/understanding-hdbscan-and-density-based-clustering-121dbee1320e).  
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
 [FCPS](https://github.com/Mthrun/FCPS) -  Fundamental Clustering Problems Suite (R package).  
