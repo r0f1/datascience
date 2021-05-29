@@ -107,7 +107,8 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/)  
 [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/)  
 [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
-[Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)     
+[Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/) <br />
+[Tableau](https://www.tableau.com/why-tableau/what-is-tableau) - Creates interactive visual analytics in the form of dashboards
 
 ##### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
