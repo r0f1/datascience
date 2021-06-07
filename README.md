@@ -642,7 +642,8 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
 
 #### Gaussian Processes
-[GPyOpt](https://github.com/SheffieldML/GPyOpt) - Gaussian process optimization.  
+[Visualization](http://www.infinitecuriosity.org/vizgp/), [Article](https://distill.pub/2019/visual-exploration-gaussian-processes/)  
+[GPyOpt](https://github.com/SheffieldML/GPyOpt) - Gaussian process optimization.   
 [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes (Tensorflow).  
 [gpytorch](https://gpytorch.ai/) - Gaussian processes (Pytorch).  
 
