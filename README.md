@@ -497,6 +497,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
 [tree-SNE](https://github.com/isaacrob/treesne) - Hierarchical clustering algorithm based on t-SNE.  
 [MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
+[distribution_clustering](https://github.com/EricElmoznino/distribution_clustering), [paper](https://arxiv.org/abs/1804.02624), [related paper](https://arxiv.org/abs/2003.07770), [alt](https://github.com/r0f1/distribution_clustering).  
 [phenograph](https://github.com/dpeerlab/phenograph) - Clustering by community detection.  
 
 ##### Clustering Evalutation
