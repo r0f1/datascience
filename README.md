@@ -186,6 +186,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 #### Dimensionality Reduction
 
 ##### Selection
+Check also the Clustering section for ideas!  
 [Review](https://members.loria.fr/moberger/Enseignement/AVR/Exposes/TR_Dimensiereductie.pdf)  
   
 PCA - [link](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)    
@@ -209,6 +210,7 @@ Ivis - [link](https://github.com/beringresearch/ivis)
 Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [FIt-SNE](https://github.com/KlugerLab/FIt-SNE)
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
+[somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=AWoeBzJd7uQ), [paper](https://www.uncg.edu/mat/faculty/cdsmyth/topological-approaches-skin.pdf).  
 [giotto-tda](https://github.com/giotto-ai/giotto-tda) - Topological Data Analysis.  
 [ivis](https://github.com/beringresearch/ivis) - Dimensionality reduction using Siamese Networks.  
@@ -495,7 +497,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
 [tree-SNE](https://github.com/isaacrob/treesne) - Hierarchical clustering algorithm based on t-SNE.  
 [MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
-[somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
+[phenograph](https://github.com/dpeerlab/phenograph) - Clustering by community detection.  
 
 ##### Clustering Evalutation
 [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
