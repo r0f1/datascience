@@ -485,6 +485,12 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Dynamic classifier and ensemble selection.  
 [human-learn](https://github.com/koaning/human-learn) - Create and tune classifier based on your rule set.  
 
+#### Metric Learning
+[metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Supervised and weakly-supervised metric learning algorithms.  
+[pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Pytorch metric learning.  
+[deep_metric_learning](https://github.com/ronekko/deep_metric_learning) - Methods for deep metric learning.  
+[ivis](https://bering-ivis.readthedocs.io/en/latest/supervised.html) - Metric learning using siamese neural networks.  
+
 #### Clustering
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
 [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf).  
@@ -789,7 +795,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [unyt](https://github.com/yt-project/unyt) - Working with units.  
 [scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
 [VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
-[metric-learn](https://github.com/metric-learn/metric-learn) - Metric learning.   
 
 #### General Python Programming
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
