@@ -378,6 +378,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [albumentations](https://github.com/albu/albumentations) - Wrapper around imgaug and other libraries.  
 [augmix](https://github.com/google-research/augmix) - Image augmentation from Google.  
 [kornia](https://github.com/kornia/kornia) - Image augmentation, feature extraction and loss functions.  
+[augly](https://github.com/facebookresearch/AugLy) - Image, audio, text, video augmentation from Facebook.  
 
 ##### Lossfunction Related
 [SegLoss](https://github.com/JunMa11/SegLoss) - List of loss functions for medical image segmentation.  
