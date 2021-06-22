@@ -549,9 +549,10 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 
 #### Time Series
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
+[kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
+[prophet](https://github.com/facebook/prophet) - Time series prediction library by Facebook.  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
-[prophet](https://github.com/facebook/prophet) - Time series prediction library.  
 [atspy](https://github.com/firmai/atspy) - Automated Time Series Models.  
 [pm-prophet](https://github.com/luke14free/pm-prophet) - Time series prediction and decomposition library.  
 [htsprophet](https://github.com/CollinRooney12/htsprophet) - Hierarchical Time Series Forecasting using Prophet.  
