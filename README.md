@@ -132,6 +132,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
+[cleanlab](https://github.com/cgnorthcutt/cleanlab) - Imageing data: Machine learning with noisy labels and finding mislabeled data.  
 [pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
