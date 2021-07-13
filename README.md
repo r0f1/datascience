@@ -488,6 +488,8 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [human-learn](https://github.com/koaning/human-learn) - Create and tune classifier based on your rule set.  
 
 #### Metric Learning
+[Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)  
+  
 [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Supervised and weakly-supervised metric learning algorithms.  
 [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Pytorch metric learning.  
 [deep_metric_learning](https://github.com/ronekko/deep_metric_learning) - Methods for deep metric learning.  
