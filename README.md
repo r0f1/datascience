@@ -87,10 +87,10 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
 [Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
-[pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests.  
+[pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests. [Pairwise correlation between columns of pandas DataFrame](https://pingouin-stats.org/generated/pingouin.pairwise_corr.html)   
 [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
-[Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
+Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
 
 ##### Interim Analyses / Sequential Analysis / Stopping
