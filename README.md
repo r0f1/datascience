@@ -453,6 +453,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
 [Introduction To Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)  
+[An attempt at demystifying graph deep learning](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/)  
 [ogb](https://ogb.stanford.edu/) - Open Graph Benchmark, Benchmark datasets.  
 [networkx](https://github.com/networkx/networkx) - Graph library.  
 [cugraph](https://github.com/rapidsai/cugraph) - RAPIDS, Graph library on the GPU.  
