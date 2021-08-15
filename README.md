@@ -745,6 +745,8 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 [bbopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization.  
 [dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
+[botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.  
+[ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform by Facebook.  
 
 #### Incremental Learning, Online Learning
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
