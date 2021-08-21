@@ -201,15 +201,19 @@ t-SNE - [link](https://scikit-learn.org/stable/modules/generated/sklearn.manifol
 NeRV - [link](https://github.com/ziyuang/pynerv), [paper](https://www.jmlr.org/papers/volume11/venna10a/venna10a.pdf)  
 MDR - [link](https://github.com/EpistasisLab/scikit-mdr)  
 UMAP - [link](https://github.com/lmcinnes/umap)  
-Ivis - [link](https://github.com/beringresearch/ivis)  
+Random Projection - [link](https://scikit-learn.org/stable/modules/random_projection.html)  
+Ivis - [link](https://github.com/beringresearch/ivis)   
+SimCLR - [link](https://github.com/lightly-ai/lightly)  
 
 ##### Packages
 
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU), [tsne intro](https://distill.pub/2016/misread-tsne/). 
 [sklearn.manifold](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold) and [sklearn.decomposition](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition) - PCA, t-SNE, MDS, Isomaps and others.  
+[sklearn.random_projection](https://scikit-learn.org/stable/modules/random_projection.html) - Johnson-Lindenstrauss lemma, Gaussian random projection, Sparse random projection.  
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [FIt-SNE](https://github.com/KlugerLab/FIt-SNE)
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
+[lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=AWoeBzJd7uQ), [paper](https://www.uncg.edu/mat/faculty/cdsmyth/topological-approaches-skin.pdf).  
@@ -417,6 +421,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 [pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
+[lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 
 ##### Distributed Libs
 [flexflow](https://github.com/flexflow/FlexFlow) - Distributed TensorFlow Keras and PyTorch.  
