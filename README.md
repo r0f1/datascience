@@ -399,6 +399,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 
 ##### Libs
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/), [examples](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24).  
+[timm](https://github.com/rwightman/pytorch-image-models) - Pytorch image models.  
 [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
 [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for Keras.  
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
