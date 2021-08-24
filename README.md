@@ -129,7 +129,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
 [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package, [Tutorial](https://github.com/pzivich/Python-for-Epidemiologists).  
 
-
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
 [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Imageing data: Machine learning with noisy labels and finding mislabeled data.  
@@ -505,6 +504,12 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Pytorch metric learning.  
 [deep_metric_learning](https://github.com/ronekko/deep_metric_learning) - Methods for deep metric learning.  
 [ivis](https://bering-ivis.readthedocs.io/en/latest/supervised.html) - Metric learning using siamese neural networks.  
+
+#### Distance Functions
+[scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html) - All kinds of distance metrics.  
+[pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance / Wasserstein distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html), [POT implementation](https://pythonot.github.io/auto_examples/plot_OT_2D_samples.html)   
+[dcor](https://github.com/vnmabus/dcor)  - Distance correlation and related Energy statistics.  
+[GeomLoss](https://www.kernel-operations.io/geomloss/) - Kernel norms, Hausdorff divergences, Debiased Sinkhorn divergences (=approximation of Wasserstein distance).  
 
 #### Clustering
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
