@@ -446,6 +446,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 ##### Image Classification
 [nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.   
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Neural network.   
+[pycls](https://github.com/facebookresearch/pycls) - Pytorch image classification networks: ResNet, ResNeXt, EfficientNet, and RegNet (by Facebook).  
 
 ##### Applications and Snippets
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
