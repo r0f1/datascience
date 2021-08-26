@@ -183,7 +183,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
 [INVASE](https://github.com/jsyoon0823/INVASE) - Instance-wise Variable Selection using Neural Networks.  
 
-#### Dimensionality Reduction
+#### Dimensionality Reduction / Representation Learning
 
 ##### Selection
 Check also the Clustering section for ideas!  
@@ -204,6 +204,11 @@ Random Projection - [link](https://scikit-learn.org/stable/modules/random_projec
 Ivis - [link](https://github.com/beringresearch/ivis)   
 SimCLR - [link](https://github.com/lightly-ai/lightly)  
 
+
+##### Neural-network Based
+[lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
+[esvit](https://github.com/microsoft/esvit) - Vision Transformers for Representation Learning (Microsoft).  
+
 ##### Packages
 
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU), [tsne intro](https://distill.pub/2016/misread-tsne/). 
@@ -212,7 +217,6 @@ SimCLR - [link](https://github.com/lightly-ai/lightly)
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [FIt-SNE](https://github.com/KlugerLab/FIt-SNE)
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
-[lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
 [scikit-tda](https://github.com/scikit-tda/scikit-tda) - Topological Data Analysis, [paper](https://www.nature.com/articles/srep01236), [talk](https://www.youtube.com/watch?v=F2t_ytTLrQ4), [talk](https://www.youtube.com/watch?v=AWoeBzJd7uQ), [paper](https://www.uncg.edu/mat/faculty/cdsmyth/topological-approaches-skin.pdf).  
