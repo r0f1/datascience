@@ -208,6 +208,7 @@ SimCLR - [link](https://github.com/lightly-ai/lightly)
 ##### Neural-network Based
 [lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [esvit](https://github.com/microsoft/esvit) - Vision Transformers for Representation Learning (Microsoft).  
+[MCML](https://github.com/pachterlab/MCML) - Semi-supervised dimensionality reduction of Multi-Class, Multi-Label data (sequencing data) [paper](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1).  
 
 ##### Packages
 
