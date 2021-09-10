@@ -582,6 +582,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
 [prophet](https://github.com/facebook/prophet) - Time series prediction library by Facebook.  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
+[modeltime](https://cran.r-project.org/web/packages/modeltime/index.html) - Time series forecasting framework (R package).  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
 [atspy](https://github.com/firmai/atspy) - Automated Time Series Models.  
 [pm-prophet](https://github.com/luke14free/pm-prophet) - Time series prediction and decomposition library.  
