@@ -846,6 +846,9 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks  
 [Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
 
+##### Guidelines 
+[datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
+
 ##### List of Books
 [Mat Kelceys list of cool machine learning books](http://matpalm.com/blog/cool_machine_learning_books/)  
 
