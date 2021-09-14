@@ -73,6 +73,10 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 [zarr](https://github.com/zarr-developers/zarr-python) - Distributed numpy arrays.  
 
+#### Distributed Systems
+[nextflow](https://github.com/nextflow-io/nextflow) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch and others.  
+[dsub](https://github.com/DataBiosphere/dsub) - Run batch computing tasks in Docker image in the Google Cloud.  
+
 #### Command line tools, CSV
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
 [xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
@@ -186,10 +190,11 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
 [INVASE](https://github.com/jsyoon0823/INVASE) - Instance-wise Variable Selection using Neural Networks.  
 
+
 #### Dimensionality Reduction / Representation Learning
 
 ##### Selection
-Check also the Clustering section for ideas!  
+Check also the Clustering section and self-supervised learning section for ideas!  
 [Review](https://members.loria.fr/moberger/Enseignement/AVR/Exposes/TR_Dimensiereductie.pdf)  
   
 PCA - [link](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)    
@@ -207,14 +212,11 @@ Random Projection - [link](https://scikit-learn.org/stable/modules/random_projec
 Ivis - [link](https://github.com/beringresearch/ivis)   
 SimCLR - [link](https://github.com/lightly-ai/lightly)  
 
-
 ##### Neural-network Based
-[lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [esvit](https://github.com/microsoft/esvit) - Vision Transformers for Representation Learning (Microsoft).  
 [MCML](https://github.com/pachterlab/MCML) - Semi-supervised dimensionality reduction of Multi-Class, Multi-Label data (sequencing data) [paper](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1).  
 
 ##### Packages
-
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU), [tsne intro](https://distill.pub/2016/misread-tsne/). 
 [sklearn.manifold](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold) and [sklearn.decomposition](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition) - PCA, t-SNE, MDS, Isomaps and others.  
 [sklearn.random_projection](https://scikit-learn.org/stable/modules/random_projection.html) - Johnson-Lindenstrauss lemma, Gaussian random projection, Sparse random projection.  
@@ -406,9 +408,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
 [ctrl](https://github.com/salesforce/ctrl) - Text generation.  
 
-##### Libs
+##### Libs General
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/), [examples](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24).  
-[timm](https://github.com/rwightman/pytorch-image-models) - Pytorch image models.  
 [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
 [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for Keras.  
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
@@ -416,10 +417,6 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [tflearn](https://github.com/tflearn/tflearn) - Neural Networks on top of tensorflow.  
 [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
 [tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
-[fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
-[pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for pytorch.  
-[ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
-[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
@@ -429,9 +426,18 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
+
+##### Libs Pytorch
+[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
+[fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
+[timm](https://github.com/rwightman/pytorch-image-models) - Pytorch image models.  
+[ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
+[pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for pytorch.  
 [pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
 [lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
+[MONAI](https://github.com/project-monai/monai) - Deep learning in healthcare imaging.  
+[kornia](https://github.com/kornia/kornia) - Image transformations, epipolar geometry, depth estimation.  
 
 ##### Distributed Libs
 [flexflow](https://github.com/flexflow/FlexFlow) - Distributed TensorFlow Keras and PyTorch.  
@@ -521,6 +527,10 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance / Wasserstein distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html), [POT implementation](https://pythonot.github.io/auto_examples/plot_OT_2D_samples.html)   
 [dcor](https://github.com/vnmabus/dcor)  - Distance correlation and related Energy statistics.  
 [GeomLoss](https://www.kernel-operations.io/geomloss/) - Kernel norms, Hausdorff divergences, Debiased Sinkhorn divergences (=approximation of Wasserstein distance).  
+
+#### Self-supervised Learning
+[lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
+[vissl](https://github.com/facebookresearch/vissl) - Self-Supervised Learning with PyTorch: RotNet, Jigsaw, NPID, ClusterFit, PIRL, SimCLR, MoCo, DeepCluster, SwAV.  
 
 #### Clustering
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
