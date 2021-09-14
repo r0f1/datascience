@@ -521,6 +521,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Pytorch metric learning.  
 [deep_metric_learning](https://github.com/ronekko/deep_metric_learning) - Methods for deep metric learning.  
 [ivis](https://bering-ivis.readthedocs.io/en/latest/supervised.html) - Metric learning using siamese neural networks.  
+[tensorflow similarity](https://github.com/tensorflow/similarity) - Metric learning.  
 
 #### Distance Functions
 [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html) - All kinds of distance metrics.  
