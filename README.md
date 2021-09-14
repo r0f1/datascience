@@ -829,7 +829,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [knockknock](https://github.com/huggingface/knockknock) - Be notified when your training ends.  
 [metaflow](https://github.com/Netflix/metaflow) - Lifecycle Management Tool by Netflix.  
 [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models.  
-[Neptune](https://neptune.ai) - Experiment tracking and model registry built for research and production teams that run a lot of experiments.  
+[Neptune](https://neptune.ai) - Experiment tracking and model registry.  
 
 #### Math and Background
 [All kinds of math and statistics resources](https://realnotcomplex.com/)  
