@@ -465,15 +465,21 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [pycls](https://github.com/facebookresearch/pycls) - Pytorch image classification networks: ResNet, ResNeXt, EfficientNet, and RegNet (by Facebook).  
 
 ##### Applications and Snippets
-[CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
 [SPADE](https://github.com/nvlabs/spade) - Semantic Image Synthesis.  
 [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737), [code](https://github.com/entron/entity-embedding-rossmann), [kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)  
 [Image Super-Resolution](https://github.com/idealo/image-super-resolution) - Super-scaling using a Residual Dense Network.  
 Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Posts: [1](https://www.thomasjpfan.com/2018/07/nuclei-image-segmentation-tutorial/), [2](https://www.thomasjpfan.com/2017/08/hassle-free-unets/)  
 [deeplearning-models](https://github.com/rasbt/deeplearning-models) - Deep learning models.  
 
-##### Variational Autoencoders (VAE)
+##### Variational Autoencoders (VAEs)
 [disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
+
+##### Generative Adversarial Networks (GANs)
+[Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)  
+[The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks.  
+[CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
+[Tensorflow GAN implementations](https://github.com/hwalsuklee/tensorflow-generative-model-collections).  
+[Pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN#adversarial-autoencoder).  
 
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
@@ -855,7 +861,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)  
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
-[The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks  
 [Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
 
 ##### Guidelines 
