@@ -479,6 +479,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks.  
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
 [Tensorflow GAN implementations](https://github.com/hwalsuklee/tensorflow-generative-model-collections).  
+[Pytorch GAN implementations](https://github.com/znxlwm/pytorch-generative-model-collections).  
 [Pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN#adversarial-autoencoder).  
 
 ##### Graph-Based Neural Networks
