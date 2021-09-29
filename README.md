@@ -72,6 +72,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 [zarr](https://github.com/zarr-developers/zarr-python) - Distributed numpy arrays.  
+[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
 
 #### Distributed Systems
 [nextflow](https://github.com/nextflow-io/nextflow) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch and others.  
@@ -167,6 +168,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
+[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
 
 ##### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
