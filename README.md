@@ -890,6 +890,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)   
 [Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)   
 [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)   
+[Awesome Industry Machine Learning](https://github.com/firmai/industry-machine-learning)  
 [Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)   
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)    
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
