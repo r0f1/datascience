@@ -689,6 +689,9 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 #### Scoring
 [SLIM](https://github.com/ustunb/slim-python) - Scoring systems for classification, Supersparse linear integer models.  
 
+#### Causal Inference
+[causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).
+
 #### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 [PyMC3](https://docs.pymc.io/) - Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
