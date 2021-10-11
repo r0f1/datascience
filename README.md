@@ -430,6 +430,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
 
 ##### Libs Pytorch
+[Good Pytorch Introduction](https://cs230.stanford.edu/blog/pytorch/)  
+  
 [skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
 [timm](https://github.com/rwightman/pytorch-image-models) - Pytorch image models.  
