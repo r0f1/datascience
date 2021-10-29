@@ -42,6 +42,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
 [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
+[lux](https://github.com/lux-org/lux) - Dataframe visualization within Jupyter.  
 
 #### Helpful
 [drawdata](https://github.com/koaning/drawdata) - Quickly draw some points and export them as csv, [website](https://drawdata.xyz/).  
