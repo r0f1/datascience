@@ -625,7 +625,6 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [pastas](https://pastas.readthedocs.io/en/latest/examples.html) - Simulation of time series.  
 [fastdtw](https://github.com/slaypni/fastdtw) - Dynamic Time Warp Distance.  
 [fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) - Time Series Forecasting (R package).  
-[CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [pydlm](https://github.com/wwrechard/pydlm) - Bayesian time series modeling ([R package](https://cran.r-project.org/web/packages/bsts/index.html), [Blog post](http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html))  
 [PyAF](https://github.com/antoinecarme/pyaf) - Automatic Time Series Forecasting.  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
@@ -695,7 +694,11 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [SLIM](https://github.com/ustunb/slim-python) - Scoring systems for classification, Supersparse linear integer models.  
 
 #### Causal Inference
-[causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).
+[CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
+[causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).  
+[causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
+[upliftml](https://github.com/bookingcom/upliftml) - Causal inference by Booking.com.  
+[EconML](https://github.com/microsoft/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
 
 #### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
@@ -757,7 +760,6 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
 [dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
 [interpret](https://github.com/microsoft/interpret) - Fit interpretable models, explain models (Microsoft).  
-[causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
