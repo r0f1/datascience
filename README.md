@@ -44,6 +44,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 [lux](https://github.com/lux-org/lux) - Dataframe visualization within Jupyter.  
 
+#### Scikit-Learn Alternatives
+[scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel extension for scikit-learn for speed.  
+
 #### Helpful
 [drawdata](https://github.com/koaning/drawdata) - Quickly draw some points and export them as csv, [website](https://drawdata.xyz/).  
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
