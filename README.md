@@ -605,6 +605,9 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [Interactive Tool](https://fiiir.com/) for FIR and IIR filters, [Examples](https://plot.ly/python/fft-filters/).  
 [filterpy](https://github.com/rlabbe/filterpy) - Kalman filtering and optimal estimation library.  
 
+#### Geometry
+[geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.  
+
 #### Time Series
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
