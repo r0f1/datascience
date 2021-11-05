@@ -565,6 +565,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
 [distribution_clustering](https://github.com/EricElmoznino/distribution_clustering), [paper](https://arxiv.org/abs/1804.02624), [related paper](https://arxiv.org/abs/2003.07770), [alt](https://github.com/r0f1/distribution_clustering).  
 [phenograph](https://github.com/dpeerlab/phenograph) - Clustering by community detection.  
+[HypHC](https://github.com/HazyResearch/HypHC) - Hyperbolic Hierarchical Clustering.  
 
 ##### Clustering Evalutation
 [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
