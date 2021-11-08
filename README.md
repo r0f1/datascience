@@ -174,7 +174,13 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
 [NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
 
-##### Feature Engineering Images
+#### Image Cleanup
+[Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
+[cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
+[BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
+[CSBDeep](https://github.com/CSBDeep/CSBDeep) - Restoration of fluorescence microscopy images.  
+
+#### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
 [mahotas](https://github.com/luispedro/mahotas) - Zernike, Haralick, LBP, and TAS features.  
 [pyradiomics](https://github.com/AIM-Harvard/pyradiomics) - Radiomics features from medical imaging.  
@@ -524,6 +530,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [pygam](https://github.com/dswah/pyGAM) - Generalized Additive Models (GAMs), [Explanation](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/).  
 [GLRM](https://github.com/madeleineudell/LowRankModels.jl) - Generalized Low Rank Models.  
 [tweedie](https://xgboost.readthedocs.io/en/latest/parameter.html#parameters-for-tweedie-regression-objective-reg-tweedie) - Specialized distribution for zero inflated targets, [Talk](https://www.youtube.com/watch?v=-o0lpHBq85I).  
+[MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Estimating prediction intervals.  
 
 #### Classification
 [Talk](https://www.youtube.com/watch?v=DkLPYccEJ8Y), [Notebook](https://github.com/ianozsvald/data_science_delivered/blob/master/ml_creating_correct_capable_classifiers.ipynb)  
