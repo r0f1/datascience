@@ -489,6 +489,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [deeplearning-models](https://github.com/rasbt/deeplearning-models) - Deep learning models.  
 
 ##### Variational Autoencoders (VAEs)
+[Variational Autoencoder Explanation Video](https://www.youtube.com/watch?v=9zKuYvjFFS8)  
 [disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
 
 ##### Generative Adversarial Networks (GANs)
