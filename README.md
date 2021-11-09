@@ -178,7 +178,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
 [BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
-[CSBDeep](https://github.com/CSBDeep/CSBDeep) - Restoration of fluorescence microscopy images.  
+CSBDeep [Project page](https://csbdeep.bioimagecomputing.com/tools/), [Python package](https://github.com/CSBDeep/CSBDeep) - Image restoration and object detection of fluorescence microscopy images.  
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
