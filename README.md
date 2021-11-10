@@ -179,6 +179,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
 [BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection of fluorescence microscopy images, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
+[DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 
 #### Feature Engineering Images
@@ -492,6 +493,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 ##### Variational Autoencoders (VAEs)
 [Variational Autoencoder Explanation Video](https://www.youtube.com/watch?v=9zKuYvjFFS8)  
 [disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
+[ladder-vae-pytorch](https://github.com/addtt/ladder-vae-pytorch) - Ladder Variational Autoencoders (LVAE).  
 
 ##### Generative Adversarial Networks (GANs)
 [Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)  
@@ -691,7 +693,8 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [survivalstan](https://github.com/hammerlab/survivalstan) - Survival analysis, [intro](http://www.hammerlab.org/2017/06/26/introducing-survivalstan/).  
 [convoys](https://github.com/better/convoys) - Analyze time lagged conversions.  
 RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).  
-[pysurvival](https://github.com/square/pysurvival) - Survival analysis . 
+[pysurvival](https://github.com/square/pysurvival) - Survival analysis.  
+[DeepSurvivalMachines](https://github.com/autonlab/DeepSurvivalMachines) - Fully Parametric Survival Regression.  
 
 #### Outlier Detection & Anomaly Detection
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) - Isolation Forest and others.  
