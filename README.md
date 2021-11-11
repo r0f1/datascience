@@ -143,7 +143,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
-[cleanlab](https://github.com/cgnorthcutt/cleanlab) - Imageing data: Machine learning with noisy labels and finding mislabeled data.  
+[cleanlab](https://github.com/cgnorthcutt/cleanlab) - Imageing data: Machine learning with noisy labels and finding mislabeled data. Also see awesome list below.  
 [pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
@@ -922,6 +922,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)   
 [Awesome Industry Machine Learning](https://github.com/firmai/industry-machine-learning)  
 [Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)   
+[Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)    
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
