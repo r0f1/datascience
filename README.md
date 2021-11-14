@@ -249,6 +249,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [scanpy](https://github.com/theislab/scanpy) - [Force-directed graph drawing](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.draw_graph.html#scanpy.tl.draw_graph), [Diffusion Maps](https://scanpy.readthedocs.io/en/stable/api/scanpy.tl.diffmap.html).  
 [direpack](https://github.com/SvenSerneels/direpack) - Projection pursuit, Sufficient dimension reduction, Robust M-estimators.  
 [DBS](https://cran.r-project.org/web/packages/DatabionicSwarm/vignettes/DatabionicSwarm.html) - DatabionicSwarm (R package).  
+[contrastive](https://github.com/abidlabs/contrastive) - Contrastive PCA.  
 
 #### Training-related
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
