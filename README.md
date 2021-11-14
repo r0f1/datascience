@@ -503,7 +503,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [Tensorflow GAN implementations](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
 [Pytorch GAN implementations](https://github.com/znxlwm/pytorch-generative-model-collections)  
 [Pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN#adversarial-autoencoder)  
-[GAN implementations](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)  
+[StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - Pytorch GAN implementations.  
 
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
