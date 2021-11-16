@@ -882,6 +882,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [unyt](https://github.com/yt-project/unyt) - Working with units.  
 [scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
 [VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
+[Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) - link records in or between data sources. 
 
 #### General Python Programming
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
