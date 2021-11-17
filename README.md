@@ -29,6 +29,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [debugger](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559) - Visual debugger for Jupyter.  
 [nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.  
 [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.  
+[notebooker](https://github.com/man-group/notebooker) - Productionize and schedule your Jupyter Notebooks as easily as you wrote them
 
 #### Pandas Tricks, Alternatives and Additions
 [Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
@@ -43,6 +44,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
 [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 [lux](https://github.com/lux-org/lux) - Dataframe visualization within Jupyter.  
+[dtale](https://github.com/man-group/dtale) - An easy way to view and analyze Pandas data structures, integrating seamlessly with Jupyter.
 
 #### Scikit-Learn Alternatives
 [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel extension for scikit-learn for speed.  
