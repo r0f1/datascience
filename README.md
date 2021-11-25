@@ -145,7 +145,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
-[cleanlab](https://github.com/cgnorthcutt/cleanlab) - Imageing data: Machine learning with noisy labels and finding mislabeled data. Also see awesome list below.  
 [pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
@@ -156,6 +155,10 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [pyupset](https://github.com/ImSoErgodic/py-upset) - Visualizing intersecting sets.  
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance / Wasserstein distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html), [POT implementation](https://pythonot.github.io/auto_examples/plot_OT_2D_samples.html)   
 [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
+
+#### Noisy Labels
+[cleanlab](https://github.com/cleanlab/cleanlab) - Machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Also see awesome list below.  
+[doubtlab](https://github.com/koaning/doubtlab) - Find bad or noisy labels.
 
 #### Train / Test Split
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.  
