@@ -45,6 +45,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 [lux](https://github.com/lux-org/lux) - Dataframe visualization within Jupyter.  
 [dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
+[polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
 
 #### Scikit-Learn Alternatives
 [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel extension for scikit-learn for speed.  
