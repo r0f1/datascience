@@ -406,6 +406,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
 
 #### Neural Networks
+[Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)  
 [Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html)  
 
 ##### Tutorials & Viewer
