@@ -627,6 +627,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 #### Signal Processing and Filtering
 [Stanford Lecture Series on Fourier Transformation](https://see.stanford.edu/Course/EE261), [Youtube](https://www.youtube.com/watch?v=gZNm7L96pfY&list=PLB24BC7956EE040CD&index=1), [Lecture Notes](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf).  
 [The Scientist & Engineer's Guide to Digital Signal Processing (1999)](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html).  
+[Kalman Filter article](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures).  
 [Kalman Filter book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Focuses on intuition using Jupyter Notebooks. Includes Baysian and various Kalman filters.  
 [Interactive Tool](https://fiiir.com/) for FIR and IIR filters, [Examples](https://plot.ly/python/fft-filters/).  
 [filterpy](https://github.com/rlabbe/filterpy) - Kalman filtering and optimal estimation library.  
