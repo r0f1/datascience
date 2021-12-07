@@ -96,6 +96,8 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 #### Classical Statistics
 
 ##### Statistical Tests and Packages
+[Modes, Medians and Means: A Unifying Perspective](https://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)   
+[Using Norms to Understand Linear Regression](https://www.johnmyleswhite.com/notebook/2013/03/22/using-norms-to-understand-linear-regression/)   
 [Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
 [Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
