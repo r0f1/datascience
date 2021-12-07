@@ -235,7 +235,7 @@ Random Projection - [link](https://scikit-learn.org/stable/modules/random_projec
 Ivis - [link](https://github.com/beringresearch/ivis)   
 SimCLR - [link](https://github.com/lightly-ai/lightly)  
 
-##### Neural-network Based
+##### Neural-network based
 [esvit](https://github.com/microsoft/esvit) - Vision Transformers for Representation Learning (Microsoft).  
 [MCML](https://github.com/pachterlab/MCML) - Semi-supervised dimensionality reduction of Multi-Class, Multi-Label data (sequencing data) [paper](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1).  
 
@@ -406,6 +406,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
 
 #### Neural Networks
+[Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html)  
 
 ##### Tutorials & Viewer
 fast.ai course - [Lessons 1-7](https://course.fast.ai/videos/?lesson=1), [Lessons 8-14](http://course18.fast.ai/lessons/lessons2.html)  
