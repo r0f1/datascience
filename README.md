@@ -672,6 +672,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [adtk](https://github.com/arundo/adtk) - Time Series Anomaly Detection.  
 [rocket](https://github.com/angus924/rocket) - Time Series classification using random convolutional kernels.  
 [luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
+[etna](https://github.com/tinkoff-ai/etna) - Time Series library.  
 
 ##### Time Series Evaluation
 [TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html) - Sklearn time series split.  
