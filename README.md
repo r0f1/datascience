@@ -305,6 +305,9 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
 
+#### UI
+[gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model.  
+
 #### Survey Tools
 [samplics](https://github.com/samplics-org/samplics) - Sampling techniques for complex survey designs.  
 
