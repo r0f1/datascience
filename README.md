@@ -435,6 +435,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 ##### Lossfunction Related
 [SegLoss](https://github.com/JunMa11/SegLoss) - List of loss functions for medical image segmentation.  
 
+##### Activation Functions
+[rational_activations](https://github.com/ml-research/rational_activations) - Rational activation functions.  
+
 ##### Text Related
 [ktext](https://github.com/hamelsmu/ktext) - Utilities for pre-processing text for deep learning in Keras.   
 [textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
