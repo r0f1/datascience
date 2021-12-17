@@ -522,6 +522,10 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [Pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN#adversarial-autoencoder)  
 [StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - Pytorch GAN implementations.  
 
+##### Transformers
+[SegFormer](https://github.com/NVlabs/SegFormer) - Simple and Efficient Design for Semantic Segmentation with Transformers.  
+[esvit](https://github.com/microsoft/esvit) - Efficient self-supervised Vision Transformers.  
+
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
 [Introduction To Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/)  
