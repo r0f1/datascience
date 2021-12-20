@@ -397,13 +397,13 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 ##### Image-related
 [python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
+[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation.  
 [mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
 [imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
 [CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
 [imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
 [microscopium](https://github.com/microscopium/microscopium) - Unsupervised clustering of images + viewer, [talk](https://www.youtube.com/watch?v=ytEQl9xs8FQ).  
 [cytokit](https://github.com/hammerlab/cytokit) - Analyzing properties of cells in fluorescent microscopy datasets.  
-[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation.  
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 
 #### Image Processing
