@@ -258,6 +258,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [direpack](https://github.com/SvenSerneels/direpack) - Projection pursuit, Sufficient dimension reduction, Robust M-estimators.  
 [DBS](https://cran.r-project.org/web/packages/DatabionicSwarm/vignettes/DatabionicSwarm.html) - DatabionicSwarm (R package).  
 [contrastive](https://github.com/abidlabs/contrastive) - Contrastive PCA.  
+[scPCA](https://github.com/PhilBoileau/scPCA) - Sparse contrastive PCA (R package).  
 
 #### Training-related
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
