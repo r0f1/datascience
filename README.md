@@ -780,6 +780,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [pandas_ml](https://github.com/pandas-ml/pandas-ml) - Confusion matrix.  
 Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learning-curve/).  
 [yellowbrick](http://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html) - Learning curve.  
+[pyroc](https://github.com/noudald/pyroc) - Receiver Operating Characteristic (ROC) curves.  
 
 #### Model Uncertainty
 [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Predictive uncertainty quantification, calibration, metrics, and visualization.  
