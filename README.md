@@ -117,6 +117,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
 
 ##### Visualizations
+[Dependent Propabilities](https://static.laszlokorte.de/stochastic/)  
 [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)  
 [Correlation](https://rpsychologist.com/d3/correlation/)  
 [Cohen's d](https://rpsychologist.com/d3/cohend/)  
@@ -124,7 +125,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/)  
 [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/)  
 [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
-[Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)     
+[Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)  
 
 ##### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
