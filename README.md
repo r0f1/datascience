@@ -888,6 +888,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dvc](https://github.com/iterative/dvc) - Version control for large files.  
 [hangar](https://github.com/tensorwerk/hangar-py) - Version control for tensor data.  
 [kedro](https://github.com/quantumblacklabs/kedro) - Build data pipelines.  
+[feast](https://github.com/feast-dev/feast) - Feature store. [Video](https://www.youtube.com/watch?v=_omcXenypmo).  
 
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
