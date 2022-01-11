@@ -192,6 +192,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection of fluorescence microscopy images, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
+[unprocessing](https://github.com/timothybrooks/unprocessing) - Image denoising by reverting the image processing pipeline.  
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
