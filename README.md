@@ -971,6 +971,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
 [Awesome Python Data Science](https://github.com/amitness/toolbox)  
 [Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)  
+[Awesome Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)  
 [Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
