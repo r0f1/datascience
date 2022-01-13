@@ -187,6 +187,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 #### Image Cleanup
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
 [napari](https://github.com/napari/napari) - Multi-dimensional image viewer.  
+[fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
 [BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection of fluorescence microscopy images, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
