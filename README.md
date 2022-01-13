@@ -825,6 +825,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [automl-gs](https://github.com/minimaxir/automl-gs) - Automated machine learning.  
 [mljar](https://github.com/mljar/mljar-supervised) - Automated machine learning.  
 [automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero) - Automatically discover computer programs that can solve machine learning tasks from Google.  
+[AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning using scikit-learn xgboost, LightGBM and others.  
 
 #### Graph Representation Learning
 [Karate Club](https://github.com/benedekrozemberczki/karateclub) - Unsupervised learning on graphs.   
