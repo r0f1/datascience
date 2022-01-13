@@ -411,6 +411,9 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [cytokit](https://github.com/hammerlab/cytokit) - Analyzing properties of cells in fluorescent microscopy datasets.  
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 
+###### Drug discovery
+[DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modeling and Prediction Toolkit.  
+
 #### Image Processing
 [Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
