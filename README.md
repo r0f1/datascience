@@ -659,6 +659,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
 [prophet](https://github.com/facebook/prophet) - Time series prediction library by Facebook.  
+[neural_prophet](https://github.com/ourownstory/neural_prophet) - Time series prediction built on Pytorch.  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
 [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html) - Time series forecasting framework (R package).  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
