@@ -30,6 +30,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.  
 [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.  
 [notebooker](https://github.com/man-group/notebooker) - Productionize and schedule Jupyter Notebooks.  
+[bamboolib](https://github.com/tkrabel/bamboolib) - Intuitive GUI for tables.  
 
 #### Pandas Tricks, Alternatives and Additions
 [Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
