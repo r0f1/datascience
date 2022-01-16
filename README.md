@@ -271,6 +271,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
+[Example notebooks for interactive visualizations](https://github.com/nicolaskruchten/pydata_global_2021/tree/main)(Plotly,Seaborn, Holoviz, Altair)  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
 [fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast histograms.  
@@ -500,6 +501,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection.  
 [FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.  
 [norfair](https://github.com/tryolabs/norfair) - Real-time 2D object tracking.  
+[Detic](https://github.com/facebookresearch/Detic) -  Detector with image classes that can use image-level labels (facebookresearch).  
 
 ##### Image Annotation
 [cvat](https://github.com/openvinotoolkit/cvat) - Image annotation tool.  
@@ -713,6 +715,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
 [tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
 [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio management.  
+[Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio optimization and strategic asset allocation.  
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
