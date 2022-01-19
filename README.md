@@ -491,6 +491,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [flexflow](https://github.com/flexflow/FlexFlow) - Distributed TensorFlow Keras and PyTorch.  
 
 ##### Architecture Visualization
+[Awesome List](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)  
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 
 ##### Object detection / Instance Segmentation
@@ -973,6 +974,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
 [Awesome Metric Learning](https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning)  
 [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)   
+[Awesome Neural Network Visualization)(https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)  
 [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
 [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)  
 [Awesome Public APIs](https://github.com/public-apis/public-apis)  
