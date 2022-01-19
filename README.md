@@ -642,10 +642,6 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 * Average largest within-cluster gap
 * Variation of clusterings on bootstrapped data
 
-#### Interpretable Classifiers and Regressors
-[skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
-[sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Interpretable classifiers, Bayesian Rule List classifier.  
-
 #### Multi-label classification
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
 
@@ -800,6 +796,10 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 #### Model Uncertainty
 [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Predictive uncertainty quantification, calibration, metrics, and visualization.  
 
+#### Interpretable Classifiers and Regressors
+[skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
+[sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Interpretable classifiers, Bayesian Rule List classifier.  
+
 #### Model Explanation, Interpretability, Feature Importance
 [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Good Shap intro](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/).  
@@ -822,7 +822,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [xai](https://github.com/EthicalML/XAI) - An eXplainability toolbox for machine learning.  
 [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
 [dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
-[interpret](https://github.com/microsoft/interpret) - Fit interpretable models, explain models (Microsoft).  
+[interpretml](https://github.com/interpretml/interpret) - Fit interpretable models, explain models.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
