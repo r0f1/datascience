@@ -31,6 +31,8 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.  
 [notebooker](https://github.com/man-group/notebooker) - Productionize and schedule Jupyter Notebooks.  
 [bamboolib](https://github.com/tkrabel/bamboolib) - Intuitive GUI for tables.  
+[voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
+[voila-gridstack](https://github.com/voila-dashboards/voila-gridstack) - Voila grid layout.  
 
 #### Pandas Tricks, Alternatives and Additions
 [Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
@@ -312,6 +314,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
+[voila-gridstack](https://github.com/voila-dashboards/voila-gridstack) - Voila grid layout.  
 
 #### UI
 [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model.  
