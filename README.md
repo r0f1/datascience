@@ -951,8 +951,9 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 ##### Guidelines 
 [datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
 
-##### List of Books
+##### Books
 [Mat Kelceys list of cool machine learning books](http://matpalm.com/blog/cool_machine_learning_books/)  
+[Introduction to Probability for Data Science](https://probability4datascience.com/index.html)  
 
 ##### Other Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)    
