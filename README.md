@@ -104,6 +104,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
 [Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
+[linearmodels](https://github.com/bashtage/linearmodels) - Instrumental variable and panel data models.  
 [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests. [Pairwise correlation between columns of pandas DataFrame](https://pingouin-stats.org/generated/pingouin.pairwise_corr.html)   
 [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
@@ -952,8 +953,8 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
 
 ##### Books
-[Mat Kelceys list of cool machine learning books](http://matpalm.com/blog/cool_machine_learning_books/)  
-[Introduction to Probability for Data Science](https://probability4datascience.com/index.html)  
+[Chan - Introduction to Probability for Data Science](https://probability4datascience.com/index.html)  
+[Colonescu - Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)  
 
 ##### Other Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)    
@@ -977,6 +978,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)   
 [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)  
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)    
+[Awesome Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
 [Awesome Metric Learning](https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning)  
