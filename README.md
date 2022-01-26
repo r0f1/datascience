@@ -763,6 +763,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
 [upliftml](https://github.com/bookingcom/upliftml) - Causal inference by Booking.com.  
 [EconML](https://github.com/microsoft/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
+[causality](https://github.com/akelleh/causality) - Causal analysis using observational datasets.  
 
 #### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
