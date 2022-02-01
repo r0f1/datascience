@@ -502,6 +502,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 
 ##### Object detection / Instance Segmentation
+[Good Yolo Explanation](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)  
 [segmentation_models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones: Unet, FPN, Linknet, PSPNet.  
 [yolact](https://github.com/dbolya/yolact) - Fully convolutional model for real-time instance segmentation.  
 [EfficientDet Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch), [EfficientDet Keras](https://github.com/xuannianz/EfficientDet) - Scalable and Efficient Object Detection.  
