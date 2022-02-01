@@ -759,6 +759,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [SLIM](https://github.com/ustunb/slim-python) - Scoring systems for classification, Supersparse linear integer models.  
 
 #### Causal Inference
+[Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)  
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).  
 [causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
