@@ -832,6 +832,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to investigate neural network predictions.  
 [dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
 [interpretml](https://github.com/interpretml/interpret) - Fit interpretable models, explain models.  
+[shapash](https://github.com/MAIF/shapash) - Model interpretability.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
