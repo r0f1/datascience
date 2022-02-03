@@ -833,6 +833,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [dalex](https://github.com/pbiecek/DALEX) - Explanations for ML models (R package).  
 [interpretml](https://github.com/interpretml/interpret) - Fit interpretable models, explain models.  
 [shapash](https://github.com/MAIF/shapash) - Model interpretability.  
+[imodels](https://github.com/csinva/imodels) - Interpretable ML package.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
