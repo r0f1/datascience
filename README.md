@@ -770,7 +770,8 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 
 #### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
-[PyMC3](https://docs.pymc.io/) - Baysian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
+[PyMC3](https://docs.pymc.io/) - Bayesian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
+[numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with numpy, built on [pyro](https://github.com/pyro-ppl/pyro).  
 [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models.  
