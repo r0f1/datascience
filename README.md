@@ -609,6 +609,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 #### Clustering
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
 [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf).  
+[Hierarchical Cluster Analysis (R Tutorial)](https://uc-r.github.io/hc_clustering) - Dendrogram, Tanglegram  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm, [talk](https://www.youtube.com/watch?v=dGsxd67IFiU), [blog](https://towardsdatascience.com/understanding-hdbscan-and-density-based-clustering-121dbee1320e).  
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
 [FCPS](https://github.com/Mthrun/FCPS) -  Fundamental Clustering Problems Suite (R package).  
@@ -622,6 +623,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [phenograph](https://github.com/dpeerlab/phenograph) - Clustering by community detection.  
 [HypHC](https://github.com/HazyResearch/HypHC) - Hyperbolic Hierarchical Clustering.  
 [BanditPAM](https://github.com/ThrunGroup/BanditPAM) - Improved k-Medoids Clustering.  
+[dendextend](https://github.com/talgalili/dendextend) - Comparing dendrograms (R package).  
 
 ##### Clustering Evalutation
 [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
