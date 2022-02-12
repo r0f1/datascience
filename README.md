@@ -427,6 +427,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
+[CORAL](https://github.com/VisionLearningGroup/CORAL) - Correlation Alignment for Domain Adaptation.  
 
 #### Neural Networks
 [Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)  
