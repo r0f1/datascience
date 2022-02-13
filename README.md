@@ -430,6 +430,8 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [CORAL](https://github.com/VisionLearningGroup/CORAL) - Correlation Alignment for Domain Adaptation.  
 
 #### Neural Networks
+[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
+[ConvNet Shape Calculator](https://madebyollin.github.io/convnet-calculator/) - Calculate output dimensions of Conv2D layer.  
 [Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)  
 [Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html)  
 
@@ -1012,7 +1014,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)  
 
 #### Lectures
-[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
 [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - Youtube Playlist.   
 
 #### Things I google a lot
