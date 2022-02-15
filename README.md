@@ -194,6 +194,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
 [BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
+[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection of fluorescence microscopy images, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
