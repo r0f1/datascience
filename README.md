@@ -192,13 +192,21 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
 [napari](https://github.com/napari/napari) - Multi-dimensional image viewer.  
 [fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
-[cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
-[BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
-[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
-[CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection of fluorescence microscopy images, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 [unprocessing](https://github.com/timothybrooks/unprocessing) - Image denoising by reverting the image processing pipeline.  
+
+#### Microscopy
+[Tree of Microscopy](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
+[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
+[MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
+[skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
+[cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
+[BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
+[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
+[CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
+[mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
+[UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
@@ -403,17 +411,19 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 ##### Papers
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
 
-#### Biology
+#### Biology / Bioinformatics
 
 ##### Sequencing
+[cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
 [scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
 
 ##### Image-related
+See also Microscopy Section above.  
 [Overview over cell segmentation algorithms](https://biomag-lab.github.io/microscopy-tree/)  
 [python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
-[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation.  
 [mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
 [imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
+[scimap](https://github.com/labsyspharm/scimap) - Spatial Single-Cell Analysis Toolkit.  
 [CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
 [imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
 [microscopium](https://github.com/microscopium/microscopium) - Unsupervised clustering of images + viewer, [talk](https://www.youtube.com/watch?v=ytEQl9xs8FQ).  
@@ -625,6 +635,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
 [distribution_clustering](https://github.com/EricElmoznino/distribution_clustering), [paper](https://arxiv.org/abs/1804.02624), [related paper](https://arxiv.org/abs/2003.07770), [alt](https://github.com/r0f1/distribution_clustering).  
 [phenograph](https://github.com/dpeerlab/phenograph) - Clustering by community detection.  
+[FastPG](https://github.com/sararselitsky/FastPG) - Clustering of single cell data (RNA). Improvement of phenograph, [Paper](https://www.researchgate.net/publication/342339899_FastPG_Fast_clustering_of_millions_of_single_cells).  
 [HypHC](https://github.com/HazyResearch/HypHC) - Hyperbolic Hierarchical Clustering.  
 [BanditPAM](https://github.com/ThrunGroup/BanditPAM) - Improved k-Medoids Clustering.  
 [dendextend](https://github.com/talgalili/dendextend) - Comparing dendrograms (R package).  
