@@ -230,6 +230,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
 [INVASE](https://github.com/jsyoon0823/INVASE) - Instance-wise Variable Selection using Neural Networks.  
 [SubTab](https://github.com/AstraZeneca/SubTab) - Subsetting Features of Tabular Data for Self-Supervised Representation Learning, AstraZeneca.  
+[mrmr](https://github.com/smazzanti/mrmr) - Maximum Relevance and Minimum Redundancy Feature Selection, [Website](http://home.penglab.com/proj/mRMR/).  
 
 #### Subset Selection
 [apricot](https://github.com/jmschrei/apricot) - Selecting subsets of data sets to train machine learning models quickly.  
