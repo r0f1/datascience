@@ -1,7 +1,6 @@
 # Awesome Data Science with Python
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
-
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
@@ -197,6 +196,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [unprocessing](https://github.com/timothybrooks/unprocessing) - Image denoising by reverting the image processing pipeline.  
 
 #### Microscopy
+[Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
 [Tree of Microscopy](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
@@ -990,7 +990,8 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning)    
 [Awesome Causality](https://github.com/rguo12/awesome-causality-algorithms)    
 [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)    
-[Awesome CSV](https://github.com/secretGeek/AwesomeCSV)    
+[Awesome CSV](https://github.com/secretGeek/AwesomeCSV)  
+[Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)   
 [Awesome Dash](https://github.com/ucg8j/awesome-dash)   
 [Awesome Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)    
