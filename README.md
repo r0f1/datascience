@@ -418,6 +418,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 ##### Sequencing
 [cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
 [scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
+[janggu](https://github.com/BIMSBbioinfo/janggu) - Deep Learning for Genomics.  
 
 ##### Image-related
 See also Microscopy Section above.  
