@@ -419,6 +419,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
 [scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
 [janggu](https://github.com/BIMSBbioinfo/janggu) - Deep Learning for Genomics.  
+[gdsctools](https://github.com/CancerRxGene/gdsctools) - Drug responses in the context of the Genomics of Drug Sensitivity in Cancer project, ANOVA, IC50, MoBEM, [doc](https://gdsctools.readthedocs.io/en/master/).  
 
 ##### Image-related
 See also Microscopy Section above.  
