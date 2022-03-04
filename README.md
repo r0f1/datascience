@@ -804,6 +804,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [tensorflow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk1](https://www.youtube.com/watch?v=KJxmC5GCWe4), [notebook talk1](https://github.com/AlxndrMlk/PyDataGlobal2021/blob/main/00_PyData_Global_2021_nb_full.ipynb), [talk2](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
 [bambi](https://github.com/bambinos/bambi) - High-level Bayesian model-building interface on top of PyMC3.  
 [neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
+[bnlearn](https://github.com/erdogant/bnlearn) - Bayesian networks, parameter learning, inference and sampling methods.  
 
 #### Gaussian Processes
 [Visualization](http://www.infinitecuriosity.org/vizgp/), [Article](https://distill.pub/2019/visual-exploration-gaussian-processes/)  
