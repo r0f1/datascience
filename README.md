@@ -195,7 +195,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 [unprocessing](https://github.com/timothybrooks/unprocessing) - Image denoising by reverting the image processing pipeline.  
 
-#### Microscopy
+#### Microscopy / Segmentation
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
 [Tree of Microscopy](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
@@ -208,6 +208,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
+[stardist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.  
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
