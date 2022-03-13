@@ -135,6 +135,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)  
 
 ##### Texts
+[Montgomery et al. - How conditioning on post-treatment variables can ruin your experiment and what to do about it](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2293/files/2021/03/post-treatment-bias.pdf)  
 [Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
 [Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
 [Lindeløv - Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)    
@@ -787,6 +788,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 #### Causal Inference
 [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [python notebooks](https://github.com/pymc-devs/resources/tree/master/Rethinking_2).  
 [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)  
+[dowhy](https://github.com/Microsoft/dowhy) - Estimate causal effects.  
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).  
 [causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
@@ -802,7 +804,6 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models.  
 [zhusuan](https://github.com/thu-ml/zhusuan) - Bayesian deep learning, generative models.  
-[dowhy](https://github.com/Microsoft/dowhy) - Estimate causal effects.  
 [edward](https://github.com/blei-lab/edward) - Probabilistic modeling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
 [Pyro](https://github.com/pyro-ppl/pyro) - Deep Universal Probabilistic Programming.  
 [tensorflow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk1](https://www.youtube.com/watch?v=KJxmC5GCWe4), [notebook talk1](https://github.com/AlxndrMlk/PyDataGlobal2021/blob/main/00_PyData_Global_2021_nb_full.ipynb), [talk2](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
