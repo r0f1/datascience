@@ -438,9 +438,12 @@ See also Microscopy Section above.
 [cytokit](https://github.com/hammerlab/cytokit) - Analyzing properties of cells in fluorescent microscopy datasets.  
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 
-###### Drug discovery
+##### Drug discovery
 [TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.
 [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modeling and Prediction Toolkit.  
+
+##### Courses
+[mit6874](https://mit6874.github.io/) - Computational Systems Biology: Deep Learning in the Life Sciences.  
 
 #### Image Processing
 [Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
