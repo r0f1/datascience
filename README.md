@@ -799,6 +799,9 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [EconML](https://github.com/microsoft/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
 [causality](https://github.com/akelleh/causality) - Causal analysis using observational datasets.  
 
+##### Papers
+[Difference between Effect Modification and Interaction](https://www.sciencedirect.com/science/article/pii/S0895435621000330)  
+
 #### Probabilistic Modeling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 [PyMC3](https://docs.pymc.io/) - Bayesian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
