@@ -211,6 +211,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
 [stardist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.  
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
+[atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
+
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
