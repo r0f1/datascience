@@ -790,7 +790,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [SLIM](https://github.com/ustunb/slim-python) - Scoring systems for classification, Supersparse linear integer models.  
 
 #### Causal Inference
-[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [python](https://github.com/pymc-devs/resources/tree/master/Rethinking_2), [numpyro1](https://github.com/asuagar/statrethink-course-numpyro-2019), [numpyro2](https://fehiepsi.github.io/rethinking-numpyro/), [tensorflow-probability](https://github.com/ksachdeva/rethinking-tensorflow-probability).  
+[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [R](https://bookdown.org/content/4857/), [python](https://github.com/pymc-devs/resources/tree/master/Rethinking_2), [numpyro1](https://github.com/asuagar/statrethink-course-numpyro-2019), [numpyro2](https://fehiepsi.github.io/rethinking-numpyro/), [tensorflow-probability](https://github.com/ksachdeva/rethinking-tensorflow-probability).  
 [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)  
 [dowhy](https://github.com/Microsoft/dowhy) - Estimate causal effects.  
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
