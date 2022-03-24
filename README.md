@@ -442,7 +442,7 @@ See also Microscopy Section above.
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 
 ##### Drug discovery
-[TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.
+[TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.  
 [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modeling and Prediction Toolkit.  
 
 ##### Courses
@@ -670,7 +670,8 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 * Minimum distance between any two clusters
 * Distance between centroids
 * p-separation index: Like minimum distance. Look at the average distance to nearest point in different cluster for p=10% "border" points in any cluster. Measuring density, measuring mountains vs valleys
-* Estimate density by weighted count of close points Other measures
+* Estimate density by weighted count of close points 
+Other measures:
 * Within-cluster average distance
 * Mean of within-cluster average distance over nearest-cluster average distance (silhouette score)
 * Within-cluster similarity measure to normal/uniform
