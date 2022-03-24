@@ -671,6 +671,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 * Distance between centroids
 * p-separation index: Like minimum distance. Look at the average distance to nearest point in different cluster for p=10% "border" points in any cluster. Measuring density, measuring mountains vs valleys
 * Estimate density by weighted count of close points 
+
 Other measures:
 * Within-cluster average distance
 * Mean of within-cluster average distance over nearest-cluster average distance (silhouette score)
