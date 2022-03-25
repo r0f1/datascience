@@ -608,6 +608,9 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [tweedie](https://xgboost.readthedocs.io/en/latest/parameter.html#parameters-for-tweedie-regression-objective-reg-tweedie) - Specialized distribution for zero inflated targets, [Talk](https://www.youtube.com/watch?v=-o0lpHBq85I).  
 [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Estimating prediction intervals.  
 
+#### Polynomials
+[orthopy](https://github.com/nschloe/orthopy) - Orthogonal polynomials in all shapes and sizes.  
+
 #### Classification
 [Talk](https://www.youtube.com/watch?v=DkLPYccEJ8Y), [Notebook](https://github.com/ianozsvald/data_science_delivered/blob/master/ml_creating_correct_capable_classifiers.ipynb)  
 [Blog post: Probability Scoring](https://machinelearningmastery.com/how-to-score-probability-predictions-in-python/)  
