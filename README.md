@@ -940,6 +940,13 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 
 #### Deployment and Lifecycle Management
 
+##### Workflow Scheduling and Orchestration
+[airflow](https://github.com/apache/airflow) - Schedule and monitor workflows.  
+[prefect](https://github.com/PrefectHQ/prefect) - Python specific workflow scheduling.  
+[dagster](https://github.com/dagster-io/dagster) - Development, production and observation of data assets.  
+[ploomber](https://github.com/ploomber/ploomber) - Workflow orchestration.  
+[kestra](https://github.com/kestra-io/kestra) - Workflow orchestration.  
+
 ##### Docker
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
 
