@@ -863,7 +863,6 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [eli5](https://github.com/TeamHG-Memex/eli5) - Inspecting machine learning classifiers and explaining their predictions.  
 [lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance, [talk](https://www.youtube.com/watch?v=zqsQ2ojj7sE), examples: [1](https://www.kaggle.com/divrikwicky/pf-f-lofo-importance-on-adversarial-validation), [2](https://www.kaggle.com/divrikwicky/lofo-importance), [3](https://www.kaggle.com/divrikwicky/santanderctp-lofo-feature-importance).  
 [pybreakdown](https://github.com/MI2DataLab/pyBreakDown) - Generate feature contribution plots.  
-[FairML](https://github.com/adebayoj/fairml) - Model explanation, feature importance.  
 [pycebox](https://github.com/AustinRochford/PyCEbox) - Individual Conditional Expectation Plot Toolbox.  
 [pdpbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox, [example](https://www.kaggle.com/dansbecker/partial-plots).  
 [partial_dependence](https://github.com/nyuvis/partial_dependence) - Visualize and cluster partial dependence.  
