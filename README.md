@@ -6,7 +6,7 @@
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
 [matplotlib](https://matplotlib.org/) - Plotting library.  
 [seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib.  
-[pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Basic statistics using `DataFrameSummary(df).summary()`.  
+[datatile](https://github.com/polyaxon/datatile) - Basic statistics using `DataFrameSummary(df).summary()`.  
 [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
