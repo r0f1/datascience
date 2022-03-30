@@ -978,6 +978,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models.  
 [Neptune](https://neptune.ai) - Experiment tracking and model registry.  
 [clearml](https://github.com/allegroai/clearml) - Experiment Manager, MLOps and Data-Management.  
+[polyaxon](https://github.com/polyaxon/polyaxon) - MLOps.  
 
 #### Math and Background
 [All kinds of math and statistics resources](https://realnotcomplex.com/)  
