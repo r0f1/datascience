@@ -745,7 +745,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html) - Sklearn time series split.  
 [tscv](https://github.com/WenjieZ/TSCV) - Evaluation with gap.  
 
-#### Financial Data
+#### Financial Data and Trading
 Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
 [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html) - Read stock data.  
 [yfinance](https://github.com/ranaroussi/yfinance) - Read stock data from Yahoo Finance.  
@@ -760,6 +760,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
 [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio management.  
 [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio optimization and strategic asset allocation.  
+[OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal.  
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
