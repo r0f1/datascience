@@ -950,9 +950,10 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [ploomber](https://github.com/ploomber/ploomber) - Workflow orchestration.  
 [kestra](https://github.com/kestra-io/kestra) - Workflow orchestration.  
 
-##### Docker
+##### Containerization and Docker
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
 [Optimize Docker Image Size](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)  
+[cog](https://github.com/replicate/cog) - Facilitates building Docker images.  
 
 ##### Dependency Management
 [dephell](https://github.com/dephell/dephell) - Dependency management.  
