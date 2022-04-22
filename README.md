@@ -656,6 +656,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [HypHC](https://github.com/HazyResearch/HypHC) - Hyperbolic Hierarchical Clustering.  
 [BanditPAM](https://github.com/ThrunGroup/BanditPAM) - Improved k-Medoids Clustering.  
 [dendextend](https://github.com/talgalili/dendextend) - Comparing dendrograms (R package).  
+[DeepDPM](https://github.com/BGU-CS-VIL/DeepDPM) - Deep Clustering With An Unknown Number of Clusters.  
 
 ##### Clustering Evalutation
 [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
