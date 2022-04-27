@@ -293,6 +293,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
+[Better heatmaps and correlation plots](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec).  
 [Example notebooks for interactive visualizations](https://github.com/nicolaskruchten/pydata_global_2021/tree/main)(Plotly,Seaborn, Holoviz, Altair)  
 [cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
