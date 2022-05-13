@@ -231,6 +231,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Relief-based feature selection algorithms.  
 [scikit-genetic](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection.  
 [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Feature selection, [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
+[Boruta-Shap](https://github.com/Ekeany/Boruta-Shap) - Boruta feature selection algorithm + shapley values.  
 [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.     
 [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
@@ -238,6 +239,8 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [SubTab](https://github.com/AstraZeneca/SubTab) - Subsetting Features of Tabular Data for Self-Supervised Representation Learning, AstraZeneca.  
 [mrmr](https://github.com/smazzanti/mrmr) - Maximum Relevance and Minimum Redundancy Feature Selection, [Website](http://home.penglab.com/proj/mRMR/).  
 [arfs](https://github.com/ThomasBury/arfs) - All Relevant Feature Selection.  
+[VSURF](https://github.com/robingenuer/VSURF) - Variable Selection Using Random Forests (R package) [doc](https://www.rdocumentation.org/packages/VSURF/versions/1.1.0/topics/VSURF).  
+
 
 #### Subset Selection
 [apricot](https://github.com/jmschrei/apricot) - Selecting subsets of data sets to train machine learning models quickly.  
