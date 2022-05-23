@@ -784,6 +784,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).  
 [pysurvival](https://github.com/square/pysurvival) - Survival analysis.  
 [DeepSurvivalMachines](https://github.com/autonlab/DeepSurvivalMachines) - Fully Parametric Survival Regression.  
+[auton-survival](https://github.com/autonlab/auton-survival) - Regression, Counterfactual Estimation, Evaluation and Phenotyping with Censored Time-to-Events.  
 
 #### Outlier Detection & Anomaly Detection
 [sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html) - Isolation Forest and others.  
