@@ -532,6 +532,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 ##### Architecture Visualization
 [Awesome List](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)  
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
+[visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualize Keras networks.  
 
 ##### Object detection / Instance Segmentation
 [Good Yolo Explanation](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)  
