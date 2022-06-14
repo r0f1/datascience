@@ -970,11 +970,12 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [pyup](https://github.com/pyupio/pyup) - Dependency management.  
 [pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
 
-##### Data Versioning and Pipelines
+##### Data Versioning, Databases and Pipelines
 [dvc](https://github.com/iterative/dvc) - Version control for large files.  
 [hangar](https://github.com/tensorwerk/hangar-py) - Version control for tensor data.  
 [kedro](https://github.com/quantumblacklabs/kedro) - Build data pipelines.  
 [feast](https://github.com/feast-dev/feast) - Feature store. [Video](https://www.youtube.com/watch?v=_omcXenypmo).  
+[pinecone](https://www.pinecone.io/) - Database for vector search applications.  
 
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
