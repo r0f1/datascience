@@ -332,6 +332,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 #### Dashboards
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
 [streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
+[mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app, [Example](https://github.com/pplonski/dashboard-python-jupyter-notebook).  
 [dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. [Resources](https://github.com/ucg8j/awesome-dash).  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
@@ -767,6 +768,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio management.  
 [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio optimization and strategic asset allocation.  
 [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal.  
+[mplfinance](https://github.com/matplotlib/mplfinance) - Financial markets data visualization.  
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
@@ -1082,5 +1084,4 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to read the [contribution guidelines](CONTRIBUTING.md) and submit your pull request or create a new issue.  
 
 ## License
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
