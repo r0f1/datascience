@@ -289,6 +289,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [contrastive](https://github.com/abidlabs/contrastive) - Contrastive PCA.  
 [scPCA](https://github.com/PhilBoileau/scPCA) - Sparse contrastive PCA (R package).  
 [tmap](https://github.com/reymond-group/tmap) - Visualization library for large, high-dimensional data sets.  
+[linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
 
 #### Training-related
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
