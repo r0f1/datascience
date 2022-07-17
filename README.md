@@ -97,6 +97,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 
 #### Classical Statistics
 
+##### Correlation
+[phik](https://github.com/kaveio/phik) - Correlation between categorical, ordinal and interval variables.  
+
 ##### Statistical Tests and Packages
 [Modes, Medians and Means: A Unifying Perspective](https://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)   
 [Using Norms to Understand Linear Regression](https://www.johnmyleswhite.com/notebook/2013/03/22/using-norms-to-understand-linear-regression/)   
