@@ -217,8 +217,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 
 #### Batch-Effect Correction 
-[A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)  
-[R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html)  
+[Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
+[R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html).  
 [harmonypy](https://github.com/slowkow/harmonypy) - Fuzzy k-means and locally linear adjustments.  
 [pyliger](https://github.com/welch-lab/pyliger) - Batch-effect correction, [Example](https://github.com/welch-lab/pyliger/blob/master/pyliger/factorization/_iNMF_ANLS.py#L65), [R package](https://github.com/welch-lab/liger).  
 [nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
