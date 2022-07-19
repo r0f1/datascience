@@ -220,6 +220,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)  
 [R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html)  
 [harmonypy](https://github.com/slowkow/harmonypy) - Fuzzy k-means and locally linear adjustments.  
+[pyliger](https://github.com/welch-lab/pyliger) - Batch-effect correction, [Example](https://github.com/welch-lab/pyliger/blob/master/pyliger/factorization/_iNMF_ANLS.py#L65), [R package](https://github.com/welch-lab/liger).  
+[nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
+[scgen](https://github.com/theislab/scgen) - Batch removal. [Doc](https://scgen.readthedocs.io/en/stable/).  
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
@@ -440,6 +443,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 ##### Sequencing
 [cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
 [scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
+[besca](https://github.com/bedapub/besca) - Beyond single-cell analysis.  
 [janggu](https://github.com/BIMSBbioinfo/janggu) - Deep Learning for Genomics.  
 [gdsctools](https://github.com/CancerRxGene/gdsctools) - Drug responses in the context of the Genomics of Drug Sensitivity in Cancer project, ANOVA, IC50, MoBEM, [doc](https://gdsctools.readthedocs.io/en/master/).  
 
