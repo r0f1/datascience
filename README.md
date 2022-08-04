@@ -543,6 +543,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 
 ##### Distributed Libs
 [flexflow](https://github.com/flexflow/FlexFlow) - Distributed TensorFlow Keras and PyTorch.  
+[horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
 
 ##### Architecture Visualization
 [Awesome List](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)  
