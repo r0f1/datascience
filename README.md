@@ -337,6 +337,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - Scatter density plots. Alternative to 2d-histograms.   
 [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Complex heatmaps for multidimensional genomic data (R package).  
 [largeVis](https://github.com/elbamos/largeVis) - Visualize embeddings (t-SNE etc.) (R package).  
+[proplot](https://github.com/proplot-dev/proplot) - Matplotlib wrapper.  
 
 #### Colors
 [palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
