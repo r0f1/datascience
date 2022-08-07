@@ -283,6 +283,7 @@ SimCLR - [link](https://github.com/lightly-ai/lightly)
 ##### Packages
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU), [tsne intro](https://distill.pub/2016/misread-tsne/). 
 [sklearn.manifold](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold) and [sklearn.decomposition](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition) - PCA, t-SNE, MDS, Isomaps and others.  
+Additional plots for PCA - Factor Loadings, Cumulative Variance Explained, [Correlation Circle Plot](http://rasbt.github.io/mlxtend/user_guide/plotting/plot_pca_correlation_graph/), [Tweet](https://twitter.com/rasbt/status/1555999903398219777/photo/1)  
 [sklearn.random_projection](https://scikit-learn.org/stable/modules/random_projection.html) - Johnson-Lindenstrauss lemma, Gaussian random projection, Sparse random projection.  
 [sklearn.cross_decomposition](https://scikit-learn.org/stable/modules/cross_decomposition.html#cross-decomposition) - Partial least squares, supervised estimators for dimensionality reduction and regression.  
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
