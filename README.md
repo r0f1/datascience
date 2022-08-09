@@ -905,6 +905,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [interpretml](https://github.com/interpretml/interpret) - Fit interpretable models, explain models.  
 [shapash](https://github.com/MAIF/shapash) - Model interpretability.  
 [imodels](https://github.com/csinva/imodels) - Interpretable ML package.  
+[captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.  
 
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
