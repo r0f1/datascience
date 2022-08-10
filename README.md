@@ -941,6 +941,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [blackbox](https://github.com/paulknysh/blackbox) - Optimization of expensive black-box functions.  
 Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645-7).  
 [DeepSwarm](https://github.com/Pattio/DeepSwarm) - Neural architecture search.  
+[evotorch](https://github.com/nnaisense/evotorch) - Evolutionary computation library built on Pytorch.  
 
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
