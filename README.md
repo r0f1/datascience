@@ -1045,6 +1045,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
 [Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
+[Explore Datascience](https://kandi.openweaver.com/explore/data-science) - Discover & find a curated list of popular & new Data Science libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources. 
 
 ##### Guidelines 
 [datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
