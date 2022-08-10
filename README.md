@@ -207,7 +207,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
 [skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
-[BaSiC](https://github.com/marrlab/BaSiC) - Background and Shading Correction of Optical Microscopy Images.  
+[BaSiCPy](https://github.com/peng-lab/BaSiCPy) - Background and Shading Correction of Optical Microscopy Images, [BaSiC](https://github.com/marrlab/BaSiC).  
 [ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
@@ -441,6 +441,11 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
 
 #### Biology / Bioinformatics
+
+##### Biostatistics / Robust statistics
+[MinCovDet](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html) - Robust estimator of covariance, Robust Morphological Perturbation Value, [Paper](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1421), [Application1](https://journals.sagepub.com/doi/10.1177/1087057112469257?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&), [Application2](https://www.cell.com/cell-reports/pdf/S2211-1247(21)00694-X.pdf).  
+[winsorize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.winsorize.html#scipy.stats.mstats.winsorize) - Simple adjustment of outliers.  
+[moderated z-score](https://clue.io/connectopedia/replicate_collapse) - Weighted average of z-scores based on Spearman correlation.  
 
 ##### Sequencing
 [cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
