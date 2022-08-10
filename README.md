@@ -1010,6 +1010,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Neptune](https://neptune.ai) - Experiment tracking and model registry.  
 [clearml](https://github.com/allegroai/clearml) - Experiment Manager, MLOps and Data-Management.  
 [polyaxon](https://github.com/polyaxon/polyaxon) - MLOps.  
+[sematic](https://github.com/sematic-ai/sematic) - Deploy machine learning models.  
 
 #### Math and Background
 [All kinds of math and statistics resources](https://realnotcomplex.com/)  
