@@ -84,7 +84,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
 
 #### Distributed Systems
-[nextflow](https://github.com/nextflow-io/nextflow) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch and others.  
+[nextflow](https://github.com/goodwright/nextflow.py) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch, [Website](https://github.com/nextflow-io/nextflow).  
 [dsub](https://github.com/DataBiosphere/dsub) - Run batch computing tasks in Docker image in the Google Cloud.  
 
 #### Command line tools, CSV
