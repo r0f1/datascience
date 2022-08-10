@@ -995,6 +995,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [feast](https://github.com/feast-dev/feast) - Feature store. [Video](https://www.youtube.com/watch?v=_omcXenypmo).  
 [pinecone](https://www.pinecone.io/) - Database for vector search applications.  
 [truss](https://github.com/basetenlabs/truss) - Serve ML models.  
+[milvus](https://github.com/milvus-io/milvus) - Vector database for similarity search.  
 
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
