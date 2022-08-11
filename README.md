@@ -480,7 +480,6 @@ See also Microscopy Section above.
 [Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
 [cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
 [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
-[CORAL](https://github.com/VisionLearningGroup/CORAL) - Correlation Alignment for Domain Adaptation.  
 
 #### Neural Networks
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
