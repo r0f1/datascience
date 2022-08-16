@@ -1041,11 +1041,13 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [coloredlogs](https://github.com/xolox/python-coloredlogs) - Colored logging output.    
 
 #### Resources
-[Distill.pub](https://distill.pub/) - Blog.   
+[Distill.pub](https://distill.pub/) - Blog
 [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)  
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
-[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
+[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+[Explore Python - Discover libraries, code snippets, top authors, trending discussions](https://kandi.openweaver.com/explore/python)
+
 
 ##### Guidelines 
 [datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
