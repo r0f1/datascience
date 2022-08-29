@@ -984,6 +984,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dagster](https://github.com/dagster-io/dagster) - Development, production and observation of data assets.  
 [ploomber](https://github.com/ploomber/ploomber) - Workflow orchestration.  
 [kestra](https://github.com/kestra-io/kestra) - Workflow orchestration.  
+[cml](https://github.com/iterative/cml) - CI/CD for Machine Learning Projects
 
 ##### Containerization and Docker
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
@@ -1003,7 +1004,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [feast](https://github.com/feast-dev/feast) - Feature store. [Video](https://www.youtube.com/watch?v=_omcXenypmo).  
 [pinecone](https://www.pinecone.io/) - Database for vector search applications.  
 [truss](https://github.com/basetenlabs/truss) - Serve ML models.  
-[milvus](https://github.com/milvus-io/milvus) - Vector database for similarity search.  
+[milvus](https://github.com/milvus-io/milvus) - Vector database for similarity search.
 
 ##### Data Science Related
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
