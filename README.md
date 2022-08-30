@@ -637,6 +637,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [GLRM](https://github.com/madeleineudell/LowRankModels.jl) - Generalized Low Rank Models.  
 [tweedie](https://xgboost.readthedocs.io/en/latest/parameter.html#parameters-for-tweedie-regression-objective-reg-tweedie) - Specialized distribution for zero inflated targets, [Talk](https://www.youtube.com/watch?v=-o0lpHBq85I).  
 [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Estimating prediction intervals.  
+[Regressio](https://github.com/brendanartley/Regressio) - Regression and Spline models.  
 
 #### Polynomials
 [orthopy](https://github.com/nschloe/orthopy) - Orthogonal polynomials in all shapes and sizes.  
