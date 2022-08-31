@@ -570,6 +570,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [FCOS](https://github.com/tianzhi0549/FCOS) - Fully Convolutional One-Stage Object Detection.  
 [norfair](https://github.com/tryolabs/norfair) - Real-time 2D object tracking.  
 [Detic](https://github.com/facebookresearch/Detic) -  Detector with image classes that can use image-level labels (facebookresearch).  
+[EasyCV](https://github.com/alibaba/EasyCV) - Image segmentation, classification, metric-learning, object detection, pose estimation.  
 
 ##### Image Annotation
 [cvat](https://github.com/openvinotoolkit/cvat) - Image annotation tool.  
