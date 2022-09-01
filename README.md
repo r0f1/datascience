@@ -605,6 +605,10 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 ##### Transformers
 [SegFormer](https://github.com/NVlabs/SegFormer) - Simple and Efficient Design for Semantic Segmentation with Transformers.  
 [esvit](https://github.com/microsoft/esvit) - Efficient self-supervised Vision Transformers.  
+[nystromformer](https://github.com/Rishit-dagli/Nystromformer) - More efficient transformer because of approximate self-attention.  
+
+##### Deep learning on structured data
+[Great overview for deep learning for tabular data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)  
 
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
@@ -825,6 +829,13 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [banpei](https://github.com/tsurubee/banpei) - Anomaly detection library based on singular spectrum transformation.  
 [telemanom](https://github.com/khundman/telemanom) - Detect anomalies in multivariate time series data using LSTMs.  
 [luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
+
+#### Concept Drift & Domain Shift
+[TorchDrift](https://github.com/TorchDrift/TorchDrift) - Drift Detection for PyTorch Models.  
+[alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection.  
+[evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.  
+[Lipton et al. - Detecting and Correcting for Label Shift with Black Box Predictors](https://arxiv.org/abs/1802.03916).  
+[Bu et al. - A pdf-Free Change Detection Test Based on Density Difference Estimation](https://ieeexplore.ieee.org/document/7745962).  
 
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
