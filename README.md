@@ -975,6 +975,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
 [botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.  
 [ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform by Facebook.  
+[lightning-hpo](https://github.com/Lightning-AI/lightning-hpo) - Hyperparameter optimization based on optuna.  
 
 #### Incremental Learning, Online Learning
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
