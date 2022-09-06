@@ -100,11 +100,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 ##### Correlation
 [phik](https://github.com/kaveio/phik) - Correlation between categorical, ordinal and interval variables.  
 
-##### Statistical Tests and Packages
-[Modes, Medians and Means: A Unifying Perspective](https://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)   
-[Using Norms to Understand Linear Regression](https://www.johnmyleswhite.com/notebook/2013/03/22/using-norms-to-understand-linear-regression/)   
-[Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
-[Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
+##### Packages
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
 [linearmodels](https://github.com/bashtage/linearmodels) - Instrumental variable and panel data models.  
 [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests. [Pairwise correlation between columns of pandas DataFrame](https://pingouin-stats.org/generated/pingouin.pairwise_corr.html)   
@@ -112,6 +108,9 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
 Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
+
+##### Statistical Tests
+[G-Test](https://en.wikipedia.org/wiki/G-test) - Alternative to chi-square test, [power_divergence](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.power_divergence.html).  
 
 ##### Comparing Two Populations
 [torch-two-sample](https://github.com/josipd/torch-two-sample) - Friedman-Rafsky Test: Compare two population based on a multivariate generalization of the Runstest. [Explanation](https://www.real-statistics.com/multivariate-statistics/multivariate-normal-distribution/friedman-rafsky-test/), [Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014134/)  
@@ -138,6 +137,10 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)  
 
 ##### Texts
+[Modes, Medians and Means: A Unifying Perspective](https://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)   
+[Using Norms to Understand Linear Regression](https://www.johnmyleswhite.com/notebook/2013/03/22/using-norms-to-understand-linear-regression/)   
+[Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
+[Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
 [Montgomery et al. - How conditioning on post-treatment variables can ruin your experiment and what to do about it](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2293/files/2021/03/post-treatment-bias.pdf)  
 [Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
 [Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
