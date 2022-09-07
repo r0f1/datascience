@@ -159,6 +159,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [EpiEstim](https://github.com/mrc-ide/EpiEstim) - Estimate time varying instantaneous reproduction number R during epidemics (R package) [paper](https://academic.oup.com/aje/article/178/9/1505/89262).  
 [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).  
 [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package, [Tutorial](https://github.com/pzivich/Python-for-Epidemiologists).  
+[tipr](https://github.com/LucyMcGowan/tipr) - Sensitivity analyses for unmeasured confounders (R package).  
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
