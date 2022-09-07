@@ -110,6 +110,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
 
 ##### Statistical Tests
+[test_proportions_2indep](https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.test_proportions_2indep.html) - Proportion test.  
 [G-Test](https://en.wikipedia.org/wiki/G-test) - Alternative to chi-square test, [power_divergence](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.power_divergence.html).  
 
 ##### Comparing Two Populations
