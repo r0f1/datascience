@@ -1,6 +1,7 @@
 # Awesome Data Science with Python
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
+
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
@@ -1003,7 +1004,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dagster](https://github.com/dagster-io/dagster) - Development, production and observation of data assets.  
 [ploomber](https://github.com/ploomber/ploomber) - Workflow orchestration.  
 [kestra](https://github.com/kestra-io/kestra) - Workflow orchestration.  
-[cml](https://github.com/iterative/cml) - CI/CD for Machine Learning Projects
+[cml](https://github.com/iterative/cml) - CI/CD for Machine Learning Projects.  
 
 ##### Containerization and Docker
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
@@ -1041,6 +1042,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [clearml](https://github.com/allegroai/clearml) - Experiment Manager, MLOps and Data-Management.  
 [polyaxon](https://github.com/polyaxon/polyaxon) - MLOps.  
 [sematic](https://github.com/sematic-ai/sematic) - Deploy machine learning models.  
+[zenml](https://github.com/zenml-io/zenml) - MLOPs.  
 
 #### Math and Background
 [All kinds of math and statistics resources](https://realnotcomplex.com/)  
