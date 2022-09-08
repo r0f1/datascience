@@ -165,6 +165,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Checklist](https://github.com/r0f1/ml_checklist).  
 [pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
+[pandera](https://github.com/unionai-oss/pandera) - Data / Schema validation.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
