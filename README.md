@@ -263,6 +263,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 
 #### Subset Selection
 [apricot](https://github.com/jmschrei/apricot) - Selecting subsets of data sets to train machine learning models quickly.  
+[ducks](https://github.com/manimino/ducks) - Index data for fast lookup by any combination of fields.  
 
 #### Dimensionality Reduction / Representation Learning
 
