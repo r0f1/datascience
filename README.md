@@ -600,6 +600,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [Variational Autoencoder Explanation Video](https://www.youtube.com/watch?v=9zKuYvjFFS8)  
 [disentanglement_lib](https://github.com/google-research/disentanglement_lib) - BetaVAE, FactorVAE, BetaTCVAE, DIP-VAE.  
 [ladder-vae-pytorch](https://github.com/addtt/ladder-vae-pytorch) - Ladder Variational Autoencoders (LVAE).  
+[benchmark_VAE](https://github.com/clementchadebec/benchmark_VAE) - Unifying Generative Autoencoder implementations.  
 
 ##### Generative Adversarial Networks (GANs)
 [Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)  
