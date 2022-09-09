@@ -198,6 +198,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
 [NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
 
+#### Computer Vision
+[Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
+
 #### Image Cleanup
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
 [napari](https://github.com/napari/napari) - Multi-dimensional image viewer.  
