@@ -911,6 +911,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [pyroc](https://github.com/noudald/pyroc) - Receiver Operating Characteristic (ROC) curves.  
 
 #### Model Uncertainty
+[awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - Uncertainty quantification.  
 [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Predictive uncertainty quantification, calibration, metrics, and visualization.  
 
 #### Interpretable Classifiers and Regressors
