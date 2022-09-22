@@ -229,7 +229,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [allencell](https://www.allencell.org/segmenter.html) - Tools for the 3D segmentation of intracellular structures.  
 
-#### Batch-Effect Correction 
+#### Domain Adaptation / Batch-Effect Correction 
 [Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
 [R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html).  
 [harmonypy](https://github.com/slowkow/harmonypy) - Fuzzy k-means and locally linear adjustments.  
@@ -237,6 +237,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
 [scgen](https://github.com/theislab/scgen) - Batch removal. [Doc](https://scgen.readthedocs.io/en/stable/).  
 [CORAL](https://github.com/google-research/google-research/tree/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn) - Correcting for Batch Effects Using Wasserstein Distance, [Code](https://github.com/google-research/google-research/blob/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn/transform.py#L152), [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7050548/).   
+[adapt](https://github.com/adapt-python/adapt) - Aweseome Domain Adaptation Python Toolbox.  
 
 #### Feature Engineering Images
 [skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
@@ -264,7 +265,7 @@ Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection
 [mrmr](https://github.com/smazzanti/mrmr) - Maximum Relevance and Minimum Redundancy Feature Selection, [Website](http://home.penglab.com/proj/mRMR/).  
 [arfs](https://github.com/ThomasBury/arfs) - All Relevant Feature Selection.  
 [VSURF](https://github.com/robingenuer/VSURF) - Variable Selection Using Random Forests (R package) [doc](https://www.rdocumentation.org/packages/VSURF/versions/1.1.0/topics/VSURF).  
-
+[FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) - Feature Selection using Genetic Algorithm.  
 
 #### Subset Selection
 [apricot](https://github.com/jmschrei/apricot) - Selecting subsets of data sets to train machine learning models quickly.  
