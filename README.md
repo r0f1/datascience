@@ -84,6 +84,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 [zarr](https://github.com/zarr-developers/zarr-python) - Distributed numpy arrays.  
 [NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
+[tensorstore](https://github.com/google/tensorstore) - Reading and writing large multi-dimensional arrays (Google).  
 
 #### Distributed Systems
 [nextflow](https://github.com/goodwright/nextflow.py) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch, [Website](https://github.com/nextflow-io/nextflow).  
