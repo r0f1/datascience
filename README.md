@@ -921,6 +921,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Interpretable classifiers, Bayesian Rule List classifier.  
 
 #### Model Explanation, Interpretability, Feature Importance
+[Princeton - Reproducibility Crisis in ML‑based Science](https://sites.google.com/princeton.edu/rep-workshop)   
 [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Good Shap intro](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/).  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
