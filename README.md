@@ -1074,6 +1074,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
 [VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
 [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) - link records in or between data sources. 
+[Explore Data Science](https://kandi.openweaver.com/explore/data-science) - Curated list of open source libraries, packages, source code, cloud functions and APIs.
 
 #### General Python Programming
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
