@@ -567,6 +567,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [MONAI](https://github.com/project-monai/monai) - Deep learning in healthcare imaging.  
 [kornia](https://github.com/kornia/kornia) - Image transformations, epipolar geometry, depth estimation.  
+[torchinfo](https://github.com/TylerYep/torchinfo) - Nice model summary.  
 
 ##### Distributed Libs
 [flexflow](https://github.com/flexflow/FlexFlow) - Distributed TensorFlow Keras and PyTorch.  
