@@ -219,6 +219,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
 [CytoImageNet](https://github.com/stan-hua/CytoImageNet) - Huge diverse dataset like ImageNet but for cell images.  
 [cellpose dataset](https://www.cellpose.org/dataset) - Cell images.  
+[Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
 
 #### Packages
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
