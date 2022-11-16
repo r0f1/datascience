@@ -332,6 +332,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [tmap](https://github.com/reymond-group/tmap) - Visualization library for large, high-dimensional data sets.  
 [lollipop](https://github.com/neurodata/lollipop) - Linear Optimal Low Rank Projection.  
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
+[PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
 
 #### Training-related
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
@@ -368,6 +369,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Complex heatmaps for multidimensional genomic data (R package).  
 [largeVis](https://github.com/elbamos/largeVis) - Visualize embeddings (t-SNE etc.) (R package).  
 [proplot](https://github.com/proplot-dev/proplot) - Matplotlib wrapper.  
+[morpheus](https://software.broadinstitute.org/morpheus/) - Broad Institute tool matrix visualization and analysis software.  
 
 #### Colors
 [palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
