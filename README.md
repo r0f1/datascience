@@ -220,6 +220,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [CytoImageNet](https://github.com/stan-hua/CytoImageNet) - Huge diverse dataset like ImageNet but for cell images.  
 [cellpose dataset](https://www.cellpose.org/dataset) - Cell images.  
 [Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
+[broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
 #### Packages
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
