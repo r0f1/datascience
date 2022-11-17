@@ -514,8 +514,8 @@ See also Microscopy Section above.
 #### Neural Networks
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
 [ConvNet Shape Calculator](https://madebyollin.github.io/convnet-calculator/) - Calculate output dimensions of Conv2D layer.  
-[Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)  
-[Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html)  
+[Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9).  
+[Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html).  
 
 ##### Tutorials & Viewer
 fast.ai course - [Lessons 1-7](https://course.fast.ai/videos/?lesson=1), [Lessons 8-14](http://course18.fast.ai/lessons/lessons2.html)  
@@ -545,6 +545,11 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [textgenrnn](https://github.com/minimaxir/textgenrnn) - Ready-to-use LSTM for text generation.  
 [ctrl](https://github.com/salesforce/ctrl) - Text generation.  
 
+##### Neural network and deep learning frameworks
+[OpenMMLab](https://github.com/open-mmlab) - Framework for segmentation, classification and lots of other computer vision tasks.  
+[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
+[mxnet](https://github.com/apache/incubator-mxnet) - Deep learning framework, [book](https://d2l.ai/index.html).  
+
 ##### Libs General
 [keras](https://keras.io/) - Neural Networks on top of [tensorflow](https://www.tensorflow.org/), [examples](https://gist.github.com/candlewill/552fa102352ccce42fd829ae26277d24).  
 [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.  
@@ -566,8 +571,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [ffcv](https://github.com/libffcv/ffcv) - Fast dataloder.  
 
 ##### Libs Pytorch
-[Good Pytorch Introduction](https://cs230.stanford.edu/blog/pytorch/)  
-  
+[Good Pytorch Introduction](https://cs230.stanford.edu/blog/pytorch/)    
 [skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
 [fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
 [timm](https://github.com/rwightman/pytorch-image-models) - Pytorch image models.  
@@ -585,7 +589,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
 
 ##### Architecture Visualization
-[Awesome List](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)  
+[Awesome List](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network).  
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 [visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualize Keras networks.  
 
@@ -651,10 +655,6 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [pytorch-geometric](https://github.com/rusty1s/pytorch_geometric) - Various methods for deep learning on graphs.  
 [dgl](https://github.com/dmlc/dgl) - Deep Graph Library.  
 [graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in Tensorflow, by deepmind.  
-
-##### Other neural network and deep learning frameworks
-[caffe](https://github.com/BVLC/caffe) - Deep learning framework, [pretrained models](https://github.com/BVLC/caffe/wiki/Model-Zoo).  
-[mxnet](https://github.com/apache/incubator-mxnet) - Deep learning framework, [book](https://d2l.ai/index.html).  
 
 #### Model conversion
 [hummingbird](https://github.com/microsoft/hummingbird) - Compile trained ML models into tensor computations (by Microsoft).  
