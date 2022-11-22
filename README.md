@@ -374,6 +374,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 #### Colors
 [palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
 [colorcet](https://github.com/holoviz/colorcet) - Collection of perceptually uniform colormaps.  
+[Named Colors Wheel](https://arantius.github.io/web-color-wheel/) - Color wheel for all named HTML colors.  
 
 #### Dashboards
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
