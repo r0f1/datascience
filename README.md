@@ -369,7 +369,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Complex heatmaps for multidimensional genomic data (R package).  
 [largeVis](https://github.com/elbamos/largeVis) - Visualize embeddings (t-SNE etc.) (R package).  
 [proplot](https://github.com/proplot-dev/proplot) - Matplotlib wrapper.  
-[morpheus](https://software.broadinstitute.org/morpheus/) - Broad Institute tool matrix visualization and analysis software.  
+[morpheus](https://software.broadinstitute.org/morpheus/) - Broad Institute tool matrix visualization and analysis software. [Source](https://github.com/cmap/morpheus.js), Tutorial: [1](https://www.youtube.com/watch?v=0nkYDeekhtQ), [2](https://www.youtube.com/watch?v=r9mN6MsxUb0), [Code](https://github.com/broadinstitute/BBBC021_Morpheus_Exercise).  
 
 #### Colors
 [palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
