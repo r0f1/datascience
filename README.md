@@ -214,6 +214,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 #### Microscopy / Segmentation
 
+##### Tutorials
+[Bio-image Analysis Notebooks] - Large collection of image processing workflows, including [point-spread-function estimation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/extract_psf.html) and [deconvolution](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/introduction_deconvolution.html), [3D cell segmentation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/Segmentation_3D.html), [feature extraction](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/22_feature_extraction/statistics_with_pyclesperanto.html) using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype) and others.  
+
 ##### Datasets
 [jump-cellpainting](https://github.com/jump-cellpainting/datasets) - Cellpainting dataset.  
 [MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
@@ -238,6 +241,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [allencell](https://www.allencell.org/segmenter.html) - Tools for the 3D segmentation of intracellular structures.  
+[py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microsopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb and lots of other tutorials, interacts with napari.  
+[ashlar](https://github.com/labsyspharm/ashlar) - Image stitching and registration.  
 
 #### Domain Adaptation / Batch-Effect Correction 
 [Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
