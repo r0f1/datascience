@@ -243,6 +243,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [allencell](https://www.allencell.org/segmenter.html) - Tools for the 3D segmentation of intracellular structures.  
 [py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microsopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
 [ashlar](https://github.com/labsyspharm/ashlar) - Image stitching and registration.  
+[cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
+Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
 
 #### Domain Adaptation / Batch-Effect Correction 
 [Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
