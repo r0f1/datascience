@@ -23,7 +23,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
-[pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
+[pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for Jupyter notebooks.  
 [itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
 [jupyter-datatables](https://github.com/CermakM/jupyter-datatables) - Interactive tables in Jupyter.  
 [debugger](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559) - Visual debugger for Jupyter.  
@@ -42,11 +42,11 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
-[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.   
+[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster.   
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
 [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
-[lux](https://github.com/lux-org/lux) - Dataframe visualization within Jupyter.  
+[lux](https://github.com/lux-org/lux) - DataFrame visualization within Jupyter.  
 [dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
 [polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
 [duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
@@ -82,8 +82,8 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
-[zarr](https://github.com/zarr-developers/zarr-python) - Distributed numpy arrays.  
-[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
+[zarr](https://github.com/zarr-developers/zarr-python) - Distributed NumPy arrays.  
+[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by Nvidia.  
 [tensorstore](https://github.com/google/tensorstore) - Reading and writing large multi-dimensional arrays (Google).  
 
 #### Distributed Systems
@@ -95,7 +95,7 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
 [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
-[tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by ebay.  
+[tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by eBay.  
 [cheat](https://github.com/cheat/cheat) - Make cheatsheets for command line commands.  
 
 #### Classical Statistics
@@ -120,7 +120,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [torch-two-sample](https://github.com/josipd/torch-two-sample) - Friedman-Rafsky Test: Compare two population based on a multivariate generalization of the Runstest. [Explanation](https://www.real-statistics.com/multivariate-statistics/multivariate-normal-distribution/friedman-rafsky-test/), [Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014134/)  
 
 ##### Interim Analyses / Sequential Analysis / Stopping
-[Squential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
+  [Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
 [Treatment Effects Monitoring](https://online.stat.psu.edu/stat509/node/75/) - Design and Analysis of Clinical Trials PennState.  
 [sequential](https://cran.r-project.org/web/packages/Sequential/Sequential.pdf) - Exact Sequential Analysis for Poisson and Binomial Data (R package).  
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
@@ -179,7 +179,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
 
 #### Noisy Labels
-[cleanlab](https://github.com/cleanlab/cleanlab) - Machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Also see awesome list below.  
+[cleanlab](https://github.com/cleanlab/cleanlab) - Machine learning with noisy labels, finding mislabelled data, and uncertainty quantification. Also see awesome list below.  
 [doubtlab](https://github.com/koaning/doubtlab) - Find bad or noisy labels.
 
 #### Train / Test Split
@@ -199,7 +199,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
-[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by nvidia.  
+[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by Nvidia.  
 
 #### Computer Vision
 [Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
@@ -241,7 +241,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [allencell](https://www.allencell.org/segmenter.html) - Tools for the 3D segmentation of intracellular structures.  
-[py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microsopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
+[py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
 [ashlar](https://github.com/labsyspharm/ashlar) - Image stitching and registration.  
 [cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
 Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
@@ -255,7 +255,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
 [scgen](https://github.com/theislab/scgen) - Batch removal. [Doc](https://scgen.readthedocs.io/en/stable/).  
 [CORAL](https://github.com/google-research/google-research/tree/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn) - Correcting for Batch Effects Using Wasserstein Distance, [Code](https://github.com/google-research/google-research/blob/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn/transform.py#L152), [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7050548/).   
-[adapt](https://github.com/adapt-python/adapt) - Aweseome Domain Adaptation Python Toolbox.  
+[adapt](https://github.com/adapt-python/adapt) - Awesome Domain Adaptation Python Toolbox.  
 [pytorch-adapt](https://github.com/KevinMusgrave/pytorch-adapt) - Various neural network models for domain adaptation.  
 
 #### Feature Engineering Images
@@ -389,7 +389,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
 [mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app, [Example](https://github.com/pplonski/dashboard-python-jupyter-notebook).  
 [dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. [Resources](https://github.com/ucg8j/awesome-dash).  
-[visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by facebook.  
+[visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by Facebook.  
 [panel](https://panel.pyviz.org/index.html) - Dashboarding solution.  
 [altair example](https://github.com/xhochy/altair-vue-vega-example) - [Video](https://www.youtube.com/watch?v=4L568emKOvs).  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
@@ -510,7 +510,7 @@ See also Microscopy Section above.
 
 ##### Drug discovery
 [TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.  
-[DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modeling and Prediction Toolkit.  
+[DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modelling and Prediction Toolkit.  
 
 ##### Courses
 [mit6874](https://mit6874.github.io/) - Computational Systems Biology: Deep Learning in the Life Sciences.  
@@ -565,9 +565,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for Keras.  
 [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: Convenient hyperparameter optimization wrapper.  
 [elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.  
-[tflearn](https://github.com/tflearn/tflearn) - Neural Networks on top of tensorflow.  
-[tensorlayer](https://github.com/tensorlayer/tensorlayer) - Neural Networks on top of tensorflow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
-[tensorforce](https://github.com/reinforceio/tensorforce) - Tensorflow for applied reinforcement learning.  
+[tflearn](https://github.com/tflearn/tflearn) - Neural Networks on top of TensorFlow.  
+[tensorlayer](https://github.com/tensorlayer/tensorlayer) - Neural Networks on top of TensorFlow, [tricks](https://github.com/wagamamaz/tensorlayer-tricks).  
+[tensorforce](https://github.com/reinforceio/tensorforce) - TensorFlow for applied reinforcement learning.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Plot neural networks.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability, [Activation Maps](https://openai.com/blog/introducing-activation-atlases/).  
@@ -577,16 +577,16 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Training metrics.  
 [imgclsmob](https://github.com/osmr/imgclsmob) - Pretrained models.  
 [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.  
-[ffcv](https://github.com/libffcv/ffcv) - Fast dataloder.  
+[ffcv](https://github.com/libffcv/ffcv) - Fast dataloader.  
 
-##### Libs Pytorch
-[Good Pytorch Introduction](https://cs230.stanford.edu/blog/pytorch/)    
-[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps pytorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
-[fastai](https://github.com/fastai/fastai) - Neural Networks in pytorch.  
-[timm](https://github.com/rwightman/pytorch-image-models) - Pytorch image models.  
-[ignite](https://github.com/pytorch/ignite) - Highlevel library for pytorch.  
+##### Libs PyTorch
+[Good PyTorch Introduction](https://cs230.stanford.edu/blog/pytorch/)    
+[skorch](https://github.com/dnouri/skorch) - Scikit-learn compatible neural network library that wraps PyTorch, [talk](https://www.youtube.com/watch?v=0J7FaLk0bmQ), [slides](https://github.com/thomasjpfan/skorch_talk).  
+[fastai](https://github.com/fastai/fastai) - Neural Networks in PyTorch.  
+[timm](https://github.com/rwightman/pytorch-image-models) - PyTorch image models.  
+[ignite](https://github.com/pytorch/ignite) - Highlevel library for PyTorch.  
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
-[pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for pytorch.  
+[pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for PyTorch.  
 [pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
 [lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [MONAI](https://github.com/project-monai/monai) - Deep learning in healthcare imaging.  
@@ -623,7 +623,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 ##### Image Classification
 [nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.   
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Neural network.   
-[pycls](https://github.com/facebookresearch/pycls) - Pytorch image classification networks: ResNet, ResNeXt, EfficientNet, and RegNet (by Facebook).  
+[pycls](https://github.com/facebookresearch/pycls) - PyTorch image classification networks: ResNet, ResNeXt, EfficientNet, and RegNet (by Facebook).  
 
 ##### Applications and Snippets
 [SPADE](https://github.com/nvlabs/spade) - Semantic Image Synthesis.  
@@ -642,10 +642,10 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)  
 [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) - List of Generative Adversarial Networks.  
 [CycleGAN and Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Various image-to-image tasks.  
-[Tensorflow GAN implementations](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
-[Pytorch GAN implementations](https://github.com/znxlwm/pytorch-generative-model-collections)  
-[Pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN#adversarial-autoencoder)  
-[StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - Pytorch GAN implementations.  
+[TensorFlow GAN implementations](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
+[PyTorch GAN implementations](https://github.com/znxlwm/pytorch-generative-model-collections)  
+[PyTorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN#adversarial-autoencoder)  
+[StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - PyTorch GAN implementations.  
 
 ##### Transformers
 [SegFormer](https://github.com/NVlabs/SegFormer) - Simple and Efficient Design for Semantic Segmentation with Transformers.  
@@ -664,7 +664,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [cugraph](https://github.com/rapidsai/cugraph) - RAPIDS, Graph library on the GPU.  
 [pytorch-geometric](https://github.com/rusty1s/pytorch_geometric) - Various methods for deep learning on graphs.  
 [dgl](https://github.com/dmlc/dgl) - Deep Graph Library.  
-[graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in Tensorflow, by deepmind.  
+[graph_nets](https://github.com/deepmind/graph_nets) - Build graph networks in TensorFlow, by DeepMind.  
 
 #### Model conversion
 [hummingbird](https://github.com/microsoft/hummingbird) - Compile trained ML models into tensor computations (by Microsoft).  
@@ -699,10 +699,10 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)  
   
 [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Supervised and weakly-supervised metric learning algorithms.  
-[pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Pytorch metric learning.  
+[pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - PyTorch metric learning.  
 [deep_metric_learning](https://github.com/ronekko/deep_metric_learning) - Methods for deep metric learning.  
 [ivis](https://bering-ivis.readthedocs.io/en/latest/supervised.html) - Metric learning using siamese neural networks.  
-[tensorflow similarity](https://github.com/tensorflow/similarity) - Metric learning.  
+[TensorFlow similarity](https://github.com/tensorflow/similarity) - Metric learning.  
 
 #### Distance Functions
 [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html) - All kinds of distance metrics.  
@@ -768,10 +768,10 @@ Other measures:
 
 #### Signal Processing and Filtering
 [Stanford Lecture Series on Fourier Transformation](https://see.stanford.edu/Course/EE261), [Youtube](https://www.youtube.com/watch?v=gZNm7L96pfY&list=PLB24BC7956EE040CD&index=1), [Lecture Notes](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf).  
-[Visual fourier explanation](https://dsego.github.io/demystifying-fourier/).  
+[Visual Fourier explanation](https://dsego.github.io/demystifying-fourier/).  
 [The Scientist & Engineer's Guide to Digital Signal Processing (1999)](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html).  
 [Kalman Filter article](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures).  
-[Kalman Filter book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Focuses on intuition using Jupyter Notebooks. Includes Baysian and various Kalman filters.  
+[Kalman Filter book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Focuses on intuition using Jupyter Notebooks. Includes Bayesian and various Kalman filters.  
 [Interactive Tool](https://fiiir.com/) for FIR and IIR filters, [Examples](https://plot.ly/python/fft-filters/).  
 [filterpy](https://github.com/rlabbe/filterpy) - Kalman filtering and optimal estimation library.  
 
@@ -782,7 +782,7 @@ Other measures:
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
 [prophet](https://github.com/facebook/prophet) - Time series prediction library by Facebook.  
-[neural_prophet](https://github.com/ourownstory/neural_prophet) - Time series prediction built on Pytorch.  
+[neural_prophet](https://github.com/ourownstory/neural_prophet) - Time series prediction built on PyTorch.  
 [pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
 [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html) - Time series forecasting framework (R package).  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
@@ -803,7 +803,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [pastas](https://pastas.readthedocs.io/en/latest/examples.html) - Simulation of time series.  
 [fastdtw](https://github.com/slaypni/fastdtw) - Dynamic Time Warp Distance.  
 [fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) - Time Series Forecasting (R package).  
-[pydlm](https://github.com/wwrechard/pydlm) - Bayesian time series modeling ([R package](https://cran.r-project.org/web/packages/bsts/index.html), [Blog post](http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html))  
+[pydlm](https://github.com/wwrechard/pydlm) - Bayesian time series modelling ([R package](https://cran.r-project.org/web/packages/bsts/index.html), [Blog post](http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html))  
 [PyAF](https://github.com/antoinecarme/pyaf) - Automatic Time Series Forecasting.  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
 [matrixprofile-ts](https://github.com/target/matrixprofile-ts) - Detecting patterns and anomalies, [website](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html), [ppt](https://www.cs.ucr.edu/~eamonn/Matrix_Profile_Tutorial_Part1.pdf), [alternative](https://github.com/matrix-profile-foundation/mass-ts).  
@@ -836,7 +836,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [bt](https://github.com/pmorissette/bt) - Backtesting algorithms.  
 [alpaca-trade-api-python](https://github.com/alpacahq/alpaca-trade-api-python) - Commission-free trading through API.  
 [eiten](https://github.com/tradytics/eiten) - Eigen portfolios, minimum variance portfolios and other algorithmic investing strategies.  
-[tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in tensorflow, by Google.  
+[tf-quant-finance](https://github.com/google/tf-quant-finance) - Quantitative finance tools in TensorFlow, by Google.  
 [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio management.  
 [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio optimization and strategic asset allocation.  
 [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal.  
@@ -902,7 +902,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [Bours - Confounding](https://edisciplinas.usp.br/pluginfile.php/5625667/mod_resource/content/3/Nontechnicalexplanation-counterfactualdefinition-confounding.pdf)  
 [Bours - Effect Modification and Interaction](https://www.sciencedirect.com/science/article/pii/S0895435621000330)  
 
-#### Probabilistic Modeling and Bayes
+#### Probabilistic Modelling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 [PyMC3](https://docs.pymc.io/) - Bayesian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
 [numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with numpy, built on [pyro](https://github.com/pyro-ppl/pyro).  
@@ -910,9 +910,9 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
 [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models.  
 [zhusuan](https://github.com/thu-ml/zhusuan) - Bayesian deep learning, generative models.  
-[edward](https://github.com/blei-lab/edward) - Probabilistic modeling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
+[edward](https://github.com/blei-lab/edward) - Probabilistic modelling, inference, and criticism, [Mixture Density Networks (MNDs)](http://edwardlib.org/tutorials/mixture-density-network), [MDN Explanation](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca).  
 [Pyro](https://github.com/pyro-ppl/pyro) - Deep Universal Probabilistic Programming.  
-[tensorflow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk1](https://www.youtube.com/watch?v=KJxmC5GCWe4), [notebook talk1](https://github.com/AlxndrMlk/PyDataGlobal2021/blob/main/00_PyData_Global_2021_nb_full.ipynb), [talk2](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
+[TensorFlow probability](https://github.com/tensorflow/probability) - Deep learning and probabilistic modelling, [talk1](https://www.youtube.com/watch?v=KJxmC5GCWe4), [notebook talk1](https://github.com/AlxndrMlk/PyDataGlobal2021/blob/main/00_PyData_Global_2021_nb_full.ipynb), [talk2](https://www.youtube.com/watch?v=BrwKURU-wpk), [example](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_TFP.ipynb).  
 [bambi](https://github.com/bambinos/bambi) - High-level Bayesian model-building interface on top of PyMC3.  
 [neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
 [bnlearn](https://github.com/erdogant/bnlearn) - Bayesian networks, parameter learning, inference and sampling methods.  
@@ -920,8 +920,8 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 #### Gaussian Processes
 [Visualization](http://www.infinitecuriosity.org/vizgp/), [Article](https://distill.pub/2019/visual-exploration-gaussian-processes/)  
 [GPyOpt](https://github.com/SheffieldML/GPyOpt) - Gaussian process optimization.   
-[GPflow](https://github.com/GPflow/GPflow) - Gaussian processes (Tensorflow).  
-[gpytorch](https://gpytorch.ai/) - Gaussian processes (Pytorch).  
+[GPflow](https://github.com/GPflow/GPflow) - Gaussian processes (TensorFlow).  
+[gpytorch](https://gpytorch.ai/) - Gaussian processes (PyTorch).  
 
 #### Stacking Models and Ensembles
 [Model Stacking Blog Post](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)  
@@ -974,7 +974,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.  
 
 #### Automated Machine Learning
-[AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on tensorflow.  
+[AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on TensorFlow.  
 [tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool, optimizes machine learning pipelines.  
 [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
@@ -986,11 +986,11 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 
 #### Graph Representation Learning
 [Karate Club](https://github.com/benedekrozemberczki/karateclub) - Unsupervised learning on graphs.   
-[Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Graph representation learning with PyTorch.   
+[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Graph representation learning with PyTorch.   
 [DLG](https://github.com/dmlc/dgl) - Graph representation learning with TensorFlow.   
 
 #### Convex optimization
-[cvxpy](https://github.com/cvxgrp/cvxpy) - Modeling language for convex optimization problems. Tutorial: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
+[cvxpy](https://github.com/cvxgrp/cvxpy) - Modelling language for convex optimization problems. Tutorial: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html), [2](https://calmcode.io/cvxpy-two/introduction.html)  
 
 #### Evolutionary Algorithms & Optimization
 [deap](https://github.com/DEAP/deap) - Evolutionary computation framework (Genetic Algorithm, Evolution strategies).  
@@ -1166,7 +1166,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)  
 
 #### Lectures
-[NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - Youtube Playlist.   
+[NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - YouTube Playlist.   
 
 #### Things I google a lot
 [Color codes](https://github.com/d3/d3-3.x-api-reference/blob/master/Ordinal-Scales.md#categorical-colors)  
