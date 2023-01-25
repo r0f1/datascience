@@ -385,6 +385,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) - Color wheel for all named HTML colors.  
 
 #### Dashboards
+[py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python, [talk](https://www.youtube.com/watch?v=ijRBbtT2tgc).  
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
 [streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
 [mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app, [Example](https://github.com/pplonski/dashboard-python-jupyter-notebook).  
