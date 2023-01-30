@@ -1117,6 +1117,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
 
 ##### Books
+[Blum - Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf?file=book.pdf)  
 [Chan - Introduction to Probability for Data Science](https://probability4datascience.com/index.html)  
 [Colonescu - Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)  
 
