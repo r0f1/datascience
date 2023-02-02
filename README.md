@@ -1073,7 +1073,6 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transpile trained ML models into other languages.  
 [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.  
 [mlflow](https://mlflow.org/) - Manage the machine learning lifecycle, including experimentation, reproducibility and deployment.  
-[modelchimp](https://github.com/ModelChimp/modelchimp) - Experiment Tracking.  
 [skll](https://github.com/EducationalTestingService/skll) - Command-line utilities to make it easier to run machine learning experiments.  
 [BentoML](https://github.com/bentoml/BentoML) - Package and deploy machine learning models for serving in production.  
 [dagster](https://github.com/dagster-io/dagster) - Tool with focus on dependency graphs.  
