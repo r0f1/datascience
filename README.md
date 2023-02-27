@@ -225,6 +225,11 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
 [broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
+#### Labsyspharm
+[mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
+[MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
+[cylinter](https://github.com/labsyspharm/cylinter) - Quality assurance for microscopy images, [Website](https://labsyspharm.github.io/cylinter/).  
+
 #### Packages
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
@@ -235,7 +240,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [BaSiCPy](https://github.com/peng-lab/BaSiCPy) - Background and Shading Correction of Optical Microscopy Images, [BaSiC](https://github.com/marrlab/BaSiC).  
 [ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
-[mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
 [stardist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.  
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
