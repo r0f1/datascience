@@ -1058,10 +1058,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [cog](https://github.com/replicate/cog) - Facilitates building Docker images.  
 
 ##### Dependency Management
-[dephell](https://github.com/dephell/dephell) - Dependency management.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
-[pyup](https://github.com/pyupio/pyup) - Dependency management.  
-[pypi-timemachine](https://github.com/astrofrog/pypi-timemachine) - Install packages with pip as if you were in the past.  
 
 ##### Data Versioning, Databases, Pipelines and Model Serving
 [dvc](https://github.com/iterative/dvc) - Version control for large files.  
