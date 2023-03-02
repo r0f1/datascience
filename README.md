@@ -494,6 +494,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 ##### Sequencing
 [Single cell tutorial](https://github.com/theislab/single-cell-tutorial).  
+[DESeq2](http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) - Analyzing RNA-seq data (R package).  
 [cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
 [scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
 [besca](https://github.com/bedapub/besca) - Beyond single-cell analysis.  
