@@ -490,6 +490,9 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 #### Biology / Bioinformatics
 
+##### Assay
+[PlateEditor](https://github.com/vindelorme/PlateEditor) - Drug Layout for plates, [app](https://plateeditor.sourceforge.io/), [zip](https://sourceforge.net/projects/plateeditor/), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252488).  
+
 ##### Biostatistics / Robust statistics
 [MinCovDet](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html) - Robust estimator of covariance, RMPV, [Paper](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1421), [App1](https://journals.sagepub.com/doi/10.1177/1087057112469257?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&), [App2](https://www.cell.com/cell-reports/pdf/S2211-1247(21)00694-X.pdf).  
 [winsorize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.winsorize.html#scipy.stats.mstats.winsorize) - Simple adjustment of outliers.  
