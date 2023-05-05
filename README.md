@@ -46,7 +46,6 @@ Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/1
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster.   
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
-[pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.  
 [lux](https://github.com/lux-org/lux) - DataFrame visualization within Jupyter.  
 [dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
 [polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
