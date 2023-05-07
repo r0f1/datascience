@@ -204,10 +204,12 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 #### Computer Vision
 [Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
 
-#### Image Cleanup
+#### Image Viewers
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
 [napari](https://github.com/napari/napari) - Multi-dimensional image viewer.  
 [fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
+
+#### Image Cleanup
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 [unprocessing](https://github.com/timothybrooks/unprocessing) - Image denoising by reverting the image processing pipeline.  
@@ -216,7 +218,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 ##### Tutorials
 [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) - Large collection of image processing workflows, including [point-spread-function estimation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/extract_psf.html) and [deconvolution](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/introduction_deconvolution.html), [3D cell segmentation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/Segmentation_3D.html), [feature extraction](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/22_feature_extraction/statistics_with_pyclesperanto.html) using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype) and others.  
-
+[python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
 ##### Datasets
 [jump-cellpainting](https://github.com/jump-cellpainting/datasets) - Cellpainting dataset.  
 [MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
@@ -225,13 +227,21 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
 [broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
-#### Labsyspharm
+##### Data Formats and Converters
+OME-Zarr - [Paper](https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1.full), [Standard](https://ngff.openmicroscopy.org/latest/)  
+[bioformats2raw](https://github.com/glencoesoftware/bioformats2raw) - Various formats to zarr.  
+[raw2ometiff](https://github.com/glencoesoftware/raw2ometiff) - Zarr to tiff.  
+[BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).    
+[napari](https://napari.org/stable) - Viewer for various image formats.  
+[vizarr](https://github.com/hms-dbmi/vizarr) - Viewer for zarr files.  
+
+##### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
 [MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
 [cylinter](https://github.com/labsyspharm/cylinter) - Quality assurance for microscopy images, [Website](https://labsyspharm.github.io/cylinter/).  
 [ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
 
-#### Segmentation
+##### Segmentation
 [Overview](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
 [stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
@@ -239,8 +249,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
 [allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
 [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
+[ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 
-#### Packages
+##### Packages
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
 [seg-eval](https://github.com/lstrgar/seg-eval) - Cell segmentation performance evaluation without Ground Truth labels, [Paper](https://www.biorxiv.org/content/10.1101/2023.02.23.529809v1.full.pdf).  
@@ -509,8 +520,6 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 ##### Image-related
 See also Microscopy Section above.  
-[Overview over cell segmentation algorithms](https://biomag-lab.github.io/microscopy-tree/)  
-[python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
 [mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
 [imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
 [scimap](https://github.com/labsyspharm/scimap) - Spatial Single-Cell Analysis Toolkit.  
@@ -518,7 +527,6 @@ See also Microscopy Section above.
 [imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
 [microscopium](https://github.com/microscopium/microscopium) - Unsupervised clustering of images + viewer, [talk](https://www.youtube.com/watch?v=ytEQl9xs8FQ).  
 [cytokit](https://github.com/hammerlab/cytokit) - Analyzing properties of cells in fluorescent microscopy datasets.  
-[ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 
 ##### Drug discovery
 [TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.  
