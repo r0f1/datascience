@@ -229,29 +229,31 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
 [MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
 [cylinter](https://github.com/labsyspharm/cylinter) - Quality assurance for microscopy images, [Website](https://labsyspharm.github.io/cylinter/).  
+[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
+
+#### Segmentation
+[Overview](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
+[CellSeg](https://github.com/michaellee1/CellSeg) - Cell segmentation. [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04570-9)  
+[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
+[stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
+[UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
+[nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
+[allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
+[Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
 
 #### Packages
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
-[Tree of Microscopy](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
-[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
 [seg-eval](https://github.com/lstrgar/seg-eval) - Cell segmentation performance evaluation without Ground Truth labels, [Paper](https://www.biorxiv.org/content/10.1101/2023.02.23.529809v1.full.pdf).  
 [skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
 [BaSiCPy](https://github.com/peng-lab/BaSiCPy) - Background and Shading Correction of Optical Microscopy Images, [BaSiC](https://github.com/marrlab/BaSiC).  
-[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
-[UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
-[stardist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.  
-[nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
-[allencell](https://www.allencell.org/segmenter.html) - Tools for the 3D segmentation of intracellular structures.  
 [py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
-[ashlar](https://github.com/labsyspharm/ashlar) - Image stitching and registration.  
 [cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
 Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
 Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins/lumos-spectral-unmixing).  
-[Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Cell segmentation and tracking.  
 
 #### Domain Adaptation / Batch-Effect Correction 
 [Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
