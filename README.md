@@ -234,6 +234,7 @@ OME-Zarr - [Paper](https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1.f
 [BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).    
 [napari](https://napari.org/stable) - Viewer for various image formats.  
 [vizarr](https://github.com/hms-dbmi/vizarr) - Viewer for zarr files.  
+REMBI model - Recommended Metadata for Biological Images, [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c)
 
 ##### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
