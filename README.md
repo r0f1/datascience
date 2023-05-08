@@ -219,6 +219,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 ##### Tutorials
 [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) - Large collection of image processing workflows, including [point-spread-function estimation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/extract_psf.html) and [deconvolution](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/introduction_deconvolution.html), [3D cell segmentation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/Segmentation_3D.html), [feature extraction](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/22_feature_extraction/statistics_with_pyclesperanto.html) using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype) and others.  
 [python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
+[Bioimaging and Bioimage Analysis Guide](https://www.bioimagingguide.org/welcome.html)  
+
 ##### Datasets
 [jump-cellpainting](https://github.com/jump-cellpainting/datasets) - Cellpainting dataset.  
 [MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
