@@ -205,9 +205,10 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
 
 #### Image Viewers
+[fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
 [napari](https://github.com/napari/napari) - Multi-dimensional image viewer.  
-[fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
+[OMERO](https://www.openmicroscopy.org/omero/) - Feature rich image viewer for high-content screening. [IDR](https://idr.openmicroscopy.org/) uses OMERO. [Intro](https://www.youtube.com/watch?v=nSCrMO_c-5s)   
 
 #### Image Cleanup
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
