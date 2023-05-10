@@ -18,6 +18,7 @@
 [General Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 Fixing environment: [link](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)  
 Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
+[ipyflow](https://github.com/ipyflow/ipyflow) - IPython kernel for Jupyter with additional features.  
 [pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
 [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
