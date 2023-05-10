@@ -227,7 +227,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [jump-cellpainting](https://github.com/jump-cellpainting/datasets) - Cellpainting dataset.  
 [MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
 [CytoImageNet](https://github.com/stan-hua/CytoImageNet) - Huge diverse dataset like ImageNet but for cell images.  
-[cellpose dataset](https://www.cellpose.org/dataset) - Cell images.  
 [Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
 [broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
@@ -250,6 +249,7 @@ REMBI model - Recommended Metadata for Biological Images
 
 ##### Segmentation
 [Overview](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
+[MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation. 
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
 [stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
@@ -257,6 +257,12 @@ REMBI model - Recommended Metadata for Biological Images
 [allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
 [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
+
+##### Cell Segmentation Datasets
+[cellpose](https://www.cellpose.org/dataset) - Cell images.  
+[omnipose](http://www.cellpose.org/dataset_omnipose) - Cell images.  
+[LIVECell](https://github.com/sartorius-research/LIVECell) - Cell images.  
+[Sartorius](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/overview) - Neurons.  
 
 ##### Packages
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
