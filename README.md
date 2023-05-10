@@ -4,100 +4,73 @@
 
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
-[scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
+[scikit-learn](https://scikit-learn.org/stable/) - Core ML library, [intelex](https://github.com/intel/scikit-learn-intelex).  
 [matplotlib](https://matplotlib.org/) - Plotting library.  
 [seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib.  
-[datatile](https://github.com/polyaxon/datatile) - Basic statistics using `DataFrameSummary(df).summary()`.  
-[pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.  
+[ydata-profiling](https://github.com/ydataai/ydata-profiling) - Descriptive statistics using `ProfileReport`.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
-[rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.  
-[xonsh](https://xon.sh) - Python-powered shell as alternative to Bash for simplifying data science automations.
+[rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - VSCode plugin to display .csv files with nice colors.  
+
+#### General Python Programming
+[more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
+[tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
+[loguru](https://github.com/Delgan/loguru) - Python logging.  
+[pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
+[poetry](https://github.com/python-poetry/poetry) - Dependency management.  
+[dateparser](https://github.com/scrapinghub/dateparser) - A better date parser.  
+
+#### Pandas Tricks, Alternatives and Additions
+[pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
+[polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
+[xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
+[pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
+[duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
+
+#### Pandas Parallelization
+[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
+[vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
+[pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
+[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster.   
 
 #### Environment and Jupyter
-[General Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
-Fixing environment: [link](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)  
-Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
+[Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 [ipyflow](https://github.com/ipyflow/ipyflow) - IPython kernel for Jupyter with additional features.  
-[pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
 [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
-[pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for Jupyter notebooks.  
+[lux](https://github.com/lux-org/lux) - DataFrame visualization within Jupyter.  
+[pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
+[dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
 [itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
-[jupyter-datatables](https://github.com/CermakM/jupyter-datatables) - Interactive tables in Jupyter.  
-[debugger](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559) - Visual debugger for Jupyter.  
-[nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.  
 [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.  
 [notebooker](https://github.com/man-group/notebooker) - Productionize and schedule Jupyter Notebooks.  
 [bamboolib](https://github.com/tkrabel/bamboolib) - Intuitive GUI for tables.  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
 [voila-gridstack](https://github.com/voila-dashboards/voila-gridstack) - Voila grid layout.  
 
-#### Pandas Tricks, Alternatives and Additions
-[Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)  
-[Using df.pipe() (video)](https://www.youtube.com/watch?v=yXGCKqo5cEY)  
-[pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
-[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
-[vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
-[pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
-[xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
-[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster.   
-[pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
-[pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.  
-[lux](https://github.com/lux-org/lux) - DataFrame visualization within Jupyter.  
-[dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
-[polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
-[duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
-
-#### Scikit-Learn Alternatives
-[scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) - Intel extension for scikit-learn for speed.  
-
-#### Helpful
-[drawdata](https://github.com/koaning/drawdata) - Quickly draw some points and export them as csv, [website](https://drawdata.xyz/).  
-[tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
-[icecream](https://github.com/gruns/icecream) - Simple debugging output.  
-[loguru](https://github.com/Delgan/loguru) - Python logging.  
-[pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.  
-[intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).   
-
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
-[camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.  
 
 #### Big Data
 [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).  
-[sparkit-learn](https://github.com/lensacom/sparkit-learn), [spark-deep-learning](https://github.com/databricks/spark-deep-learning) - ML frameworks for spark.  
-[koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark.  
 [dask](https://github.com/dask/dask), [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library, [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
-[dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.  
-[turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
 [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
 [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
 [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library, [Intro](https://www.youtube.com/watch?v=6XzS5XcpicM&t=2m50s).  
-[ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
-[mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
-[bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
-[bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
 [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
+[ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
+[bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
 [petastorm](https://github.com/uber/petastorm) - Data access library for parquet files by Uber.  
 [zarr](https://github.com/zarr-developers/zarr-python) - Distributed NumPy arrays.  
 [NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by Nvidia.  
 [tensorstore](https://github.com/google/tensorstore) - Reading and writing large multi-dimensional arrays (Google).  
 
-#### Distributed Systems
-[nextflow](https://github.com/goodwright/nextflow.py) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch, [Website](https://github.com/nextflow-io/nextflow).  
-[dsub](https://github.com/DataBiosphere/dsub) - Run batch computing tasks in Docker image in the Google Cloud.  
-
 #### Command line tools, CSV
-[ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
-[xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.  
-[csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.  
+[csvkit](https://github.com/wireservice/csvkit) - Command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
-[tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by eBay.  
-[cheat](https://github.com/cheat/cheat) - Make cheatsheets for command line commands.  
 
 #### Classical Statistics
 
@@ -121,7 +94,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [torch-two-sample](https://github.com/josipd/torch-two-sample) - Friedman-Rafsky Test: Compare two population based on a multivariate generalization of the Runstest. [Explanation](https://www.real-statistics.com/multivariate-statistics/multivariate-normal-distribution/friedman-rafsky-test/), [Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014134/)  
 
 ##### Interim Analyses / Sequential Analysis / Stopping
-  [Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
+[Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
 [Treatment Effects Monitoring](https://online.stat.psu.edu/stat509/node/75/) - Design and Analysis of Clinical Trials PennState.  
 [sequential](https://cran.r-project.org/web/packages/Sequential/Sequential.pdf) - Exact Sequential Analysis for Poisson and Binomial Data (R package).  
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
@@ -167,17 +140,13 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
-[pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
-[janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
+[pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean messy column names.  
 [pandera](https://github.com/unionai-oss/pandera) - Data / Schema validation.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) - Time series preprocessing: Denoising, Compression, Resampling.  
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Utility functions (`OneHotEncoder(min_obs=100)`)  
-[pyupset](https://github.com/ImSoErgodic/py-upset) - Visualizing intersecting sets.  
-[pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance / Wasserstein distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html), [POT implementation](https://pythonot.github.io/auto_examples/plot_OT_2D_samples.html)   
-[littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.  
 
 #### Noisy Labels
 [cleanlab](https://github.com/cleanlab/cleanlab) - Machine learning with noisy labels, finding mislabelled data, and uncertainty quantification. Also see awesome list below.  
@@ -187,11 +156,11 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.  
 
 #### Feature Engineering
-[Talk](https://www.youtube.com/watch?v=68ABAU_V8qI)  
+[Vincent Warmerdam: Untitled12.ipynb](https://www.youtube.com/watch?v=yXGCKqo5cEY) - Using df.pipe()  
+[Vincent Warmerdam: Winning with Simple, even Linear, Models](https://www.youtube.com/watch?v=68ABAU_V8qI)  
 [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).  
 [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
 [scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.  
-[skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables, [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).  
 [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding dirty categorical variables.  
 [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.  
@@ -200,7 +169,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
-[NVTabular](https://github.com/NVIDIA/NVTabular) - Feature engineering and preprocessing library for tabular data by Nvidia.  
 
 #### Computer Vision
 [Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
@@ -214,7 +182,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 #### Image Cleanup
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
-[unprocessing](https://github.com/timothybrooks/unprocessing) - Image denoising by reverting the image processing pipeline.  
 
 #### Microscopy / Segmentation
 
@@ -373,10 +340,6 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
 [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
 
-#### Training-related
-[iterative-stratification](https://github.com/trent-b/iterative-stratification) - Cross validators with stratification for multilabel data.   
-[livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook.   
-
 #### Visualization
 [All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
 [Better heatmaps and correlation plots](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec).  
@@ -455,12 +418,10 @@ Predict economic indicators from Open Street Map [ipynb](https://github.com/njan
 #### Recommender Systems
 Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/), [2](https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223), [2-ipynb](https://github.com/khanhnamle1994/movielens/blob/master/Content_Based_and_Collaborative_Filtering_Models.ipynb), [3](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender).  
 [surprise](https://github.com/NicolasHug/Surprise) - Recommender, [talk](https://www.youtube.com/watch?v=d7iIb_XVkZs).  
-[turicreate](https://github.com/apple/turicreate) - Recommender.  
 [implicit](https://github.com/benfred/implicit) - Fast Collaborative Filtering for Implicit Feedback Datasets.  
 [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.  
 [lightfm](https://github.com/lyst/lightfm) - Recommendation algorithms for both implicit and explicit feedback.  
 [funk-svd](https://github.com/gbolmier/funk-svd) - Fast SVD.  
-[pywFM](https://github.com/jfloff/pywFM) - Factorization.  
 
 #### Decision Tree Models
 [Intro to Decision Trees and Random Forests](https://victorzhou.com/blog/intro-to-random-forests/), Intro to Gradient Boosting [1](https://explained.ai/gradient-boosting/), [2](https://www.gormanalysis.com/blog/gradient-boosting-explained/), [Decision Tree Visualization](https://explained.ai/decision-tree-viz/index.html)    
@@ -468,22 +429,15 @@ Examples: [1](https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-
 [xgboost](https://github.com/dmlc/xgboost) - Gradient boosting (GBDT, GBRT or GBM) library, [doc](https://sites.google.com/view/lauraepp/parameters), Methods for CIs: [link1](https://stats.stackexchange.com/questions/255783/confidence-interval-for-xgb-forecast), [link2](https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b).  
 [catboost](https://github.com/catboost/catboost) - Gradient boosting.  
 [h2o](https://github.com/h2oai/h2o-3) -  Gradient boosting and general machine learning framework.  
-[snapml](https://www.zurich.ibm.com/snapml/) - Gradient boosting and general machine learning framework by IBM, for CPU and GPU. [PyPI](https://pypi.org/project/snapml/)    
 [pycaret](https://github.com/pycaret/pycaret) - Wrapper for xgboost, lightgbm, catboost etc.  
-[thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
-[h2o](https://github.com/h2oai/h2o-3) - Gradient boosting.  
 [forestci](https://github.com/scikit-learn-contrib/forest-confidence-interval) - Confidence intervals for random forests.  
-[scikit-garden](https://github.com/scikit-garden/scikit-garden) - Quantile Regression.  
 [grf](https://github.com/grf-labs/grf) - Generalized random forest.  
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
 [Nuance](https://github.com/SauceCat/Nuance) - Decision tree visualization.  
 [rfpimp](https://github.com/parrt/random-forest-importances) - Feature Importance for RandomForests using Permuation Importance.  
 Why the default feature importance for random forests is wrong: [link](http://explained.ai/rf-importance/index.html)  
-[treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
 [bartpy](https://github.com/JakeColtman/bartpy) - Bayesian Additive Regression Trees.  
-[infiniteboost](https://github.com/arogozhnikov/infiniteboost) - Combination of RFs and GBDTs.  
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
-[rrcf](https://github.com/kLabUM/rrcf) - Robust Random Cut Forest algorithm for anomaly detection on streams.  
 [groot](https://github.com/tudelft-cda-lab/GROOT) - Robust decision trees.  
 [linear-tree](https://github.com/cerlymarco/linear-tree) - Trees with linear models at the leaves.  
 
@@ -504,13 +458,9 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).  
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
-[stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - NLP Library.  
+[stanza](https://github.com/stanfordnlp/stanza) - NLP Library.  
 [Chatistics](https://github.com/MasterScrat/Chatistics) - Turn Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.  
-[textvec](https://github.com/textvec/textvec) - Supervised text vectorization tool.  
 [textdistance](https://github.com/life4/textdistance) - Collection for comparing distances between two or more sequences.  
-
-##### Papers
-[Search Engine Correlation](https://arxiv.org/pdf/1107.2691.pdf)  
 
 #### Biology / Bioinformatics
 
@@ -538,8 +488,6 @@ See also Microscopy Section above.
 [scimap](https://github.com/labsyspharm/scimap) - Spatial Single-Cell Analysis Toolkit.  
 [CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
 [imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
-[microscopium](https://github.com/microscopium/microscopium) - Unsupervised clustering of images + viewer, [talk](https://www.youtube.com/watch?v=ytEQl9xs8FQ).  
-[cytokit](https://github.com/hammerlab/cytokit) - Analyzing properties of cells in fluorescent microscopy datasets.  
 
 ##### Drug discovery
 [TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.  
@@ -651,7 +599,6 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 
 ##### Image Annotation
 [cvat](https://github.com/openvinotoolkit/cvat) - Image annotation tool.  
-[pigeon](https://github.com/agermanidis/pigeon) - Create annotations from within a Jupyter notebook.  
 
 ##### Image Classification
 [nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.   
@@ -904,6 +851,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [banpei](https://github.com/tsurubee/banpei) - Anomaly detection library based on singular spectrum transformation.  
 [telemanom](https://github.com/khundman/telemanom) - Detect anomalies in multivariate time series data using LSTMs.  
 [luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
+[rrcf](https://github.com/kLabUM/rrcf) - Robust Random Cut Forest algorithm for anomaly detection on streams.  
 
 #### Concept Drift & Domain Shift
 [TorchDrift](https://github.com/TorchDrift/TorchDrift) - Drift Detection for PyTorch Models.  
@@ -914,9 +862,6 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 
 #### Ranking
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
-
-#### Scoring
-[SLIM](https://github.com/ustunb/slim-python) - Scoring systems for classification, Supersparse linear integer models.  
 
 #### Causal Inference
 [CS 594 Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  
@@ -975,10 +920,6 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - Uncertainty quantification.  
 [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Predictive uncertainty quantification, calibration, metrics, and visualization.  
 
-#### Interpretable Classifiers and Regressors
-[skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - Interpretable classifier, IF-THEN rules.  
-[sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Interpretable classifiers, Bayesian Rule List classifier.  
-
 #### Model Explanation, Interpretability, Feature Importance
 [Princeton - Reproducibility Crisis in ML‑based Science](https://sites.google.com/princeton.edu/rep-workshop)   
 [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
@@ -992,9 +933,6 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [pycebox](https://github.com/AustinRochford/PyCEbox) - Individual Conditional Expectation Plot Toolbox.  
 [pdpbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox, [example](https://www.kaggle.com/dansbecker/partial-plots).  
 [partial_dependence](https://github.com/nyuvis/partial_dependence) - Visualize and cluster partial dependence.  
-[skater](https://github.com/datascienceinc/Skater) - Unified framework to enable model interpretation.  
-[anchor](https://github.com/marcotcr/anchor) - High-Precision Model-Agnostic Explanations for classifiers.  
-[l2x](https://github.com/Jianbo-Lab/L2X) - Instancewise feature selection as methodology for model interpretation.  
 [contrastive_explanation](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive explanations.  
 [DrWhy](https://github.com/ModelOriented/DrWhy) - Collection of tools for explainable AI.  
 [lucid](https://github.com/tensorflow/lucid) - Neural network interpretability.  
@@ -1009,10 +947,8 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 #### Automated Machine Learning
 [AdaNet](https://github.com/tensorflow/adanet) - Automated machine learning based on TensorFlow.  
 [tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning tool, optimizes machine learning pipelines.  
-[auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.  
 [autokeras](https://github.com/jhfjhfj1/autokeras) - AutoML for deep learning.  
 [nni](https://github.com/Microsoft/nni) - Toolkit for neural architecture search and hyper-parameter tuning by Microsoft.  
-[automl-gs](https://github.com/minimaxir/automl-gs) - Automated machine learning.  
 [mljar](https://github.com/mljar/mljar-supervised) - Automated machine learning.  
 [automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero) - Automatically discover computer programs that can solve machine learning tasks from Google.  
 [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning using scikit-learn xgboost, LightGBM and others.  
@@ -1056,7 +992,6 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 sklearn - [PassiveAggressiveClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html), [PassiveAggressiveRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html).  
 [river](https://github.com/online-ml/river) - Online machine learning.  
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Online Learning algorithms.  
-[onelearn](https://github.com/onelearn/onelearn) - Online Random Forests.  
 
 #### Active Learning
 [Talk](https://www.youtube.com/watch?v=0efyjq5rWS4)  
@@ -1072,6 +1007,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 #### Deployment and Lifecycle Management
 
 ##### Workflow Scheduling and Orchestration
+[nextflow](https://github.com/goodwright/nextflow.py) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch, [Website](https://github.com/nextflow-io/nextflow). 
 [airflow](https://github.com/apache/airflow) - Schedule and monitor workflows.  
 [prefect](https://github.com/PrefectHQ/prefect) - Python specific workflow scheduling.  
 [dagster](https://github.com/dagster-io/dagster) - Development, production and observation of data assets.  
@@ -1084,9 +1020,6 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
 [Optimize Docker Image Size](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)  
 [cog](https://github.com/replicate/cog) - Facilitates building Docker images.  
-
-##### Dependency Management
-[poetry](https://github.com/python-poetry/poetry) - Dependency management.  
 
 ##### Data Versioning, Databases, Pipelines and Model Serving
 [dvc](https://github.com/iterative/dvc) - Version control for large files.  
@@ -1118,20 +1051,6 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)  
 Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
 ](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
-
-#### Other
-[daft](https://github.com/dfm/daft) - Render probabilistic graphical models using matplotlib.  
-[unyt](https://github.com/yt-project/unyt) - Working with units.  
-[scrapy](https://github.com/scrapy/scrapy) - Web scraping library.  
-[VowpalWabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - ML Toolkit from Microsoft.  
-[Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) - link records in or between data sources. 
-
-#### General Python Programming
-[more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
-[funcy](https://github.com/Suor/funcy) - Fancy and practical functional tools.  
-[dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
-[jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
-[coloredlogs](https://github.com/xolox/python-coloredlogs) - Colored logging output.    
 
 #### Resources
 [Distill.pub](https://distill.pub/) - Blog.   
