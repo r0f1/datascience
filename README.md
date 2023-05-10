@@ -16,9 +16,10 @@
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
 [loguru](https://github.com/Delgan/loguru) - Python logging.  
+[dateparser](https://github.com/scrapinghub/dateparser) - A better date parser.  
+[hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
 [pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
-[dateparser](https://github.com/scrapinghub/dateparser) - A better date parser.  
 
 #### Pandas Tricks, Alternatives and Additions
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
