@@ -217,7 +217,7 @@ REMBI model - Recommended Metadata for Biological Images
 
 ##### Segmentation
 [Overview](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
-[MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation. 
+[MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation.  
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
 [stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
