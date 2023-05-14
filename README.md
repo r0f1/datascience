@@ -176,98 +176,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 #### Computer Vision
 [Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
 
-#### Image Viewers
-[fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
-[Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing package.  
-[napari](https://github.com/napari/napari) - Multi-dimensional image viewer.  
-[OMERO](https://www.openmicroscopy.org/omero/) - Feature rich image viewer for high-content screening. [IDR](https://idr.openmicroscopy.org/) uses OMERO. [Intro](https://www.youtube.com/watch?v=nSCrMO_c-5s)   
-
-#### Image Cleanup
-[DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
-[aydin](https://github.com/royerlab/aydin) - Image denoising.  
-
-#### Microscopy / Segmentation
-
-##### Tutorials
-[Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) - Large collection of image processing workflows, including [point-spread-function estimation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/extract_psf.html) and [deconvolution](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/introduction_deconvolution.html), [3D cell segmentation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/Segmentation_3D.html), [feature extraction](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/22_feature_extraction/statistics_with_pyclesperanto.html) using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype) and others.  
-[python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
-[Bioimaging and Bioimage Analysis Guide](https://www.bioimagingguide.org/welcome.html)  
-
-##### Datasets
-[jump-cellpainting](https://github.com/jump-cellpainting/datasets) - Cellpainting dataset.  
-[MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
-[CytoImageNet](https://github.com/stan-hua/CytoImageNet) - Huge diverse dataset like ImageNet but for cell images.  
-[Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
-[broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
-
-##### Data Formats and Converters
-OME-Zarr - [paper](https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1.full), [standard](https://ngff.openmicroscopy.org/latest/)  
-[bioformats2raw](https://github.com/glencoesoftware/bioformats2raw) - Various formats to zarr.  
-[raw2ometiff](https://github.com/glencoesoftware/raw2ometiff) - Zarr to tiff.  
-[BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).    
-[napari](https://napari.org/stable) - Viewer for various image formats.  
-[vizarr](https://github.com/hms-dbmi/vizarr) - Viewer for zarr files.  
-REMBI model - Recommended Metadata for Biological Images
- * BioImage Archive: [Study Component Guidance](https://www.ebi.ac.uk/bioimage-archive/rembi-help-examples/), [File List Guide](https://www.ebi.ac.uk/bioimage-archive/help-file-list/)
- * [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c), [spreadsheet](https://docs.google.com/spreadsheets/d/1Ck1NeLp-ZN4eMGdNYo2nV6KLEdSfN6oQBKnnWU6Npeo/edit#gid=1023506919)
-
-##### Platforms and Pipelines
-[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data.
-
-###### Labsyspharm
-[mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
-[MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
-[cylinter](https://github.com/labsyspharm/cylinter) - Quality assurance for microscopy images, [Website](https://labsyspharm.github.io/cylinter/).  
-[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
-
-##### Segmentation
-[Overview](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
-[MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation.  
-[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
-[stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
-[UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
-[nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
-[allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
-[Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
-[ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
-
-##### Cell Segmentation Datasets
-[cellpose](https://www.cellpose.org/dataset) - Cell images.  
-[omnipose](http://www.cellpose.org/dataset_omnipose) - Cell images.  
-[LIVECell](https://github.com/sartorius-research/LIVECell) - Cell images.  
-[Sartorius](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/overview) - Neurons.  
-
-##### Packages
-[Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
-[BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
-[seg-eval](https://github.com/lstrgar/seg-eval) - Cell segmentation performance evaluation without Ground Truth labels, [Paper](https://www.biorxiv.org/content/10.1101/2023.02.23.529809v1.full.pdf).  
-[skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
-[cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
-[BaSiCPy](https://github.com/peng-lab/BaSiCPy) - Background and Shading Correction of Optical Microscopy Images, [BaSiC](https://github.com/marrlab/BaSiC).  
-[CSBDeep](https://github.com/CSBDeep/CSBDeep) - Image denoising, restoration and object detection, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
-[atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
-[py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
-[cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
-Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
-Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins/lumos-spectral-unmixing).  
-
-#### Domain Adaptation / Batch-Effect Correction 
-[Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
-[R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html).  
-[harmonypy](https://github.com/slowkow/harmonypy) - Fuzzy k-means and locally linear adjustments.  
-[pyliger](https://github.com/welch-lab/pyliger) - Batch-effect correction, [Example](https://github.com/welch-lab/pyliger/blob/master/pyliger/factorization/_iNMF_ANLS.py#L65), [R package](https://github.com/welch-lab/liger).  
-[nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
-[scgen](https://github.com/theislab/scgen) - Batch removal. [Doc](https://scgen.readthedocs.io/en/stable/).  
-[CORAL](https://github.com/google-research/google-research/tree/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn) - Correcting for Batch Effects Using Wasserstein Distance, [Code](https://github.com/google-research/google-research/blob/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn/transform.py#L152), [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7050548/).   
-[adapt](https://github.com/adapt-python/adapt) - Awesome Domain Adaptation Python Toolbox.  
-[pytorch-adapt](https://github.com/KevinMusgrave/pytorch-adapt) - Various neural network models for domain adaptation.  
-
-#### Feature Engineering Images
-[skimage](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
-[mahotas](https://github.com/luispedro/mahotas) - Zernike, Haralick, LBP, and TAS features.  
-[pyradiomics](https://github.com/AIM-Harvard/pyradiomics) - Radiomics features from medical imaging.  
-[pyefd](https://github.com/hbldh/pyefd) - Elliptical feature descriptor, approximating a contour with a Fourier series.  
-
 #### Feature Selection
 [Overview Paper](https://www.sciencedirect.com/science/article/pii/S016794731930194X), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s), [Repo](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)    
 Blog post series - [1](http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/), [2](http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/), [3](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/), [4](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)  
@@ -468,15 +376,114 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Chatistics](https://github.com/MasterScrat/Chatistics) - Turn Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.  
 [textdistance](https://github.com/life4/textdistance) - Collection for comparing distances between two or more sequences.  
 
-#### Biology / Bioinformatics
+#### Bio Image Analysis
+[Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 
-##### Assay
+##### Tutorials
+[Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) - Large collection of image processing workflows, including [point-spread-function estimation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/extract_psf.html) and [deconvolution](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/introduction_deconvolution.html), [3D cell segmentation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/Segmentation_3D.html), [feature extraction](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/22_feature_extraction/statistics_with_pyclesperanto.html) using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype) and others.  
+[python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
+[Bioimaging and Bioimage Analysis Guide](https://www.bioimagingguide.org/welcome.html)  
+
+##### Datasets
+[jump-cellpainting](https://github.com/jump-cellpainting/datasets) - Cellpainting dataset.  
+[MedMNIST](https://github.com/MedMNIST/MedMNIST) - Datasets for 2D and 3D Biomedical Image Classification.  
+[CytoImageNet](https://github.com/stan-hua/CytoImageNet) - Huge diverse dataset like ImageNet but for cell images.  
+[Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
+[broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
+
+#### Assay
+[BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
 [PlateEditor](https://github.com/vindelorme/PlateEditor) - Drug Layout for plates, [app](https://plateeditor.sourceforge.io/), [zip](https://sourceforge.net/projects/plateeditor/), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252488).  
 
-##### Biostatistics / Robust statistics
+#### Biostatistics / Robust statistics
+[Z-factor](https://en.wikipedia.org/wiki/Z-factor) - Measure of statistical effect size.  
 [MinCovDet](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html) - Robust estimator of covariance, RMPV, [Paper](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1421), [App1](https://journals.sagepub.com/doi/10.1177/1087057112469257?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&), [App2](https://www.cell.com/cell-reports/pdf/S2211-1247(21)00694-X.pdf).  
-[winsorize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.winsorize.html#scipy.stats.mstats.winsorize) - Simple adjustment of outliers.  
 [moderated z-score](https://clue.io/connectopedia/replicate_collapse) - Weighted average of z-scores based on Spearman correlation.  
+[winsorize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.winsorize.html#scipy.stats.mstats.winsorize) - Simple adjustment of outliers.  
+
+##### Data Formats and Converters
+OME-Zarr - [paper](https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1.full), [standard](https://ngff.openmicroscopy.org/latest/)  
+[bioformats2raw](https://github.com/glencoesoftware/bioformats2raw) - Various formats to zarr.  
+[raw2ometiff](https://github.com/glencoesoftware/raw2ometiff) - Zarr to tiff.  
+[BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).    
+REMBI model - Recommended Metadata for Biological Images
+ * BioImage Archive: [Study Component Guidance](https://www.ebi.ac.uk/bioimage-archive/rembi-help-examples/), [File List Guide](https://www.ebi.ac.uk/bioimage-archive/help-file-list/)
+ * [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c), [spreadsheet](https://docs.google.com/spreadsheets/d/1Ck1NeLp-ZN4eMGdNYo2nV6KLEdSfN6oQBKnnWU6Npeo/edit#gid=1023506919)
+
+#### Image Viewers
+[vizarr](https://github.com/hms-dbmi/vizarr) - Browser-based image viewer for zarr format.  
+[avivator](https://github.com/hms-dbmi/viv) - Browser-based image viewer for tiff files.  
+[napari](https://github.com/napari/napari) - Image viewer and image processing tool.    
+[Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing tool.  
+[OMERO](https://www.openmicroscopy.org/omero/) - Image viewer for high-content screening. [IDR](https://idr.openmicroscopy.org/) uses OMERO. [Intro](https://www.youtube.com/watch?v=nSCrMO_c-5s)   
+[fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
+
+##### Image Restoration and Denoising
+[aydin](https://github.com/royerlab/aydin) - Image denoising.  
+[DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
+[CSBDeep](https://github.com/CSBDeep/CSBDeep) - Content-aware image restoration, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
+
+##### Illumination correction + Bleed through correction
+[skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
+[cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
+[BaSiCPy](https://github.com/peng-lab/BaSiCPy) - Background and Shading Correction of Optical Microscopy Images, [BaSiC](https://github.com/marrlab/BaSiC).  
+[cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
+Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
+Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins/lumos-spectral-unmixing).  
+
+##### Platforms and Pipelines
+[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data.
+[atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
+[py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
+
+##### Labsyspharm
+[mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
+[MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
+[cylinter](https://github.com/labsyspharm/cylinter) - Quality assurance for microscopy images, [Website](https://labsyspharm.github.io/cylinter/).  
+[ashlar](https://github.com/labsyspharm/ashlar) - Whole-slide microscopy image stitching and registration.  
+[scimap](https://github.com/labsyspharm/scimap) - Spatial Single-Cell Analysis Toolkit.  
+
+##### Cell Segmentation
+[Overview](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
+[MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation.  
+[cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
+[stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
+[UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
+[nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
+[allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
+[Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
+[ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
+[EmbedSeg](https://github.com/juglab/EmbedSeg) - Embedding-based Instance Segmentation.  
+
+##### Cell Segmentation Datasets
+[cellpose](https://www.cellpose.org/dataset) - Cell images.  
+[omnipose](http://www.cellpose.org/dataset_omnipose) - Cell images.  
+[LIVECell](https://github.com/sartorius-research/LIVECell) - Cell images.  
+[Sartorius](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/overview) - Neurons.  
+[EmbedSeg](https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0) - 2D + 3D images.  
+
+##### Evaluation
+[seg-eval](https://github.com/lstrgar/seg-eval) - Cell segmentation performance evaluation without Ground Truth labels, [Paper](https://www.biorxiv.org/content/10.1101/2023.02.23.529809v1.full.pdf).  
+
+##### Feature Engineering Images
+[Computer vision challenges in drug discovery - Maciej Hermanowicz](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
+[CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
+[scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
+[scikit-image regionprops](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops) - Regionprops: area, eccentricity, extent.  
+[mahotas](https://github.com/luispedro/mahotas) - Zernike, Haralick, LBP, and TAS features, [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
+[pyradiomics](https://github.com/AIM-Harvard/pyradiomics) - Radiomics features from medical imaging.  
+[pyefd](https://github.com/hbldh/pyefd) - Elliptical feature descriptor, approximating a contour with a Fourier series.  
+
+#### Domain Adaptation / Batch-Effect Correction 
+[Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
+[R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html).  
+[harmonypy](https://github.com/slowkow/harmonypy) - Fuzzy k-means and locally linear adjustments.  
+[pyliger](https://github.com/welch-lab/pyliger) - Batch-effect correction, [Example](https://github.com/welch-lab/pyliger/blob/master/pyliger/factorization/_iNMF_ANLS.py#L65), [R package](https://github.com/welch-lab/liger).  
+[nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
+[scgen](https://github.com/theislab/scgen) - Batch removal. [Doc](https://scgen.readthedocs.io/en/stable/).  
+[CORAL](https://github.com/google-research/google-research/tree/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn) - Correcting for Batch Effects Using Wasserstein Distance, [Code](https://github.com/google-research/google-research/blob/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn/transform.py#L152), [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7050548/).   
+[adapt](https://github.com/adapt-python/adapt) - Awesome Domain Adaptation Python Toolbox.  
+[pytorch-adapt](https://github.com/KevinMusgrave/pytorch-adapt) - Various neural network models for domain adaptation.  
 
 ##### Sequencing
 [Single cell tutorial](https://github.com/theislab/single-cell-tutorial).  
@@ -487,28 +494,13 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [janggu](https://github.com/BIMSBbioinfo/janggu) - Deep Learning for Genomics.  
 [gdsctools](https://github.com/CancerRxGene/gdsctools) - Drug responses in the context of the Genomics of Drug Sensitivity in Cancer project, ANOVA, IC50, MoBEM, [doc](https://gdsctools.readthedocs.io/en/master/).  
 
-##### Image-related
-See also Microscopy Section above.  
-[mahotas](http://luispedro.org/software/mahotas/) - Image processing (Bioinformatics), [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
-[imagepy](https://github.com/Image-Py/imagepy) - Software package for bioimage analysis.  
-[scimap](https://github.com/labsyspharm/scimap) - Spatial Single-Cell Analysis Toolkit.  
-[CellProfiler](https://github.com/CellProfiler/CellProfiler) - Biological image analysis.   
-[imglyb](https://github.com/imglib/imglyb) - Viewer for large images, [talk](https://www.youtube.com/watch?v=Ddo5z5qGMb8), [slides](https://github.com/hanslovsky/scipy-2019/blob/master/scipy-2019-imglyb.pdf).  
-
 ##### Drug discovery
 [TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.  
 [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modelling and Prediction Toolkit.  
 
-##### Courses
-[mit6874](https://mit6874.github.io/) - Computational Systems Biology: Deep Learning in the Life Sciences.  
-
-#### Image Processing
-[Talk](https://www.youtube.com/watch?v=Y5GJmnIhvFk)  
-[cv2](https://github.com/skvark/opencv-python) - OpenCV, classical algorithms: [Gaussian Filter](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html), [Morphological Transformations](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html).  
-[scikit-image](https://github.com/scikit-image/scikit-image) - Image processing.  
-
 #### Neural Networks
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
+[mit6874](https://mit6874.github.io/) - Computational Systems Biology: Deep Learning in the Life Sciences.  
 [ConvNet Shape Calculator](https://madebyollin.github.io/convnet-calculator/) - Calculate output dimensions of Conv2D layer.  
 [Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9).  
 [Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html).  
