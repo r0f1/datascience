@@ -211,7 +211,10 @@ REMBI model - Recommended Metadata for Biological Images
  * BioImage Archive: [Study Component Guidance](https://www.ebi.ac.uk/bioimage-archive/rembi-help-examples/), [File List Guide](https://www.ebi.ac.uk/bioimage-archive/help-file-list/)
  * [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c), [spreadsheet](https://docs.google.com/spreadsheets/d/1Ck1NeLp-ZN4eMGdNYo2nV6KLEdSfN6oQBKnnWU6Npeo/edit#gid=1023506919)
 
-##### Labsyspharm
+##### Platforms and Pipelines
+[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data.
+
+###### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
 [MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
 [cylinter](https://github.com/labsyspharm/cylinter) - Quality assurance for microscopy images, [Website](https://labsyspharm.github.io/cylinter/).  
