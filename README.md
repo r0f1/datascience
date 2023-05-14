@@ -405,10 +405,8 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 OME-Zarr - [paper](https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1.full), [standard](https://ngff.openmicroscopy.org/latest/)  
 [bioformats2raw](https://github.com/glencoesoftware/bioformats2raw) - Various formats to zarr.  
 [raw2ometiff](https://github.com/glencoesoftware/raw2ometiff) - Zarr to tiff.  
-[BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).    
-REMBI model - Recommended Metadata for Biological Images
- * BioImage Archive: [Study Component Guidance](https://www.ebi.ac.uk/bioimage-archive/rembi-help-examples/), [File List Guide](https://www.ebi.ac.uk/bioimage-archive/help-file-list/)
- * [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c), [spreadsheet](https://docs.google.com/spreadsheets/d/1Ck1NeLp-ZN4eMGdNYo2nV6KLEdSfN6oQBKnnWU6Npeo/edit#gid=1023506919)
+[BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).  
+REMBI model - Recommended Metadata for Biological Images, BioImage Archive: [Study Component Guidance](https://www.ebi.ac.uk/bioimage-archive/rembi-help-examples/), [File List Guide](https://www.ebi.ac.uk/bioimage-archive/help-file-list/), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c), [spreadsheet](https://docs.google.com/spreadsheets/d/1Ck1NeLp-ZN4eMGdNYo2nV6KLEdSfN6oQBKnnWU6Npeo/edit#gid=1023506919)  
 
 #### Image Viewers
 [vizarr](https://github.com/hms-dbmi/vizarr) - Browser-based image viewer for zarr format.  
