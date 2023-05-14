@@ -595,9 +595,6 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [Detic](https://github.com/facebookresearch/Detic) -  Detector with image classes that can use image-level labels (facebookresearch).  
 [EasyCV](https://github.com/alibaba/EasyCV) - Image segmentation, classification, metric-learning, object detection, pose estimation.  
 
-##### Image Annotation
-[cvat](https://github.com/openvinotoolkit/cvat) - Image annotation tool.  
-
 ##### Image Classification
 [nfnets](https://github.com/ypeleg/nfnets-keras) - Neural network.   
 [efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) - Neural network.   
