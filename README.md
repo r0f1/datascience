@@ -20,6 +20,7 @@
 [hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
 [pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
+[hatch](https://github.com/pypa/hatch) - Python project management.  
 
 #### Pandas Tricks, Alternatives and Additions
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
@@ -391,8 +392,9 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
 [broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
-#### Assay
+#### Microscopy + Assay
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
+[Microscopy Resolution Calculator](https://www.microscope.healthcare.nikon.com/microtools/resolution-calculator) - Calculate resolution of images (Nikon).  
 [PlateEditor](https://github.com/vindelorme/PlateEditor) - Drug Layout for plates, [app](https://plateeditor.sourceforge.io/), [zip](https://sourceforge.net/projects/plateeditor/), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252488).  
 
 #### Biostatistics / Robust statistics
