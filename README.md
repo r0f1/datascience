@@ -392,23 +392,29 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Haghighi](https://github.com/carpenterlab/2021_Haghighi_NatureMethods) - Gene Expression and Morphology Profiles.  
 [broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
-#### Microscopy + Assay
-[BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
-[Microscopy Resolution Calculator](https://www.microscope.healthcare.nikon.com/microtools/resolution-calculator) - Calculate resolution of images (Nikon).  
-[PlateEditor](https://github.com/vindelorme/PlateEditor) - Drug Layout for plates, [app](https://plateeditor.sourceforge.io/), [zip](https://sourceforge.net/projects/plateeditor/), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252488).  
-
 #### Biostatistics / Robust statistics
 [Z-factor](https://en.wikipedia.org/wiki/Z-factor) - Measure of statistical effect size.  
 [MinCovDet](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html) - Robust estimator of covariance, RMPV, [Paper](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1421), [App1](https://journals.sagepub.com/doi/10.1177/1087057112469257?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&), [App2](https://www.cell.com/cell-reports/pdf/S2211-1247(21)00694-X.pdf).  
 [moderated z-score](https://clue.io/connectopedia/replicate_collapse) - Weighted average of z-scores based on Spearman correlation.  
 [winsorize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.winsorize.html#scipy.stats.mstats.winsorize) - Simple adjustment of outliers.  
 
-##### Data Formats and Converters
+#### Microscopy + Assay
+[BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
+[Microscopy Resolution Calculator](https://www.microscope.healthcare.nikon.com/microtools/resolution-calculator) - Calculate resolution of images (Nikon).  
+[PlateEditor](https://github.com/vindelorme/PlateEditor) - Drug Layout for plates, [app](https://plateeditor.sourceforge.io/), [zip](https://sourceforge.net/projects/plateeditor/), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252488).  
+
+##### Image Formats and Converters
 OME-Zarr - [paper](https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1.full), [standard](https://ngff.openmicroscopy.org/latest/)  
 [bioformats2raw](https://github.com/glencoesoftware/bioformats2raw) - Various formats to zarr.  
 [raw2ometiff](https://github.com/glencoesoftware/raw2ometiff) - Zarr to tiff.  
 [BatchConvert](https://github.com/Euro-BioImaging/BatchConvert) - Wrapper for bioformats2raw to parallelize conversions with nextflow, [video](https://www.youtube.com/watch?v=DeCWV274l0c).  
 REMBI model - Recommended Metadata for Biological Images, BioImage Archive: [Study Component Guidance](https://www.ebi.ac.uk/bioimage-archive/rembi-help-examples/), [File List Guide](https://www.ebi.ac.uk/bioimage-archive/help-file-list/), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8606015/), [video](https://www.youtube.com/watch?v=GVmfOpuP2_c), [spreadsheet](https://docs.google.com/spreadsheets/d/1Ck1NeLp-ZN4eMGdNYo2nV6KLEdSfN6oQBKnnWU6Npeo/edit#gid=1023506919)  
+
+##### Matrix Formats
+[anndata](https://github.com/scverse/anndata) - annotated data matrices in memory and on disk, [Docs](https://anndata.readthedocs.io/en/latest/index.html).  
+[muon](https://github.com/scverse/muon) - Multimodal omics framework.  
+[mudata](https://github.com/scverse/mudata) - Multimodal Data (.h5mu) implementation.  
+[bdz](https://github.com/openssbd/bdz) - Zarr-based format for storing quantitative biological dynamics data.  
 
 #### Image Viewers
 [vizarr](https://github.com/hms-dbmi/vizarr) - Browser-based image viewer for zarr format.  
