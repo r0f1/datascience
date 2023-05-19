@@ -400,6 +400,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 
 #### Microscopy + Assay
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
+[Thermofisher Spectrum Viewer](https://www.thermofisher.com/order/stain-it) - Thermofisher Spectrum Viewer.  
 [Microscopy Resolution Calculator](https://www.microscope.healthcare.nikon.com/microtools/resolution-calculator) - Calculate resolution of images (Nikon).  
 [PlateEditor](https://github.com/vindelorme/PlateEditor) - Drug Layout for plates, [app](https://plateeditor.sourceforge.io/), [zip](https://sourceforge.net/projects/plateeditor/), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252488).  
 
