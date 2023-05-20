@@ -86,7 +86,7 @@
 [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
 Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
-[ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html), Tutorials: [One-way](https://pythonfordatascience.org/anova-python/), [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/), [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).  
+[ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 
 ##### Statistical Tests
 [test_proportions_2indep](https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.test_proportions_2indep.html) - Proportion test.  
@@ -97,7 +97,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 ##### Interim Analyses / Sequential Analysis / Stopping
 [Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
-[Treatment Effects Monitoring](https://online.stat.psu.edu/stat509/node/75/) - Design and Analysis of Clinical Trials PennState.  
 [sequential](https://cran.r-project.org/web/packages/Sequential/Sequential.pdf) - Exact Sequential Analysis for Poisson and Binomial Data (R package).  
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
 
@@ -126,9 +125,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
 [Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
 [Lindeløv - Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)    
-[Chatruc - The Central Limit Theorem and its misuse](https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)  
+[Chatruc - The Central Limit Theorem and its misuse](https://web.archive.org/web/20191229234155/https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)  
 [Al-Saleh - Properties of the Standard Deviation that are Rarely Mentioned in Classrooms](http://www.stat.tugraz.at/AJS/ausg093/093Al-Saleh.pdf)   
-[Wainer - The Most Dangerous Equation](http://www-stat.wharton.upenn.edu/~hwainer/Readings/Most%20Dangerous%20eqn.pdf)   
+[Wainer - The Most Dangerous Equation](http://nsmn1.uh.edu/dgraur/niv/themostdangerousequation.pdf)  
 [Gigerenzer - The Bias Bias in Behavioral Economics](https://www.nowpublishers.com/article/Details/RBE-0092)  
 [Cook - Estimating the chances of something that hasn’t happened yet](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/)  
 [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing), [Youtube](https://www.youtube.com/watch?v=DbJyPELmhJc)
@@ -277,7 +276,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
 [chartify](https://github.com/spotify/chartify/) - Generate charts.  
 [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph visualization (JS package).  
-[pm](https://github.com/anvaka/pm) - Navigatable 3D graph visualization (JS package), [example](https://w2v-vis-dot-hcg-team-di.appspot.com/#/galaxy/word2vec?cx=5698&cy=-5135&cz=5923&lx=0.1127&ly=0.3238&lz=-0.1680&lw=0.9242&ml=150&s=1.75&l=1&v=hc).  
+[pm](https://github.com/anvaka/pm) - Navigatable 3D graph visualization (JS package).  
 [python-ternary](https://github.com/marcharper/python-ternary) - Triangle plots.  
 [falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
 [hiplot](https://github.com/facebookresearch/hiplot) - High dimensional Interactive Plotting.  
@@ -296,7 +295,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 #### Dashboards
 [py-shiny](https://github.com/rstudio/py-shiny) - Shiny for Python, [talk](https://www.youtube.com/watch?v=ijRBbtT2tgc).  
 [superset](https://github.com/apache/superset) - Dashboarding solution by Apache.  
-[streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](https://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
+[streamlit](https://github.com/streamlit/streamlit) - Dashboarding solution. [Resources](https://github.com/marcskovmadsen/awesome-streamlit), [Gallery](http://awesome-streamlit.org/) [Components](https://www.streamlit.io/components), [bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events).  
 [mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app, [Example](https://github.com/pplonski/dashboard-python-jupyter-notebook).  
 [dash](https://dash.plot.ly/gallery) - Dashboarding solution by plot.ly. [Resources](https://github.com/ucg8j/awesome-dash).  
 [visdom](https://github.com/facebookresearch/visdom) - Dashboarding library by Facebook.  
@@ -316,7 +315,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [gmaps](https://github.com/pbugnion/gmaps) - Google Maps for Jupyter notebooks.  
 [stadiamaps](https://stadiamaps.com/) - Plot geographical maps.  
 [datashader](https://github.com/bokeh/datashader) - Draw millions of points on a map.  
-[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) - BallTree, [Example](https://tech.minodes.com/experiments-with-in-memory-spatial-radius-queries-in-python-e40c9e66cf63).  
+[sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html) - BallTree.  
 [pynndescent](https://github.com/lmcinnes/pynndescent) - Nearest neighbor descent for approximate nearest neighbors.  
 [geocoder](https://github.com/DenisCarriere/geocoder) - Geocoding of addresses, IP addresses.  
 Conversion of different geo formats: [talk](https://www.youtube.com/watch?v=eHRggqAvczE), [repo](https://github.com/dillongardner/PyDataSpatialAnalysis)  
@@ -325,7 +324,7 @@ Low Level Geospatial Tools (GEOS, GDAL/OGR, PROJ.4)
 Vector Data (Shapely, Fiona, Pyproj)  
 Raster Data (Rasterio)  
 Plotting (Descartes, Catropy)  
-Predict economic indicators from Open Street Map [ipynb](https://github.com/njanakiev/osm-predict-economic-measurements/blob/master/osm-predict-economic-indicators.ipynb).  
+[Predict economic indicators from Open Street Map](https://janakiev.com/blog/osm-predict-economic-indicators/).   
 [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.  
 [geography](https://github.com/ushahidi/geograpy) - Extract countries, regions and cities from a URL or text.  
 [cartogram](https://go-cart.io/cartogram) - Distorted maps based on population.  
@@ -370,7 +369,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [annoy](https://github.com/spotify/annoy) - Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) - Approximate nearest neighbor search.  
 [pysparnn](https://github.com/facebookresearch/pysparnn) - Approximate nearest neighbor search.  
-[infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics, [example](https://github.com/mapequation/infomap/blob/master/examples/python/infomap-examples.ipynb).  
+[infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics.  
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
 [stanza](https://github.com/stanfordnlp/stanza) - NLP Library.  
@@ -486,7 +485,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
 [R Tutorial on correcting batch effects](https://broadinstitute.github.io/2019_scWorkshop/correcting-batch-effects.html).  
 [harmonypy](https://github.com/slowkow/harmonypy) - Fuzzy k-means and locally linear adjustments.  
-[pyliger](https://github.com/welch-lab/pyliger) - Batch-effect correction, [Example](https://github.com/welch-lab/pyliger/blob/master/pyliger/factorization/_iNMF_ANLS.py#L65), [R package](https://github.com/welch-lab/liger).  
+[pyliger](https://github.com/welch-lab/pyliger) - Batch-effect correction, [R package](https://github.com/welch-lab/liger).  
 [nimfa](https://github.com/mims-harvard/nimfa) - Nonnegative matrix factorization.  
 [scgen](https://github.com/theislab/scgen) - Batch removal. [Doc](https://scgen.readthedocs.io/en/stable/).  
 [CORAL](https://github.com/google-research/google-research/tree/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn) - Correcting for Batch Effects Using Wasserstein Distance, [Code](https://github.com/google-research/google-research/blob/30e54523f08d963ced3fbb37c00e9225579d2e1d/correct_batch_effects_wdn/transform.py#L152), [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7050548/).   
@@ -514,11 +513,11 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html).  
 
 ##### Tutorials & Viewer
-fast.ai course - [Lessons 1-7](https://course.fast.ai/videos/?lesson=1), [Lessons 8-14](http://course18.fast.ai/lessons/lessons2.html)  
+[fast.ai course](https://course.fast.ai/) - Practical Deep Learning for Coders.  
 [Tensorflow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - Neural Network course by Google.  
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
 [Tensorflow Playground](https://playground.tensorflow.org/)  
-[Visualization of optimization algorithms](https://vis.ensmallen.org/), [Another visualization](https://github.com/jettify/pytorch-optimizer)    
+[Visualization of optimization algorithms](http://vis.ensmallen.org/), [Another visualization](https://github.com/jettify/pytorch-optimizer)    
 [cutouts-explorer](https://github.com/mgckind/cutouts-explorer) - Image Viewer.  
 
 ##### Image Related
@@ -706,7 +705,6 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [FCPS](https://github.com/Mthrun/FCPS) -  Fundamental Clustering Problems Suite (R package).  
 [GaussianMixture](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html) - Generalized k-means clustering using a mixture of Gaussian distributions, [video](https://www.youtube.com/watch?v=aICqoAG5BXQ).  
 [nmslib](https://github.com/nmslib/nmslib) - Similarity search library and toolkit for evaluation of k-NN methods.  
-[buckshotpp](https://github.com/zjohn77/buckshotpp) - Outlier-resistant and scalable clustering algorithm.  
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
 [tree-SNE](https://github.com/isaacrob/treesne) - Hierarchical clustering algorithm based on t-SNE.  
 [MiniSom](https://github.com/JustGlowing/minisom) - Pure Python implementation of the Self Organizing Maps.  
@@ -775,7 +773,7 @@ Other measures:
 [nupic](https://github.com/numenta/nupic) - Hierarchical Temporal Memory (HTM) for Time Series Prediction and Anomaly Detection.  
 [tensorflow](https://github.com/tensorflow/tensorflow/) - LSTM and others, examples: [link](
 https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
-), [link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples), [Explain LSTM](https://github.com/slundberg/shap/blob/master/notebooks/deep_explainer/Keras%20LSTM%20for%20IMDB%20Sentiment%20Classification.ipynb), seq2seq: [1](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/), [2](https://github.com/guillaume-chevalier/seq2seq-signal-prediction), [3](https://github.com/JEddy92/TimeSeries_Seq2Seq/blob/master/notebooks/TS_Seq2Seq_Intro.ipynb), [4](https://github.com/LukeTonin/keras-seq-2-seq-signal-prediction)  
+), [link](https://github.com/hzy46/TensorFlow-Time-Series-Examples), seq2seq: [1](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/), [2](https://github.com/guillaume-chevalier/seq2seq-signal-prediction), [3](https://github.com/JEddy92/TimeSeries_Seq2Seq/blob/master/notebooks/TS_Seq2Seq_Intro.ipynb), [4](https://github.com/LukeTonin/keras-seq-2-seq-signal-prediction)  
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) - Preprocessing: Denoising, Compression, Resampling.  
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [tsfel](https://github.com/fraunhoferportugal/tsfel) - Time series feature extraction.  
@@ -783,7 +781,7 @@ https://machinelearningmastery.com/time-series-forecasting-long-short-term-memor
 [gatspy](https://www.astroml.org/gatspy/) - General tools for Astronomical Time Series, [talk](https://www.youtube.com/watch?v=E4NMZyfao2c).  
 [gendis](https://github.com/IBCNServices/GENDIS) - shapelets, [example](https://github.com/IBCNServices/GENDIS/blob/master/gendis/example.ipynb).  
 [tslearn](https://github.com/rtavenar/tslearn) - Time series clustering and classification, `TimeSeriesKMeans`, `TimeSeriesKMeans`.  
-[pastas](https://pastas.readthedocs.io/en/latest/examples.html) - Simulation of time series.  
+[pastas](https://github.com/pastas/pastas) - Analysis of Groundwater Time Series.  
 [fastdtw](https://github.com/slaypni/fastdtw) - Dynamic Time Warp Distance.  
 [fable](https://www.rdocumentation.org/packages/fable/versions/0.0.0.9000) - Time Series Forecasting (R package).  
 [pydlm](https://github.com/wwrechard/pydlm) - Bayesian time series modelling ([R package](https://cran.r-project.org/web/packages/bsts/index.html), [Blog post](http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html))  
@@ -850,7 +848,7 @@ RandomSurvivalForests (R packages: randomForestSRC, ggRandomForests).
 [eif](https://github.com/sahandha/eif) - Extended Isolation Forest.  
 [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - Anomaly detection (R package).  
 [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library from Linkedin.  
-Distances for comparing histograms and detecting outliers - [Talk](https://www.youtube.com/watch?v=U7xdiGc7IRU): [Kolmogorov-Smirnov](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html), [Wasserstein](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html), [Energy Distance (Cramer)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.energy_distance.html), [Kullback-Leibler divergence](https://scipy.github.io/devdocs/generated/scipy.stats.entropy.html).  
+Distances for comparing histograms and detecting outliers - [Talk](https://www.youtube.com/watch?v=U7xdiGc7IRU): [Kolmogorov-Smirnov](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html), [Wasserstein](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html), [Energy Distance (Cramer)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.energy_distance.html), [Kullback-Leibler divergence](https://docs.scipy.org/doc/scipy/reference/generated/scipy.special.kl_div.html).  
 [banpei](https://github.com/tsurubee/banpei) - Anomaly detection library based on singular spectrum transformation.  
 [telemanom](https://github.com/khundman/telemanom) - Detect anomalies in multivariate time series data using LSTMs.  
 [luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
@@ -885,7 +883,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 
 #### Probabilistic Modelling and Bayes
 [Intro](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html), [Guide](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
-[PyMC3](https://docs.pymc.io/) - Bayesian modelling, [intro](https://docs.pymc.io/notebooks/getting_started)  
+[PyMC3](https://www.pymc.io/projects/docs/en/stable/learn.html) - Bayesian modelling.  
 [numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with numpy, built on [pyro](https://github.com/pyro-ppl/pyro).  
 [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic modelling, [talk](https://www.youtube.com/watch?v=dE5j6NW-Kzg).  
 [pmlearn](https://github.com/pymc-learn/pymc-learn) - Probabilistic machine learning.  
@@ -931,7 +929,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Warning (Myth 7)](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/).  
 [lime_xgboost](https://github.com/jphall663/lime_xgboost) - Create LIMEs for XGBoost.  
 [eli5](https://github.com/TeamHG-Memex/eli5) - Inspecting machine learning classifiers and explaining their predictions.  
-[lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance, [talk](https://www.youtube.com/watch?v=zqsQ2ojj7sE), examples: [1](https://www.kaggle.com/divrikwicky/pf-f-lofo-importance-on-adversarial-validation), [2](https://www.kaggle.com/divrikwicky/lofo-importance), [3](https://www.kaggle.com/divrikwicky/santanderctp-lofo-feature-importance).  
+[lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance, [talk](https://www.youtube.com/watch?v=zqsQ2ojj7sE).  
 [pybreakdown](https://github.com/MI2DataLab/pyBreakDown) - Generate feature contribution plots.  
 [pycebox](https://github.com/AustinRochford/PyCEbox) - Individual Conditional Expectation Plot Toolbox.  
 [pdpbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox, [example](https://www.kaggle.com/dansbecker/partial-plots).  
@@ -984,7 +982,6 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization, [Talk](https://www.youtube.com/watch?v=tcrcLRopTX0).  
 [skopt](https://scikit-optimize.github.io/) - `BayesSearchCV` for Hyperparameter search.  
 [tune](https://ray.readthedocs.io/en/latest/tune.html) - Hyperparameter search with a focus on deep learning and deep reinforcement learning.  
-[hypergraph](https://github.com/aljabr0/hypergraph) - Global optimization methods and hyperparameter optimization.  
 [bbopt](https://github.com/evhub/bbopt) - Black box hyperparameter optimization.  
 [dragonfly](https://github.com/dragonfly/dragonfly) - Scalable Bayesian optimisation.  
 [botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.  
@@ -1096,7 +1093,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)  
 [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
 [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
-[Awesome Metric Learning](https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning)  
 [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)   
 [Awesome Neural Network Visualization](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)  
 [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
@@ -1105,7 +1101,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
-[Awesome Python Data Science](https://github.com/amitness/toolbox)  
 [Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)  
 [Awesome Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)  
 [Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
@@ -1121,10 +1116,9 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - YouTube Playlist.   
 
 #### Things I google a lot
-[Color codes](https://github.com/d3/d3-3.x-api-reference/blob/master/Ordinal-Scales.md#categorical-colors)  
+[Color Codes](https://github.com/d3/d3-3.x-api-reference/blob/master/Ordinal-Scales.md#categorical-colors)  
 [Frequency codes for time series](https://pandas.pydata.org/pandas-docs/stable/timeseries.html#offset-aliases)  
 [Date parsing codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)  
-[Feature Calculators tsfresh](https://github.com/blue-yonder/tsfresh/blob/master/tsfresh/feature_extraction/feature_calculators.py)  
 
 ## Contributing  
 Do you know a package that should be on this list? Did you spot a package that is no longer maintained and should be removed from this list? Then feel free to read the [contribution guidelines](CONTRIBUTING.md) and submit your pull request or create a new issue.  
