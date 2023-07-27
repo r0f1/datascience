@@ -463,6 +463,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 [EmbedSeg](https://github.com/juglab/EmbedSeg) - Embedding-based Instance Segmentation.  
+[micro-sam](https://github.com/computational-cell-analytics/micro-sam) - SegmentAnything for Microscopy.  
 
 ##### Cell Segmentation Datasets
 [cellpose](https://www.cellpose.org/dataset) - Cell images.  
