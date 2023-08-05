@@ -593,8 +593,8 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualize Keras networks.  
 
 ##### Object detection / Instance Segmentation
+[Metrics reloaded: Recommendations for image analysis validation](https://arxiv.org/abs/2206.01653) - Guide for choosing correct image analysis metrics, [Code](https://github.com/Project-MONAI/MetricsReloaded), [Twitter Thread](https://twitter.com/lena_maierhein/status/1625450342006521857)  
 [Good Yolo Explanation](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)  
-[segmentation_models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones: Unet, FPN, Linknet, PSPNet.  
 [yolact](https://github.com/dbolya/yolact) - Fully convolutional model for real-time instance segmentation.  
 [EfficientDet Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch), [EfficientDet Keras](https://github.com/xuannianz/EfficientDet) - Scalable and Efficient Object Detection.  
 [detectron2](https://github.com/facebookresearch/detectron2) - Object Detection (Mask R-CNN) by Facebook.  
