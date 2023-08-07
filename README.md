@@ -444,6 +444,9 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
 
+##### Microscopy Pipelines
+[SCIP](https://scalable-cytometry-image-processing.readthedocs.io/en/latest/usage.html) - Image processing pipeline on top of Dask.  
+
 ##### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
 [MCQuant](https://github.com/labsyspharm/quantification) - Quantification of cell features.  
