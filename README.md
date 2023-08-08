@@ -425,7 +425,11 @@ REMBI model - Recommended Metadata for Biological Images, BioImage Archive: [Stu
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing tool.  
 [OMERO](https://www.openmicroscopy.org/omero/) - Image viewer for high-content screening. [IDR](https://idr.openmicroscopy.org/) uses OMERO. [Intro](https://www.youtube.com/watch?v=nSCrMO_c-5s)   
 [fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
-
+Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.embl.de/shinyapps/app/01_image-data-explorer), [Video](https://www.youtube.com/watch?v=H8zIZvOt1MA).  
+[ImSwitch](https://github.com/ImSwitch/ImSwitch) - Microscopy Image Viewer, [Doc](https://imswitch.readthedocs.io/en/stable/gui.html), [Video](https://www.youtube.com/watch?v=XsbnMkGSPQQ).  
+[pixmi](https://github.com/piximi/piximi) - Web-based image annotation and classification tool, [App](https://www.piximi.app/).  
+[DeepCell Label](https://label.deepcell.org/) - Data labeling tool to segment images, [Video](https://www.youtube.com/watch?v=zfsvUBkEeow).  
+  
 ##### Image Restoration and Denoising
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
@@ -446,6 +450,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 
 ##### Microscopy Pipelines
 [SCIP](https://scalable-cytometry-image-processing.readthedocs.io/en/latest/usage.html) - Image processing pipeline on top of Dask.  
+[DeepCell Kiosk](https://github.com/vanvalenlab/kiosk-console/tree/master) - Image analysis platform.  
 
 ##### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
@@ -467,6 +472,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
 [EmbedSeg](https://github.com/juglab/EmbedSeg) - Embedding-based Instance Segmentation.  
 [micro-sam](https://github.com/computational-cell-analytics/micro-sam) - SegmentAnything for Microscopy.  
+[deepcell-tf](https://github.com/vanvalenlab/deepcell-tf/tree/master) - Cell segmentation, [DeepCell](https://deepcell.org/).  
 
 ##### Cell Segmentation Datasets
 [cellpose](https://www.cellpose.org/dataset) - Cell images.  
