@@ -1019,7 +1019,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 #### Deployment and Lifecycle Management
 
 ##### Workflow Scheduling and Orchestration
-[nextflow](https://github.com/goodwright/nextflow.py) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch, [Website](https://github.com/nextflow-io/nextflow). 
+[nextflow](https://github.com/goodwright/nextflow.py) - Run scripts and workflow graphs in Docker image using Google Life Sciences, AWS Batch, [Website](https://github.com/nextflow-io/nextflow).   
 [airflow](https://github.com/apache/airflow) - Schedule and monitor workflows.  
 [prefect](https://github.com/PrefectHQ/prefect) - Python specific workflow scheduling.  
 [dagster](https://github.com/dagster-io/dagster) - Development, production and observation of data assets.  
