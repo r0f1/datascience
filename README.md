@@ -444,7 +444,7 @@ Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.yout
 Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins/lumos-spectral-unmixing).  
 
 ##### Platforms and Pipelines
-[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data.
+[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data.  
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
 
