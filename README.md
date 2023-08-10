@@ -1027,6 +1027,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [kestra](https://github.com/kestra-io/kestra) - Workflow orchestration.  
 [cml](https://github.com/iterative/cml) - CI/CD for Machine Learning Projects.  
 [rocketry](https://github.com/Miksus/rocketry) - Task scheduling.  
+[huey](https://github.com/coleifer/huey) - Task queue.  
 
 ##### Containerization and Docker
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
