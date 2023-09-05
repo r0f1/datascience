@@ -395,10 +395,18 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [broadinstitute/lincs-profiling-complementarity](https://github.com/broadinstitute/lincs-profiling-complementarity) - Cellpainting vs. L1000 assay.  
 
 #### Biostatistics / Robust statistics
-[Z-factor](https://en.wikipedia.org/wiki/Z-factor) - Measure of statistical effect size.  
 [MinCovDet](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html) - Robust estimator of covariance, RMPV, [Paper](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1421), [App1](https://journals.sagepub.com/doi/10.1177/1087057112469257?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&), [App2](https://www.cell.com/cell-reports/pdf/S2211-1247(21)00694-X.pdf).  
 [moderated z-score](https://clue.io/connectopedia/replicate_collapse) - Weighted average of z-scores based on Spearman correlation.  
 [winsorize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.winsorize.html#scipy.stats.mstats.winsorize) - Simple adjustment of outliers.  
+
+#### High-Content Screening Assay Design
+[Zhang XHD (2008) - Novel analytic criteria and effective plate designs for quality control in genome-wide RNAi screens](https://slas-discovery.org/article/S2472-5552(22)08204-1/pdf)  
+[Iversen - A Comparison of Assay Performance Measures in Screening Assays, Signal Window, Z′ Factor, and Assay Variability Ratio](https://www.slas-discovery.org/article/S2472-5552(22)08460-X/pdf)
+[Z-factor](https://en.wikipedia.org/wiki/Z-factor) - Measure of statistical effect size.  
+[Z'-factor](https://link.springer.com/referenceworkentry/10.1007/978-3-540-47648-1_6298) - Measure of statistical effect size.  
+[CV](https://en.wikipedia.org/wiki/Coefficient_of_variation) - Coefficient of variation.  
+[SSMD](https://en.wikipedia.org/wiki/Strictly_standardized_mean_difference) - Strictly standardized mean difference.  
+[Signal Window](https://www.intechopen.com/chapters/48130) - Assay quality measurement.  
 
 #### Microscopy + Assay
 [BD Spectrum Viewer](https://www.bdbiosciences.com/en-us/resources/bd-spectrum-viewer) - Calculate spectral overlap, bleed through for fluorescence microscopy dyes.  
