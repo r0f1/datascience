@@ -523,6 +523,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [besca](https://github.com/bedapub/besca) - Beyond single-cell analysis.  
 [janggu](https://github.com/BIMSBbioinfo/janggu) - Deep Learning for Genomics.  
 [gdsctools](https://github.com/CancerRxGene/gdsctools) - Drug responses in the context of the Genomics of Drug Sensitivity in Cancer project, ANOVA, IC50, MoBEM, [doc](https://gdsctools.readthedocs.io/en/master/).  
+[monkeybread](https://github.com/immunitastx/monkeybread) - Analysis of single-cell spatial transcriptomics data.  
 
 ##### Drug discovery
 [TDC](https://github.com/mims-harvard/TDC/tree/main) - Drug Discovery and Development.  
