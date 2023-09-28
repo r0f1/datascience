@@ -173,6 +173,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) - LDA.  
 [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).  
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
+[temporian](https://github.com/google/temporian) - Time series feature engineering by Google.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
 
