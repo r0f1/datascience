@@ -466,6 +466,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 ##### Microscopy Pipelines
 [SCIP](https://scalable-cytometry-image-processing.readthedocs.io/en/latest/usage.html) - Image processing pipeline on top of Dask.  
 [DeepCell Kiosk](https://github.com/vanvalenlab/kiosk-console/tree/master) - Image analysis platform.  
+[IMCWorkflow](https://github.com/BodenmillerGroup/IMCWorkflow/) - Image analysis pipeline using [steinbock](https://github.com/BodenmillerGroup/steinbock), [Twitter](https://twitter.com/NilsEling/status/1715020265963258087), [Paper](https://www.nature.com/articles/s41596-023-00881-0), [workflow](https://bodenmillergroup.github.io/IMCDataAnalysis/).  
 
 ##### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
