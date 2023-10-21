@@ -176,7 +176,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [temporian](https://github.com/google/temporian) - Time series feature engineering by Google.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
-[feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers, etc.  
+[feature-engine](https://github.com/feature-engine/feature_engine) - Encoders, transformers, etc.  
 
 #### Computer Vision
 [Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
