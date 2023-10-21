@@ -940,6 +940,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [combo](https://github.com/yzhao062/combo) - Combining ML models (stacking, ensembling).  
 
 #### Model Evaluation
+[evaluate](https://github.com/huggingface/evaluate) - Evaluate machine learning models (huggingface).  
 [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix.  
 [pandas_ml](https://github.com/pandas-ml/pandas-ml) - Confusion matrix.  
 Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learning-curve/).  
