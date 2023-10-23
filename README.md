@@ -954,6 +954,7 @@ Plotting learning curve: [link](http://www.ritchieng.com/machinelearning-learnin
 #### Model Explanation, Interpretability, Feature Importance
 [Princeton - Reproducibility Crisis in ML‑based Science](https://sites.google.com/princeton.edu/rep-workshop)   
 [Book](https://christophm.github.io/interpretable-ml-book/agnostic.html), [Examples](https://github.com/jphall663/interpretable_machine_learning_with_python)  
+scikit-learn - [Permutation Importance](https://scikit-learn.org/stable/modules/generated/sklearn.inspection.permutation_importance.html) (can be used on any trained classifier) and [Partial Dependence](https://scikit-learn.org/stable/modules/generated/sklearn.inspection.partial_dependence.html)  
 [shap](https://github.com/slundberg/shap) - Explain predictions of machine learning models, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Good Shap intro](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/).  
 [treeinterpreter](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions.  
 [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier, [talk](https://www.youtube.com/watch?v=C80SQe16Rao), [Warning (Myth 7)](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/).  
