@@ -788,7 +788,9 @@ Other measures:
 [filterpy](https://github.com/rlabbe/filterpy) - Kalman filtering and optimal estimation library.  
 
 #### Filtering in Python
-[scipy.signal](https://docs.scipy.org/doc/scipy/reference/signal.html) - [Butterworth low-pass filter example](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform), [Savitzky–Golay filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.savgol_filter.html'), [W](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter)  
+[scipy.signal](https://docs.scipy.org/doc/scipy/reference/signal.html)
+* [Butterworth low-pass filter example](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform)
+* [Savitzky–Golay filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.savgol_filter.html), [W](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter)  
 [pandas.Series.rolling](https://pandas.pydata.org/docs/reference/api/pandas.Series.rolling.html) - Choose appropriate `win_type`.  
 
 #### Geometry
