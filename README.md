@@ -508,6 +508,7 @@ Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins
 [mahotas](https://github.com/luispedro/mahotas) - Zernike, Haralick, LBP, and TAS features, [example](https://github.com/luispedro/python-image-tutorial/blob/master/Segmenting%20cell%20images%20(fluorescent%20microscopy).ipynb).   
 [pyradiomics](https://github.com/AIM-Harvard/pyradiomics) - Radiomics features from medical imaging.  
 [pyefd](https://github.com/hbldh/pyefd) - Elliptical feature descriptor, approximating a contour with a Fourier series.  
+[pyvips](https://github.com/libvips/pyvips/tree/master) - Faster image processing operations.  
 
 #### Domain Adaptation / Batch-Effect Correction 
 [Tran - A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), [Code](https://github.com/JinmiaoChenLab/Batch-effect-removal-benchmarking).  
@@ -557,6 +558,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [augmix](https://github.com/google-research/augmix) - Image augmentation from Google.  
 [kornia](https://github.com/kornia/kornia) - Image augmentation, feature extraction and loss functions.  
 [augly](https://github.com/facebookresearch/AugLy) - Image, audio, text, video augmentation from Facebook.  
+[pyvips](https://github.com/libvips/pyvips/tree/master) - Faster image processing operations.  
 
 ##### Lossfunction Related
 [SegLoss](https://github.com/JunMa11/SegLoss) - List of loss functions for medical image segmentation.  
