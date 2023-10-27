@@ -781,11 +781,15 @@ Other measures:
 #### Signal Processing and Filtering
 [Stanford Lecture Series on Fourier Transformation](https://see.stanford.edu/Course/EE261), [Youtube](https://www.youtube.com/watch?v=gZNm7L96pfY&list=PLB24BC7956EE040CD&index=1), [Lecture Notes](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf).  
 [Visual Fourier explanation](https://dsego.github.io/demystifying-fourier/).  
-[The Scientist & Engineer's Guide to Digital Signal Processing (1999)](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html).  
+[The Scientist & Engineer's Guide to Digital Signal Processing (1999)](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html) - Chapter 3 has good introduction to Bessel, Butterworth and Chebyshev filters.  
 [Kalman Filter article](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures).  
 [Kalman Filter book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Focuses on intuition using Jupyter Notebooks. Includes Bayesian and various Kalman filters.  
 [Interactive Tool](https://fiiir.com/) for FIR and IIR filters, [Examples](https://plot.ly/python/fft-filters/).  
 [filterpy](https://github.com/rlabbe/filterpy) - Kalman filtering and optimal estimation library.  
+
+#### Filtering in Python
+[scipy.signal](https://docs.scipy.org/doc/scipy/reference/signal.html) - [Butterworth low-pass filter example](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform), [Savitzky–Golay filter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.savgol_filter.html'), [W](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter)  
+[pandas.Series.rolling](https://pandas.pydata.org/docs/reference/api/pandas.Series.rolling.html) - Choose appropriate `win_type`.  
 
 #### Geometry
 [geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.  
