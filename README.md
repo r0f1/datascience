@@ -448,10 +448,13 @@ Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Content-aware image restoration, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
 
-##### Illumination correction + Bleed through correction
+##### Illumination correction
 [skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
 [cidre](https://github.com/smithk/cidre) - Illumination correction method for optical microscopy.  
 [BaSiCPy](https://github.com/peng-lab/BaSiCPy) - Background and Shading Correction of Optical Microscopy Images, [BaSiC](https://github.com/marrlab/BaSiC).  
+
+##### Bleedthrough correction / Spectral Unmixing
+[PICASSO](https://github.com/nygctech/PICASSO) - Blind unmixing without reference spectra measurement, [Paper](https://www.biorxiv.org/content/10.1101/2021.01.27.428247v1.full)  
 [cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
 Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
 Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins/lumos-spectral-unmixing).  
