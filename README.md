@@ -458,6 +458,7 @@ Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.
 [cytoflow](https://github.com/cytoflow/cytoflow) - Flow cytometry. Includes Bleedthrough correction methods.  
 Linear unmixing in Fiji for Bleedthrough Correction - [Youtube](https://www.youtube.com/watch?v=W90qs0J29v8).  
 Bleedthrough Correction using Lumos and Fiji - [Link](https://imagej.net/plugins/lumos-spectral-unmixing).  
+AutoUnmix - [Link](https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1.full).  
 
 ##### Platforms and Pipelines
 [CellProfiler](https://github.com/CellProfiler/CellProfiler), [CellProfilerAnalyst](https://github.com/CellProfiler/CellProfiler-Analyst) - Create image analysis pipelines.  
