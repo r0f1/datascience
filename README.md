@@ -492,6 +492,7 @@ Labsyspharm Stack see below.
 [allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
 [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
 [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) - Deep-Learning in Microscopy.  
+[DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere) - Bringing the ZeroCostDL4Mic experience using Docker.  
 [EmbedSeg](https://github.com/juglab/EmbedSeg) - Embedding-based Instance Segmentation.  
 [segment-anything](https://github.com/facebookresearch/segment-anything) - Segment Anything (SAM) from Facebook.  
 [micro-sam](https://github.com/computational-cell-analytics/micro-sam) - Segment Anything for Microscopy.  
