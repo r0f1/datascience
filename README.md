@@ -468,6 +468,8 @@ AutoUnmix - [Link](https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1.f
 [qupath](https://github.com/qupath/qupath) - Image analysis.  
 
 ##### Microscopy Pipelines
+Labsyspharm Stack see below.  
+[BiaPy](https://github.com/danifranco/BiaPy) - Bioimage analysis pipelines.  
 [SCIP](https://scalable-cytometry-image-processing.readthedocs.io/en/latest/usage.html) - Image processing pipeline on top of Dask.  
 [DeepCell Kiosk](https://github.com/vanvalenlab/kiosk-console/tree/master) - Image analysis platform.  
 [IMCWorkflow](https://github.com/BodenmillerGroup/IMCWorkflow/) - Image analysis pipeline using [steinbock](https://github.com/BodenmillerGroup/steinbock), [Twitter](https://twitter.com/NilsEling/status/1715020265963258087), [Paper](https://www.nature.com/articles/s41596-023-00881-0), [workflow](https://bodenmillergroup.github.io/IMCDataAnalysis/).  
