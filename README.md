@@ -488,6 +488,7 @@ Labsyspharm Stack see below.
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
 [stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
+[ilastik](https://github.com/ilastik/ilastik) - Segment, classify, track and count cells. [ImageJ Plugin](https://github.com/ilastik/ilastik4ij).   
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
 [allencell](https://www.allencell.org/segmenter.html) - Tools for 3D segmentation, classical and deep learning methods.  
 [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - Python GUI for cell segmentation and tracking.  
