@@ -499,8 +499,7 @@ Labsyspharm Stack see below.
 [micro-sam](https://github.com/computational-cell-analytics/micro-sam) - Segment Anything for Microscopy.  
 [Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - Segment Everything Everywhere All at Once from Microsoft.  
 [deepcell-tf](https://github.com/vanvalenlab/deepcell-tf/tree/master) - Cell segmentation, [DeepCell](https://deepcell.org/).  
-
-https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+[labkit](https://github.com/juglab/labkit-ui) - Fiji plugin for image segmentation.  
 
 ##### Cell Segmentation Datasets
 [cellpose](https://www.cellpose.org/dataset) - Cell images.  
