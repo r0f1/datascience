@@ -466,7 +466,7 @@ AutoUnmix - [Link](https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1.f
 
 ##### Platforms and Pipelines
 [CellProfiler](https://github.com/CellProfiler/CellProfiler), [CellProfilerAnalyst](https://github.com/CellProfiler/CellProfiler-Analyst) - Create image analysis pipelines.  
-[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data.  
+[fractal](https://fractal-analytics-platform.github.io/) - Framework to process high-content imaging data from UZH, [Github](https://github.com/fractal-analytics-platform).  
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
 [qupath](https://github.com/qupath/qupath) - Image analysis.  
@@ -477,7 +477,6 @@ Labsyspharm Stack see below.
 [SCIP](https://scalable-cytometry-image-processing.readthedocs.io/en/latest/usage.html) - Image processing pipeline on top of Dask.  
 [DeepCell Kiosk](https://github.com/vanvalenlab/kiosk-console/tree/master) - Image analysis platform.  
 [IMCWorkflow](https://github.com/BodenmillerGroup/IMCWorkflow/) - Image analysis pipeline using [steinbock](https://github.com/BodenmillerGroup/steinbock), [Twitter](https://twitter.com/NilsEling/status/1715020265963258087), [Paper](https://www.nature.com/articles/s41596-023-00881-0), [workflow](https://bodenmillergroup.github.io/IMCDataAnalysis/).  
-[Fractal](https://fractal-analytics-platform.github.io/) - Image analytics pipeline, [Github](https://github.com/fractal-analytics-platform).  
 
 ##### Labsyspharm
 [mcmicro](https://github.com/labsyspharm/mcmicro) - Multiple-choice microscopy pipeline, [Website](https://mcmicro.org/overview/), [Paper](https://www.nature.com/articles/s41592-021-01308-y).  
