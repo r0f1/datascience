@@ -432,17 +432,21 @@ REMBI model - Recommended Metadata for Biological Images, BioImage Archive: [Stu
 [bdz](https://github.com/openssbd/bdz) - Zarr-based format for storing quantitative biological dynamics data.  
 
 #### Image Viewers
-[vizarr](https://github.com/hms-dbmi/vizarr) - Browser-based image viewer for zarr format.  
-[avivator](https://github.com/hms-dbmi/viv) - Browser-based image viewer for tiff files.  
 [napari](https://github.com/napari/napari) - Image viewer and image processing tool.    
 [Fiji](https://fiji.sc/) - General purpose tool. Image viewer and image processing tool.  
+[vizarr](https://github.com/hms-dbmi/vizarr) - Browser-based image viewer for zarr format.  
+[avivator](https://github.com/hms-dbmi/viv) - Browser-based image viewer for tiff files.  
 [OMERO](https://www.openmicroscopy.org/omero/) - Image viewer for high-content screening. [IDR](https://idr.openmicroscopy.org/) uses OMERO. [Intro](https://www.youtube.com/watch?v=nSCrMO_c-5s)   
 [fiftyone](https://github.com/voxel51/fiftyone) - Viewer and tool for building high-quality datasets and computer vision models.  
 Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.embl.de/shinyapps/app/01_image-data-explorer), [Video](https://www.youtube.com/watch?v=H8zIZvOt1MA).  
 [ImSwitch](https://github.com/ImSwitch/ImSwitch) - Microscopy Image Viewer, [Doc](https://imswitch.readthedocs.io/en/stable/gui.html), [Video](https://www.youtube.com/watch?v=XsbnMkGSPQQ).  
 [pixmi](https://github.com/piximi/piximi) - Web-based image annotation and classification tool, [App](https://www.piximi.app/).  
 [DeepCell Label](https://label.deepcell.org/) - Data labeling tool to segment images, [Video](https://www.youtube.com/watch?v=zfsvUBkEeow).  
-  
+
+#### Napari Plugins
+[napari-sam](https://github.com/MIC-DKFZ/napari-sam) - Segment Anything Plugin.  
+[napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - ChatGPT Plugin.  
+
 ##### Image Restoration and Denoising
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
