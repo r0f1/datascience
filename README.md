@@ -487,6 +487,7 @@ Labsyspharm Stack see below.
 
 ##### Cell Segmentation
 [microscopy-tree](https://biomag-lab.github.io/microscopy-tree/) - Review of cell segmentation algorithms, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0962892421002518).  
+Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2301.02341.pdf).  
 [BioImage.IO](https://bioimage.io/#/) - BioImage Model Zoo.  
 [MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation.  
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
