@@ -513,6 +513,7 @@ Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2
 [Sartorius](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/overview) - Neurons.  
 [EmbedSeg](https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0) - 2D + 3D images.  
 [connectomics](https://sites.google.com/view/connectomics/) - Annotation of the EPFL Hippocampus dataset.  
+[ZeroCostDL4Mic](https://www.ebi.ac.uk/biostudies/BioImages/studies/S-BIAD895) - Stardist example training and test dataset.  
 
 ##### Evaluation
 [seg-eval](https://github.com/lstrgar/seg-eval) - Cell segmentation performance evaluation without Ground Truth labels, [Paper](https://www.biorxiv.org/content/10.1101/2023.02.23.529809v1.full.pdf).  
