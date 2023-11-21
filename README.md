@@ -928,9 +928,10 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).  
 [causalml](https://github.com/uber/causalml) - Causal inference by Uber.  
 [upliftml](https://github.com/bookingcom/upliftml) - Causal inference by Booking.com.  
-[EconML](https://github.com/microsoft/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
 [causality](https://github.com/akelleh/causality) - Causal analysis using observational datasets.  
 [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Machine Learning + Causal inference, [Tweet](https://twitter.com/ChristophMolnar/status/1574338002305880068), [Presentation](https://scholar.princeton.edu/sites/default/files/bstewart/files/felton.chern_.slides.20190318.pdf), [Paper](https://arxiv.org/abs/1608.00060v1).  
+[EconML](https://github.com/py-why/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
+
 
 ##### Papers
 [Bours - Confounding](https://edisciplinas.usp.br/pluginfile.php/5625667/mod_resource/content/3/Nontechnicalexplanation-counterfactualdefinition-confounding.pdf)  
