@@ -103,6 +103,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
 
 ##### Visualizations
+[Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)  
 [Great Overview over Visualizations](https://textvis.lnu.se/)  
 [Dependent Propabilities](https://static.laszlokorte.de/stochastic/)  
 [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)  
