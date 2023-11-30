@@ -388,6 +388,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 
 ##### Tutorials
+[MIT 7.016 Introductory Biology, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63) - Videos 27, 28, and 29 talk about staining and imaging.  
 [bioimaging.org](https://www.bioimagingguide.org/welcome.html) - A biologists guide to planning and performing quantitative bioimaging experiments.  
 [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) - Large collection of image processing workflows, including [point-spread-function estimation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/extract_psf.html) and [deconvolution](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/18a_deconvolution/introduction_deconvolution.html), [3D cell segmentation](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/20_image_segmentation/Segmentation_3D.html), [feature extraction](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/22_feature_extraction/statistics_with_pyclesperanto.html) using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype) and others.  
 [python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - Notebooks and associated [youtube channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/videos) for a variety of image processing tasks.  
