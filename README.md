@@ -1,7 +1,7 @@
 # Awesome Data Science with Python
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
-
+This is an update
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library, [intelex](https://github.com/intel/scikit-learn-intelex).  
