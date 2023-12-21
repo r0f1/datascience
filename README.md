@@ -237,6 +237,8 @@ SimCLR - [link](https://github.com/lightly-ai/lightly)
 
 ##### Packages
 [Dangers of PCA (paper)](https://www.nature.com/articles/s41598-022-14395-4).  
+[Phantom oscillations in PCA](https://www.biorxiv.org/content/10.1101/2023.06.20.545619v1.full).  
+[What to use instead of PCA](https://www.pnas.org/doi/10.1073/pnas.2319169120).
 [Talk](https://www.youtube.com/watch?v=9iol3Lk6kyU), [tsne intro](https://distill.pub/2016/misread-tsne/). 
 [sklearn.manifold](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold) and [sklearn.decomposition](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition) - PCA, t-SNE, MDS, Isomaps and others.  
 Additional plots for PCA - Factor Loadings, Cumulative Variance Explained, [Correlation Circle Plot](http://rasbt.github.io/mlxtend/user_guide/plotting/plot_pca_correlation_graph/), [Tweet](https://twitter.com/rasbt/status/1555999903398219777/photo/1)  
