@@ -91,7 +91,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 
 ##### Effect Size
-[Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris
+[Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris, [Twitter](https://twitter.com/MatthewBJane/status/1742588609025200557)    
 
 ##### Statistical Tests
 [test_proportions_2indep](https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.test_proportions_2indep.html) - Proportion test.  
