@@ -90,6 +90,9 @@
 Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 
+##### Effect Size
+[Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris
+
 ##### Statistical Tests
 [test_proportions_2indep](https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.test_proportions_2indep.html) - Proportion test.  
 [G-Test](https://en.wikipedia.org/wiki/G-test) - Alternative to chi-square test, [power_divergence](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.power_divergence.html).  
