@@ -140,6 +140,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)  
 [The Prosecutor's Fallacy](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)  
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)  
+[Rafi, Greenland - Semantic and cognitive tools to aid statistical science: replace confidence and significance by compatibility and surprise](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01105-9)  
 
 #### Epidemiology
 [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/) - Large tool suite for working with epidemiological data (R packages). [Github](https://github.com/reconhub)   
