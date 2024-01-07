@@ -28,6 +28,7 @@
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
 [polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
+[mlx](https://github.com/ml-explore/mlx) - An array framework for Apple silicon.  
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
 
