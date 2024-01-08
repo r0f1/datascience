@@ -144,7 +144,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Rafi, Greenland - Semantic and cognitive tools to aid statistical science: replace confidence and significance by compatibility and surprise](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01105-9)  
 
 #### Evaluation
-[Collins et al. - Evaluation of clinical prediction models (part 1): from development to external validation](https://www.bmj.com/content/384/bmj-2023-074819.full)  
+[Collins et al. - Evaluation of clinical prediction models (part 1): from development to external validation](https://www.bmj.com/content/384/bmj-2023-074819.full) - [Twitter](https://twitter.com/GSCollins/status/1744309712995098624)    
 
 #### Epidemiology
 [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/) - Large tool suite for working with epidemiological data (R packages). [Github](https://github.com/reconhub)   
