@@ -143,6 +143,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [The Dunning-Kruger Effect is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)  
 [Rafi, Greenland - Semantic and cognitive tools to aid statistical science: replace confidence and significance by compatibility and surprise](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01105-9)  
 
+#### Evaluation
+[Collins et al. - Evaluation of clinical prediction models (part 1): from development to external validation](https://www.bmj.com/content/384/bmj-2023-074819.full)  
+
 #### Epidemiology
 [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/) - Large tool suite for working with epidemiological data (R packages). [Github](https://github.com/reconhub)   
 [incidence2](https://github.com/reconhub/incidence2) - Computation, handling, visualisation and simple modelling of incidence (R package).  
