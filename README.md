@@ -118,6 +118,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/)  
 [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
 [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)  
+[Statistical Power and Sample Size Calculation Tools](https://pwrss.shinyapps.io/index/)  
 
 ##### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
