@@ -79,6 +79,11 @@
 
 #### Classical Statistics
 
+##### p-values
+[The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)
+[Greenland - Statistical tests, P-values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
+[Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
+
 ##### Correlation
 [phik](https://github.com/kaveio/phik) - Correlation between categorical, ordinal and interval variables.  
 
@@ -130,8 +135,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Verifying the Assumptions of Linear Models](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)  
 [Mediation and Moderation Intro](https://ademos.people.uic.edu/Chapter14.html)  
 [Montgomery et al. - How conditioning on post-treatment variables can ruin your experiment and what to do about it](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2293/files/2021/03/post-treatment-bias.pdf)  
-[Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
-[Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
 [Lindeløv - Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)    
 [Chatruc - The Central Limit Theorem and its misuse](https://web.archive.org/web/20191229234155/https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)  
 [Al-Saleh - Properties of the Standard Deviation that are Rarely Mentioned in Classrooms](http://www.stat.tugraz.at/AJS/ausg093/093Al-Saleh.pdf)   
