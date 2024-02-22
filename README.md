@@ -86,6 +86,7 @@
 
 ##### Correlation
 [phik](https://github.com/kaveio/phik) - Correlation between categorical, ordinal and interval variables.  
+[hoeffd](https://search.r-project.org/CRAN/refmans/Hmisc/html/hoeffd.html) - Hoeffding's D Statistics, measure of dependence (R package).  
 
 ##### Packages
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
