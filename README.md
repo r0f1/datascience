@@ -107,6 +107,9 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 ##### Comparing Two Populations
 [torch-two-sample](https://github.com/josipd/torch-two-sample) - Friedman-Rafsky Test: Compare two population based on a multivariate generalization of the Runstest. [Explanation](https://www.real-statistics.com/multivariate-statistics/multivariate-normal-distribution/friedman-rafsky-test/), [Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014134/)  
 
+##### Power and Sample Size Calculations
+[pwrss](https://cran.r-project.org/web/packages/pwrss/index.html) - Statistical Power and Sample Size Calculation Tools (R package), [Tutorial with t-test](https://rpubs.com/metinbulus/welch)  
+
 ##### Interim Analyses / Sequential Analysis / Stopping
 [Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
 [sequential](https://cran.r-project.org/web/packages/Sequential/Sequential.pdf) - Exact Sequential Analysis for Poisson and Binomial Data (R package).  
