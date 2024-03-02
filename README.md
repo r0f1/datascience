@@ -1148,6 +1148,8 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Blum - Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf?file=book.pdf)  
 [Chan - Introduction to Probability for Data Science](https://probability4datascience.com/index.html)  
 [Colonescu - Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)  
+[Rafael Irizarry - Introduction to Data Science](https://rafalab.dfci.harvard.edu/dsbook-part-1/) (R Language)
+[Rafael Irizarry - Advanced Data Science](https://rafalab.dfci.harvard.edu/dsbook-part-2/) (R Language)
 
 ##### Other Awesome Lists
 [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)    
