@@ -86,6 +86,7 @@
 [Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
 
 ##### Correlation
+[Guess the Correlation](https://www.guessthecorrelation.com/) - Correlation guessing game.  
 [phik](https://github.com/kaveio/phik) - Correlation between categorical, ordinal and interval variables.  
 [hoeffd](https://search.r-project.org/CRAN/refmans/Hmisc/html/hoeffd.html) - Hoeffding's D Statistics, measure of dependence (R package).  
 
