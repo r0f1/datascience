@@ -85,6 +85,7 @@
 [Greenland - Statistical tests, P-values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
 [Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
 [Rubin - Inconsistent multiple testing corrections: The fallacy of using family-based error rates to make inferences about individual hypotheses](https://www.sciencedirect.com/science/article/pii/S2590260124000067?via%3Dihub)  
+[Gigerenzer - Mindless Statistics](https://library.mpib-berlin.mpg.de/ft/gg/GG_Mindless_2004.pdf)  
 
 ##### Correlation
 [Guess the Correlation](https://www.guessthecorrelation.com/) - Correlation guessing game.  
