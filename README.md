@@ -80,6 +80,9 @@
 
 #### Classical Statistics
 
+##### Datasets
+[Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) - Collection of more than 2000 datasets, stored as csv files.  
+
 ##### p-values
 [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)  
 [Greenland - Statistical tests, P-values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
