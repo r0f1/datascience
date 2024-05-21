@@ -768,6 +768,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [TensorFlow similarity](https://github.com/tensorflow/similarity) - Metric learning.  
 
 #### Distance Functions
+[Steck et al. - Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)  
 [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html) - All kinds of distance metrics.  
 [vegdist](https://rdrr.io/cran/vegan/man/vegdist.html) - Distance metrics (R package).  
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance / Wasserstein distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html), [POT implementation](https://pythonot.github.io/auto_examples/plot_OT_2D_samples.html)   
