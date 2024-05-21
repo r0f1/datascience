@@ -769,6 +769,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 
 #### Distance Functions
 [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html) - All kinds of distance metrics.  
+[vegdist](https://rdrr.io/cran/vegan/man/vegdist.html) - Distance metrics (R package).  
 [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance / Wasserstein distance, similarity between histograms. [OpenCV implementation](https://docs.opencv.org/3.4/d6/dc7/group__imgproc__hist.html), [POT implementation](https://pythonot.github.io/auto_examples/plot_OT_2D_samples.html)   
 [dcor](https://github.com/vnmabus/dcor)  - Distance correlation and related Energy statistics.  
 [GeomLoss](https://www.kernel-operations.io/geomloss/) - Kernel norms, Hausdorff divergences, Debiased Sinkhorn divergences (=approximation of Wasserstein distance).  
