@@ -164,6 +164,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Collins et al. - Evaluation of clinical prediction models (part 1): from development to external validation](https://www.bmj.com/content/384/bmj-2023-074819.full) - [Twitter](https://twitter.com/GSCollins/status/1744309712995098624)    
 
 #### Epidemiology
+[Lesko et al. - A Framework for Descriptive Epidemiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10144679/)  
 [R Epidemics Consortium](https://www.repidemicsconsortium.org/projects/) - Large tool suite for working with epidemiological data (R packages). [Github](https://github.com/reconhub)   
 [incidence2](https://github.com/reconhub/incidence2) - Computation, handling, visualisation and simple modelling of incidence (R package).  
 [EpiEstim](https://github.com/mrc-ide/EpiEstim) - Estimate time varying instantaneous reproduction number R during epidemics (R package) [paper](https://academic.oup.com/aje/article/178/9/1505/89262).  
@@ -171,6 +172,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package, [Tutorial](https://github.com/pzivich/Python-for-Epidemiologists).  
 [tipr](https://github.com/LucyMcGowan/tipr) - Sensitivity analyses for unmeasured confounders (R package).  
 [quartets](https://github.com/r-causal/quartets) - Anscombe’s Quartet, Causal Quartet, [Datasaurus Dozen](https://github.com/jumpingrivers/datasauRus) and others (R package).    
+[episensr](https://cran.r-project.org/web/packages/episensr/vignettes/episensr.html) - Quantitative Bias Analysis for Epidemiologic Data (=simulation of possible effects of different sources of bias) (R package).  
+
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
