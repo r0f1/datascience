@@ -957,6 +957,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
 
 #### Causal Inference
+[Naimi et al. - An introduction to g methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)  
 [CS 594 Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  
 [Marginal Effects Tutorial](https://marginaleffects.com/vignettes/gcomputation.html) - Marginal Effects, g-computation and more.  
 [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [R](https://bookdown.org/content/4857/), [python](https://github.com/pymc-devs/resources/tree/master/Rethinking_2), [numpyro1](https://github.com/asuagar/statrethink-course-numpyro-2019), [numpyro2](https://fehiepsi.github.io/rethinking-numpyro/), [tensorflow-probability](https://github.com/ksachdeva/rethinking-tensorflow-probability).  
