@@ -958,6 +958,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 
 #### Causal Inference
 [CS 594 Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  
+[Marginal Effects Tutorial](https://marginaleffects.com/vignettes/gcomputation.html) - Marginal Effects, g-computation and more.  
 [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [R](https://bookdown.org/content/4857/), [python](https://github.com/pymc-devs/resources/tree/master/Rethinking_2), [numpyro1](https://github.com/asuagar/statrethink-course-numpyro-2019), [numpyro2](https://fehiepsi.github.io/rethinking-numpyro/), [tensorflow-probability](https://github.com/ksachdeva/rethinking-tensorflow-probability).  
 [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)  
 [dowhy](https://github.com/py-why/dowhy) - Estimate causal effects.  
@@ -968,7 +969,6 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [causality](https://github.com/akelleh/causality) - Causal analysis using observational datasets.  
 [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Machine Learning + Causal inference, [Tweet](https://twitter.com/ChristophMolnar/status/1574338002305880068), [Presentation](https://scholar.princeton.edu/sites/default/files/bstewart/files/felton.chern_.slides.20190318.pdf), [Paper](https://arxiv.org/abs/1608.00060v1).  
 [EconML](https://github.com/py-why/EconML) - Heterogeneous Treatment Effects Estimation by Microsoft.  
-
 
 ##### Papers
 [Bours - Confounding](https://edisciplinas.usp.br/pluginfile.php/5625667/mod_resource/content/3/Nontechnicalexplanation-counterfactualdefinition-confounding.pdf)  
