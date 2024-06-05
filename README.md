@@ -104,6 +104,7 @@
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
 Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
+[StatCheck](https://statcheck.steveharoz.com/) - Extract statistics from articles and recompute p-values (R package).  
 
 ##### Effect Size
 [Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris, [Twitter](https://twitter.com/MatthewBJane/status/1742588609025200557)    
