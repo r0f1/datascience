@@ -487,6 +487,7 @@ Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.
 [aydin](https://github.com/royerlab/aydin) - Image denoising.  
 [DivNoising](https://github.com/juglab/DivNoising) - Unsupervised denoising method.  
 [CSBDeep](https://github.com/CSBDeep/CSBDeep) - Content-aware image restoration, [Project page](https://csbdeep.bioimagecomputing.com/tools/).  
+[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion) - Image denoising.  
 
 ##### Illumination correction
 [skimage](https://scikit-image.org/docs/dev/api/skimage.exposure.html#skimage.exposure.equalize_adapthist) - Illumination correction (CLAHE).  
