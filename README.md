@@ -13,7 +13,7 @@
 [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - VSCode plugin to display .csv files with nice colors.  
 
 #### General Python Programming
-[Python Best Practices Guide](https://github.com/qiwihui/pocket_readings/issues/1148#issuecomment-874448132)  
+[Python Best Practices Guide](https://medium.com/@mronakjain94/comprehensive-guide-to-installing-poetry-on-ubuntu-and-managing-python-projects-949b49ef4f76)  
 [pyenv](https://github.com/pyenv/pyenv) - Manage multiple Python versions on your system.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
 [pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
