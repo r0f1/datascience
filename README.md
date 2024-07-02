@@ -86,10 +86,10 @@
 ##### p-values
 [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)  
 [Greenland - Statistical tests, P-values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)  
-[Blume - Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188299)  
 [Rubin - Inconsistent multiple testing corrections: The fallacy of using family-based error rates to make inferences about individual hypotheses](https://www.sciencedirect.com/science/article/pii/S2590260124000067?via%3Dihub)  
 [Gigerenzer - Mindless Statistics](https://library.mpib-berlin.mpg.de/ft/gg/GG_Mindless_2004.pdf)  
-[Rubin - That's not a two-sided test! It's two one-sided tests!](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01405)  
+[Rubin - That's not a two-sided test! It's two one-sided tests! (TOST)](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01405)  
+[Lakens - How were we supposed to move beyond  p < .05, and why didn’t we?](https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/)
 
 ##### Correlation
 [Guess the Correlation](https://www.guessthecorrelation.com/) - Correlation guessing game.  
@@ -105,6 +105,7 @@
 Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 [StatCheck](https://statcheck.steveharoz.com/) - Extract statistics from articles and recompute p-values (R package).  
+[TOSTER](https://github.com/Lakens/TOSTER) - TOST equivalence test and power functions (R package).  
 
 ##### Effect Size
 [Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris, [Twitter](https://twitter.com/MatthewBJane/status/1742588609025200557)    
