@@ -89,7 +89,8 @@
 [Rubin - Inconsistent multiple testing corrections: The fallacy of using family-based error rates to make inferences about individual hypotheses](https://www.sciencedirect.com/science/article/pii/S2590260124000067?via%3Dihub)  
 [Gigerenzer - Mindless Statistics](https://library.mpib-berlin.mpg.de/ft/gg/GG_Mindless_2004.pdf)  
 [Rubin - That's not a two-sided test! It's two one-sided tests! (TOST)](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01405)  
-[Lakens - How were we supposed to move beyond  p < .05, and why didn’t we?](https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/)
+[Lakens - How were we supposed to move beyond  p < .05, and why didn’t we?](https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/)  
+[McShane et al. - Abandon Statistical Significance](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1527253)  
 
 ##### Correlation
 [Guess the Correlation](https://www.guessthecorrelation.com/) - Correlation guessing game.  
