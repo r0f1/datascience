@@ -14,6 +14,7 @@
 
 #### General Python Programming
 [Python Best Practices Guide](https://medium.com/@mronakjain94/comprehensive-guide-to-installing-poetry-on-ubuntu-and-managing-python-projects-949b49ef4f76)  
+[rye](https://github.com/astral-sh/rye) - Dependency management.  
 [pyenv](https://github.com/pyenv/pyenv) - Manage multiple Python versions on your system.  
 [poetry](https://github.com/python-poetry/poetry) - Dependency management.  
 [pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
@@ -665,7 +666,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [MONAI](https://github.com/project-monai/monai) - Deep learning in healthcare imaging.  
 [kornia](https://github.com/kornia/kornia) - Image transformations, epipolar geometry, depth estimation.  
-[torchinfo](https://github.com/TylerYep/torchinfo) - Nice model summary.  
+[torchinfo](https://github.com/Tylep/torchinfo) - Nice model summary.  
 [lovely-tensors](https://github.com/xl0/lovely-tensors/) - Inspect tensors, mean, std, inf values.  
 
 ##### Distributed Libs
