@@ -533,6 +533,7 @@ Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2
 [MEDIAR](https://github.com/Lee-Gihun/MEDIAR) - Cell segmentation.  
 [cellpose](https://github.com/mouseland/cellpose) - Cell segmentation. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1), [Dataset](https://www.cellpose.org/dataset).  
 [stardist](https://github.com/stardist/stardist) - Cell segmentation with Star-convex Shapes.  
+[instanseg](https://github.com/instanseg/instanseg) - Cell segmentation.  
 [UnMicst](https://github.com/HMS-IDAC/UnMicst) - Identifying Cells and Segmenting Tissue.  
 [ilastik](https://github.com/ilastik/ilastik) - Segment, classify, track and count cells. [ImageJ Plugin](https://github.com/ilastik/ilastik4ij).   
 [nnUnet](https://github.com/MIC-DKFZ/nnUNet) - 3D biomedical image segmentation.  
