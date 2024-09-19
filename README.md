@@ -665,6 +665,7 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [torchcv](https://github.com/donnyyou/torchcv) - Deep Learning in Computer Vision.  
 [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for PyTorch.  
 [pytorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning) - Wrapper around PyTorch.  
+[litserve](https://github.com/Lightning-AI/LitServe) - Serve models.  
 [lightly](https://github.com/lightly-ai/lightly) - MoCo, SimCLR, SimSiam, Barlow Twins, BYOL, NNCLR.  
 [MONAI](https://github.com/project-monai/monai) - Deep learning in healthcare imaging.  
 [kornia](https://github.com/kornia/kornia) - Image transformations, epipolar geometry, depth estimation.  
