@@ -413,7 +413,6 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [fastText](https://github.com/facebookresearch/fastText) - Efficient text classification and representation learning.  
 [annoy](https://github.com/spotify/annoy) - Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) - Approximate nearest neighbor search.  
-[LSHForest](https://scikit-learn.org/0.16/modules/generated/sklearn.neighbors.LSHForest.html#sklearn.neighbors.LSHForest) - Locality-sensitive hashing (LSH) forest.  
 [infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics.  
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
