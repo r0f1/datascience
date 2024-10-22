@@ -13,17 +13,12 @@
 [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - VSCode plugin to display .csv files with nice colors.  
 
 #### General Python Programming
-[Python Best Practices Guide](https://medium.com/@mronakjain94/comprehensive-guide-to-installing-poetry-on-ubuntu-and-managing-python-projects-949b49ef4f76)  
 [uv](https://github.com/astral-sh/uv) - Dependency management.  
-[pyenv](https://github.com/pyenv/pyenv) - Manage multiple Python versions on your system.  
-[poetry](https://github.com/python-poetry/poetry) - Dependency management.  
-[pyscaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator.  
-[hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
-[hatch](https://github.com/pypa/hatch) - Python project management.  
+[python-dotenv](https://github.com/theskumar/python-dotenv) - Manage environment variables.  
+[structlog](https://github.com/hynek/structlog) - Python logging.  
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
-[loguru](https://github.com/Delgan/loguru) - Python logging.  
-[python-dotenv](https://github.com/theskumar/python-dotenv) - Manage environment variables.  
+[hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
 
 #### Pandas Tricks, Alternatives and Additions
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
