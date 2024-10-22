@@ -14,6 +14,7 @@
 
 #### General Python Programming
 [uv](https://github.com/astral-sh/uv) - Dependency management.  
+[just](https://github.com/casey/just) - Command runner. Replacement for make.  
 [python-dotenv](https://github.com/theskumar/python-dotenv) - Manage environment variables.  
 [structlog](https://github.com/hynek/structlog) - Python logging.  
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
