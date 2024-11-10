@@ -722,7 +722,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 
 ##### Transformers
 [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) - Intro to transformers.  
-[Transformers from Scratch](https://e2eml.school/transformers.html] - Intro.  
+[Transformers from Scratch](https://e2eml.school/transformers.html) - Intro.  
 [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - Video series on building neural networks.  
 [SegFormer](https://github.com/NVlabs/SegFormer) - Simple and Efficient Design for Semantic Segmentation with Transformers.  
 [esvit](https://github.com/microsoft/esvit) - Efficient self-supervised Vision Transformers.  
