@@ -545,6 +545,7 @@ Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2
 [Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - Segment Everything Everywhere All at Once from Microsoft.  
 [deepcell-tf](https://github.com/vanvalenlab/deepcell-tf/tree/master) - Cell segmentation, [DeepCell](https://deepcell.org/).  
 [labkit](https://github.com/juglab/labkit-ui) - Fiji plugin for image segmentation.  
+[MedImageInsight](https://arxiv.org/abs/2410.06542) - Open-Source Embedding Model for General Domain Medical Imaging.  
 
 ##### Cell Segmentation Datasets
 [cellpose](https://www.cellpose.org/dataset) - Cell images.  
