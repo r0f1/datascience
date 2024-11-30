@@ -398,6 +398,7 @@ Why the default feature importance for random forests is wrong: [link](http://ex
 [merf](https://github.com/manifoldai/merf) - Mixed Effects Random Forest for Clustering, [video](https://www.youtube.com/watch?v=gWj4ZwB7f3o)  
 [groot](https://github.com/tudelft-cda-lab/GROOT) - Robust decision trees.  
 [linear-tree](https://github.com/cerlymarco/linear-tree) - Trees with linear models at the leaves.  
+[supertree](https://github.com/mljar/supertree) - Decision tree visualization.  
 
 #### Natural Language Processing (NLP) / Text Processing
 [talk](https://www.youtube.com/watch?v=6zm9NC9uRkk)-[nb](https://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb), [nb2](https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html), [talk](https://www.youtube.com/watch?time_continue=2&v=sI7VpFNiy_I).  
