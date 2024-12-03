@@ -130,6 +130,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 ##### Visualizations
 [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)  
 [Great Overview over Visualizations](https://textvis.lnu.se/)  
+[1 dataset, 100 visualizations](https://100.datavizproject.com/)  
 [Dependent Propabilities](https://static.laszlokorte.de/stochastic/)  
 [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)  
 [Correlation](https://rpsychologist.com/d3/correlation/)  
@@ -845,6 +846,9 @@ Other measures:
 
 #### Multi-label classification
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
+
+#### Critical AI Texts
+[Sublime - The Return of Pseudosciences in Artificial Intelligence: Have Machine Learning and Deep Learning Forgotten Lessons from Statistics and History?](https://arxiv.org/abs/2411.18656)  
 
 #### Signal Processing and Filtering
 [Stanford Lecture Series on Fourier Transformation](https://see.stanford.edu/Course/EE261), [Youtube](https://www.youtube.com/watch?v=gZNm7L96pfY&list=PLB24BC7956EE040CD&index=1), [Lecture Notes](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf).  
