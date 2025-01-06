@@ -869,6 +869,7 @@ Other measures:
 [geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.  
 
 #### Time Series
+[Time Series Anomaly Detection Review Paper](https://arxiv.org/abs/2412.20512)  
 [statsmodels](https://www.statsmodels.org/dev/tsa.html) - Time series analysis, [seasonal decompose](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html) [example](https://gist.github.com/balzer82/5cec6ad7adc1b550e7ee), [SARIMA](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html), [granger causality](http://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.grangercausalitytests.html).  
 [kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
 [prophet](https://github.com/facebook/prophet) - Time series prediction library by Facebook.  
