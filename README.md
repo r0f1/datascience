@@ -1141,6 +1141,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [dvc](https://github.com/iterative/dvc) - Version control for large files.  
 [kedro](https://github.com/quantumblacklabs/kedro) - Build data pipelines.  
 [feast](https://github.com/feast-dev/feast) - Feature store. [Video](https://www.youtube.com/watch?v=_omcXenypmo).  
+[pgvector](https://github.com/pgvector/pgvector) - Vector similarity search for Postgres.  
 [pinecone](https://www.pinecone.io/) - Database for vector search applications.  
 [truss](https://github.com/basetenlabs/truss) - Serve ML models.  
 [milvus](https://github.com/milvus-io/milvus) - Vector database for similarity search.  
