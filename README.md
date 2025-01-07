@@ -605,6 +605,7 @@ Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2
 [Intro to semi-supervised learning](https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html).  
 
 ##### Tutorials & Viewer
+[Google Tuning Playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models by Google.  
 [fast.ai course](https://course.fast.ai/) - Practical Deep Learning for Coders.  
 [Tensorflow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - Neural Network course by Google.  
 Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), [PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)  
