@@ -79,9 +79,13 @@
 
 ##### Datasets
 [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) - Collection of more than 2000 datasets, stored as csv files (R package).  
+[crimedatasets](https://lightbluetitan.github.io/crimedatasets/) - Datasets focused on crimes, criminal activities (R package).  
+[educationr](https://lightbluetitan.github.io/educationr/) - Datasets related to education (performance, learning methods, test scores, absenteeism) (R package).  
 [MedDataSets](https://lightbluetitan.github.io/meddatasets/index.html) - Datasets related to medicine, diseases, treatments, drugs, and public health (R package).  
-[usdatasets](https://lightbluetitan.github.io/usdatasets/) - US-exclusive datasets (crime, economics, education, finance, energy, healthcare) (R package).  
+[oncodatasets](https://lightbluetitan.github.io/oncodatasets/) - Datasets focused on cancer research, survival rates, genetic studies, biomarkers, epidemiology (R package).  
 [timeseriesdatasets_R](https://lightbluetitan.github.io/timeseriesdatasets_R/) - Time series datasets (R package).  
+[usdatasets](https://lightbluetitan.github.io/usdatasets/) - US-exclusive datasets (crime, economics, education, finance, energy, healthcare) (R package).  
+
 
 ##### p-values
 [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)  
