@@ -1180,7 +1180,8 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)  
 [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
 [Recommender Systems (Microsoft)](https://github.com/Microsoft/Recommenders)  
-[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)   
+[Datascience Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+[Applied AI](https://www.appliedaicourse.com/blog/) - Blog   
 
 ##### Guidelines 
 [datasharing](https://github.com/jtleek/datasharing) - Guide to data sharing.  
