@@ -183,6 +183,10 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [quartets](https://github.com/r-causal/quartets) - Anscombe’s Quartet, Causal Quartet, [Datasaurus Dozen](https://github.com/jumpingrivers/datasauRus) and others (R package).    
 [episensr](https://cran.r-project.org/web/packages/episensr/vignettes/episensr.html) - Quantitative Bias Analysis for Epidemiologic Data (=simulation of possible effects of different sources of bias) (R package).  
 
+#### Machine Learning Tutorials
+[Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)  
+[Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)  
+[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
@@ -217,9 +221,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [temporian](https://github.com/google/temporian) - Time series feature engineering by Google.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature-engine](https://github.com/feature-engine/feature_engine) - Encoders, transformers, etc.  
-
-#### Computer Vision
-[Intro to Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)  
 
 #### Feature Selection
 [Overview Paper](https://www.sciencedirect.com/science/article/pii/S016794731930194X), [Talk](https://www.youtube.com/watch?v=JsArBz46_3s), [Repo](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)    
@@ -309,6 +310,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
 [fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast histograms.  
 [matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams, [alternative](https://github.com/penrose/penrose).  
+[ridgeplot](https://github.com/tpvasconcelos/ridgeplot) - Ridge plots.  
 [joypy](https://github.com/sbebo/joypy) - Draw stacked density plots (=ridge plots), [Ridge plots in seaborn](https://seaborn.pydata.org/examples/kde_ridgeplot.html).  
 [mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
 [scikit-plot](https://github.com/reiinakano/scikit-plot) - ROC curves and other visualizations for ML models.  
@@ -601,7 +603,6 @@ Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2
 [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - Deep Learning Based Molecular Modelling and Prediction Toolkit.  
 
 #### Neural Networks
-[Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
 [mit6874](https://mit6874.github.io/) - Computational Systems Biology: Deep Learning in the Life Sciences.  
 [ConvNet Shape Calculator](https://madebyollin.github.io/convnet-calculator/) - Calculate output dimensions of Conv2D layer.  
 [Great Gradient Descent Article](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9).  
@@ -760,7 +761,6 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 Legate Numpy - Distributed Numpy array multiple using GPUs by Nvidia (not released yet) [video](https://www.youtube.com/watch?v=Jxxs_moibog).  
 
 #### Regression
-Good introduction: [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)  
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
 
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) - Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
@@ -768,7 +768,6 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [GLRM](https://github.com/madeleineudell/LowRankModels.jl) - Generalized Low Rank Models.  
 [tweedie](https://xgboost.readthedocs.io/en/latest/parameter.html#parameters-for-tweedie-regression-objective-reg-tweedie) - Specialized distribution for zero inflated targets, [Talk](https://www.youtube.com/watch?v=-o0lpHBq85I).  
 [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) - Estimating prediction intervals.  
-[Regressio](https://github.com/brendanartley/Regressio) - Regression and Spline models.  
 
 #### Polynomials
 [orthopy](https://github.com/nschloe/orthopy) - Orthogonal polynomials in all shapes and sizes.  
