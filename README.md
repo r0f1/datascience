@@ -336,6 +336,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [proplot](https://github.com/proplot-dev/proplot) - Matplotlib wrapper.  
 [morpheus](https://software.broadinstitute.org/morpheus/) - Broad Institute tool matrix visualization and analysis software. [Source](https://github.com/cmap/morpheus.js), Tutorial: [1](https://www.youtube.com/watch?v=0nkYDeekhtQ), [2](https://www.youtube.com/watch?v=r9mN6MsxUb0), [Code](https://github.com/broadinstitute/BBBC021_Morpheus_Exercise).  
 [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) - Interactive 2D scatter plot widget for Jupyter.  
+[fastplotlib](https://github.com/fastplotlib/fastplotlib) - Fast plotting library using pygfx.  
 
 #### Colors
 [palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
