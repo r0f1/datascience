@@ -805,6 +805,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [Overview of clustering algorithms applied image data (= Deep Clustering)](https://deepnotes.io/deep-clustering).  
 [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf).  
 [Hierarchical Cluster Analysis (R Tutorial)](https://uc-r.github.io/hc_clustering) - Dendrogram, Tanglegram  
+[Schubert - Stop using the elbow criterion for k-means and how to choose the number of clusters instead](https://arxiv.org/abs/2212.12189)  
 [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - Clustering algorithm, [talk](https://www.youtube.com/watch?v=dGsxd67IFiU), [blog](https://towardsdatascience.com/understanding-hdbscan-and-density-based-clustering-121dbee1320e).  
 [pyclustering](https://github.com/annoviko/pyclustering) - All sorts of clustering algorithms.  
 [FCPS](https://github.com/Mthrun/FCPS) -  Fundamental Clustering Problems Suite (R package).  
@@ -822,32 +823,30 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [DeepDPM](https://github.com/BGU-CS-VIL/DeepDPM) - Deep Clustering With An Unknown Number of Clusters.  
 
 ##### Clustering Evalutation
-[Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
-* [Adjusted Rand Index](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html)
-* [Normalized Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html)
-* [Adjusted Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html)
-* [Fowlkes-Mallows Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fowlkes_mallows_score.html)
-* [Silhouette Coefficient](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)
-* [Variation of Information](https://gist.github.com/jwcarr/626cbc80e0006b526688), [Julia](https://clusteringjl.readthedocs.io/en/latest/varinfo.html)
-* [Pair Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cluster.pair_confusion_matrix.html)
-* [Consensus Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.consensus_score.html) - The similarity of two sets of biclusters.
-
-[Assessing the quality of a clustering (video)](https://www.youtube.com/watch?v=Mf6MqIS2ql4)   
-[fpc](https://cran.r-project.org/web/packages/fpc/index.html) - Various methods for clustering and cluster validation (R package).  
-* Minimum distance between any two clusters
-* Distance between centroids
-* p-separation index: Like minimum distance. Look at the average distance to nearest point in different cluster for p=10% "border" points in any cluster. Measuring density, measuring mountains vs valleys
-* Estimate density by weighted count of close points 
-
-Other measures:
-* Within-cluster average distance
-* Mean of within-cluster average distance over nearest-cluster average distance (silhouette score)
-* Within-cluster similarity measure to normal/uniform
-* Within-cluster (squared) distance to centroid (this is the k-Means loss function)
-* Correlation coefficient between distance we originally had to the distance the are induced by the clustering (Huberts Gamma)
-* Entropy of cluster sizes
-* Average largest within-cluster gap
-* Variation of clusterings on bootstrapped data
+* [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
+  * [Adjusted Rand Index](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html)
+  * [Normalized Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html)
+  * [Adjusted Mutual Information](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html)
+  * [Fowlkes-Mallows Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fowlkes_mallows_score.html)
+  * [Silhouette Coefficient](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)
+  * [Variation of Information](https://gist.github.com/jwcarr/626cbc80e0006b526688), [Julia](https://clusteringjl.readthedocs.io/en/latest/varinfo.html)
+  * [Pair Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cluster.pair_confusion_matrix.html)
+  * [Consensus Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.consensus_score.html) - The similarity of two sets of biclusters.
+* [Assessing the quality of a clustering (video)](https://www.youtube.com/watch?v=Mf6MqIS2ql4)   
+* [fpc](https://cran.r-project.org/web/packages/fpc/index.html) - Various methods for clustering and cluster validation (R package).  
+  * Minimum distance between any two clusters
+  * Distance between centroids
+  * p-separation index: Like minimum distance. Look at the average distance to nearest point in different cluster for p=10% "border" points in any cluster. Measuring density, measuring mountains vs valleys
+  * Estimate density by weighted count of close points 
+* Other measures:
+  * Within-cluster average distance
+  * Mean of within-cluster average distance over nearest-cluster average distance (silhouette score)
+  * Within-cluster similarity measure to normal/uniform
+  * Within-cluster (squared) distance to centroid (this is the k-Means loss function)
+  * Correlation coefficient between distance we originally had to the distance the are induced by the clustering (Huberts Gamma)
+  * Entropy of cluster sizes
+  * Average largest within-cluster gap
+  * Variation of clusterings on bootstrapped data
 
 #### Multi-label classification
 [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification, [talk](https://www.youtube.com/watch?v=m-tAASQA7XQ&t=18m57s).  
