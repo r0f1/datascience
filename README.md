@@ -193,11 +193,13 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean messy column names.  
 [skimpy](https://github.com/aeturrell/skimpy) - Create summary statistics of dataframes. Helpful `clean_columns()` function.  
 [pandera](https://github.com/unionai-oss/pandera) - Data / Schema validation.  
+[dataframely](https://github.com/Quantco/dataframely) - Data / Schema validation.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
 [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) - Time series preprocessing: Denoising, Compression, Resampling.  
 [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Utility functions (`OneHotEncoder(min_obs=100)`)  
+[skrub](https://github.com/skrub-data/skrub) - Bridge the gap between tabular data sources and machine-learning models.  
 
 #### Noisy Labels
 [cleanlab](https://github.com/cleanlab/cleanlab) - Machine learning with noisy labels, finding mislabelled data, and uncertainty quantification. Also see awesome list below.  
@@ -213,7 +215,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.  
 [scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.  
 [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables, [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).  
-[dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding dirty categorical variables.  
 [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.  
 [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) - LDA.  
 [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).  
