@@ -77,6 +77,9 @@
 
 #### Classical Statistics
 
+##### Books
+[Models Demystified](https://m-clark.github.io/book-of-models/) - From Linear Regression to Deep Learning. [Github](https://github.com/m-clark/book-of-models).  
+
 ##### Datasets
 [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) - Collection of more than 2000 datasets, stored as csv files (R package).  
 [crimedatasets](https://lightbluetitan.github.io/crimedatasets/) - Datasets focused on crimes, criminal activities (R package).  
@@ -764,6 +767,7 @@ Legate Numpy - Distributed Numpy array multiple using GPUs by Nvidia (not releas
 
 #### Regression
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
+[Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/) - Tutorial in R.  
 
 [pyearth](https://github.com/scikit-learn-contrib/py-earth) - Multivariate Adaptive Regression Splines (MARS), [tutorial](https://uc-r.github.io/mars).  
 [pygam](https://github.com/dswah/pyGAM) - Generalized Additive Models (GAMs), [Explanation](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/).  
@@ -987,6 +991,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [Marginal Effects Tutorial](https://marginaleffects.com/vignettes/gcomputation.html) - Marginal Effects, g-computation and more.  
 [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [R](https://bookdown.org/content/4857/), [python](https://github.com/pymc-devs/resources/tree/master/Rethinking_2), [numpyro1](https://github.com/asuagar/statrethink-course-numpyro-2019), [numpyro2](https://fehiepsi.github.io/rethinking-numpyro/), [tensorflow-probability](https://github.com/ksachdeva/rethinking-tensorflow-probability).  
 [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)  
+[Structual Equation Modeling](https://m-clark.github.io/sem/) - Tutorial in R.  
 [dowhy](https://github.com/py-why/dowhy) - Estimate causal effects.  
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).  
