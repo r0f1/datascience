@@ -288,7 +288,7 @@ Additional plots for PCA - Factor Loadings, Cumulative Variance Explained, [Corr
 [sklearn.random_projection](https://scikit-learn.org/stable/modules/random_projection.html) - Johnson-Lindenstrauss lemma, Gaussian random projection, Sparse random projection.  
 [sklearn.cross_decomposition](https://scikit-learn.org/stable/modules/cross_decomposition.html#cross-decomposition) - Partial least squares, supervised estimators for dimensionality reduction and regression.  
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
-Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [FIt-SNE](https://github.com/KlugerLab/FIt-SNE)
+Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [FIt-SNE](https://github.com/KlugerLab/FIt-SNE)  
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
 [humap](https://github.com/wilsonjr/humap) - Hierarchical UMAP.  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
