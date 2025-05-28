@@ -14,6 +14,7 @@
 
 #### General Python Programming
 [uv](https://github.com/astral-sh/uv) - Dependency management.  
+[pdm](https://pdm-project.org/en/latest/) - For large binary distributions, works with uv.  
 [just](https://github.com/casey/just) - Command runner. Replacement for make.  
 [python-dotenv](https://github.com/theskumar/python-dotenv) - Manage environment variables.  
 [structlog](https://github.com/hynek/structlog) - Python logging.  
