@@ -30,6 +30,7 @@
 [duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
 [daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame.  
 [quak](https://github.com/manzt/quak) - Scalable, interactive data table, [twitter](https://x.com/trevmanz/status/1816760923949809982).  
+[pygwalker](https://github.com/Kanaries/pygwalker) - Interactive dataframe.  
 
 #### Pandas Parallelization
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
