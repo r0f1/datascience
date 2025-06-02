@@ -200,7 +200,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean messy column names.  
 [skimpy](https://github.com/aeturrell/skimpy) - Create summary statistics of dataframes. Helpful `clean_columns()` function.  
 [pandera](https://github.com/unionai-oss/pandera) - Data / Schema validation.  
-[dataframely](https://github.com/Quantco/dataframely) - Data / Schema validation.  
+[dataframely](https://github.com/Quantco/dataframely) - Data / Schema validation. 
+[pointblank](https://github.com/posit-dev/pointblank) - Data / Schema validation.
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
