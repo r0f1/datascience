@@ -100,6 +100,7 @@
 [Rubin - That's not a two-sided test! It's two one-sided tests! (TOST)](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01405)  
 [Lakens - How were we supposed to move beyond  p < .05, and why didn’t we?](https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/)  
 [McShane et al. - Abandon Statistical Significance](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1527253)  
+[Ho et al. - Moving beyond P values data analysis with estimation graphics](https://www.researchgate.net/publication/333884529_Moving_beyond_P_values_data_analysis_with_estimation_graphics)  
 
 ##### Correlation
 [Guess the Correlation](https://www.guessthecorrelation.com/) - Correlation guessing game.  
@@ -141,6 +142,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [1 dataset, 100 visualizations](https://100.datavizproject.com/)  
 [Dependent Propabilities](https://static.laszlokorte.de/stochastic/)  
 [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)  
+[estimationstats](https://www.estimationstats.com/) - Online Tool for visualizing mean differences, effect sizes (Cohen's d) and others.  
 [Correlation](https://rpsychologist.com/d3/correlation/)  
 [Cohen's d](https://rpsychologist.com/d3/cohend/)  
 [Confidence Interval](https://rpsychologist.com/d3/CI/)  
