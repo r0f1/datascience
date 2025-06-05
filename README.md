@@ -117,6 +117,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 [StatCheck](https://statcheck.steveharoz.com/) - Extract statistics from articles and recompute p-values (R package).  
 [TOSTER](https://github.com/Lakens/TOSTER) - TOST equivalence test and power functions (R package).  
+[DABEST-python](https://github.com/ACCLAB/DABEST-python) - Mean difference plots.  
 
 ##### Effect Size
 [Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris, [Twitter](https://twitter.com/MatthewBJane/status/1742588609025200557)    
