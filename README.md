@@ -30,32 +30,27 @@
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
 [duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
 [daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame.  
-[quak](https://github.com/manzt/quak) - Scalable, interactive data table, [twitter](https://x.com/trevmanz/status/1816760923949809982).  
-[pygwalker](https://github.com/Kanaries/pygwalker) - Interactive dataframe.  
-
-#### Pandas Parallelization
-[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
-[pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.  
-[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster.   
+[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
+[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster (works with modin). 
+
+#### Interactive Dataframe Visualization
+[pygwalker](https://github.com/Kanaries/pygwalker) - Interactive dataframe.  
+[marimo](https://github.com/marimo-team/marimo) - Visualization and reproducible environment.  
+[lux](https://github.com/lux-org/lux) - DataFrame visualization within Jupyter.  
+[dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
+[pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
+[quak](https://github.com/manzt/quak) - Scalable, interactive data table, [twitter](https://x.com/trevmanz/status/1816760923949809982).  
 
 #### Environment and Jupyter
 [Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
-[ipyflow](https://github.com/ipyflow/ipyflow) - IPython kernel for Jupyter with additional features.  
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
 [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks, [tutorial](https://pbpython.com/papermil-rclone-report-1.html).  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
 [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks into presentations.  
-[qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
-[lux](https://github.com/lux-org/lux) - DataFrame visualization within Jupyter.  
-[pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
-[dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
-[itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.  
 [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.  
 [notebooker](https://github.com/man-group/notebooker) - Productionize and schedule Jupyter Notebooks.  
-[bamboolib](https://github.com/tkrabel/bamboolib) - Intuitive GUI for tables.  
-[voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications.  
-[voila-gridstack](https://github.com/voila-dashboards/voila-gridstack) - Voila grid layout.  
+[voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications. [Voila grid layout](https://github.com/voila-dashboards/voila-gridstack).  
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
