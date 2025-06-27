@@ -130,6 +130,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [pwrss](https://cran.r-project.org/web/packages/pwrss/index.html) - Statistical Power and Sample Size Calculation Tools (R package), [Tutorial with t-test](https://rpubs.com/metinbulus/welch)  
 
 ##### Interim Analyses / Sequential Analysis / Stopping
+[Stop Early Stopping](https://stop-early-stopping.osc.garden/) - Nice visualization
 [Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis) - Wikipedia.  
 [sequential](https://cran.r-project.org/web/packages/Sequential/Sequential.pdf) - Exact Sequential Analysis for Poisson and Binomial Data (R package).  
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
@@ -141,6 +142,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Dependent Propabilities](https://static.laszlokorte.de/stochastic/)  
 [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)  
 [estimationstats](https://www.estimationstats.com/) - Online Tool for visualizing mean differences, effect sizes (Cohen's d) and others.  
+[Sample Size / Duration Calculator](https://calculator.osc.garden/)  
 [Correlation](https://rpsychologist.com/d3/correlation/)  
 [Cohen's d](https://rpsychologist.com/d3/cohend/)  
 [Confidence Interval](https://rpsychologist.com/d3/CI/)  
