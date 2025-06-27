@@ -116,7 +116,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [DABEST-python](https://github.com/ACCLAB/DABEST-python) - Mean difference plots.  
 
 ##### Effect Size
-[MOTE Effect Size Calculator](https://www.aggieerin.com/shiny-server/) - [Shiny App](https://doomlab.shinyapps.io/mote/), [R package](https://github.com/doomlab/MOTE)
+[MOTE Effect Size Calculator](https://www.aggieerin.com/shiny-server/) - [Shiny App](https://doomlab.shinyapps.io/mote/), [R package](https://github.com/doomlab/MOTE)  
 [Estimating Effect Sizes From Pretest-Posttest-Control Group Designs](https://journals.sagepub.com/doi/epdf/10.1177/1094428106291059) - Scott B. Morris, [Twitter](https://twitter.com/MatthewBJane/status/1742588609025200557)    
 
 ##### Statistical Tests
