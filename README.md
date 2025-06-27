@@ -438,7 +438,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [textdistance](https://github.com/life4/textdistance) - Collection for comparing distances between two or more sequences.  
 
 #### Bio Image Analysis
-[Lee et al. - A beginner's guide to rigor and reproducibility in fluorescence imaging experiments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080651/)
+[Lee et al. - A beginner's guide to rigor and reproducibility in fluorescence imaging experiments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080651/)  
 [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata)  
 
 ##### Tutorials
