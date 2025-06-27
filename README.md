@@ -993,6 +993,8 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking.  
 
 #### Causal Inference
+
+##### Texts
 [Chatton et al. - The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization](https://journals.sagepub.com/doi/10.1177/25152459241236149)  
 [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) - Video Lecture Series, Bayesian Statistics, Causal Models, [R](https://bookdown.org/content/4857/), [python](https://github.com/pymc-devs/resources/tree/master/Rethinking_2), [numpyro1](https://github.com/asuagar/statrethink-course-numpyro-2019), [numpyro2](https://fehiepsi.github.io/rethinking-numpyro/), [tensorflow-probability](https://github.com/ksachdeva/rethinking-tensorflow-probability).  
 [Naimi et al. - An introduction to g methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)  
@@ -1001,6 +1003,10 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)  
 [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) - Book  
 [Structual Equation Modeling](https://m-clark.github.io/sem/) - Tutorial in R.  
+
+##### Tools
+[pecan](https://pecan-tool.rpsychologist.com/) - Online tool for building interactive perceived causal networks.  
+[dagitty](https://www.dagitty.net/) - Build causal DAG.  
 [dowhy](https://github.com/py-why/dowhy) - Estimate causal effects.  
 [CausalImpact](https://github.com/tcassou/causal_impact) - Causal Impact Analysis ([R package](https://google.github.io/CausalImpact/CausalImpact.html)).  
 [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations by IBM, [examples](https://github.com/IBM/causallib/tree/master/examples).  
