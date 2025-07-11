@@ -34,6 +34,9 @@
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
 [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster (works with modin). 
 
+#### Tables
+[great-tables](https://github.com/posit-dev/great-tables) - Display tabular data nicely.  
+
 #### Interactive Dataframe Visualization
 [pygwalker](https://github.com/Kanaries/pygwalker) - Interactive dataframe.  
 [marimo](https://github.com/marimo-team/marimo) - Visualization and reproducible environment.  
@@ -86,7 +89,6 @@
 [oncodatasets](https://lightbluetitan.github.io/oncodatasets/) - Datasets focused on cancer research, survival rates, genetic studies, biomarkers, epidemiology (R package).  
 [timeseriesdatasets_R](https://lightbluetitan.github.io/timeseriesdatasets_R/) - Time series datasets (R package).  
 [usdatasets](https://lightbluetitan.github.io/usdatasets/) - US-exclusive datasets (crime, economics, education, finance, energy, healthcare) (R package).  
-
 
 ##### p-values
 [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)  
