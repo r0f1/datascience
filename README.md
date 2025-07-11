@@ -103,6 +103,9 @@
 [phik](https://github.com/kaveio/phik) - Correlation between categorical, ordinal and interval variables.  
 [hoeffd](https://search.r-project.org/CRAN/refmans/Hmisc/html/hoeffd.html) - Hoeffding's D Statistics, measure of dependence (R package).  
 
+##### Confidence Intervals
+[Morey - The fallacy of placing confidence in confidence intervals](https://link.springer.com/article/10.3758/s13423-015-0947-8)  
+
 ##### Packages
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
 [linearmodels](https://github.com/bashtage/linearmodels) - Instrumental variable and panel data models.  
