@@ -99,6 +99,7 @@
 [Lakens - How were we supposed to move beyond  p < .05, and why didn’t we?](https://errorstatistics.com/2024/07/01/guest-post-daniel-lakens-how-were-we-supposed-to-move-beyond-p-05-and-why-didnt-we-thoughts-on-abandon-statistical-significance-5-years-on/)  
 [McShane et al. - Abandon Statistical Significance](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1527253)  
 [Ho et al. - Moving beyond P values data analysis with estimation graphics](https://www.researchgate.net/publication/333884529_Moving_beyond_P_values_data_analysis_with_estimation_graphics)  
+[Lakens - The probability of p-values as a function of the statistical power of a test](https://daniellakens.blogspot.com/2014/05/the-probability-of-p-values-as-function.html) - p-value distribution is right-skewed and becomes even more skewed the higher the power of the test.  
 
 ##### Correlation
 [Guess the Correlation](https://www.guessthecorrelation.com/) - Correlation guessing game.  
