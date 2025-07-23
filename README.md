@@ -13,6 +13,7 @@
 [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - VSCode plugin to display .csv files with nice colors.  
 
 #### General Python Programming
+[Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/) - Generics, Protocols, Structural Pattern Matching and more.  
 [uv](https://github.com/astral-sh/uv) - Dependency management.  
 [pdm](https://pdm-project.org/en/latest/) - For large binary distributions, works with uv.  
 [just](https://github.com/casey/just) - Command runner. Replacement for make.  
