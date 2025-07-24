@@ -56,6 +56,9 @@
 [notebooker](https://github.com/man-group/notebooker) - Productionize and schedule Jupyter Notebooks.  
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications. [Voila grid layout](https://github.com/voila-dashboards/voila-gridstack).  
 
+#### Jupyter Alternatives
+[positron](https://github.com/posit-dev/positron) - Data Science IDE.  
+
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
 
