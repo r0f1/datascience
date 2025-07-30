@@ -711,6 +711,9 @@ Feature Visualization: [Blog](https://distill.pub/2017/feature-visualization/), 
 [netron](https://github.com/lutzroeder/netron) - Viewer for neural networks.  
 [visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualize Keras networks.  
 
+##### Computer Vision General
+[roboflow](https://github.com/roboflow/supervision) - Reusable computer vision tools.  
+
 ##### Object detection / Instance Segmentation
 [Metrics reloaded: Recommendations for image analysis validation](https://arxiv.org/abs/2206.01653) - Guide for choosing correct image analysis metrics, [Code](https://github.com/Project-MONAI/MetricsReloaded), [Twitter Thread](https://twitter.com/lena_maierhein/status/1625450342006521857)  
 [Good Yolo Explanation](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)  
