@@ -209,6 +209,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)  
 [Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)  
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
+[Intuition for the Algorithms in Machine Learning](https://www.youtube.com/watch?v=7o9TMQAHgkQ&list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f&index=1) - Lecture Series.  
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
