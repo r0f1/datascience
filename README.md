@@ -328,37 +328,22 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
 
 #### Visualization
-[All charts](https://datavizproject.com/), [Austrian monuments](https://github.com/njanakiev/austrian-monuments-visualization).  
-[Better heatmaps and correlation plots](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec).  
-[Example notebooks for interactive visualizations](https://github.com/nicolaskruchten/pydata_global_2021/tree/main)(Plotly,Seaborn, Holoviz, Altair)  
-[cufflinks](https://github.com/santosjorge/cufflinks) - Dynamic visualization library, wrapper for [plotly](https://plot.ly/), [medium](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e), [example](https://github.com/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb).  
+[All charts](https://datavizproject.com/)  
 [physt](https://github.com/janpipek/physt) - Better histograms, [talk](https://www.youtube.com/watch?v=ZG-wH3-Up9Y), [notebook](https://nbviewer.jupyter.org/github/janpipek/pydata2018-berlin/blob/master/notebooks/talk.ipynb).  
 [fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast histograms.  
-[matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams, [alternative](https://github.com/penrose/penrose).  
+[matplotlib_venn](https://github.com/konstantint/matplotlib-venn) - Venn diagrams.  
+[penrose](https://github.com/penrose/penrose) - Venn diagrams.  
 [ridgeplot](https://github.com/tpvasconcelos/ridgeplot) - Ridge plots.  
-[joypy](https://github.com/sbebo/joypy) - Draw stacked density plots (=ridge plots), [Ridge plots in seaborn](https://seaborn.pydata.org/examples/kde_ridgeplot.html).  
 [mosaic plots](https://www.statsmodels.org/dev/generated/statsmodels.graphics.mosaicplot.mosaic.html) - Categorical variable visualization, [example](https://sukhbinder.wordpress.com/2018/09/18/mosaic-plot-in-python/).  
-[scikit-plot](https://github.com/reiinakano/scikit-plot) - ROC curves and other visualizations for ML models.  
 [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visualizations for ML models (similar to scikit-plot).  
-[bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
+[bokeh](https://github.com/bokeh/bokeh) - Interactive visualization library, [Examples](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html), [Examples](https://github.com/WillKoehrsen/Bokeh-Python-Visualization).  
 [lets-plot](https://github.com/JetBrains/lets-plot) - Plotting library.  
-[animatplot](https://github.com/t-makaro/animatplot) - Animate plots build on matplotlib.  
 [plotnine](https://github.com/has2k1/plotnine) - ggplot for Python.  
-[altair](https://altair-viz.github.io/) - Declarative statistical visualization library.  
-[bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.  
+[altair](https://github.com/vega/altair) - Declarative statistical visualization library.  
 [hvplot](https://github.com/pyviz/hvplot) - High-level plotting library built on top of [holoviews](http://holoviews.org/).  
 [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.  
-[chartify](https://github.com/spotify/chartify/) - Generate charts.  
-[VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph visualization (JS package).  
-[pm](https://github.com/anvaka/pm) - Navigatable 3D graph visualization (JS package).  
-[python-ternary](https://github.com/marcharper/python-ternary) - Triangle plots.  
-[falcon](https://github.com/uwdata/falcon) - Interactive visualizations for big data.  
-[hiplot](https://github.com/facebookresearch/hiplot) - High dimensional Interactive Plotting.  
-[visdom](https://github.com/fossasia/visdom) - Live Visualizations.  
 [mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - Scatter density plots. Alternative to 2d-histograms.   
 [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) - Complex heatmaps for multidimensional genomic data (R package).  
-[largeVis](https://github.com/elbamos/largeVis) - Visualize embeddings (t-SNE etc.) (R package).  
-[proplot](https://github.com/proplot-dev/proplot) - Matplotlib wrapper.  
 [morpheus](https://software.broadinstitute.org/morpheus/) - Broad Institute tool matrix visualization and analysis software. [Source](https://github.com/cmap/morpheus.js), Tutorial: [1](https://www.youtube.com/watch?v=0nkYDeekhtQ), [2](https://www.youtube.com/watch?v=r9mN6MsxUb0), [Code](https://github.com/broadinstitute/BBBC021_Morpheus_Exercise).  
 [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) - Interactive 2D scatter plot widget for Jupyter.  
 [fastplotlib](https://github.com/fastplotlib/fastplotlib) - Fast plotting library using pygfx.  
