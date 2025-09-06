@@ -893,7 +893,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [kats](https://github.com/facebookresearch/kats) - Time series prediction library by Facebook.  
 [prophet](https://github.com/facebook/prophet) - Time series prediction library by Facebook.  
 [neural_prophet](https://github.com/ourownstory/neural_prophet) - Time series prediction built on PyTorch.  
-[pyramid](https://github.com/tgsmith61591/pyramid), [pmdarima](https://github.com/tgsmith61591/pmdarima) - Wrapper for (Auto-) ARIMA.  
+[pmdarima](https://github.com/alkaline-ml/pmdarima) - Wrapper for (Auto-) ARIMA.  
 [modeltime](https://cran.r-project.org/web/packages/modeltime/index.html) - Time series forecasting framework (R package).  
 [pyflux](https://github.com/RJT1990/pyflux) - Time series prediction algorithms (ARIMA, GARCH, GAS, Bayesian).  
 [atspy](https://github.com/firmai/atspy) - Automated Time Series Models.  
@@ -929,6 +929,13 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
 [etna](https://github.com/tinkoff-ai/etna) - Time Series library.  
 [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.  
+
+#### Time Series - Nixla
+[nixtla](https://github.com/Nixtla/nixtla) - Pre-trained Time Series Foundation Model for forecasting and anomaly detection.  
+[statsforecast](https://github.com/Nixtla/statsforecast) - Forecasting with statistical and econometric models.  
+[neuralforecast](https://github.com/Nixtla/neuralforecast) - Forecasting with neural networks.  
+[mlforecast](https://github.com/Nixtla/mlforecast) - Forecasting with ML models.  
+[hierarchicalforecast](https://github.com/Nixtla/hierarchicalforecast) - Hierarchical forecasting with statistical and econometric methods.  
 
 ##### Time Series Evaluation
 [TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html) - Sklearn time series split.  
