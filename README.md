@@ -323,6 +323,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [DBS](https://cran.r-project.org/web/packages/DatabionicSwarm/vignettes/DatabionicSwarm.html) - DatabionicSwarm (R package).  
 [contrastive](https://github.com/abidlabs/contrastive) - Contrastive PCA.  
 [scPCA](https://github.com/PhilBoileau/scPCA) - Sparse contrastive PCA (R package).  
+[generalized_contrastive_PCA](https://github.com/SjulsonLab/generalized_contrastive_PCA) - Generalized contrastive PCA.  
 [tmap](https://github.com/reymond-group/tmap) - Visualization library for large, high-dimensional data sets.  
 [lollipop](https://github.com/neurodata/lollipop) - Linear Optimal Low Rank Projection.  
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
