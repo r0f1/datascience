@@ -93,6 +93,7 @@
 [oncodatasets](https://lightbluetitan.github.io/oncodatasets/) - Datasets focused on cancer research, survival rates, genetic studies, biomarkers, epidemiology (R package).  
 [timeseriesdatasets_R](https://lightbluetitan.github.io/timeseriesdatasets_R/) - Time series datasets (R package).  
 [usdatasets](https://lightbluetitan.github.io/usdatasets/) - US-exclusive datasets (crime, economics, education, finance, energy, healthcare) (R package).  
+[economic datasets](https://captgouda24.github.io/nicholas-decker.github.io/datasets.html) - Economic datasets.  
 
 ##### p-values
 [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)  
@@ -1257,6 +1258,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
 [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)  
 [Awesome Public APIs](https://github.com/public-apis/public-apis)  
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
