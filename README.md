@@ -124,7 +124,7 @@
 Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandaltman.html), [2](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.  
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 [StatCheck](https://statcheck.steveharoz.com/) - Extract statistics from articles and recompute p-values (R package).  
-[TOSTER](https://github.com/Lakens/TOSTER) - TOST equivalence test and power functions (R package).  
+[tost](https://pingouin-stats.org/build/html/generated/pingouin.tost.html) - Two One-Sided Test (TOST) for equivalence.  
 [DABEST-python](https://github.com/ACCLAB/DABEST-python) - Mean difference plots.  
 
 ##### Effect Size
