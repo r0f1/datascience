@@ -24,6 +24,7 @@
 [hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
 
 #### Pandas Tricks, Alternatives and Additions
+[fireducks](https://github.com/fireducks-dev/fireducks) - Speedier alternative to pandas with similar API.  
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
 [polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
