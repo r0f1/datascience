@@ -352,6 +352,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) - Interactive 2D scatter plot widget for Jupyter.  
 [fastplotlib](https://github.com/fastplotlib/fastplotlib) - Fast plotting library using pygfx.  
 [datamapplot](https://github.com/TutteInstitute/datamapplot) - Interactive 2D scatter plot.  
+[SandDance](https://github.com/microsoft/SandDance) - Interactive visualization tool from Microsoft.  
 
 #### Colors
 [palettable](https://github.com/jiffyclub/palettable) - Color palettes from [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).  
