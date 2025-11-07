@@ -24,13 +24,14 @@
 [hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
 
 #### Pandas Tricks, Alternatives and Additions
+[duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame, [great article](https://codecut.ai/deep-dive-into-duckdb-data-scientists/).  
+[ducklake](https://github.com/duckdb/ducklake) - Duckdb extention for storing data in a datalake.  
 [fireducks](https://github.com/fireducks-dev/fireducks) - Speedier alternative to pandas with similar API.  
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
 [polars](https://github.com/pola-rs/polars) - Multi-threaded alternative to pandas.  
 [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
 [mlx](https://github.com/ml-explore/mlx) - An array framework for Apple silicon.  
 [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.   
-[duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame.  
 [daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
