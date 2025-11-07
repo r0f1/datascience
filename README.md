@@ -58,7 +58,7 @@
 [voila](https://github.com/QuantStack/voila) - Turn Jupyter notebooks into standalone web applications. [Voila grid layout](https://github.com/voila-dashboards/voila-gridstack).  
 
 #### Jupyter Alternatives
-[positron](https://github.com/posit-dev/positron) - Data Science IDE.
+[positron](https://github.com/posit-dev/positron) - Data Science IDE.  
 [Deepnote](https://deepnote.com) - AI native data science platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations. 
 
 #### Extraction
