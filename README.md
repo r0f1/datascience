@@ -59,7 +59,7 @@
 
 #### Jupyter Alternatives
 [positron](https://github.com/posit-dev/positron) - Data Science IDE.  
-[Deepnote](https://deepnote.com) - AI native data science platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations. 
+[Deepnote](https://deepnote.com) - Data Science platform with real-time collaboration, environment management.  
 
 #### Extraction
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
