@@ -151,6 +151,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
 
 ##### Visualizations
+[The Art of Data Visualization with ggplot2, The TidyTuesday Cookbook](https://nrennie.rbind.io/art-of-viz/)  
 [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - Nice charts with tidyverse (R package).  
 [tidytuesday](https://github.com/rfordatascience/tidytuesday) - Weekly challenge for visualization and lots of publicly available datasets for practice.  
 [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)  
