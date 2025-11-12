@@ -24,7 +24,7 @@
 [hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
 
 #### Pandas Tricks, Alternatives and Additions
-[duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame, [great article](https://codecut.ai/deep-dive-into-duckdb-data-scientists/).  
+[duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame, [duckplyr](https://github.com/tidyverse/duckplyr/) for R, [Great Intro](https://codecut.ai/deep-dive-into-duckdb-data-scientists/).  
 [ducklake](https://github.com/duckdb/ducklake) - Duckdb extention for storing data in a datalake.  
 [fireducks](https://github.com/fireducks-dev/fireducks) - Speedier alternative to pandas with similar API.  
 [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.  
