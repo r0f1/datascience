@@ -8,6 +8,7 @@
 [matplotlib](https://matplotlib.org/) - Plotting library.  
 [seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib.  
 [ydata-profiling](https://github.com/ydataai/ydata-profiling) - Descriptive statistics using `ProfileReport`.  
+[desbordante](https://github.com/desbordante/desbordante-core) - Targets discovery and validation of complex data patterns, unlike YData Profiling’s surface‑level stats.  
 [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
 [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - VSCode plugin to display .csv files with nice colors.  
