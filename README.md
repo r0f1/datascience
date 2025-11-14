@@ -536,6 +536,7 @@ AutoUnmix - [Link](https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1.f
 [atomai](https://github.com/pycroscopy/atomai) - Deep and Machine Learning for Microscopy.  
 [py-clesperanto](https://github.com/clesperanto/pyclesperanto_prototype/) - Tools for 3D microscopy analysis, [deskewing](https://github.com/clEsperanto/pyclesperanto_prototype/blob/master/demo/transforms/deskew.ipynb) and lots of other tutorials, interacts with napari.  
 [qupath](https://github.com/qupath/qupath) - Image analysis.  
+[Skyulf](https://github.com/flyingriverhorse/Skyulf) – An open-source MLOps web app for orchestrating data pipelines and model training workflows with react flow UI.
 
 ##### Microscopy Pipelines
 Labsyspharm Stack see below.  
