@@ -299,6 +299,7 @@ UMAP - [link](https://github.com/lmcinnes/umap)
 Random Projection - [link](https://scikit-learn.org/stable/modules/random_projection.html)  
 Ivis - [link](https://github.com/beringresearch/ivis)   
 SimCLR - [link](https://github.com/lightly-ai/lightly)  
+pymde - Minimum-distortion embedding with PyTorch, [link](https://github.com/cvxgrp/pymde)
 
 ##### Neural-network based
 [esvit](https://github.com/microsoft/esvit) - Vision Transformers for Representation Learning (Microsoft).  
@@ -333,6 +334,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [lollipop](https://github.com/neurodata/lollipop) - Linear Optimal Low Rank Projection.  
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
 [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
+[datamapplot](https://github.com/TutteInstitute/datamapplot) - Tool for visualizing high dimensional data.  
 
 #### Visualization
 [All charts](https://datavizproject.com/)  
