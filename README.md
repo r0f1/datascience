@@ -120,7 +120,7 @@
 ##### Packages
 [statsmodels](https://www.statsmodels.org/stable/index.html) - Statistical tests.  
 [linearmodels](https://github.com/bashtage/linearmodels) - Instrumental variable and panel data models.  
-[nomograms](https://hbiostat.org/bbr/rmsintro.html#nomograms-overall-depiction-of-fitted-models) - Visualization for liniar models, [explanation](https://stats.stackexchange.com/a/155433/285504) (Part of rms R package)  
+[nomograms](https://hbiostat.org/bbr/rmsintro.html#nomograms-overall-depiction-of-fitted-models) - Visualization for linear models, [explanation](https://stats.stackexchange.com/a/155433/285504) (Part of rms R package)  
 [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests. [Pairwise correlation between columns of pandas DataFrame](https://pingouin-stats.org/generated/pingouin.pairwise_corr.html)   
 [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.  
 [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.   
