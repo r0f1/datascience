@@ -151,9 +151,6 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [confseq](https://github.com/gostevehoward/confseq) - Uniform boundaries, confidence sequences, and always-valid p-values.  
 
 ##### Visualizations
-[The Art of Data Visualization with ggplot2, The TidyTuesday Cookbook](https://nrennie.rbind.io/art-of-viz/)  
-[z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - Nice charts with tidyverse (R package).  
-[tidytuesday](https://github.com/rfordatascience/tidytuesday) - Weekly challenge for visualization and lots of publicly available datasets for practice.  
 [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)  
 [Great Overview over Visualizations](https://textvis.lnu.se/)  
 [1 dataset, 100 visualizations](https://100.datavizproject.com/)  
@@ -169,6 +166,13 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
 [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)  
 [Statistical Power and Sample Size Calculation Tools](https://pwrss.shinyapps.io/index/)  
+
+##### Tidy Tuesday
+[The Art of Data Visualization with ggplot2, The TidyTuesday Cookbook](https://nrennie.rbind.io/art-of-viz/)  
+[Best Practices for Data Visualization](Best Practices for Data Visualisation)  
+[tidytuesday](https://github.com/rfordatascience/tidytuesday) - Weekly challenge for visualization and lots of publicly available datasets for practice.  
+[z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - Nice charts (R).  
+[nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) - Nice charts (R).  
 
 ##### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
@@ -1266,7 +1270,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
 [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)  
 [Awesome Public APIs](https://github.com/public-apis/public-apis)  
-[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)  
 [Awesome Python](https://github.com/vinta/awesome-python)   
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
@@ -1278,8 +1282,6 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell)  
 [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
 [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
-[Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
-[Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)  
 [Awesome Visual Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)  
 [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)  
 
