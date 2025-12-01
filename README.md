@@ -790,6 +790,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 Legate Numpy - Distributed Numpy array multiple using GPUs by Nvidia (not released yet) [video](https://www.youtube.com/watch?v=Jxxs_moibog).  
 
 #### Regression
+Ordinal Regression: [paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.10208)  
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
 [Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/) - Tutorial in R.  
 
