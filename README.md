@@ -169,10 +169,11 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 
 ##### Tidy Tuesday
 [The Art of Data Visualization with ggplot2, The TidyTuesday Cookbook](https://nrennie.rbind.io/art-of-viz/)  
-[Best Practices for Data Visualization](Best Practices for Data Visualisation)  
+[Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)  
 [tidytuesday](https://github.com/rfordatascience/tidytuesday) - Weekly challenge for visualization and lots of publicly available datasets for practice.  
 [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - Nice charts (R).  
 [nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) - Nice charts (R).  
+[poncest/tidytuesday](https://github.com/poncest/tidytuesday) - Nice charts (R).  
 
 ##### Talks
 [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)  
