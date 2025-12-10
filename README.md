@@ -975,6 +975,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio optimization and strategic asset allocation.  
 [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal.  
 [mplfinance](https://github.com/matplotlib/mplfinance) - Financial markets data visualization.  
+[fdnpy](https://github.com/financialdatanet/fdnpy) - Stock Market and Financial Data. 
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
