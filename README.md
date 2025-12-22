@@ -128,7 +128,8 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)  
 [StatCheck](https://statcheck.steveharoz.com/) - Extract statistics from articles and recompute p-values (R package).  
 [tost](https://pingouin-stats.org/build/html/generated/pingouin.tost.html) - Two One-Sided Test (TOST) for equivalence.  
-[DABEST-python](https://github.com/ACCLAB/DABEST-python) - Mean difference plots.  
+[DABEST-python](https://github.com/ACCLAB/DABEST-python) - Mean difference plots.    
+[Durga](https://github.com/KhanKawsar/EstimationPlot) - Mean difference plots (R package).  
 
 ##### Effect Size
 [MOTE Effect Size Calculator](https://www.aggieerin.com/shiny-server/) - [Shiny App](https://doomlab.shinyapps.io/mote/), [R package](https://github.com/doomlab/MOTE)  
