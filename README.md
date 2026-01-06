@@ -341,6 +341,7 @@ Faster t-SNE implementations: [lvdmaaten](https://lvdmaaten.github.io/tsne/), [M
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
 [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
 [datamapplot](https://github.com/TutteInstitute/datamapplot) - Tool for visualizing high dimensional data.  
+[Skyulf](https://github.com/flyingriverhorse/Skyulf) - Polars-powered automated EDA and profiling tool. Generates comprehensive reports with outlier detection, causal discovery, and drift monitoring in one line of code.
 
 #### Visualization
 [All charts](https://datavizproject.com/)  
