@@ -87,6 +87,7 @@
 ##### Books
 [Lakens - Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/) - Testing, Effect Sizes, Confidence Intervals, Sample Size, Equivalence Testing, Sequential Analysis, [Github](https://github.com/Lakens/statistical_inferences)  
 [Models Demystified](https://m-clark.github.io/book-of-models/) - From Linear Regression to Deep Learning. [Github](https://github.com/m-clark/book-of-models).  
+[The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Engineering-focused book covering linear algebra, calculus, probability & statistics, and optimization theory with Python examples.  
 
 ##### Datasets
 [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) - Collection of more than 2000 datasets, stored as csv files (R package).  
