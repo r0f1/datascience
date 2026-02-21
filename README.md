@@ -448,7 +448,7 @@ Embeddings - [GloVe](https://nlp.stanford.edu/projects/glove/) ([[1](https://www
 [fastText](https://github.com/facebookresearch/fastText) - Efficient text classification and representation learning.  
 [annoy](https://github.com/spotify/annoy) - Approximate nearest neighbor search.  
 [faiss](https://github.com/facebookresearch/faiss) - Approximate nearest neighbor search.  
-[WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Sixteen common failure modes in RAG and LLM data pipelines with practical debugging checklists.  
+[WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - 16 failure modes in RAG and LLM data pipelines with practical debugging checklists.  
 [infomap](https://github.com/mapequation/infomap) - Cluster (word-)vectors to find topics.  
 [datasketch](https://github.com/ekzhu/datasketch) - Probabilistic data structures for large data (MinHash, HyperLogLog).  
 [flair](https://github.com/zalandoresearch/flair) - NLP Framework by Zalando.  
