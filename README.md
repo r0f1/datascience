@@ -622,7 +622,8 @@ Review of organoid pipelines - [Paper](https://arxiv.org/ftp/arxiv/papers/2301/2
 [PyDESeq2](https://github.com/owkin/PyDESeq2) - Analyzing RNA-seq data.  
 [cellxgene](https://github.com/chanzuckerberg/cellxgene) - Interactive explorer for single-cell transcriptomics data.  
 [scanpy](https://github.com/theislab/scanpy) - Analyze single-cell gene expression data, [tutorial](https://github.com/theislab/single-cell-tutorial).  
-[besca](https://github.com/bedapub/besca) - Beyond single-cell analysis.  
+[besca](https://github.com/bedapub/besca) - Beyond single-cell analysis.
+[dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.
 [janggu](https://github.com/BIMSBbioinfo/janggu) - Deep Learning for Genomics.  
 [gdsctools](https://github.com/CancerRxGene/gdsctools) - Drug responses in the context of the Genomics of Drug Sensitivity in Cancer project, ANOVA, IC50, MoBEM, [doc](https://gdsctools.readthedocs.io/en/master/).  
 [monkeybread](https://github.com/immunitastx/monkeybread) - Analysis of single-cell spatial transcriptomics data.  
