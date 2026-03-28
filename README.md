@@ -1302,3 +1302,6 @@ Do you know a package that should be on this list? Did you spot a package that i
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+[TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
