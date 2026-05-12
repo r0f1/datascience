@@ -22,6 +22,7 @@
 [more_itertools](https://more-itertools.readthedocs.io/en/latest/) - Extension of itertools.  
 [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).  
 [hydra](https://github.com/facebookresearch/hydra) - Configuration management.  
+[ruff](https://github.com/astral-sh/ruff) - Extremely fast Python linter and code formatter, replaces flake8, black, and isort.  
 
 #### Pandas Tricks, Alternatives and Additions
 [duckdb](https://github.com/duckdb/duckdb) - Efficiently run SQL queries on pandas DataFrame, [duckplyr](https://github.com/tidyverse/duckplyr/) for R, [Great Intro](https://codecut.ai/deep-dive-into-duckdb-data-scientists/).  
@@ -35,7 +36,8 @@
 [daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame.  
 [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
 [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
-[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster (works with modin). 
+[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas DataFrame faster (works with modin).  
+[narwhals](https://github.com/narwhals-dev/narwhals) - Write dataframe-agnostic code compatible with pandas, polars, cuDF, and more.  
 
 #### Tables
 [great-tables](https://github.com/posit-dev/great-tables) - Display tabular data nicely.  
@@ -236,6 +238,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [pandera](https://github.com/unionai-oss/pandera) - Data / Schema validation.  
 [dataframely](https://github.com/Quantco/dataframely) - Data / Schema validation.  
 [pointblank](https://github.com/posit-dev/pointblank) - Data / Schema validation.  
+[great_expectations](https://github.com/great-expectations/great_expectations) - Data validation, documentation, and profiling for production pipelines.  
 [impyute](https://github.com/eltonlaw/impyute) - Imputations.  
 [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.  
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
@@ -957,6 +960,7 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [etna](https://github.com/tinkoff-ai/etna) - Time Series library.  
 [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.  
 [timesfm](https://github.com/google-research/timesfm) - Pretrained Time Series Foundation Model from Google.  
+[chronos](https://github.com/amazon-science/chronos-forecasting) - Pretrained language models for probabilistic time series forecasting by Amazon.  
 
 #### Time Series - Nixla
 [nixtla](https://github.com/Nixtla/nixtla) - Pretrained Time Series Foundation Model for forecasting and anomaly detection.  
@@ -1221,6 +1225,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [metaflow](https://github.com/Netflix/metaflow) - Lifecycle Management Tool by Netflix.  
 [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models.  
 [Neptune](https://neptune.ai) - Experiment tracking and model registry.  
+[wandb](https://github.com/wandb/wandb) - Experiment tracking, model versioning, and dataset visualization.  
 [clearml](https://github.com/allegroai/clearml) - Experiment Manager, MLOps and Data-Management.  
 [polyaxon](https://github.com/polyaxon/polyaxon) - MLOps.  
 [sematic](https://github.com/sematic-ai/sematic) - Deploy machine learning models.  
