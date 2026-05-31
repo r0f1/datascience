@@ -865,6 +865,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [dendextend](https://github.com/talgalili/dendextend) - Comparing dendrograms (R package).  
 [DeepDPM](https://github.com/BGU-CS-VIL/DeepDPM) - Deep Clustering With An Unknown Number of Clusters.  
 [generalized-kmeans-clustering](https://github.com/derrickburns/generalized-kmeans-clustering) - Generalized k-means clustering.  
+[evoc](https://github.com/TutteInstitute/evoc) - Embedding Vector Oriented Clustering.  
 
 ##### Clustering Evalutation
 * [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
