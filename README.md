@@ -798,9 +798,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 
 #### GPU
 [cuML](https://github.com/rapidsai/cuml) - RAPIDS, Run traditional tabular ML tasks on GPUs, [Intro](https://www.youtube.com/watch?v=6XzS5XcpicM&t=2m50s).  
-[thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
-[thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
-Legate Numpy - Distributed Numpy array multiple using GPUs by Nvidia (not released yet) [video](https://www.youtube.com/watch?v=Jxxs_moibog).  
+[flashlib](https://github.com/FlashML-org/flashlib) - A GPU library for classical machine-learning operators.  
 
 #### Regression
 Ordinal Regression: [paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.10208)  
