@@ -975,6 +975,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [yfinance](https://github.com/ranaroussi/yfinance) - Read stock data from Yahoo Finance.  
 [findatapy](https://github.com/cuemacro/findatapy) - Read stock data from various sources.  
 [ta](https://github.com/bukosabino/ta) - Technical analysis library.  
+[Wickra](https://github.com/wickra-lib/wickra) - Streaming-first technical analysis: 514 incremental (O(1)/tick) indicators over a Rust core, pip install wickra.  
 [backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
 [surpriver](https://github.com/tradytics/surpriver) - Find high moving stocks before they move using anomaly detection and machine learning.  
 [ffn](https://github.com/pmorissette/ffn) - Financial functions.  
