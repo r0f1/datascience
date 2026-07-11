@@ -986,6 +986,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio optimization and strategic asset allocation.  
 [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal.  
 [mplfinance](https://github.com/matplotlib/mplfinance) - Financial markets data visualization.  
+[BDE Score](https://github.com/hbhqq9/bde-score) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant.  
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
