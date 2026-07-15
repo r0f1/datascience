@@ -105,6 +105,7 @@
 [timeseriesdatasets_R](https://lightbluetitan.github.io/timeseriesdatasets_R/) - Time series datasets (R package).  
 [usdatasets](https://lightbluetitan.github.io/usdatasets/) - US-exclusive datasets (crime, economics, education, finance, energy, healthcare) (R package).  
 [economic datasets](https://captgouda24.github.io/nicholas-decker.github.io/datasets.html) - Economic datasets.  
+[college roi data](https://github.com/thomasthinks/college-roi-data) - Lifetime ROI for 29,700 US bachelor's programs across 3,392 colleges (FREOPP/IPEDS/BEA), CSV, CC BY 4.0.  
 
 ##### p-values
 [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.Vt2XIOaE2MN)  
