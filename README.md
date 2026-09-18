@@ -88,7 +88,7 @@
 #### Command line tools, CSV
 [csvkit](https://github.com/wireservice/csvkit) - Command line tool for CSV files.  
 [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.  
-[csvtidy](https://github.com/abhishekrai43/csvtidy) - Clean and merge messy CSV files from the command line; offline, DuckDB-powered, recipe-driven.
+[csvtidy](https://github.com/abhishekrai43/csvtidy) - Clean and merge messy CSV files from the command line; offline, DuckDB-powered, recipe-driven.  
 
 #### Classical Statistics
 
