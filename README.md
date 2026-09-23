@@ -230,6 +230,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)  
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) - Stanford CS class.  
 [Intuition for the Algorithms in Machine Learning](https://www.youtube.com/watch?v=7o9TMQAHgkQ&list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f&index=1) - Lecture Series.  
+[QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=datascience) - Short lessons, hands-on exercises from 11 types, and spaced repetition for Python, PyTorch, math for ML, ML foundations, NLP, and computer vision.  
 
 #### Exploration and Cleaning
 [Checklist](https://github.com/r0f1/ml_checklist).  
