@@ -175,6 +175,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)  
 [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)  
 [Statistical Power and Sample Size Calculation Tools](https://pwrss.shinyapps.io/index/)  
+[BoxPlotMaker](https://boxplotmaker.com/) - Free online box and whisker plot generator: paste your numbers to get the five-number summary, quartiles and outliers, then download the chart as PNG. Runs entirely in the browser with no sign-up.  
 
 ##### Tidy Tuesday
 [The Art of Data Visualization with ggplot2, The TidyTuesday Cookbook](https://nrennie.rbind.io/art-of-viz/)  
