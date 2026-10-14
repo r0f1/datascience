@@ -979,6 +979,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [findatapy](https://github.com/cuemacro/findatapy) - Read stock data from various sources.  
 [ta](https://github.com/bukosabino/ta) - Technical analysis library.  
 [backtrader](https://github.com/mementum/backtrader) - Backtesting for trading strategies.  
+[OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization.  
 [surpriver](https://github.com/tradytics/surpriver) - Find high moving stocks before they move using anomaly detection and machine learning.  
 [ffn](https://github.com/pmorissette/ffn) - Financial functions.  
 [bt](https://github.com/pmorissette/bt) - Backtesting algorithms.  
