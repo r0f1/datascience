@@ -1074,6 +1074,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [bambi](https://github.com/bambinos/bambi) - High-level Bayesian model-building interface on top of PyMC3.  
 [neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
 [bnlearn](https://github.com/erdogant/bnlearn) - Bayesian networks, parameter learning, inference and sampling methods.  
+[PyDTMC](https://github.com/TommasoBelluzzo/PyDTMC) - Python library for analyzing, simulating, and visualizing discrete-time Markov chains and hidden Markov models.  
 
 #### Gaussian Processes
 [Visualization](http://www.infinitecuriosity.org/vizgp/), [Article](https://distill.pub/2019/visual-exploration-gaussian-processes/)  
