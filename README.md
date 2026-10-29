@@ -527,7 +527,7 @@ Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.
 [ImSwitch](https://github.com/ImSwitch/ImSwitch) - Microscopy Image Viewer, [Doc](https://imswitch.readthedocs.io/en/stable/gui.html), [Video](https://www.youtube.com/watch?v=XsbnMkGSPQQ).  
 [pixmi](https://github.com/piximi/piximi) - Web-based image annotation and classification tool, [App](https://www.piximi.app/).  
 [DeepCell Label](https://label.deepcell.org/) - Data labeling tool to segment images, [Video](https://www.youtube.com/watch?v=zfsvUBkEeow).  
-[lightly-studio](https://github.com/lightly-ai/lightly-studio) - Image annotation.  
+[lightly-studio](https://github.com/lightly-ai/lightly-studio) - Viewer, labeling and curation tool for image and video datasets.  
 
 #### Napari Plugins
 [napari-sam](https://github.com/MIC-DKFZ/napari-sam) - Segment Anything Plugin.  
