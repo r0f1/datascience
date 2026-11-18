@@ -1199,6 +1199,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [cml](https://github.com/iterative/cml) - CI/CD for Machine Learning Projects.  
 [rocketry](https://github.com/Miksus/rocketry) - Task scheduling.  
 [huey](https://github.com/coleifer/huey) - Task queue.  
+[Heym](https://github.com/heymrun/heym) - Schedule workflows that combine sandboxed Python steps with LLM agents.  
 
 ##### Containerization and Docker
 [Reduce size of docker images (video)](https://www.youtube.com/watch?v=Z1Al4I4Os_A)  
