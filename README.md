@@ -1075,6 +1075,7 @@ Distances for comparing histograms and detecting outliers - [Talk](https://www.y
 [neural-tangents](https://github.com/google/neural-tangents) - Infinite Neural Networks.  
 [bnlearn](https://github.com/erdogant/bnlearn) - Bayesian networks, parameter learning, inference and sampling methods.  
 [PyDTMC](https://github.com/TommasoBelluzzo/PyDTMC) - Python library for analyzing, simulating, and visualizing discrete-time Markov chains and hidden Markov models.  
+[asianscore-quant-sdk](https://github.com/AIYIXIU/asianscore-quant-sdk) - Zero-dependency Python library for Dixon-Coles bivariate Poisson expected-goals (xG) modeling, Power odds de-vigging, fractional Kelly sizing, and Brier score calibration.  
 
 #### Gaussian Processes
 [Visualization](http://www.infinitecuriosity.org/vizgp/), [Article](https://distill.pub/2019/visual-exploration-gaussian-processes/)  
