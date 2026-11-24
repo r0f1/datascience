@@ -1294,6 +1294,7 @@ Gilbert Strang - [Matrix Methods in Data Analysis, Signal Processing, and Machin
 [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
 [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
 [Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)  
+[Awesome Quant Competitions](https://github.com/KonstantinRogozhkin/awesome-quant-competitions)  
 [Awesome Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)  
 [Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
 [Awesome Satellite Benchmark Datasets](https://github.com/Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets)  
