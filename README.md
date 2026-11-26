@@ -993,6 +993,7 @@ Tutorial on using cvxpy: [1](https://calmcode.io/cvxpy-one/the-stigler-diet.html
 [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal.  
 [mplfinance](https://github.com/matplotlib/mplfinance) - Financial markets data visualization.  
 [eulerpool](https://github.com/eulerpool/eulerpool-python) - Read stock, ETF, fundamentals and macro data from the Eulerpool API.  
+[alphasift](https://github.com/ZhuLinsen/alphasift) - Multi-market quantitative stock screening CLI, Purged Walk-Forward time-series evaluator, and read-only STDIO MCP server.  
 
 ##### Quantopian Stack
 [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics.  
