@@ -1212,6 +1212,7 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 ##### Data Versioning, Databases, Pipelines and Model Serving
 [dvc](https://github.com/iterative/dvc) - Version control for large files.  
 [kedro](https://github.com/quantumblacklabs/kedro) - Build data pipelines.  
+[Ciaren](https://github.com/ciaren-labs/Ciaren) - Build data and machine learning pipelines on a visual canvas and export them as pandas or Polars scripts.  
 [feast](https://github.com/feast-dev/feast) - Feature store. [Video](https://www.youtube.com/watch?v=_omcXenypmo).  
 [pgvector](https://github.com/pgvector/pgvector) - Vector similarity search for Postgres.  
 [pinecone](https://www.pinecone.io/) - Database for vector search applications.  
