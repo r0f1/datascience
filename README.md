@@ -1163,6 +1163,7 @@ Optometrist algorithm - [paper](https://www.nature.com/articles/s41598-017-06645
 #### Hyperparameter Tuning
 [sklearn](https://scikit-learn.org/stable/index.html) - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html), [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html).  
 [sklearn-deap](https://github.com/rsteca/sklearn-deap) - Hyperparameter search using genetic algorithms.  
+[sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Evolutionary hyperparameter search and feature selection with cross-validation for scikit-learn.  
 [hyperopt](https://github.com/hyperopt/hyperopt) - Hyperparameter optimization.  
 [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyperopt + sklearn.  
 [optuna](https://github.com/pfnet/optuna) - Hyperparamter optimization, [Talk](https://www.youtube.com/watch?v=tcrcLRopTX0).  
